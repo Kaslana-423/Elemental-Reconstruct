@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5135c994abd7e944991799673692a18, type: 3}
+  m_Name: TestMagic-Thunder
+  m_EditorClassIdentifier: 
+  itemName: "\u6D4B\u8BD5\u96F7\u7403\u672F"
+  itemImage: {fileID: 21300000, guid: a9b62fcedb3b5b142845cc9873d6878d, type: 3}
+  itemDescription: "\u8FD9\u662F\u6D4B\u8BD5\u96F7\u7403"
+  type: 0
+  itemPrefab: {fileID: 3622388070358016951, guid: 87733e99dac87234cbf6bfbfd8a1c394, type: 3}
+  stats:
+    damage: 10
+    count: 1
+    penetration: 1
+    mpCost: 5
+    bounceCount: 0
+    lifetime: 1
+    damageRate: 0
+    radius: 0
+    spread: 0
+    isOrbiting: 0
+    speed: 20
+    drag: 0
+    acceleration: 0
+    angularSpeed: 500
+    deviation: 0
+    isHoming: 1
+    rarity: 1
+    critRate: 0
+    critMultiplier: 0
+    knockback: 2
+    delayMod: 0
+    chargeMod: 0
