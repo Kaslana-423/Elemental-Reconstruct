@@ -30,15 +30,14 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         // --- 1. 核心修改：如果商店开着，截断逻辑 ---
-        if (ShopUI.activeSelf)
+        // 增加判空，防止 ShopUI 被意外销毁导致报错
+        if (ShopUI != null && ShopUI.activeSelf)
         {
             HandleShopInput(); // 只处理商店开关
 
             // 强制停止移动 (防止滑行)
             moveInput = Vector2.zero;
             rb.velocity = Vector2.zero;
-
-
             return; // 【关键】直接结束 Update，不再执行下面的移动和翻转逻辑
         }
 

@@ -575,6 +575,7 @@ GameObject:
   - component: {fileID: 118480418}
   - component: {fileID: 118480420}
   - component: {fileID: 118480419}
+  - component: {fileID: 118480421}
   m_Layer: 5
   m_Name: TotalCoin
   m_TagString: Untagged
@@ -641,6 +642,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 118480417}
   m_CullTransparentMesh: 1
+--- !u!114 &118480421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 118480417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15af8ed3b5066cb4dabc709a70b8ec5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  goldText: {fileID: 846887139}
 --- !u!1 &145604508
 GameObject:
   m_ObjectHideFlags: 0
@@ -1401,7 +1415,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000030517578, y: -157}
+  m_AnchoredPosition: {x: 0, y: -156.99998}
   m_SizeDelta: {x: 176.4063, y: 46.8382}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &389323788
@@ -1684,7 +1698,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000030517578, y: -97}
+  m_AnchoredPosition: {x: 0, y: -96.999985}
   m_SizeDelta: {x: 176.4063, y: 46.8382}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &477731394
@@ -5243,7 +5257,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 99999
+  m_text: 0
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5806,6 +5820,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43aa48ec07966cc449cc6795e2639bed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  initialGold: 100
   wands:
   - storageName: Default Wand
     originalMagic: {fileID: 0}
@@ -5996,6 +6011,18 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 898462684}
+        m_TargetAssemblyTypeName: PlayerInventory, Assembly-CSharp
+        m_MethodName: ResetGold
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 1479706266}
         m_TargetAssemblyTypeName: ShopManager, Assembly-CSharp
         m_MethodName: RefreshShop
@@ -6625,7 +6652,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0010681152, y: 157.9888}
+  m_AnchoredPosition: {x: -0.0010986328, y: 157.9888}
   m_SizeDelta: {x: 247.96, y: 50.3122}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1387491146
@@ -6885,9 +6912,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1479706264}
   - component: {fileID: 1479706263}
+  - component: {fileID: 1479706267}
   - component: {fileID: 1479706262}
   - component: {fileID: 1479706261}
-  - component: {fileID: 1479706265}
   - component: {fileID: 1479706266}
   m_Layer: 5
   m_Name: Canvas
@@ -6979,30 +7006,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &1479706265
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1479706260}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6ecfa31926807f04abcc4e11f69df930, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  magicInventory: {fileID: 11400000, guid: 05d408795c11c764aabfd50c68d4d576, type: 2}
-  MagicEditInventory1: {fileID: 11400000, guid: d5db05fe78b305f4996fa6bdc067ea3e, type: 2}
-  MagicEditInventory2: {fileID: 11400000, guid: 006edc114af195f4183c98544039bff8, type: 2}
-  MagicEditInventory3: {fileID: 11400000, guid: 907d0ba8fa4f1b44180cd19713a9a590, type: 2}
-  MagicSlotGrid: {fileID: 281590713}
-  RelicSlotGrid: {fileID: 0}
-  emptySlot: {fileID: 7488398713376012292, guid: 03d3364d72cfce243a1dd4ea605434a5, type: 3}
-  EditEmptySlot: {fileID: 4862508485791672210, guid: d937ba2096be61741bf2feadac82577f, type: 3}
-  EditSlotGrid: {fileID: 727607677}
-  MagicSlots: []
-  EditSlots: []
-  EditLevel: 3
 --- !u!114 &1479706266
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7024,6 +7027,30 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a5835cc22b2a450489b098bde7700f47, type: 2}
   - {fileID: 11400000, guid: 2ffb964828e1dc54981773bc961233d6, type: 2}
   emptyShopItem: {fileID: 2148073552332180400, guid: aa03485679a5d2c4ea40484086185526, type: 3}
+--- !u!114 &1479706267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1479706260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cf0885f2244cc9438aa41710297e3d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  magicInventory: {fileID: 11400000, guid: 05d408795c11c764aabfd50c68d4d576, type: 2}
+  MagicEditInventory1: {fileID: 11400000, guid: d5db05fe78b305f4996fa6bdc067ea3e, type: 2}
+  MagicEditInventory2: {fileID: 11400000, guid: 006edc114af195f4183c98544039bff8, type: 2}
+  MagicEditInventory3: {fileID: 11400000, guid: 907d0ba8fa4f1b44180cd19713a9a590, type: 2}
+  MagicSlotGrid: {fileID: 281590713}
+  RelicSlotGrid: {fileID: 0}
+  emptySlot: {fileID: 7488398713376012292, guid: 03d3364d72cfce243a1dd4ea605434a5, type: 3}
+  EditEmptySlot: {fileID: 4862508485791672210, guid: d937ba2096be61741bf2feadac82577f, type: 3}
+  EditSlotGrid: {fileID: 727607677}
+  MagicSlots: []
+  EditSlots: []
+  EditLevel: 3
 --- !u!1 &1534796846
 GameObject:
   m_ObjectHideFlags: 0
@@ -7504,11 +7531,11 @@ RectTransform:
   - {fileID: 1840495812}
   m_Father: {fileID: 378599340}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 0}
-  m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -646, y: 1064.8}
-  m_SizeDelta: {x: 279.874, y: 406.0618}
-  m_Pivot: {x: 0.00000014342368, y: 1}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 1276.3201, y: -548}
+  m_SizeDelta: {x: 279.87402, y: 406.06177}
+  m_Pivot: {x: 0, y: 1}
 --- !u!114 &1677227178
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7565,6 +7592,7 @@ MonoBehaviour:
   iconImage: {fileID: 1793164976}
   panelObj: {fileID: 1677227176}
   item: {fileID: 0}
+  MagicId: 0
 --- !u!1 &1704705572
 GameObject:
   m_ObjectHideFlags: 0
@@ -8118,7 +8146,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 51.5429, y: 50.719}
+  m_AnchoredPosition: {x: 51.542847, y: 50.71901}
   m_SizeDelta: {x: 176.7903, y: 140.1186}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1840495813

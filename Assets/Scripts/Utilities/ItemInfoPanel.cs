@@ -15,6 +15,7 @@ public class ItemInfoPanel : MonoBehaviour
     public Image iconImage;
     public GameObject panelObj; // 自身的面板物体
     public MagicItem item;
+    public int MagicId;
 
     void Awake()
     {
@@ -25,28 +26,27 @@ public class ItemInfoPanel : MonoBehaviour
         else
         {
             Instance = this;
-            DontDestroyOnLoad(this.gameObject);
         }
         // 初始化完成后，立即隐藏面板，确保单例已赋值
         HideTooltip();
     }
 
-    public void ShowTooltip(MagicItem item, Vector2 position)
+    public void ShowTooltip(MagicItem item, Vector2 position, int magicId)
     {
         // 1. 更新数据
         titleText.text = item.itemName;
         descText.text = item.itemDescription;
         this.item = item;
         if (iconImage != null) iconImage.sprite = item.itemImage;
-
+        MagicId = magicId;
         // 2. 移动位置 (稍微偏移一点，别挡住鼠标)
-        transform.position = position + new Vector2(10, -10);
+        transform.position = position;
         // 3. 显示
         panelObj.SetActive(true);
     }
     public void DestroyThisMagic()
     {
-        myBag.RemoveItem(item);
+        myBag.RemoveItem(item, MagicId);
         HideTooltip();
     }
 

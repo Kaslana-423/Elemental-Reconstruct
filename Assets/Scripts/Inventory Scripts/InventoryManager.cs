@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class InventoryManager : MonoBehaviour
 {
-    static InventoryManager instance;
+    public static InventoryManager instance;
     public Inventory magicInventory;
     public MagicEditInventory MagicEditInventory1;
     public MagicEditInventory MagicEditInventory2;

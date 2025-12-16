@@ -29,7 +29,7 @@ public class Slot : MonoBehaviour, IPointerClickHandler
             // 呼叫单例的 Tooltip 显示出来
             if (ItemInfoPanel.Instance != null)
             {
-                ItemInfoPanel.Instance.ShowTooltip(magicItem, eventData.position);
+                ItemInfoPanel.Instance.ShowTooltip(magicItem, eventData.position, slotID);
             }
             else
             {
