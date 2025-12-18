@@ -75,6 +75,8 @@ public struct SpellStats
 [CreateAssetMenu(fileName = "New Magic Item", menuName = "Inventory/MagicItem")]
 public class MagicItem : ScriptableObject
 {
+    public string itemID; // 唯一标识符
+    [Header("基本信息")]
     public string itemName;
     public Sprite itemImage;
     [TextArea] public string itemDescription;

@@ -12,16 +12,21 @@ public class Projectile : MonoBehaviour
     private Rigidbody2D rb;
     private Transform targetEnemy;   // 追踪目标
     private Transform playerTransform; // 环绕中心（玩家）
-    private float currentOrbitAngle;   // 当前转到多少度了
+    private float initialOrbitOffsetAngle;// 新增一个变量，存储这个子弹特有的初始角度偏移
     private bool hasInitialized = false;
 
+    // 【新增】记录子弹出生时的全球时间戳
+    private float spawnTime;
+
     // --- 初始化 (由 WandController 调用) ---
-    public void Initialize(SpellStats finalStats, MagicItem triggerItem)
+    public void Initialize(SpellStats finalStats, MagicItem triggerItem, float initialOrbitOffset = 0f)
     {
         this.currentStats = finalStats;
         this.triggerSpell = triggerItem;
         this.rb = GetComponent<Rigidbody2D>();
-
+        // 【新增】保存初始偏移角
+        this.initialOrbitOffsetAngle = initialOrbitOffset;
+        this.spawnTime = Time.time;
         if (currentStats.isOrbiting)
         {
             // --- 环绕模式初始化 ---
@@ -34,11 +39,13 @@ public class Projectile : MonoBehaviour
 
                 // B. 计算初始角度 (防止子弹瞬移)
                 // 计算当前生成点相对于玩家的角度，作为起始点
-                Vector3 dir = transform.position - playerTransform.position;
-                currentOrbitAngle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+                // Vector3 dir = transform.position - playerTransform.position;
+                // currentOrbitAngle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
             }
             rb.bodyType = RigidbodyType2D.Kinematic;
             rb.velocity = Vector2.zero; // 清空速度
+            // 【新增】环绕物体通常不需要重力
+            rb.gravityScale = 0f;
         }
         else
         {
@@ -106,23 +113,27 @@ public class Projectile : MonoBehaviour
 
     }
 
+    // --- 修改 OrbitMovement 方法 ---
     void OrbitMovement()
     {
-        // 1. 增加角度 (角速度 * 时间)
-        // currentStats.angularSpeed 建议填 180 (每秒半圈) 到 360 (每秒一圈)
-        currentOrbitAngle += currentStats.angularSpeed * Time.deltaTime;
-        // 2. 数学公式计算位置 (极坐标 -> 笛卡尔坐标)
-        float rad = currentOrbitAngle * Mathf.Deg2Rad; // 转为弧度
-        float r = currentStats.radius > 0 ? currentStats.radius : 2f; // 环绕半径
-        // x = cos(θ) * r, y = sin(θ) * r
+        if (playerTransform == null) return;
+
+        // 1. 计算子弹已经存活了多久
+        float timeAlive = Time.time - spawnTime;
+
+        // 2. 使用 "存活时间" 来计算基准角度，而不是全球时间
+        float baseAngle = timeAlive * currentStats.angularSpeed;
+
+        // 3. 加上这个子弹特有的队形偏移量，得到最终角度
+        float finalAngle = baseAngle + initialOrbitOffsetAngle;
+
+        // 4. 数学公式计算位置 (后面代码保持不变)
+        float rad = finalAngle * Mathf.Deg2Rad;
+        float r = currentStats.radius > 0 ? currentStats.radius : 2f;
         Vector3 offset = new Vector3(Mathf.Cos(rad), Mathf.Sin(rad), 0) * r;
 
-        // 3. 应用位置 (中心点 + 偏移量)
-        // 使用 MovePosition 可以在移动时依然检测碰撞
         rb.MovePosition(playerTransform.position + offset);
-
-        // 4. (可选) 让子弹头朝向切线方向
-        transform.rotation = Quaternion.Euler(0, 0, currentOrbitAngle + 90f);
+        transform.rotation = Quaternion.Euler(0, 0, finalAngle + 90f);
     }
     // 追踪逻辑具体实现
     void HandleHomingLogic()

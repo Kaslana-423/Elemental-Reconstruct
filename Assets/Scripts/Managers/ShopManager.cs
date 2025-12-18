@@ -12,13 +12,6 @@ public class ShopManager : MonoBehaviour
     public List<MagicItem> availableItems = new List<MagicItem>();
     public GameObject emptyShopItem;
 
-    /// <summary>
-    /// Awake is called when the script instance is being loaded.
-    /// </summary>
-    /// <summary>
-    /// Start is called on the frame when a script is enabled just before
-    /// any of the Update methods is called the first time.
-    /// </summary>
     void Awake()
     {
         if (shopInstance != null)
