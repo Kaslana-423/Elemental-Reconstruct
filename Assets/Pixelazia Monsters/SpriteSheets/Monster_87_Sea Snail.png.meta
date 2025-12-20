@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 3f93d6bbbdaf11a44972024e83f81bb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8153121026618501869
+    second: Monster_87_Sea Snail_0
+  - first:
+      213: 250006692656593530
+    second: Monster_87_Sea Snail_1
+  - first:
+      213: 3210965750049019603
+    second: Monster_87_Sea Snail_2
+  - first:
+      213: -8685483745495354082
+    second: Monster_87_Sea Snail_3
+  - first:
+      213: 9195030345721171450
+    second: Monster_87_Sea Snail_4
+  - first:
+      213: 7050562127147326828
+    second: Monster_87_Sea Snail_5
+  - first:
+      213: 4719870453973442266
+    second: Monster_87_Sea Snail_6
+  - first:
+      213: 5321170435939326178
+    second: Monster_87_Sea Snail_7a
+  - first:
+      213: -6832912688400533602
+    second: Monster_87_Sea Snail_8
+  - first:
+      213: -7964684950230363640
+    second: Monster_87_Sea Snail_9
+  - first:
+      213: -4707406767206385900
+    second: Monster_87_Sea Snail_10
+  - first:
+      213: -7179704242191235455
+    second: Monster_87_Sea Snail_11b
+  - first:
+      213: -3556361845593075563
+    second: Monster_87_Sea Snail_12
+  - first:
+      213: -642705136145781422
+    second: Monster_87_Sea Snail_13
+  - first:
+      213: -2226781794047613534
+    second: Monster_87_Sea Snail_14
+  - first:
+      213: -3031500030933984682
+    second: Monster_87_Sea Snail_15c
+  - first:
+      213: -7502014298892627835
+    second: Monster_87_Sea Snail_16
+  - first:
+      213: -7195310062194884423
+    second: Monster_87_Sea Snail_17
+  - first:
+      213: -6893493414029520414
+    second: Monster_87_Sea Snail_18
+  - first:
+      213: -5263742502073427477
+    second: Monster_87_Sea Snail_19
+  - first:
+      213: 7242936641096226113
+    second: Monster_87_Sea Snail_20
+  - first:
+      213: 1241243164889602228
+    second: Monster_87_Sea Snail_21
+  - first:
+      213: 7296625990765281988
+    second: Monster_87_Sea Snail_22d
+  - first:
+      213: 1949318911434359256
+    second: Monster_87_Sea Snail_23
+  - first:
+      213: -5765675115241801071
+    second: Monster_87_Sea Snail_24
+  - first:
+      213: -601754530054237203
+    second: Monster_87_Sea Snail_25
+  - first:
+      213: -1749062058036688266
+    second: Monster_87_Sea Snail_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea2d5a6064b52170800000000000000
+      internalID: 8153121026618501869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a344b23c3387300800000000000000
+      internalID: 250006692656593530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d61e955654af8c20800000000000000
+      internalID: 3210965750049019603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f1571d86f67780800000000000000
+      internalID: -8685483745495354082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdc5afc16f4b9f70800000000000000
+      internalID: 9195030345721171450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d507f26e0a8d160800000000000000
+      internalID: 7050562127147326828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_6
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aded2f2cb29508140800000000000000
+      internalID: 4719870453973442266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_7a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e85977915898d940800000000000000
+      internalID: 5321170435939326178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 381
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9770aabc1e9c21a0800000000000000
+      internalID: -6832912688400533602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 381
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8029e998c31c77190800000000000000
+      internalID: -7964684950230363640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 381
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b4637c7eebaeb0800000000000000
+      internalID: -4707406767206385900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_11b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18683db08019c5c90800000000000000
+      internalID: -7179704242191235455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 254
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5901cac6eb345aec0800000000000000
+      internalID: -3556361845593075563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 254
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d26b87517a417f0800000000000000
+      internalID: -642705136145781422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_14
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 254
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a52c7d91c1e811e0800000000000000
+      internalID: -2226781794047613534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_15c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a189f88c2fde5d0800000000000000
+      internalID: -3031500030933984682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5809a961ebd73e790800000000000000
+      internalID: -7502014298892627835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0841eee9f152c90800000000000000
+      internalID: -7195310062194884423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1964363446550a0800000000000000
+      internalID: -6893493414029520414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be999c6351e63f6b0800000000000000
+      internalID: -5263742502073427477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_20
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14593371084148460800000000000000
+      internalID: 7242936641096226113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_21
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b850230518c93110800000000000000
+      internalID: 1241243164889602228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_22d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2827eeda2d24560800000000000000
+      internalID: 7296625990765281988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d10ff5d83f5d0b10800000000000000
+      internalID: 1949318911434359256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19af3b1d7053cffa0800000000000000
+      internalID: -5765675115241801071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_25
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de39222717326a7f0800000000000000
+      internalID: -601754530054237203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_87_Sea Snail_26
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a0c9c33551ab7e0800000000000000
+      internalID: -1749062058036688266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_87_Sea Snail_0: 8153121026618501869
+      Monster_87_Sea Snail_1: 250006692656593530
+      Monster_87_Sea Snail_10: -4707406767206385900
+      Monster_87_Sea Snail_11b: -7179704242191235455
+      Monster_87_Sea Snail_12: -3556361845593075563
+      Monster_87_Sea Snail_13: -642705136145781422
+      Monster_87_Sea Snail_14: -2226781794047613534
+      Monster_87_Sea Snail_15c: -3031500030933984682
+      Monster_87_Sea Snail_16: -7502014298892627835
+      Monster_87_Sea Snail_17: -7195310062194884423
+      Monster_87_Sea Snail_18: -6893493414029520414
+      Monster_87_Sea Snail_19: -5263742502073427477
+      Monster_87_Sea Snail_2: 3210965750049019603
+      Monster_87_Sea Snail_20: 7242936641096226113
+      Monster_87_Sea Snail_21: 1241243164889602228
+      Monster_87_Sea Snail_22d: 7296625990765281988
+      Monster_87_Sea Snail_23: 1949318911434359256
+      Monster_87_Sea Snail_24: -5765675115241801071
+      Monster_87_Sea Snail_25: -601754530054237203
+      Monster_87_Sea Snail_26: -1749062058036688266
+      Monster_87_Sea Snail_3: -8685483745495354082
+      Monster_87_Sea Snail_4: 9195030345721171450
+      Monster_87_Sea Snail_5: 7050562127147326828
+      Monster_87_Sea Snail_6: 4719870453973442266
+      Monster_87_Sea Snail_7a: 5321170435939326178
+      Monster_87_Sea Snail_8: -6832912688400533602
+      Monster_87_Sea Snail_9: -7964684950230363640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

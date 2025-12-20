@@ -1,0 +1,1278 @@
+fileFormatVersion: 2
+guid: 311580f714d9e504f8f8e3389bbdf67e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7932994076438892846
+    second: Monster_33_Summer Tree_0
+  - first:
+      213: -2597262859045229653
+    second: Monster_33_Summer Tree_1
+  - first:
+      213: 3257524009235668026
+    second: Monster_33_Summer Tree_2
+  - first:
+      213: 422996442560920060
+    second: Monster_33_Summer Tree_3
+  - first:
+      213: -289635755046346063
+    second: Monster_33_Summer Tree_4
+  - first:
+      213: 4028803519370631275
+    second: Monster_33_Summer Tree_5
+  - first:
+      213: -3469501676338835991
+    second: Monster_33_Summer Tree_6
+  - first:
+      213: -625455447976126167
+    second: Monster_33_Summer Tree_7
+  - first:
+      213: -8532918249707625124
+    second: Monster_33_Summer Tree_8
+  - first:
+      213: 5758978230817965130
+    second: Monster_33_Summer Tree_9a
+  - first:
+      213: 5482977013909071867
+    second: Monster_33_Summer Tree_10
+  - first:
+      213: -4948231871670133264
+    second: Monster_33_Summer Tree_11
+  - first:
+      213: 4761327471664397950
+    second: Monster_33_Summer Tree_12
+  - first:
+      213: -7733554203875666371
+    second: Monster_33_Summer Tree_13
+  - first:
+      213: -8930850154004326595
+    second: Monster_33_Summer Tree_14
+  - first:
+      213: -4648382029391797446
+    second: Monster_33_Summer Tree_15
+  - first:
+      213: -5605294630514789577
+    second: Monster_33_Summer Tree_16
+  - first:
+      213: 325657629110936484
+    second: Monster_33_Summer Tree_17
+  - first:
+      213: 4195874870897665998
+    second: Monster_33_Summer Tree_18b
+  - first:
+      213: 6242654278880697113
+    second: Monster_33_Summer Tree_19
+  - first:
+      213: -7219782996388833468
+    second: Monster_33_Summer Tree_20
+  - first:
+      213: -4170388333498991602
+    second: Monster_33_Summer Tree_21
+  - first:
+      213: -3106060455385967014
+    second: Monster_33_Summer Tree_22
+  - first:
+      213: 4299550468447015455
+    second: Monster_33_Summer Tree_23c
+  - first:
+      213: 8021516313618715504
+    second: Monster_33_Summer Tree_24
+  - first:
+      213: -548595775153770740
+    second: Monster_33_Summer Tree_25
+  - first:
+      213: 2921707627576033977
+    second: Monster_33_Summer Tree_26
+  - first:
+      213: -1312147760518243084
+    second: Monster_33_Summer Tree_27
+  - first:
+      213: 2256615788615432205
+    second: Monster_33_Summer Tree_28
+  - first:
+      213: 195672831779803925
+    second: Monster_33_Summer Tree_29
+  - first:
+      213: -1221083490119226459
+    second: Monster_33_Summer Tree_30
+  - first:
+      213: -4569903281165802651
+    second: Monster_33_Summer Tree_31
+  - first:
+      213: 3144297552030519292
+    second: Monster_33_Summer Tree_32
+  - first:
+      213: -4747483281725524990
+    second: Monster_33_Summer Tree_33
+  - first:
+      213: -8016450312026932088
+    second: Monster_33_Summer Tree_34
+  - first:
+      213: -979396763341766438
+    second: Monster_33_Summer Tree_35d
+  - first:
+      213: 1022712859436881215
+    second: Monster_33_Summer Tree_36
+  - first:
+      213: -3119683313823049507
+    second: Monster_33_Summer Tree_37
+  - first:
+      213: 7967543220730831839
+    second: Monster_33_Summer Tree_38
+  - first:
+      213: -7440135259230849905
+    second: Monster_33_Summer Tree_39
+  - first:
+      213: 6983341760024696471
+    second: Monster_33_Summer Tree_40
+  - first:
+      213: 5737701186725049147
+    second: Monster_33_Summer Tree_41
+  - first:
+      213: 245300859683826650
+    second: Monster_33_Summer Tree_42
+  - first:
+      213: 1879743436267782209
+    second: Monster_33_Summer Tree_43
+  - first:
+      213: -2846399798229688113
+    second: Monster_33_Summer Tree_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dee4941be758e190800000000000000
+      internalID: -7932994076438892846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab2b4ac03ba4fbd0800000000000000
+      internalID: -2597262859045229653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c5cc9c3dc053d20800000000000000
+      internalID: 3257524009235668026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9f81cf509ced500800000000000000
+      internalID: 422996442560920060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2e53ab0d10bfbf0800000000000000
+      internalID: -289635755046346063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b681ee1947f29e730800000000000000
+      internalID: 4028803519370631275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed833a8b9ad9dfc0800000000000000
+      internalID: -3469501676338835991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929dc88759fe157f0800000000000000
+      internalID: -625455447976126167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_8
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55aabcaf0cf49980800000000000000
+      internalID: -8532918249707625124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_9a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44cc1540300cef40800000000000000
+      internalID: 5758978230817965130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7aea94b82771c40800000000000000
+      internalID: 5482977013909071867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdd5de5459545bb0800000000000000
+      internalID: -4948231871670133264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e7ddfdb12a31240800000000000000
+      internalID: 4761327471664397950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3613cafc65eca490800000000000000
+      internalID: -7733554203875666371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_14
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3754544a1f3f0480800000000000000
+      internalID: -8930850154004326595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_15
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33eac52c21ad7fb0800000000000000
+      internalID: -4648382029391797446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_16
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733f2ce4b3ef532b0800000000000000
+      internalID: -5605294630514789577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_17
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3ad8563e7f48400800000000000000
+      internalID: 325657629110936484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_18b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7e7d1e6fdba3a30800000000000000
+      internalID: 4195874870897665998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b914cddfc52a650800000000000000
+      internalID: 6242654278880697113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44796d8ed9d2ecb90800000000000000
+      internalID: -7219782996388833468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cfb5608edcf16c0800000000000000
+      internalID: -4170388333498991602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56d4d1f87e05e4d0800000000000000
+      internalID: -3106060455385967014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_23c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1216adfe521bab30800000000000000
+      internalID: 4299550468447015455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_24
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0739e316696225f60800000000000000
+      internalID: 8021516313618715504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_25
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0feda09c0ff268f0800000000000000
+      internalID: -548595775153770740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2083f7b9dfb8820800000000000000
+      internalID: 2921707627576033977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc5c7950905acde0800000000000000
+      internalID: -1312147760518243084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_28
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08f5fa8a1c115f10800000000000000
+      internalID: 2256615788615432205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_29
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5131e6e576b27b200800000000000000
+      internalID: 195672831779803925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_30
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab695a0907dd0fe0800000000000000
+      internalID: -1221083490119226459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_31
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563683c9d217490c0800000000000000
+      internalID: -4569903281165802651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_32
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffc8e0e6f9c2ab20800000000000000
+      internalID: 3144297552030519292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_33
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204f4a7cb1d8d1eb0800000000000000
+      internalID: -4747483281725524990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_34
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb0180ae8dfb090800000000000000
+      internalID: -8016450312026932088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_35d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0c8d235db7862f0800000000000000
+      internalID: -979396763341766438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3595f55de7613e00800000000000000
+      internalID: 1022712859436881215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_37
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81ddb0e88a4b4d0800000000000000
+      internalID: -3119683313823049507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_38
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3ab3c6856629e60800000000000000
+      internalID: 7967543220730831839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_39
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84bfa8b6645fb890800000000000000
+      internalID: -7440135259230849905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_40
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7965c67d450d9e060800000000000000
+      internalID: 6983341760024696471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_41
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33751664d860af40800000000000000
+      internalID: 5737701186725049147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_42
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb6d8c05db776300800000000000000
+      internalID: 245300859683826650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_43
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1400d9b22b0361a10800000000000000
+      internalID: 1879743436267782209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_33_Summer Tree_44
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0a6c1e67e8f78d0800000000000000
+      internalID: -2846399798229688113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_33_Summer Tree_0: -7932994076438892846
+      Monster_33_Summer Tree_1: -2597262859045229653
+      Monster_33_Summer Tree_10: 5482977013909071867
+      Monster_33_Summer Tree_11: -4948231871670133264
+      Monster_33_Summer Tree_12: 4761327471664397950
+      Monster_33_Summer Tree_13: -7733554203875666371
+      Monster_33_Summer Tree_14: -8930850154004326595
+      Monster_33_Summer Tree_15: -4648382029391797446
+      Monster_33_Summer Tree_16: -5605294630514789577
+      Monster_33_Summer Tree_17: 325657629110936484
+      Monster_33_Summer Tree_18b: 4195874870897665998
+      Monster_33_Summer Tree_19: 6242654278880697113
+      Monster_33_Summer Tree_2: 3257524009235668026
+      Monster_33_Summer Tree_20: -7219782996388833468
+      Monster_33_Summer Tree_21: -4170388333498991602
+      Monster_33_Summer Tree_22: -3106060455385967014
+      Monster_33_Summer Tree_23c: 4299550468447015455
+      Monster_33_Summer Tree_24: 8021516313618715504
+      Monster_33_Summer Tree_25: -548595775153770740
+      Monster_33_Summer Tree_26: 2921707627576033977
+      Monster_33_Summer Tree_27: -1312147760518243084
+      Monster_33_Summer Tree_28: 2256615788615432205
+      Monster_33_Summer Tree_29: 195672831779803925
+      Monster_33_Summer Tree_3: 422996442560920060
+      Monster_33_Summer Tree_30: -1221083490119226459
+      Monster_33_Summer Tree_31: -4569903281165802651
+      Monster_33_Summer Tree_32: 3144297552030519292
+      Monster_33_Summer Tree_33: -4747483281725524990
+      Monster_33_Summer Tree_34: -8016450312026932088
+      Monster_33_Summer Tree_35d: -979396763341766438
+      Monster_33_Summer Tree_36: 1022712859436881215
+      Monster_33_Summer Tree_37: -3119683313823049507
+      Monster_33_Summer Tree_38: 7967543220730831839
+      Monster_33_Summer Tree_39: -7440135259230849905
+      Monster_33_Summer Tree_4: -289635755046346063
+      Monster_33_Summer Tree_40: 6983341760024696471
+      Monster_33_Summer Tree_41: 5737701186725049147
+      Monster_33_Summer Tree_42: 245300859683826650
+      Monster_33_Summer Tree_43: 1879743436267782209
+      Monster_33_Summer Tree_44: -2846399798229688113
+      Monster_33_Summer Tree_5: 4028803519370631275
+      Monster_33_Summer Tree_6: -3469501676338835991
+      Monster_33_Summer Tree_7: -625455447976126167
+      Monster_33_Summer Tree_8: -8532918249707625124
+      Monster_33_Summer Tree_9a: 5758978230817965130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: 6fa4254cdeee12e4e898f62ed865e300
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3733613862066616175
+    second: Monster_73_Corrupted Hero_0
+  - first:
+      213: -4109857889602366524
+    second: Monster_73_Corrupted Hero_1
+  - first:
+      213: 8857299750044704714
+    second: Monster_73_Corrupted Hero_2
+  - first:
+      213: -709597368272703496
+    second: Monster_73_Corrupted Hero_3
+  - first:
+      213: -8781771664553888161
+    second: Monster_73_Corrupted Hero_4
+  - first:
+      213: -332372583353651420
+    second: Monster_73_Corrupted Hero_5
+  - first:
+      213: 896991022553357390
+    second: Monster_73_Corrupted Hero_6
+  - first:
+      213: 9054269297545492963
+    second: Monster_73_Corrupted Hero_7a
+  - first:
+      213: 7992684001134522480
+    second: Monster_73_Corrupted Hero_8
+  - first:
+      213: -1358299200478758896
+    second: Monster_73_Corrupted Hero_9
+  - first:
+      213: 130755642963130794
+    second: Monster_73_Corrupted Hero_10
+  - first:
+      213: 3828506706903630446
+    second: Monster_73_Corrupted Hero_11
+  - first:
+      213: 1519018605708787926
+    second: Monster_73_Corrupted Hero_12
+  - first:
+      213: 6536846027117065106
+    second: Monster_73_Corrupted Hero_13
+  - first:
+      213: -1162379940748388027
+    second: Monster_73_Corrupted Hero_14
+  - first:
+      213: 4158943164226261832
+    second: Monster_73_Corrupted Hero_15
+  - first:
+      213: 8655760001348342151
+    second: Monster_73_Corrupted Hero_16
+  - first:
+      213: 3409132976105265942
+    second: Monster_73_Corrupted Hero_17b
+  - first:
+      213: -1505184869824580675
+    second: Monster_73_Corrupted Hero_18
+  - first:
+      213: 6235019301040593505
+    second: Monster_73_Corrupted Hero_19
+  - first:
+      213: -7832872802758704796
+    second: Monster_73_Corrupted Hero_20
+  - first:
+      213: -5590549661676193714
+    second: Monster_73_Corrupted Hero_21
+  - first:
+      213: 3370544612243649958
+    second: Monster_73_Corrupted Hero_22
+  - first:
+      213: -285615582701997232
+    second: Monster_73_Corrupted Hero_23c
+  - first:
+      213: -7481924094005368349
+    second: Monster_73_Corrupted Hero_24
+  - first:
+      213: -7964832576859543565
+    second: Monster_73_Corrupted Hero_25
+  - first:
+      213: -579732936596584840
+    second: Monster_73_Corrupted Hero_26
+  - first:
+      213: -5324063593340393362
+    second: Monster_73_Corrupted Hero_27
+  - first:
+      213: -8124741404086447701
+    second: Monster_73_Corrupted Hero_28
+  - first:
+      213: 7417816754855657794
+    second: Monster_73_Corrupted Hero_29
+  - first:
+      213: 9105228834340534205
+    second: Monster_73_Corrupted Hero_30
+  - first:
+      213: 5233440955237575675
+    second: Monster_73_Corrupted Hero_31
+  - first:
+      213: -8773400255222792051
+    second: Monster_73_Corrupted Hero_32
+  - first:
+      213: -2988605623305375860
+    second: Monster_73_Corrupted Hero_33
+  - first:
+      213: 8933919338527608250
+    second: Monster_73_Corrupted Hero_34
+  - first:
+      213: -310374114795528475
+    second: Monster_73_Corrupted Hero_35
+  - first:
+      213: 4729943888310108326
+    second: Monster_73_Corrupted Hero_36d
+  - first:
+      213: -6001710255629416981
+    second: Monster_73_Corrupted Hero_37
+  - first:
+      213: 8293747134299387397
+    second: Monster_73_Corrupted Hero_38
+  - first:
+      213: 727495064629762132
+    second: Monster_73_Corrupted Hero_39
+  - first:
+      213: 3441586706167198993
+    second: Monster_73_Corrupted Hero_40
+  - first:
+      213: -6846294182686974465
+    second: Monster_73_Corrupted Hero_41
+  - first:
+      213: 6432704014057144946
+    second: Monster_73_Corrupted Hero_42
+  - first:
+      213: -2908148906117829115
+    second: Monster_73_Corrupted Hero_43
+  - first:
+      213: 2023234569350708347
+    second: Monster_73_Corrupted Hero_44
+  - first:
+      213: -5651015666321432484
+    second: Monster_73_Corrupted Hero_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1988b0759f98f2cc0800000000000000
+      internalID: -3733613862066616175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c31aec360ad6f6c0800000000000000
+      internalID: -4109857889602366524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf1296d1337bea70800000000000000
+      internalID: 8857299750044704714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffad8204f00726f0800000000000000
+      internalID: -709597368272703496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56bcabe231e02680800000000000000
+      internalID: -8781771664553888161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f602c75ec236bf0800000000000000
+      internalID: -332372583353651420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cd1022590c27c00800000000000000
+      internalID: 896991022553357390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_7a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9bcec54f937ad70800000000000000
+      internalID: 9054269297545492963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070329180c7bbee60800000000000000
+      internalID: 7992684001134522480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01834c0e21a562de0800000000000000
+      internalID: -1358299200478758896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9f133809980d100800000000000000
+      internalID: 130755642963130794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62013dc096912530800000000000000
+      internalID: 3828506706903630446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d04b70bf53a41510800000000000000
+      internalID: 1519018605708787926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2937cb5f3da87ba50800000000000000
+      internalID: 6536846027117065106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_14
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54917a93a956edfe0800000000000000
+      internalID: -1162379940748388027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_15
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843deb8d5c887b930800000000000000
+      internalID: 4158943164226261832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_16
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781176d6cdf6f1870800000000000000
+      internalID: 8655760001348342151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_17b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b13d0216caf4f20800000000000000
+      internalID: 3409132976105265942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db330d0f5528c1be0800000000000000
+      internalID: -1505184869824580675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a9a3e050d378650800000000000000
+      internalID: 6235019301040593505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461cfbcafab0c4390800000000000000
+      internalID: -7832872802758704796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e483c94e3b06a62b0800000000000000
+      internalID: -5590549661676193714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b368877496ce20800000000000000
+      internalID: 3370544612243649958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_23c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0533bba042a490cf0800000000000000
+      internalID: -285615582701997232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9af5c6dadda2890800000000000000
+      internalID: -7481924094005368349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7e3d888fa377190800000000000000
+      internalID: -7964832576859543565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876019937ff54f7f0800000000000000
+      internalID: -579732936596584840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_27
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e682b55be502d16b0800000000000000
+      internalID: -5324063593340393362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_28
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1d48d5dbe1f3f80800000000000000
+      internalID: -8124741404086447701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_29
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241cc1a890161f660800000000000000
+      internalID: 7417816754855657794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_30
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7f28d12654c5e70800000000000000
+      internalID: 9105228834340534205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_31
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbaae122dae0a840800000000000000
+      internalID: 5233440955237575675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_32
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80cf1b83fe9e3680800000000000000
+      internalID: -8773400255222792051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_33
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fe52915075686d0800000000000000
+      internalID: -2988605623305375860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_34
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd4ee0fd48abfb70800000000000000
+      internalID: 8933919338527608250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_35
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eed224136451bbf0800000000000000
+      internalID: -310374114795528475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_36d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a00146f7e224a140800000000000000
+      internalID: 4729943888310108326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5c3682254a5bca0800000000000000
+      internalID: -6001710255629416981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50634d4931f491370800000000000000
+      internalID: 8293747134299387397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585b1728e4981a00800000000000000
+      internalID: 727495064629762132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1157dccffd8f2cf20800000000000000
+      internalID: 3441586706167198993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_41
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd9e1dc6b31df0a0800000000000000
+      internalID: -6846294182686974465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_42
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2720b17083e854950800000000000000
+      internalID: 6432704014057144946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_43
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ee7e85afd24a7d0800000000000000
+      internalID: -2908148906117829115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_44
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c707b0f19f31c10800000000000000
+      internalID: 2023234569350708347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_73_Corrupted Hero_45
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c506ebc113f8391b0800000000000000
+      internalID: -5651015666321432484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_73_Corrupted Hero_0: -3733613862066616175
+      Monster_73_Corrupted Hero_1: -4109857889602366524
+      Monster_73_Corrupted Hero_10: 130755642963130794
+      Monster_73_Corrupted Hero_11: 3828506706903630446
+      Monster_73_Corrupted Hero_12: 1519018605708787926
+      Monster_73_Corrupted Hero_13: 6536846027117065106
+      Monster_73_Corrupted Hero_14: -1162379940748388027
+      Monster_73_Corrupted Hero_15: 4158943164226261832
+      Monster_73_Corrupted Hero_16: 8655760001348342151
+      Monster_73_Corrupted Hero_17b: 3409132976105265942
+      Monster_73_Corrupted Hero_18: -1505184869824580675
+      Monster_73_Corrupted Hero_19: 6235019301040593505
+      Monster_73_Corrupted Hero_2: 8857299750044704714
+      Monster_73_Corrupted Hero_20: -7832872802758704796
+      Monster_73_Corrupted Hero_21: -5590549661676193714
+      Monster_73_Corrupted Hero_22: 3370544612243649958
+      Monster_73_Corrupted Hero_23c: -285615582701997232
+      Monster_73_Corrupted Hero_24: -7481924094005368349
+      Monster_73_Corrupted Hero_25: -7964832576859543565
+      Monster_73_Corrupted Hero_26: -579732936596584840
+      Monster_73_Corrupted Hero_27: -5324063593340393362
+      Monster_73_Corrupted Hero_28: -8124741404086447701
+      Monster_73_Corrupted Hero_29: 7417816754855657794
+      Monster_73_Corrupted Hero_3: -709597368272703496
+      Monster_73_Corrupted Hero_30: 9105228834340534205
+      Monster_73_Corrupted Hero_31: 5233440955237575675
+      Monster_73_Corrupted Hero_32: -8773400255222792051
+      Monster_73_Corrupted Hero_33: -2988605623305375860
+      Monster_73_Corrupted Hero_34: 8933919338527608250
+      Monster_73_Corrupted Hero_35: -310374114795528475
+      Monster_73_Corrupted Hero_36d: 4729943888310108326
+      Monster_73_Corrupted Hero_37: -6001710255629416981
+      Monster_73_Corrupted Hero_38: 8293747134299387397
+      Monster_73_Corrupted Hero_39: 727495064629762132
+      Monster_73_Corrupted Hero_4: -8781771664553888161
+      Monster_73_Corrupted Hero_40: 3441586706167198993
+      Monster_73_Corrupted Hero_41: -6846294182686974465
+      Monster_73_Corrupted Hero_42: 6432704014057144946
+      Monster_73_Corrupted Hero_43: -2908148906117829115
+      Monster_73_Corrupted Hero_44: 2023234569350708347
+      Monster_73_Corrupted Hero_45: -5651015666321432484
+      Monster_73_Corrupted Hero_5: -332372583353651420
+      Monster_73_Corrupted Hero_6: 896991022553357390
+      Monster_73_Corrupted Hero_7a: 9054269297545492963
+      Monster_73_Corrupted Hero_8: 7992684001134522480
+      Monster_73_Corrupted Hero_9: -1358299200478758896
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

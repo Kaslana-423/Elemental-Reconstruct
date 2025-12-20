@@ -1,0 +1,1103 @@
+fileFormatVersion: 2
+guid: 198c4a8931cc67d4e879ab5f9dd692ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 205588735270452154
+    second: Monster_80_Jungle Raptor_0
+  - first:
+      213: -4345616278059765699
+    second: Monster_80_Jungle Raptor_1
+  - first:
+      213: 8583793571523385403
+    second: Monster_80_Jungle Raptor_2
+  - first:
+      213: 6939152403590018509
+    second: Monster_80_Jungle Raptor_3
+  - first:
+      213: -6967046407354689789
+    second: Monster_80_Jungle Raptor_4
+  - first:
+      213: 5045141417263314524
+    second: Monster_80_Jungle Raptor_5
+  - first:
+      213: 5831931343393422927
+    second: Monster_80_Jungle Raptor_6
+  - first:
+      213: -3898349006388890522
+    second: Monster_80_Jungle Raptor_7
+  - first:
+      213: -6482677182772709301
+    second: Monster_80_Jungle Raptor_8a
+  - first:
+      213: -7581773751490832559
+    second: Monster_80_Jungle Raptor_9
+  - first:
+      213: 615283619760772690
+    second: Monster_80_Jungle Raptor_10
+  - first:
+      213: 3857241589330056326
+    second: Monster_80_Jungle Raptor_11
+  - first:
+      213: 5750813256513879041
+    second: Monster_80_Jungle Raptor_12
+  - first:
+      213: 2659866720348235947
+    second: Monster_80_Jungle Raptor_13
+  - first:
+      213: 7168711777990717805
+    second: Monster_80_Jungle Raptor_14
+  - first:
+      213: -236869346602676920
+    second: Monster_80_Jungle Raptor_15
+  - first:
+      213: 6897251505021519738
+    second: Monster_80_Jungle Raptor_16
+  - first:
+      213: -1249664537081884350
+    second: Monster_80_Jungle Raptor_17b
+  - first:
+      213: -1897064864905959144
+    second: Monster_80_Jungle Raptor_18
+  - first:
+      213: -8656201860413803267
+    second: Monster_80_Jungle Raptor_19
+  - first:
+      213: -8123751181150514408
+    second: Monster_80_Jungle Raptor_20
+  - first:
+      213: -4114312410506184139
+    second: Monster_80_Jungle Raptor_21
+  - first:
+      213: 4398576178086050422
+    second: Monster_80_Jungle Raptor_22c
+  - first:
+      213: -1407075399023431076
+    second: Monster_80_Jungle Raptor_23
+  - first:
+      213: -5082459473976372214
+    second: Monster_80_Jungle Raptor_24
+  - first:
+      213: -3917116742023250302
+    second: Monster_80_Jungle Raptor_25
+  - first:
+      213: 2749436243143162896
+    second: Monster_80_Jungle Raptor_26
+  - first:
+      213: -3640224949798236338
+    second: Monster_80_Jungle Raptor_27
+  - first:
+      213: -2616648868718101847
+    second: Monster_80_Jungle Raptor_28
+  - first:
+      213: -2715233377933170484
+    second: Monster_80_Jungle Raptor_29
+  - first:
+      213: 4812460009575036762
+    second: Monster_80_Jungle Raptor_30d
+  - first:
+      213: 439744185817703685
+    second: Monster_80_Jungle Raptor_31
+  - first:
+      213: 5391435670211678649
+    second: Monster_80_Jungle Raptor_32
+  - first:
+      213: -2446861987510067084
+    second: Monster_80_Jungle Raptor_33
+  - first:
+      213: -1708983645653102467
+    second: Monster_80_Jungle Raptor_34
+  - first:
+      213: 969535346998571264
+    second: Monster_80_Jungle Raptor_35
+  - first:
+      213: 7449896041493883318
+    second: Monster_80_Jungle Raptor_36
+  - first:
+      213: -276746170932033180
+    second: Monster_80_Jungle Raptor_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbfd9f8dd56ad200800000000000000
+      internalID: 205588735270452154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30b718e40541b3c0800000000000000
+      internalID: -4345616278059765699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38deef36c2cf1770800000000000000
+      internalID: 8583793571523385403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_3
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f74a8852dc4060800000000000000
+      internalID: 6939152403590018509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_4
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30756fb9434105f90800000000000000
+      internalID: -6967046407354689789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_5
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5637918361f30640800000000000000
+      internalID: 5045141417263314524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_6
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e7e6d68ae2fe050800000000000000
+      internalID: 5831931343393422927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_7
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66471b7ab3846e9c0800000000000000
+      internalID: -3898349006388890522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b487d4fe277e806a0800000000000000
+      internalID: -6482677182772709301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157120761f028c690800000000000000
+      internalID: -7581773751490832559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25615f7313de98800800000000000000
+      internalID: 615283619760772690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68491e8f9cca78530800000000000000
+      internalID: 3857241589330056326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_12
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cfd1c003efecf40800000000000000
+      internalID: 5750813256513879041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_13
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba86d3880beb9e420800000000000000
+      internalID: 2659866720348235947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_14
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61bb4071616c7360800000000000000
+      internalID: 7168711777990717805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_15
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d8191959876bcf0800000000000000
+      internalID: -236869346602676920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_16
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77065b53b5f7bf50800000000000000
+      internalID: 6897251505021519738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_17b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d4da79bc48aee0800000000000000
+      internalID: -1249664537081884350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e7637e854ca5e0800000000000000
+      internalID: -1897064864905959144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4b5fd354efed780800000000000000
+      internalID: -8656201860413803267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_20
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8131ddb9753a24f80800000000000000
+      internalID: -8123751181150514408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_21
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a3cc449a607e6c0800000000000000
+      internalID: -4114312410506184139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_22c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a7054bab1ea0d30800000000000000
+      internalID: 4398576178086050422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52740d2160197ce0800000000000000
+      internalID: -1407075399023431076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_24
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04d154590a7779b0800000000000000
+      internalID: -5082459473976372214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_25
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ef7ffa31b93a9c0800000000000000
+      internalID: -3917116742023250302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_26
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cf12d22b5f72620800000000000000
+      internalID: 2749436243143162896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_27
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f03c4e1b25b7dc0800000000000000
+      internalID: -3640224949798236338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_28
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa312ea7bbcfabd0800000000000000
+      internalID: -2616648868718101847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_29
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc86202f0ad815ad0800000000000000
+      internalID: -2715233377933170484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_30d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573e7691ea49c240800000000000000
+      internalID: 4812460009575036762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50525b3d1094a1600800000000000000
+      internalID: 439744185817703685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_32
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b156505d2a32da40800000000000000
+      internalID: 5391435670211678649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_33
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4706e048cfffa0ed0800000000000000
+      internalID: -2446861987510067084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_34
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7015e9cd687848e0800000000000000
+      internalID: -1708983645653102467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_35
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001f803e24b747d00800000000000000
+      internalID: 969535346998571264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_36
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9e4de7af8536760800000000000000
+      internalID: 7449896041493883318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_80_Jungle Raptor_37
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46985a4e2dcc82cf0800000000000000
+      internalID: -276746170932033180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_80_Jungle Raptor_0: 205588735270452154
+      Monster_80_Jungle Raptor_1: -4345616278059765699
+      Monster_80_Jungle Raptor_10: 615283619760772690
+      Monster_80_Jungle Raptor_11: 3857241589330056326
+      Monster_80_Jungle Raptor_12: 5750813256513879041
+      Monster_80_Jungle Raptor_13: 2659866720348235947
+      Monster_80_Jungle Raptor_14: 7168711777990717805
+      Monster_80_Jungle Raptor_15: -236869346602676920
+      Monster_80_Jungle Raptor_16: 6897251505021519738
+      Monster_80_Jungle Raptor_17b: -1249664537081884350
+      Monster_80_Jungle Raptor_18: -1897064864905959144
+      Monster_80_Jungle Raptor_19: -8656201860413803267
+      Monster_80_Jungle Raptor_2: 8583793571523385403
+      Monster_80_Jungle Raptor_20: -8123751181150514408
+      Monster_80_Jungle Raptor_21: -4114312410506184139
+      Monster_80_Jungle Raptor_22c: 4398576178086050422
+      Monster_80_Jungle Raptor_23: -1407075399023431076
+      Monster_80_Jungle Raptor_24: -5082459473976372214
+      Monster_80_Jungle Raptor_25: -3917116742023250302
+      Monster_80_Jungle Raptor_26: 2749436243143162896
+      Monster_80_Jungle Raptor_27: -3640224949798236338
+      Monster_80_Jungle Raptor_28: -2616648868718101847
+      Monster_80_Jungle Raptor_29: -2715233377933170484
+      Monster_80_Jungle Raptor_3: 6939152403590018509
+      Monster_80_Jungle Raptor_30d: 4812460009575036762
+      Monster_80_Jungle Raptor_31: 439744185817703685
+      Monster_80_Jungle Raptor_32: 5391435670211678649
+      Monster_80_Jungle Raptor_33: -2446861987510067084
+      Monster_80_Jungle Raptor_34: -1708983645653102467
+      Monster_80_Jungle Raptor_35: 969535346998571264
+      Monster_80_Jungle Raptor_36: 7449896041493883318
+      Monster_80_Jungle Raptor_37: -276746170932033180
+      Monster_80_Jungle Raptor_4: -6967046407354689789
+      Monster_80_Jungle Raptor_5: 5045141417263314524
+      Monster_80_Jungle Raptor_6: 5831931343393422927
+      Monster_80_Jungle Raptor_7: -3898349006388890522
+      Monster_80_Jungle Raptor_8a: -6482677182772709301
+      Monster_80_Jungle Raptor_9: -7581773751490832559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

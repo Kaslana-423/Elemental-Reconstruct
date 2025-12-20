@@ -1,0 +1,1603 @@
+fileFormatVersion: 2
+guid: aded58a655b2c0d4a8441c13ac554684
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6166158206888038553
+    second: Monster_15_Crystal Golem_0
+  - first:
+      213: -354458049796072772
+    second: Monster_15_Crystal Golem_1
+  - first:
+      213: -3503983609847203695
+    second: Monster_15_Crystal Golem_2
+  - first:
+      213: -1817199184195443685
+    second: Monster_15_Crystal Golem_3
+  - first:
+      213: 5011911013480234123
+    second: Monster_15_Crystal Golem_4
+  - first:
+      213: -237882429903584174
+    second: Monster_15_Crystal Golem_5
+  - first:
+      213: 8417343529953448054
+    second: Monster_15_Crystal Golem_6
+  - first:
+      213: 3028484750098020576
+    second: Monster_15_Crystal Golem_7
+  - first:
+      213: -4459682352939947418
+    second: Monster_15_Crystal Golem_8
+  - first:
+      213: 8982498592987983305
+    second: Monster_15_Crystal Golem_9
+  - first:
+      213: 7234461927520611479
+    second: Monster_15_Crystal Golem_10A
+  - first:
+      213: 1682852629420266146
+    second: Monster_15_Crystal Golem_11
+  - first:
+      213: 7308329654527062671
+    second: Monster_15_Crystal Golem_12
+  - first:
+      213: -4726074729146367528
+    second: Monster_15_Crystal Golem_13
+  - first:
+      213: 8425434604888025500
+    second: Monster_15_Crystal Golem_14
+  - first:
+      213: -1713922430190349147
+    second: Monster_15_Crystal Golem_15
+  - first:
+      213: -5049353949953124226
+    second: Monster_15_Crystal Golem_16
+  - first:
+      213: 3413348696140690760
+    second: Monster_15_Crystal Golem_17
+  - first:
+      213: -5072770770630852187
+    second: Monster_15_Crystal Golem_18
+  - first:
+      213: 1846737100200265254
+    second: Monster_15_Crystal Golem_19
+  - first:
+      213: 7996751514504659177
+    second: Monster_15_Crystal Golem_20
+  - first:
+      213: 572872472030488314
+    second: Monster_15_Crystal Golem_21
+  - first:
+      213: -182296386990630777
+    second: Monster_15_Crystal Golem_22B
+  - first:
+      213: -6908211874089134649
+    second: Monster_15_Crystal Golem_23
+  - first:
+      213: 358493755230546842
+    second: Monster_15_Crystal Golem_24
+  - first:
+      213: 6815586822046158824
+    second: Monster_15_Crystal Golem_25
+  - first:
+      213: 5867522464136803026
+    second: Monster_15_Crystal Golem_26
+  - first:
+      213: 4254012332849912468
+    second: Monster_15_Crystal Golem_27
+  - first:
+      213: 6130041571063804858
+    second: Monster_15_Crystal Golem_28
+  - first:
+      213: -3909030135479154798
+    second: Monster_15_Crystal Golem_29C
+  - first:
+      213: 4433504243365358877
+    second: Monster_15_Crystal Golem_30
+  - first:
+      213: 1863989419147430885
+    second: Monster_15_Crystal Golem_31
+  - first:
+      213: 3635515999820225885
+    second: Monster_15_Crystal Golem_32
+  - first:
+      213: 6556962613430132932
+    second: Monster_15_Crystal Golem_33
+  - first:
+      213: -4558313613215283405
+    second: Monster_15_Crystal Golem_34
+  - first:
+      213: -832620813258617603
+    second: Monster_15_Crystal Golem_35
+  - first:
+      213: 555455163508775966
+    second: Monster_15_Crystal Golem_36
+  - first:
+      213: -7964462707169211017
+    second: Monster_15_Crystal Golem_37
+  - first:
+      213: 4198288364351568250
+    second: Monster_15_Crystal Golem_38
+  - first:
+      213: -3333891557583257963
+    second: Monster_15_Crystal Golem_39
+  - first:
+      213: 8643605068233029925
+    second: Monster_15_Crystal Golem_40
+  - first:
+      213: -3760187728049213672
+    second: Monster_15_Crystal Golem_41
+  - first:
+      213: 4167714826895999594
+    second: Monster_15_Crystal Golem_42
+  - first:
+      213: 2123653870760517480
+    second: Monster_15_Crystal Golem_43
+  - first:
+      213: -3433214345144982051
+    second: Monster_15_Crystal Golem_44D
+  - first:
+      213: 4433011321892203518
+    second: Monster_15_Crystal Golem_45
+  - first:
+      213: 296748610928126513
+    second: Monster_15_Crystal Golem_46
+  - first:
+      213: 8455573474429724478
+    second: Monster_15_Crystal Golem_47
+  - first:
+      213: 3352860934814125156
+    second: Monster_15_Crystal Golem_48
+  - first:
+      213: -5663283173172944322
+    second: Monster_15_Crystal Golem_49
+  - first:
+      213: 4325908854936990628
+    second: Monster_15_Crystal Golem_50
+  - first:
+      213: -1684618743705298449
+    second: Monster_15_Crystal Golem_51
+  - first:
+      213: -3574665699755855385
+    second: Monster_15_Crystal Golem_52
+  - first:
+      213: 7605013265943217539
+    second: Monster_15_Crystal Golem_53
+  - first:
+      213: -3341406467817480025
+    second: Monster_15_Crystal Golem_54
+  - first:
+      213: 3620487752314789858
+    second: Monster_15_Crystal Golem_55
+  - first:
+      213: 8647899892725949671
+    second: Monster_15_Crystal Golem_56
+  - first:
+      213: -2076319420942618759
+    second: Monster_15_Crystal Golem_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f2491d7c76d6aa0800000000000000
+      internalID: -6166158206888038553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba902e1846b41bf0800000000000000
+      internalID: -354458049796072772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1983444c8795f5fc0800000000000000
+      internalID: -3503983609847203695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14a6eb48f208c6e0800000000000000
+      internalID: -1817199184195443685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7b543382ed8540800000000000000
+      internalID: 5011911013480234123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_5
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2544a4bb03fd2bcf0800000000000000
+      internalID: -237882429903584174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_6
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670de4fe75960d470800000000000000
+      internalID: 8417343529953448054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_7
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b749a5d6570a20800000000000000
+      internalID: 3028484750098020576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_8
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aafe547860c12c0800000000000000
+      internalID: -4459682352939947418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_9
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdae7601ee38ac70800000000000000
+      internalID: 8982498592987983305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_10A
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c24f21bc8f56460800000000000000
+      internalID: 7234461927520611479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a25de1ec81ba5710800000000000000
+      internalID: 1682852629420266146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82f98f79176c6560800000000000000
+      internalID: 7308329654527062671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_13
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1c74bd21c996eb0800000000000000
+      internalID: -4726074729146367528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_14
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9962ae12282de470800000000000000
+      internalID: 8425434604888025500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_15
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a41ee761ace638e0800000000000000
+      internalID: -1713922430190349147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_16
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7814dbc5571de9b0800000000000000
+      internalID: -5049353949953124226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_17
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8453200fd86ae5f20800000000000000
+      internalID: 3413348696140690760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_18
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1409d5cd5e999b0800000000000000
+      internalID: -5072770770630852187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_19
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c8f2bb9de0a910800000000000000
+      internalID: 1846737100200265254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_20
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e00e13422b2afe60800000000000000
+      internalID: 7996751514504659177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_21
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af62af46a7043f700800000000000000
+      internalID: 572872472030488314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_22B
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7881691e66a587df0800000000000000
+      internalID: -182296386990630777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c518cbd6e91120a0800000000000000
+      internalID: -6908211874089134649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_24
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b66b6cb20a9f400800000000000000
+      internalID: 358493755230546842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_25
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef05e7aa14d59e50800000000000000
+      internalID: 6815586822046158824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_26
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2bf7af790ad6150800000000000000
+      internalID: 5867522464136803026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_27
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a56a19da9490b30800000000000000
+      internalID: 4254012332849912468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_28
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3b2ad9458421550800000000000000
+      internalID: 6130041571063804858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_29C
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c77e7dc550c9c0800000000000000
+      internalID: -3909030135479154798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1daaff9e98f68d30800000000000000
+      internalID: 4433504243365358877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb8e5930883ed910800000000000000
+      internalID: 1863989419147430885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_32
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d98804a82f37230800000000000000
+      internalID: 3635515999820225885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_33
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c02503b1c20ffa50800000000000000
+      internalID: 6556962613430132932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_34
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337c9757bed9db0c0800000000000000
+      internalID: -4558313613215283405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_35
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc8f1128cfe174f0800000000000000
+      internalID: -832620813258617603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_36
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cd89d378f55b700800000000000000
+      internalID: 555455163508775966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_37
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d45588d5b887190800000000000000
+      internalID: -7964462707169211017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_38
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79b4dd1601534a30800000000000000
+      internalID: 4198288364351568250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_39
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e7396ca43abb1d0800000000000000
+      internalID: -3333891557583257963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_40
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529bbc6830144f770800000000000000
+      internalID: 8643605068233029925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_41
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fe7d40f2121dbc0800000000000000
+      internalID: -3760187728049213672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_42
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62c346bd82b6d930800000000000000
+      internalID: 4167714826895999594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_43
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f5090a1fbb87d10800000000000000
+      internalID: 2123653870760517480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_44D
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5abd73eb5ca50d0800000000000000
+      internalID: -3433214345144982051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb6ba66f48358d30800000000000000
+      internalID: 4433011321892203518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_46
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a26f51a434e1400800000000000000
+      internalID: 296748610928126513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_47
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376993864b385570800000000000000
+      internalID: 8455573474429724478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_48
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c41e88141c78e20800000000000000
+      internalID: 3352860934814125156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_49
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32649895f9f761b0800000000000000
+      internalID: -5663283173172944322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_50
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a37c351f27b80c30800000000000000
+      internalID: 4325908854936990628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_51
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe91b779d280f98e0800000000000000
+      internalID: -1684618743705298449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_52
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e177474c7c346ec0800000000000000
+      internalID: -3574665699755855385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_53
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385cda4b54f6a8960800000000000000
+      internalID: 7605013265943217539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_54
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0eb836580f0a1d0800000000000000
+      internalID: -3341406467817480025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_55
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef1066bd6e8e3230800000000000000
+      internalID: 3620487752314789858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_56
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4a1174223830870800000000000000
+      internalID: 8647899892725949671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_15_Crystal Golem_57
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f687acc7e6f23e0800000000000000
+      internalID: -2076319420942618759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_15_Crystal Golem_0: -6166158206888038553
+      Monster_15_Crystal Golem_1: -354458049796072772
+      Monster_15_Crystal Golem_10A: 7234461927520611479
+      Monster_15_Crystal Golem_11: 1682852629420266146
+      Monster_15_Crystal Golem_12: 7308329654527062671
+      Monster_15_Crystal Golem_13: -4726074729146367528
+      Monster_15_Crystal Golem_14: 8425434604888025500
+      Monster_15_Crystal Golem_15: -1713922430190349147
+      Monster_15_Crystal Golem_16: -5049353949953124226
+      Monster_15_Crystal Golem_17: 3413348696140690760
+      Monster_15_Crystal Golem_18: -5072770770630852187
+      Monster_15_Crystal Golem_19: 1846737100200265254
+      Monster_15_Crystal Golem_2: -3503983609847203695
+      Monster_15_Crystal Golem_20: 7996751514504659177
+      Monster_15_Crystal Golem_21: 572872472030488314
+      Monster_15_Crystal Golem_22B: -182296386990630777
+      Monster_15_Crystal Golem_23: -6908211874089134649
+      Monster_15_Crystal Golem_24: 358493755230546842
+      Monster_15_Crystal Golem_25: 6815586822046158824
+      Monster_15_Crystal Golem_26: 5867522464136803026
+      Monster_15_Crystal Golem_27: 4254012332849912468
+      Monster_15_Crystal Golem_28: 6130041571063804858
+      Monster_15_Crystal Golem_29C: -3909030135479154798
+      Monster_15_Crystal Golem_3: -1817199184195443685
+      Monster_15_Crystal Golem_30: 4433504243365358877
+      Monster_15_Crystal Golem_31: 1863989419147430885
+      Monster_15_Crystal Golem_32: 3635515999820225885
+      Monster_15_Crystal Golem_33: 6556962613430132932
+      Monster_15_Crystal Golem_34: -4558313613215283405
+      Monster_15_Crystal Golem_35: -832620813258617603
+      Monster_15_Crystal Golem_36: 555455163508775966
+      Monster_15_Crystal Golem_37: -7964462707169211017
+      Monster_15_Crystal Golem_38: 4198288364351568250
+      Monster_15_Crystal Golem_39: -3333891557583257963
+      Monster_15_Crystal Golem_4: 5011911013480234123
+      Monster_15_Crystal Golem_40: 8643605068233029925
+      Monster_15_Crystal Golem_41: -3760187728049213672
+      Monster_15_Crystal Golem_42: 4167714826895999594
+      Monster_15_Crystal Golem_43: 2123653870760517480
+      Monster_15_Crystal Golem_44D: -3433214345144982051
+      Monster_15_Crystal Golem_45: 4433011321892203518
+      Monster_15_Crystal Golem_46: 296748610928126513
+      Monster_15_Crystal Golem_47: 8455573474429724478
+      Monster_15_Crystal Golem_48: 3352860934814125156
+      Monster_15_Crystal Golem_49: -5663283173172944322
+      Monster_15_Crystal Golem_5: -237882429903584174
+      Monster_15_Crystal Golem_50: 4325908854936990628
+      Monster_15_Crystal Golem_51: -1684618743705298449
+      Monster_15_Crystal Golem_52: -3574665699755855385
+      Monster_15_Crystal Golem_53: 7605013265943217539
+      Monster_15_Crystal Golem_54: -3341406467817480025
+      Monster_15_Crystal Golem_55: 3620487752314789858
+      Monster_15_Crystal Golem_56: 8647899892725949671
+      Monster_15_Crystal Golem_57: -2076319420942618759
+      Monster_15_Crystal Golem_6: 8417343529953448054
+      Monster_15_Crystal Golem_7: 3028484750098020576
+      Monster_15_Crystal Golem_8: -4459682352939947418
+      Monster_15_Crystal Golem_9: 8982498592987983305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

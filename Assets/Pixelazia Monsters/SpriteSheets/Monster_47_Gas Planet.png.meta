@@ -1,0 +1,1078 @@
+fileFormatVersion: 2
+guid: 187701e136a15e843be159e3b6150859
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8912821437948798972
+    second: Monster_47_Gas Planet_0
+  - first:
+      213: 6121074354129776698
+    second: Monster_47_Gas Planet_1
+  - first:
+      213: 4141803938506007075
+    second: Monster_47_Gas Planet_2
+  - first:
+      213: -5943734684530256195
+    second: Monster_47_Gas Planet_3
+  - first:
+      213: -4164870639498291126
+    second: Monster_47_Gas Planet_4
+  - first:
+      213: -5861592864910197871
+    second: Monster_47_Gas Planet_5
+  - first:
+      213: 683861118972698060
+    second: Monster_47_Gas Planet_6
+  - first:
+      213: 4934431685842719727
+    second: Monster_47_Gas Planet_7
+  - first:
+      213: 8333880890028973696
+    second: Monster_47_Gas Planet_8a
+  - first:
+      213: -4429115974084548211
+    second: Monster_47_Gas Planet_9
+  - first:
+      213: -8176905563162554610
+    second: Monster_47_Gas Planet_10
+  - first:
+      213: -442491419974183594
+    second: Monster_47_Gas Planet_11
+  - first:
+      213: -7616130997600498633
+    second: Monster_47_Gas Planet_12
+  - first:
+      213: -8282768550539791265
+    second: Monster_47_Gas Planet_13
+  - first:
+      213: 7425926445343874084
+    second: Monster_47_Gas Planet_14b
+  - first:
+      213: -3397833735554157894
+    second: Monster_47_Gas Planet_15
+  - first:
+      213: -7764314755669773808
+    second: Monster_47_Gas Planet_16
+  - first:
+      213: 2828313470699620161
+    second: Monster_47_Gas Planet_17
+  - first:
+      213: 2134181078360795374
+    second: Monster_47_Gas Planet_18
+  - first:
+      213: 3804590088913904377
+    second: Monster_47_Gas Planet_19
+  - first:
+      213: -5999465837232271197
+    second: Monster_47_Gas Planet_20
+  - first:
+      213: -2814928422769635236
+    second: Monster_47_Gas Planet_21
+  - first:
+      213: -6378585784080397417
+    second: Monster_47_Gas Planet_22c
+  - first:
+      213: -5459415800604876536
+    second: Monster_47_Gas Planet_23
+  - first:
+      213: 4767968780356834099
+    second: Monster_47_Gas Planet_24
+  - first:
+      213: -5847806213468115439
+    second: Monster_47_Gas Planet_25
+  - first:
+      213: -8551628232414281732
+    second: Monster_47_Gas Planet_26
+  - first:
+      213: 2336502218338011129
+    second: Monster_47_Gas Planet_27
+  - first:
+      213: -5921222538718560813
+    second: Monster_47_Gas Planet_28
+  - first:
+      213: -7570607352453620077
+    second: Monster_47_Gas Planet_29d
+  - first:
+      213: -3800489869221794082
+    second: Monster_47_Gas Planet_30
+  - first:
+      213: 4191475777989293302
+    second: Monster_47_Gas Planet_31
+  - first:
+      213: -6425034874777086155
+    second: Monster_47_Gas Planet_32
+  - first:
+      213: 4063090029443814952
+    second: Monster_47_Gas Planet_33
+  - first:
+      213: -7860409699466518346
+    second: Monster_47_Gas Planet_34
+  - first:
+      213: -8343605257944532661
+    second: Monster_47_Gas Planet_35
+  - first:
+      213: -5212852480494840515
+    second: Monster_47_Gas Planet_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7ac6b20e3b0bb70800000000000000
+      internalID: 8912821437948798972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30b8a9b1bc62f450800000000000000
+      internalID: 6121074354129776698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322e6f3ecb4aa7930800000000000000
+      internalID: 4141803938506007075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6d761bbcc938da0800000000000000
+      internalID: -5943734684530256195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48104548386336c0800000000000000
+      internalID: -4164870639498291126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b301d685077aea0800000000000000
+      internalID: -5861592864910197871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd911080109d7900800000000000000
+      internalID: 683861118972698060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3561b797f9a7440800000000000000
+      internalID: 4934431685842719727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ed792c384e7a370800000000000000
+      internalID: 8333880890028973696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89aeafec7e9882c0800000000000000
+      internalID: -4429115974084548211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fc7c1a6bbc58e80800000000000000
+      internalID: -8176905563162554610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655d740e564fbd9f0800000000000000
+      internalID: -442491419974183594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c4e2da5311e4690800000000000000
+      internalID: -7616130997600498633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_13
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f547c4423e1bd0d80800000000000000
+      internalID: -8282768550539791265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_14b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c96eef1c03e0760800000000000000
+      internalID: 7425926445343874084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2b472583878d0d0800000000000000
+      internalID: -3397833735554157894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012baf7eddc9f3490800000000000000
+      internalID: -7764314755669773808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_17
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147c086dd10304720800000000000000
+      internalID: 2828313470699620161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_18
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee82e0622622e9d10800000000000000
+      internalID: 2134181078360795374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_19
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f26fad378e9cc430800000000000000
+      internalID: 3804590088913904377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_20
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0dda98b9d9dbca0800000000000000
+      internalID: -5999465837232271197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_21
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c505aac738d5fe8d0800000000000000
+      internalID: -2814928422769635236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_22c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b088a4606ba77a0800000000000000
+      internalID: -6378585784080397417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801aacb21424c34b0800000000000000
+      internalID: -5459415800604876536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333525d085a3b2240800000000000000
+      internalID: 4767968780356834099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e29ea5b3b68dea0800000000000000
+      internalID: -5847806213468115439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_26
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffbebb5e63825980800000000000000
+      internalID: -8551628232414281732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_27
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f703f4636cec6020800000000000000
+      internalID: 2336502218338011129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_28
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddb4a7197793dda0800000000000000
+      internalID: -5921222538718560813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_29d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e9a0749bccfe690800000000000000
+      internalID: -7570607352453620077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede609c8992f14bc0800000000000000
+      internalID: -3800489869221794082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4b4bf330d1b2a30800000000000000
+      internalID: 4191475777989293302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5375a6b92d0b5d6a0800000000000000
+      internalID: -6425034874777086155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_33
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8261e67cadef26830800000000000000
+      internalID: 4063090029443814952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_34
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0634a46073ae290800000000000000
+      internalID: -7860409699466518346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_35
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b497226693f853c80800000000000000
+      internalID: -8343605257944532661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_47_Gas Planet_36
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d355791b94a38a7b0800000000000000
+      internalID: -5212852480494840515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_47_Gas Planet_0: 8912821437948798972
+      Monster_47_Gas Planet_1: 6121074354129776698
+      Monster_47_Gas Planet_10: -8176905563162554610
+      Monster_47_Gas Planet_11: -442491419974183594
+      Monster_47_Gas Planet_12: -7616130997600498633
+      Monster_47_Gas Planet_13: -8282768550539791265
+      Monster_47_Gas Planet_14b: 7425926445343874084
+      Monster_47_Gas Planet_15: -3397833735554157894
+      Monster_47_Gas Planet_16: -7764314755669773808
+      Monster_47_Gas Planet_17: 2828313470699620161
+      Monster_47_Gas Planet_18: 2134181078360795374
+      Monster_47_Gas Planet_19: 3804590088913904377
+      Monster_47_Gas Planet_2: 4141803938506007075
+      Monster_47_Gas Planet_20: -5999465837232271197
+      Monster_47_Gas Planet_21: -2814928422769635236
+      Monster_47_Gas Planet_22c: -6378585784080397417
+      Monster_47_Gas Planet_23: -5459415800604876536
+      Monster_47_Gas Planet_24: 4767968780356834099
+      Monster_47_Gas Planet_25: -5847806213468115439
+      Monster_47_Gas Planet_26: -8551628232414281732
+      Monster_47_Gas Planet_27: 2336502218338011129
+      Monster_47_Gas Planet_28: -5921222538718560813
+      Monster_47_Gas Planet_29d: -7570607352453620077
+      Monster_47_Gas Planet_3: -5943734684530256195
+      Monster_47_Gas Planet_30: -3800489869221794082
+      Monster_47_Gas Planet_31: 4191475777989293302
+      Monster_47_Gas Planet_32: -6425034874777086155
+      Monster_47_Gas Planet_33: 4063090029443814952
+      Monster_47_Gas Planet_34: -7860409699466518346
+      Monster_47_Gas Planet_35: -8343605257944532661
+      Monster_47_Gas Planet_36: -5212852480494840515
+      Monster_47_Gas Planet_4: -4164870639498291126
+      Monster_47_Gas Planet_5: -5861592864910197871
+      Monster_47_Gas Planet_6: 683861118972698060
+      Monster_47_Gas Planet_7: 4934431685842719727
+      Monster_47_Gas Planet_8a: 8333880890028973696
+      Monster_47_Gas Planet_9: -4429115974084548211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

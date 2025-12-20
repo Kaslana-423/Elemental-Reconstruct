@@ -1,0 +1,1078 @@
+fileFormatVersion: 2
+guid: 72be444dc98e96646966da5b6d69892f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6993034185402363028
+    second: Monster_46_Purple Planet_0
+  - first:
+      213: -8474036670378315303
+    second: Monster_46_Purple Planet_1
+  - first:
+      213: -3842901408104512391
+    second: Monster_46_Purple Planet_2
+  - first:
+      213: 4333712368563180627
+    second: Monster_46_Purple Planet_3
+  - first:
+      213: -8307133009081603668
+    second: Monster_46_Purple Planet_4
+  - first:
+      213: -4595078224232354819
+    second: Monster_46_Purple Planet_5
+  - first:
+      213: -67530581635800712
+    second: Monster_46_Purple Planet_6
+  - first:
+      213: -6265729309086815975
+    second: Monster_46_Purple Planet_7
+  - first:
+      213: -8645260453909406933
+    second: Monster_46_Purple Planet_8a
+  - first:
+      213: -2330974174384626554
+    second: Monster_46_Purple Planet_9
+  - first:
+      213: -6592213280672282711
+    second: Monster_46_Purple Planet_10
+  - first:
+      213: 8940585515220815524
+    second: Monster_46_Purple Planet_11
+  - first:
+      213: 1673302873900183948
+    second: Monster_46_Purple Planet_12
+  - first:
+      213: 8247389960095958806
+    second: Monster_46_Purple Planet_13
+  - first:
+      213: 7980572017273016570
+    second: Monster_46_Purple Planet_14b
+  - first:
+      213: 6984124005270856030
+    second: Monster_46_Purple Planet_15
+  - first:
+      213: 4121303360650672891
+    second: Monster_46_Purple Planet_16
+  - first:
+      213: 8406888732300663804
+    second: Monster_46_Purple Planet_17
+  - first:
+      213: -7030770628793459228
+    second: Monster_46_Purple Planet_18
+  - first:
+      213: -5278457763989958377
+    second: Monster_46_Purple Planet_19
+  - first:
+      213: -3849275507903205500
+    second: Monster_46_Purple Planet_20
+  - first:
+      213: 1997261377560962799
+    second: Monster_46_Purple Planet_21c
+  - first:
+      213: 6575617739174649347
+    second: Monster_46_Purple Planet_22
+  - first:
+      213: -8580486627599815279
+    second: Monster_46_Purple Planet_23
+  - first:
+      213: -3773230649016214973
+    second: Monster_46_Purple Planet_24
+  - first:
+      213: 5973023797503828921
+    second: Monster_46_Purple Planet_25
+  - first:
+      213: -3284246102918761953
+    second: Monster_46_Purple Planet_26
+  - first:
+      213: -7120267897891892311
+    second: Monster_46_Purple Planet_27
+  - first:
+      213: -312266199036122543
+    second: Monster_46_Purple Planet_28
+  - first:
+      213: -841374461029750378
+    second: Monster_46_Purple Planet_29d
+  - first:
+      213: -3414895498902302126
+    second: Monster_46_Purple Planet_30
+  - first:
+      213: -9097137683551724487
+    second: Monster_46_Purple Planet_31
+  - first:
+      213: 3457489738817476939
+    second: Monster_46_Purple Planet_32
+  - first:
+      213: 4797127867456093618
+    second: Monster_46_Purple Planet_33
+  - first:
+      213: 87114331972797597
+    second: Monster_46_Purple Planet_34
+  - first:
+      213: 890379980082249944
+    second: Monster_46_Purple Planet_35
+  - first:
+      213: -8511532290802499679
+    second: Monster_46_Purple Planet_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c221b7a8f3c0160800000000000000
+      internalID: 6993034185402363028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d17770bb8c266a80800000000000000
+      internalID: -8474036670378315303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9740517a7854baac0800000000000000
+      internalID: -3842901408104512391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354dcee2070742c30800000000000000
+      internalID: 4333712368563180627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9e4c39a8227bc80800000000000000
+      internalID: -8307133009081603668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb6f7963b00b30c0800000000000000
+      internalID: -4595078224232354819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8716f163b45101ff0800000000000000
+      internalID: -67530581635800712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91960210468ab09a0800000000000000
+      internalID: -6265729309086815975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b5ff5fb6dd50880800000000000000
+      internalID: -8645260453909406933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684e133a657b6afd0800000000000000
+      internalID: -2330974174384626554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a78ae1c2f0c384a0800000000000000
+      internalID: -6592213280672282711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4db62827531c70800000000000000
+      internalID: 8940585515220815524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81f5782914c83710800000000000000
+      internalID: 1673302873900183948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_13
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61784afd87d947270800000000000000
+      internalID: 8247389960095958806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_14b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af01bf187ffa0ce60800000000000000
+      internalID: 7980572017273016570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51a27187c79ce060800000000000000
+      internalID: 6984124005270856030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaf437229fc13930800000000000000
+      internalID: 4121303360650672891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_17
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbd30ba2c44ba470800000000000000
+      internalID: 8406888732300663804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_18
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed148d1d5fad6e90800000000000000
+      internalID: -7030770628793459228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_19
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711d97f41a62fb6b0800000000000000
+      internalID: -5278457763989958377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_20
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f61d4e150a49ac0800000000000000
+      internalID: -3849275507903205500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_21c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e02514a2b7bb10800000000000000
+      internalID: 1997261377560962799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e1342ae79414b50800000000000000
+      internalID: 6575617739174649347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d6ce1afdcfbe880800000000000000
+      internalID: -8580486627599815279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_24
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a95c557bac2abc0800000000000000
+      internalID: -3773230649016214973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_25
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ab255f7174e250800000000000000
+      internalID: 5973023797503828921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_26
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12f090f1930c62d0800000000000000
+      internalID: -3284246102918761953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_27
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a35988521abf2d90800000000000000
+      internalID: -7120267897891892311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_28
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a2713eb8b9aabf0800000000000000
+      internalID: -312266199036122543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_29d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6996c3fa266d254f0800000000000000
+      internalID: -841374461029750378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25219daf2aadb90d0800000000000000
+      internalID: -3414895498902302126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c541bb97970c180800000000000000
+      internalID: -9097137683551724487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4916c059987bff20800000000000000
+      internalID: 3457489738817476939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_33
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdf8d11162d29240800000000000000
+      internalID: 4797127867456093618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_34
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94851cf50e753100800000000000000
+      internalID: 87114331972797597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_35
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d00cebdfd34b5c00800000000000000
+      internalID: 890379980082249944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_46_Purple Planet_36
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af33704a76f0e980800000000000000
+      internalID: -8511532290802499679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_46_Purple Planet_0: 6993034185402363028
+      Monster_46_Purple Planet_1: -8474036670378315303
+      Monster_46_Purple Planet_10: -6592213280672282711
+      Monster_46_Purple Planet_11: 8940585515220815524
+      Monster_46_Purple Planet_12: 1673302873900183948
+      Monster_46_Purple Planet_13: 8247389960095958806
+      Monster_46_Purple Planet_14b: 7980572017273016570
+      Monster_46_Purple Planet_15: 6984124005270856030
+      Monster_46_Purple Planet_16: 4121303360650672891
+      Monster_46_Purple Planet_17: 8406888732300663804
+      Monster_46_Purple Planet_18: -7030770628793459228
+      Monster_46_Purple Planet_19: -5278457763989958377
+      Monster_46_Purple Planet_2: -3842901408104512391
+      Monster_46_Purple Planet_20: -3849275507903205500
+      Monster_46_Purple Planet_21c: 1997261377560962799
+      Monster_46_Purple Planet_22: 6575617739174649347
+      Monster_46_Purple Planet_23: -8580486627599815279
+      Monster_46_Purple Planet_24: -3773230649016214973
+      Monster_46_Purple Planet_25: 5973023797503828921
+      Monster_46_Purple Planet_26: -3284246102918761953
+      Monster_46_Purple Planet_27: -7120267897891892311
+      Monster_46_Purple Planet_28: -312266199036122543
+      Monster_46_Purple Planet_29d: -841374461029750378
+      Monster_46_Purple Planet_3: 4333712368563180627
+      Monster_46_Purple Planet_30: -3414895498902302126
+      Monster_46_Purple Planet_31: -9097137683551724487
+      Monster_46_Purple Planet_32: 3457489738817476939
+      Monster_46_Purple Planet_33: 4797127867456093618
+      Monster_46_Purple Planet_34: 87114331972797597
+      Monster_46_Purple Planet_35: 890379980082249944
+      Monster_46_Purple Planet_36: -8511532290802499679
+      Monster_46_Purple Planet_4: -8307133009081603668
+      Monster_46_Purple Planet_5: -4595078224232354819
+      Monster_46_Purple Planet_6: -67530581635800712
+      Monster_46_Purple Planet_7: -6265729309086815975
+      Monster_46_Purple Planet_8a: -8645260453909406933
+      Monster_46_Purple Planet_9: -2330974174384626554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

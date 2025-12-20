@@ -1,0 +1,1103 @@
+fileFormatVersion: 2
+guid: 0d6d0462646710e4c9b1deb74ec3a4c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5154299699303029423
+    second: Monster_1_Salamander_0
+  - first:
+      213: -4655008610881595482
+    second: Monster_1_Salamander_1
+  - first:
+      213: -2224109292345527664
+    second: Monster_1_Salamander_2
+  - first:
+      213: 7201688227271302037
+    second: Monster_1_Salamander_3
+  - first:
+      213: 2736965834092827260
+    second: Monster_1_Salamander_4
+  - first:
+      213: -8589047288328244815
+    second: Monster_1_Salamander_5
+  - first:
+      213: 2568621174304948165
+    second: Monster_1_Salamander_6A
+  - first:
+      213: 2615243906363517317
+    second: Monster_1_Salamander_7
+  - first:
+      213: -4377852974532976417
+    second: Monster_1_Salamander_8
+  - first:
+      213: -5342963461261162172
+    second: Monster_1_Salamander_9
+  - first:
+      213: 7278867866596469584
+    second: Monster_1_Salamander_10
+  - first:
+      213: 2199863176863461940
+    second: Monster_1_Salamander_11
+  - first:
+      213: -995311132330115218
+    second: Monster_1_Salamander_12
+  - first:
+      213: 6018796813476144751
+    second: Monster_1_Salamander_13
+  - first:
+      213: -3668312785046781800
+    second: Monster_1_Salamander_14
+  - first:
+      213: -221425503761160873
+    second: Monster_1_Salamander_15S
+  - first:
+      213: 4616076435284430757
+    second: Monster_1_Salamander_16
+  - first:
+      213: -576694052180767390
+    second: Monster_1_Salamander_17
+  - first:
+      213: 2436674585365674195
+    second: Monster_1_Salamander_18
+  - first:
+      213: -1880325293734857228
+    second: Monster_1_Salamander_19
+  - first:
+      213: -4228843094272159898
+    second: Monster_1_Salamander_20
+  - first:
+      213: -5879876358952158983
+    second: Monster_1_Salamander_21D
+  - first:
+      213: 6776658469615681647
+    second: Monster_1_Salamander_22
+  - first:
+      213: 1617060992113039035
+    second: Monster_1_Salamander_23
+  - first:
+      213: 13585571387305107
+    second: Monster_1_Salamander_24
+  - first:
+      213: -7709010044396907768
+    second: Monster_1_Salamander_25
+  - first:
+      213: 8429924182821001149
+    second: Monster_1_Salamander_26
+  - first:
+      213: -550640066768368152
+    second: Monster_1_Salamander_27
+  - first:
+      213: 7268297076259027355
+    second: Monster_1_Salamander_28
+  - first:
+      213: 2652827133667951705
+    second: Monster_1_Salamander_29
+  - first:
+      213: 476629027176247710
+    second: Monster_1_Salamander_30
+  - first:
+      213: -2928685858924580721
+    second: Monster_1_Salamander_31
+  - first:
+      213: -8301120841838357732
+    second: Monster_1_Salamander_32E
+  - first:
+      213: 1714332725340963049
+    second: Monster_1_Salamander_33
+  - first:
+      213: 1183063616686453522
+    second: Monster_1_Salamander_34
+  - first:
+      213: 392356246885431490
+    second: Monster_1_Salamander_35
+  - first:
+      213: -1221236070252750852
+    second: Monster_1_Salamander_36
+  - first:
+      213: -5403992228383037786
+    second: Monster_1_Salamander_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_1_Salamander_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155e32d6bbf3878b0800000000000000
+      internalID: -5154299699303029423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7940ae456166fb0800000000000000
+      internalID: -4655008610881595482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0927918e1606221e0800000000000000
+      internalID: -2224109292345527664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b5e99594981f360800000000000000
+      internalID: 7201688227271302037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72db7fcce7abf520800000000000000
+      internalID: 2736965834092827260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_5
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1b92c7ff29dc880800000000000000
+      internalID: -8589047288328244815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_6A
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf3ef0595395a320800000000000000
+      internalID: 2568621174304948165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896dc70a763b4420800000000000000
+      internalID: 2615243906363517317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0231e1aedbe33c0800000000000000
+      internalID: -4377852974532976417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_9
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44903ab4a0bf9d5b0800000000000000
+      internalID: -5342963461261162172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bec7372cbb30560800000000000000
+      internalID: 7278867866596469584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_11
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432b86b67eb778e10800000000000000
+      internalID: 2199863176863461940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_12
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fb87c6cc1ff22f0800000000000000
+      internalID: -995311132330115218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_13
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66af7a10df078350800000000000000
+      internalID: 6018796813476144751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_14
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890434225f8871dc0800000000000000
+      internalID: -3668312785046781800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_15S
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755aa107da65decf0800000000000000
+      internalID: -221425503761160873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af0e259f099f0040800000000000000
+      internalID: 4616076435284430757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_17
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d4fa3a0db2ff7f0800000000000000
+      internalID: -576694052180767390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d871f510aec0d120800000000000000
+      internalID: 2436674585365674195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_19
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f570c49b1eb7e5e0800000000000000
+      internalID: -1880325293734857228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_20
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f4b037c912055c0800000000000000
+      internalID: -4228843094272159898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_21D
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8707dba9b766ea0800000000000000
+      internalID: -5879876358952158983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c59d49f68b0e50800000000000000
+      internalID: 6776658469615681647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6d90f9764f07610800000000000000
+      internalID: 1617060992113039035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_24
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c6c945104403000800000000000000
+      internalID: 13585571387305107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ddcd6538140590800000000000000
+      internalID: -7709010044396907768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_26
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db75580716b1df470800000000000000
+      internalID: 8429924182821001149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_27
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed8c25d6cbbb58f0800000000000000
+      internalID: -550640066768368152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_28
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99fd688ead2ed460800000000000000
+      internalID: 7268297076259027355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_29
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954cbc8093cb0d420800000000000000
+      internalID: 2652827133667951705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_30
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91fa7e23935d9600800000000000000
+      internalID: 476629027176247710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_31
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8037186ab73b57d0800000000000000
+      internalID: -2928685858924580721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_32E
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1312a8539e7ccc80800000000000000
+      internalID: -8301120841838357732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e086c0e7888ac710800000000000000
+      internalID: 1714332725340963049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213f84b57161b6010800000000000000
+      internalID: 1183063616686453522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_35
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8f2018dede17500800000000000000
+      internalID: 392356246885431490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_36
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7d0b5b34c4d0fe0800000000000000
+      internalID: -1221236070252750852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_1_Salamander_37
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6e14a23b92105b0800000000000000
+      internalID: -5403992228383037786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_1_Salamander_0: -5154299699303029423
+      Monster_1_Salamander_1: -4655008610881595482
+      Monster_1_Salamander_10: 7278867866596469584
+      Monster_1_Salamander_11: 2199863176863461940
+      Monster_1_Salamander_12: -995311132330115218
+      Monster_1_Salamander_13: 6018796813476144751
+      Monster_1_Salamander_14: -3668312785046781800
+      Monster_1_Salamander_15S: -221425503761160873
+      Monster_1_Salamander_16: 4616076435284430757
+      Monster_1_Salamander_17: -576694052180767390
+      Monster_1_Salamander_18: 2436674585365674195
+      Monster_1_Salamander_19: -1880325293734857228
+      Monster_1_Salamander_2: -2224109292345527664
+      Monster_1_Salamander_20: -4228843094272159898
+      Monster_1_Salamander_21D: -5879876358952158983
+      Monster_1_Salamander_22: 6776658469615681647
+      Monster_1_Salamander_23: 1617060992113039035
+      Monster_1_Salamander_24: 13585571387305107
+      Monster_1_Salamander_25: -7709010044396907768
+      Monster_1_Salamander_26: 8429924182821001149
+      Monster_1_Salamander_27: -550640066768368152
+      Monster_1_Salamander_28: 7268297076259027355
+      Monster_1_Salamander_29: 2652827133667951705
+      Monster_1_Salamander_3: 7201688227271302037
+      Monster_1_Salamander_30: 476629027176247710
+      Monster_1_Salamander_31: -2928685858924580721
+      Monster_1_Salamander_32E: -8301120841838357732
+      Monster_1_Salamander_33: 1714332725340963049
+      Monster_1_Salamander_34: 1183063616686453522
+      Monster_1_Salamander_35: 392356246885431490
+      Monster_1_Salamander_36: -1221236070252750852
+      Monster_1_Salamander_37: -5403992228383037786
+      Monster_1_Salamander_4: 2736965834092827260
+      Monster_1_Salamander_5: -8589047288328244815
+      Monster_1_Salamander_6A: 2568621174304948165
+      Monster_1_Salamander_7: 2615243906363517317
+      Monster_1_Salamander_8: -4377852974532976417
+      Monster_1_Salamander_9: -5342963461261162172
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

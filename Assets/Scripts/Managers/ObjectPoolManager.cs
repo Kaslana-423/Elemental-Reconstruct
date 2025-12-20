@@ -5,61 +5,76 @@ public class ObjectPoolManager : MonoBehaviour
 {
     public static ObjectPoolManager Instance;
 
-    // 字典：Key是预制体的名字，Value是这个预制体对应的队列（池子）
-    private Dictionary<string, Queue<GameObject>> poolDictionary = new Dictionary<string, Queue<GameObject>>();
+    // 字典：Key是预制体(Prefab)，Value是这个预制体对应的队列
+    private Dictionary<GameObject, Queue<GameObject>> poolDictionary = new Dictionary<GameObject, Queue<GameObject>>();
+
+    // 为了保持Hierarchy面板整洁，把生成的子弹都放在这个父物体下
+    private Transform poolParent;
 
     void Awake()
     {
         if (Instance == null) Instance = this;
         else Destroy(gameObject);
+
+        poolParent = new GameObject("ProjectilePool_Parent").transform;
     }
 
-    // --- 核心方法 1: 从池中获取对象 ---
-    public GameObject GetObject(GameObject prefab, Vector3 position, Quaternion rotation)
+    /// <summary>
+    /// 从池中获取对象 (替代 Instantiate)
+    /// </summary>
+    public GameObject Spawn(GameObject prefab, Vector3 position, Quaternion rotation)
     {
-        string key = prefab.name;
-
-        // 1. 如果字典里还没这个池子，先创建一个
-        if (!poolDictionary.ContainsKey(key))
+        // 1. 如果字典里还没这个预制体的记录，先创建一条记录
+        if (!poolDictionary.ContainsKey(prefab))
         {
-            poolDictionary[key] = new Queue<GameObject>();
+            poolDictionary.Add(prefab, new Queue<GameObject>());
         }
 
-        // 2. 尝试从队列里取出一个闲置对象
-        if (poolDictionary[key].Count > 0)
+        // 2. 检查队列里有没有闲置的子弹
+        if (poolDictionary[prefab].Count > 0)
         {
-            GameObject obj = poolDictionary[key].Dequeue();
+            // 有闲置的：取出来
+            GameObject obj = poolDictionary[prefab].Dequeue();
 
-            // 如果这个对象在池子里的时候意外被删了(极少情况)，就递归再取一次
-            if (obj == null) return GetObject(prefab, position, rotation);
+            // 【保险措施】防止取出的对象在外部被意外销毁了
+            if (obj == null)
+            {
+                return Spawn(prefab, position, rotation);
+            }
 
-            obj.SetActive(true); // 激活它！
+            obj.SetActive(true);
             obj.transform.position = position;
-            obj.transform.rotation = rotation; // 添加旋转设置
+            obj.transform.rotation = rotation;
             return obj;
         }
         else
         {
-            // 3. 如果池子空了，只能实例化一个新的（扩容）
-            GameObject newObj = Instantiate(prefab, position, rotation); // 使用 rotation
-            newObj.name = key; // 确保名字一致，方便回收
+            // 没闲置的：创建一个新的 (Instantiate)
+            GameObject newObj = Instantiate(prefab, position, rotation);
+            newObj.transform.SetParent(poolParent);
+
+            // 这里可以给物体挂一个标记，记下它是属于哪个 prefab 的（可选，用于高级回收逻辑）
+            // 目前简单实现，直接返回
             return newObj;
         }
     }
 
-    // --- 核心方法 2: 回收对象 ---
-    public void ReturnObject(GameObject obj)
+    /// <summary>
+    /// 把对象放回池里 (替代 Destroy)
+    /// </summary>
+    public void ReturnToPool(GameObject obj, GameObject originalPrefab)
     {
-        string key = obj.name; // 这里我们利用名字作为Key
+        obj.SetActive(false); // 隐藏
 
-        // 确保它被停用
-        obj.SetActive(false);
+        // 这里的 originalPrefab 必须是你生成它时用的那个预制体
+        // 如果你不方便传 prefab，可以在 Spawn 时给 obj 挂个脚本记录它的来源
+        // 这里为了简单，我们假设调用方知道它是谁生成的
 
-        // 放入对应的队列
-        if (!poolDictionary.ContainsKey(key))
+        if (!poolDictionary.ContainsKey(originalPrefab))
         {
-            poolDictionary[key] = new Queue<GameObject>();
+            poolDictionary.Add(originalPrefab, new Queue<GameObject>());
         }
-        poolDictionary[key].Enqueue(obj);
+
+        poolDictionary[originalPrefab].Enqueue(obj);
     }
 }

@@ -1,0 +1,1078 @@
+fileFormatVersion: 2
+guid: 7d6f83020bcac7a45bbb9cd135ab6d23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4218302947396321748
+    second: Monster_29_Water Rabbit_0
+  - first:
+      213: -4060984535045481453
+    second: Monster_29_Water Rabbit_1
+  - first:
+      213: -3706380076705558053
+    second: Monster_29_Water Rabbit_2
+  - first:
+      213: 7827836972868989801
+    second: Monster_29_Water Rabbit_3
+  - first:
+      213: 7069297359053332291
+    second: Monster_29_Water Rabbit_4
+  - first:
+      213: 4299301974031121087
+    second: Monster_29_Water Rabbit_5
+  - first:
+      213: -2379523975100730737
+    second: Monster_29_Water Rabbit_6
+  - first:
+      213: 3040550822177668915
+    second: Monster_29_Water Rabbit_7a
+  - first:
+      213: 4421794274703247452
+    second: Monster_29_Water Rabbit_8
+  - first:
+      213: -4234204098530052743
+    second: Monster_29_Water Rabbit_9
+  - first:
+      213: -5037541034756254565
+    second: Monster_29_Water Rabbit_10
+  - first:
+      213: 9058400396337444991
+    second: Monster_29_Water Rabbit_11
+  - first:
+      213: -939192743642358397
+    second: Monster_29_Water Rabbit_12
+  - first:
+      213: -3697807625030329366
+    second: Monster_29_Water Rabbit_13
+  - first:
+      213: -3455688547260563116
+    second: Monster_29_Water Rabbit_14b
+  - first:
+      213: -6799856046904443321
+    second: Monster_29_Water Rabbit_15
+  - first:
+      213: -7186829235525742725
+    second: Monster_29_Water Rabbit_16
+  - first:
+      213: 6432247824914004090
+    second: Monster_29_Water Rabbit_17
+  - first:
+      213: 2218857327890611067
+    second: Monster_29_Water Rabbit_18
+  - first:
+      213: -7461306099925265612
+    second: Monster_29_Water Rabbit_19c
+  - first:
+      213: 7640546687915697945
+    second: Monster_29_Water Rabbit_20
+  - first:
+      213: -6296436182132705930
+    second: Monster_29_Water Rabbit_21
+  - first:
+      213: 7429016582091799201
+    second: Monster_29_Water Rabbit_22
+  - first:
+      213: 359002484460905533
+    second: Monster_29_Water Rabbit_23
+  - first:
+      213: 6644156653575198017
+    second: Monster_29_Water Rabbit_24
+  - first:
+      213: -2438414892542642326
+    second: Monster_29_Water Rabbit_25
+  - first:
+      213: 7329783024943658036
+    second: Monster_29_Water Rabbit_26
+  - first:
+      213: -7470090941954310983
+    second: Monster_29_Water Rabbit_27
+  - first:
+      213: 2856720457884723711
+    second: Monster_29_Water Rabbit_28
+  - first:
+      213: -4555564915143575710
+    second: Monster_29_Water Rabbit_29d
+  - first:
+      213: 8565514716214859959
+    second: Monster_29_Water Rabbit_30
+  - first:
+      213: -3387762486864295842
+    second: Monster_29_Water Rabbit_31
+  - first:
+      213: 7977436200040059161
+    second: Monster_29_Water Rabbit_32
+  - first:
+      213: -5832744013607751873
+    second: Monster_29_Water Rabbit_33
+  - first:
+      213: -971965375760850526
+    second: Monster_29_Water Rabbit_34
+  - first:
+      213: -9058755195927107960
+    second: Monster_29_Water Rabbit_35
+  - first:
+      213: 5955206462228023648
+    second: Monster_29_Water Rabbit_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d18a8e5e2c6a8a30800000000000000
+      internalID: 4218302947396321748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c5246d41c74a7c0800000000000000
+      internalID: -4060984535045481453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1516d15fa409cc0800000000000000
+      internalID: -3706380076705558053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963768fc04012ac60800000000000000
+      internalID: 7827836972868989801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f1bf94e703b1260800000000000000
+      internalID: 7069297359053332291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbab240ed503aab30800000000000000
+      internalID: 4299301974031121087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8278994d8b3afed0800000000000000
+      internalID: -2379523975100730737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_7a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ffb6dfcd4323a20800000000000000
+      internalID: 3040550822177668915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c580b85177e5d5d30800000000000000
+      internalID: 4421794274703247452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975fc906ec51d35c0800000000000000
+      internalID: -4234204098530052743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9456e17e1f071ab0800000000000000
+      internalID: -5037541034756254565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7873f0ca27e5bd70800000000000000
+      internalID: 9058400396337444991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_12
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d929bfc2157f2f0800000000000000
+      internalID: -939192743642358397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_13
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb165e8e8fbeacc0800000000000000
+      internalID: -3697807625030329366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_14b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4510626439dea00d0800000000000000
+      internalID: -3455688547260563116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ef778d3fe02a1a0800000000000000
+      internalID: -6799856046904443321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f881343e0434c90800000000000000
+      internalID: -7186829235525742725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_17
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a783747315fe34950800000000000000
+      internalID: 6432247824914004090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_18
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b3134dbf6face10800000000000000
+      internalID: 2218857327890611067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_19c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433df7142ad147890800000000000000
+      internalID: -7461306099925265612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917a0073bbca80a60800000000000000
+      internalID: 7640546687915697945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675301df6a09e98a0800000000000000
+      internalID: -6296436182132705930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa7116883b291760800000000000000
+      internalID: 7429016582091799201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_23
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3466c78bde6bf400800000000000000
+      internalID: 359002484460905533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_24
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145d5603649c43c50800000000000000
+      internalID: 6644156653575198017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_25
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6739f21392092ed0800000000000000
+      internalID: -2438414892542642326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_26
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434747a83de98b560800000000000000
+      internalID: 7329783024943658036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_27
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc33f4ddd7e45890800000000000000
+      internalID: -7470090941954310983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_28
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff96fc2fe1c15a720800000000000000
+      internalID: 2856720457884723711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_29d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26772a998d167c0c0800000000000000
+      internalID: -4555564915143575710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b81e5a9042ded670800000000000000
+      internalID: 8565514716214859959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e584f03a7ff3cf0d0800000000000000
+      internalID: -3387762486864295842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911dab925fb85be60800000000000000
+      internalID: 7977436200040059161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_33
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3faf1b093eed0fa0800000000000000
+      internalID: -5832744013607751873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_34
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1abc3f3a2e282f0800000000000000
+      internalID: -971965375760850526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_35
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8866a870526d84280800000000000000
+      internalID: -9058755195927107960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_29_Water Rabbit_36
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0694631b9b425a250800000000000000
+      internalID: 5955206462228023648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_29_Water Rabbit_0: 4218302947396321748
+      Monster_29_Water Rabbit_1: -4060984535045481453
+      Monster_29_Water Rabbit_10: -5037541034756254565
+      Monster_29_Water Rabbit_11: 9058400396337444991
+      Monster_29_Water Rabbit_12: -939192743642358397
+      Monster_29_Water Rabbit_13: -3697807625030329366
+      Monster_29_Water Rabbit_14b: -3455688547260563116
+      Monster_29_Water Rabbit_15: -6799856046904443321
+      Monster_29_Water Rabbit_16: -7186829235525742725
+      Monster_29_Water Rabbit_17: 6432247824914004090
+      Monster_29_Water Rabbit_18: 2218857327890611067
+      Monster_29_Water Rabbit_19c: -7461306099925265612
+      Monster_29_Water Rabbit_2: -3706380076705558053
+      Monster_29_Water Rabbit_20: 7640546687915697945
+      Monster_29_Water Rabbit_21: -6296436182132705930
+      Monster_29_Water Rabbit_22: 7429016582091799201
+      Monster_29_Water Rabbit_23: 359002484460905533
+      Monster_29_Water Rabbit_24: 6644156653575198017
+      Monster_29_Water Rabbit_25: -2438414892542642326
+      Monster_29_Water Rabbit_26: 7329783024943658036
+      Monster_29_Water Rabbit_27: -7470090941954310983
+      Monster_29_Water Rabbit_28: 2856720457884723711
+      Monster_29_Water Rabbit_29d: -4555564915143575710
+      Monster_29_Water Rabbit_3: 7827836972868989801
+      Monster_29_Water Rabbit_30: 8565514716214859959
+      Monster_29_Water Rabbit_31: -3387762486864295842
+      Monster_29_Water Rabbit_32: 7977436200040059161
+      Monster_29_Water Rabbit_33: -5832744013607751873
+      Monster_29_Water Rabbit_34: -971965375760850526
+      Monster_29_Water Rabbit_35: -9058755195927107960
+      Monster_29_Water Rabbit_36: 5955206462228023648
+      Monster_29_Water Rabbit_4: 7069297359053332291
+      Monster_29_Water Rabbit_5: 4299301974031121087
+      Monster_29_Water Rabbit_6: -2379523975100730737
+      Monster_29_Water Rabbit_7a: 3040550822177668915
+      Monster_29_Water Rabbit_8: 4421794274703247452
+      Monster_29_Water Rabbit_9: -4234204098530052743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

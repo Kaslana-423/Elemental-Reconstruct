@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: 7c69ea736ae52c541b716c8b4faaed43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3458159225737487166
+    second: Monster_67_Rune Ghost_0
+  - first:
+      213: 4004366585124981838
+    second: Monster_67_Rune Ghost_1
+  - first:
+      213: 605702686487422559
+    second: Monster_67_Rune Ghost_2
+  - first:
+      213: -4804884066599758819
+    second: Monster_67_Rune Ghost_3
+  - first:
+      213: -5952900235497175362
+    second: Monster_67_Rune Ghost_4
+  - first:
+      213: -8864213679056343188
+    second: Monster_67_Rune Ghost_5
+  - first:
+      213: -7347701934241021198
+    second: Monster_67_Rune Ghost_6
+  - first:
+      213: -7925762356249735114
+    second: Monster_67_Rune Ghost_7
+  - first:
+      213: -7062347075803262735
+    second: Monster_67_Rune Ghost_8
+  - first:
+      213: 3930761693642949038
+    second: Monster_67_Rune Ghost_9a
+  - first:
+      213: 8879864388658240099
+    second: Monster_67_Rune Ghost_10
+  - first:
+      213: -825724588793467991
+    second: Monster_67_Rune Ghost_11
+  - first:
+      213: 4369085019450443580
+    second: Monster_67_Rune Ghost_12
+  - first:
+      213: -2656320665558261084
+    second: Monster_67_Rune Ghost_13
+  - first:
+      213: 4155719964914843247
+    second: Monster_67_Rune Ghost_14
+  - first:
+      213: -1568927978132244098
+    second: Monster_67_Rune Ghost_15
+  - first:
+      213: -1721355797758027604
+    second: Monster_67_Rune Ghost_16
+  - first:
+      213: 2005694556933647620
+    second: Monster_67_Rune Ghost_17
+  - first:
+      213: 4266066651384959292
+    second: Monster_67_Rune Ghost_18
+  - first:
+      213: -614937179144617594
+    second: Monster_67_Rune Ghost_19
+  - first:
+      213: -3263409096994916469
+    second: Monster_67_Rune Ghost_20b
+  - first:
+      213: 2111168222210769950
+    second: Monster_67_Rune Ghost_21
+  - first:
+      213: 6720755423243208505
+    second: Monster_67_Rune Ghost_22
+  - first:
+      213: -1002799972454164181
+    second: Monster_67_Rune Ghost_23
+  - first:
+      213: 7090575234092473807
+    second: Monster_67_Rune Ghost_24
+  - first:
+      213: -447296591126456296
+    second: Monster_67_Rune Ghost_25
+  - first:
+      213: 8465091727760962772
+    second: Monster_67_Rune Ghost_26c
+  - first:
+      213: -7848559926592708333
+    second: Monster_67_Rune Ghost_27
+  - first:
+      213: 7438813959081415815
+    second: Monster_67_Rune Ghost_28
+  - first:
+      213: -5158893778106854012
+    second: Monster_67_Rune Ghost_29
+  - first:
+      213: -3425183842922483845
+    second: Monster_67_Rune Ghost_30
+  - first:
+      213: -8330951593371870617
+    second: Monster_67_Rune Ghost_31
+  - first:
+      213: -6048777563115740650
+    second: Monster_67_Rune Ghost_32
+  - first:
+      213: -3850742342485026856
+    second: Monster_67_Rune Ghost_33
+  - first:
+      213: 4724157131309230085
+    second: Monster_67_Rune Ghost_34
+  - first:
+      213: 6753195758529876137
+    second: Monster_67_Rune Ghost_35
+  - first:
+      213: 682067858188675686
+    second: Monster_67_Rune Ghost_36
+  - first:
+      213: 3114834578524493862
+    second: Monster_67_Rune Ghost_37d
+  - first:
+      213: -4137437096562030203
+    second: Monster_67_Rune Ghost_38
+  - first:
+      213: 775024215791781509
+    second: Monster_67_Rune Ghost_39
+  - first:
+      213: 1769598420748278526
+    second: Monster_67_Rune Ghost_40
+  - first:
+      213: -3817885411691202064
+    second: Monster_67_Rune Ghost_41
+  - first:
+      213: -216353833290211629
+    second: Monster_67_Rune Ghost_42
+  - first:
+      213: 7105174897239006046
+    second: Monster_67_Rune Ghost_43
+  - first:
+      213: 6492651787402211666
+    second: Monster_67_Rune Ghost_44
+  - first:
+      213: -1274764749614554843
+    second: Monster_67_Rune Ghost_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc5d2d91862200d0800000000000000
+      internalID: -3458159225737487166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c81d0713e529730800000000000000
+      internalID: 4004366585124981838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56259b5263e76800800000000000000
+      internalID: 605702686487422559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d141367166f915db0800000000000000
+      internalID: -4804884066599758819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb60adf86cc036da0800000000000000
+      internalID: -5952900235497175362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f20be9f9cfbf480800000000000000
+      internalID: -8864213679056343188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f20d164508b70a90800000000000000
+      internalID: -7347701934241021198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63052952129020290800000000000000
+      internalID: -7925762356249735114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_8
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f05a32a0c08dfd90800000000000000
+      internalID: -7062347075803262735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_9a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea10d4e2feedc8630800000000000000
+      internalID: 3930761693642949038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9d9b2d9d9b3b70800000000000000
+      internalID: 8879864388658240099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abe8a28cdf6a84f0800000000000000
+      internalID: -825724588793467991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_12
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3703d14dab12ac30800000000000000
+      internalID: 4369085019450443580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_13
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2eedfad6ad22bd0800000000000000
+      internalID: -2656320665558261084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_14
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e7fb64a451ca930800000000000000
+      internalID: 4155719964914843247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_15
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e797141015c0a3ae0800000000000000
+      internalID: -1568927978132244098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_16
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8d296a5048c18e0800000000000000
+      internalID: -1721355797758027604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_17
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40de6f9a298a5db10800000000000000
+      internalID: 2005694556933647620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_18
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d0ff440d143b30800000000000000
+      internalID: 4266066651384959292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_19
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68187e5c4ed4777f0800000000000000
+      internalID: -614937179144617594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_20b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87f6d077ba06b2d0800000000000000
+      internalID: -3263409096994916469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1447f900506c4d10800000000000000
+      internalID: 2111168222210769950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_22
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93701b8037be44d50800000000000000
+      internalID: 6720755423243208505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_23
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b291915fcb65512f0800000000000000
+      internalID: -1002799972454164181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_24
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd9341ab98c66260800000000000000
+      internalID: 7090575234092473807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_25
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8181aa8ce12eac9f0800000000000000
+      internalID: -447296591126456296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_26c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d43a40931c0a7570800000000000000
+      internalID: 8465091727760962772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31163198450541390800000000000000
+      internalID: -7848559926592708333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784d34d12e9fb3760800000000000000
+      internalID: 7438813959081415815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_29
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485d7f9117de768b0800000000000000
+      internalID: -5158893778106854012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_30
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fa238317d4770d0800000000000000
+      internalID: -3425183842922483845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_31
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a58144aa3826c80800000000000000
+      internalID: -8330951593371870617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_32
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6122229aadc6e0ca0800000000000000
+      internalID: -6048777563115740650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_33
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7df9add3a6f8ac0800000000000000
+      internalID: -3850742342485026856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_34
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a0da91e39f8140800000000000000
+      internalID: 4724157131309230085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_35
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a019dd23cb28bd50800000000000000
+      internalID: 6753195758529876137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_36
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a2c007a11377900800000000000000
+      internalID: 682067858188675686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_37d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6285e0bcb8d1a3b20800000000000000
+      internalID: 3114834578524493862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58985eab1eed496c0800000000000000
+      internalID: -4137437096562030203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_39
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58648920b6071ca00800000000000000
+      internalID: 775024215791781509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_40
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa1bcf4360ee8810800000000000000
+      internalID: 1769598420748278526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_41
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9fff23275240bc0800000000000000
+      internalID: -3817885411691202064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_42
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de51fcb55b5ffcf0800000000000000
+      internalID: -216353833290211629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_43
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b14f89ce6aa9260800000000000000
+      internalID: 7105174897239006046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_44
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251f96ea6688a1a50800000000000000
+      internalID: 6492651787402211666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_67_Rune Ghost_45
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e807d6302f4ee0800000000000000
+      internalID: -1274764749614554843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_67_Rune Ghost_0: -3458159225737487166
+      Monster_67_Rune Ghost_1: 4004366585124981838
+      Monster_67_Rune Ghost_10: 8879864388658240099
+      Monster_67_Rune Ghost_11: -825724588793467991
+      Monster_67_Rune Ghost_12: 4369085019450443580
+      Monster_67_Rune Ghost_13: -2656320665558261084
+      Monster_67_Rune Ghost_14: 4155719964914843247
+      Monster_67_Rune Ghost_15: -1568927978132244098
+      Monster_67_Rune Ghost_16: -1721355797758027604
+      Monster_67_Rune Ghost_17: 2005694556933647620
+      Monster_67_Rune Ghost_18: 4266066651384959292
+      Monster_67_Rune Ghost_19: -614937179144617594
+      Monster_67_Rune Ghost_2: 605702686487422559
+      Monster_67_Rune Ghost_20b: -3263409096994916469
+      Monster_67_Rune Ghost_21: 2111168222210769950
+      Monster_67_Rune Ghost_22: 6720755423243208505
+      Monster_67_Rune Ghost_23: -1002799972454164181
+      Monster_67_Rune Ghost_24: 7090575234092473807
+      Monster_67_Rune Ghost_25: -447296591126456296
+      Monster_67_Rune Ghost_26c: 8465091727760962772
+      Monster_67_Rune Ghost_27: -7848559926592708333
+      Monster_67_Rune Ghost_28: 7438813959081415815
+      Monster_67_Rune Ghost_29: -5158893778106854012
+      Monster_67_Rune Ghost_3: -4804884066599758819
+      Monster_67_Rune Ghost_30: -3425183842922483845
+      Monster_67_Rune Ghost_31: -8330951593371870617
+      Monster_67_Rune Ghost_32: -6048777563115740650
+      Monster_67_Rune Ghost_33: -3850742342485026856
+      Monster_67_Rune Ghost_34: 4724157131309230085
+      Monster_67_Rune Ghost_35: 6753195758529876137
+      Monster_67_Rune Ghost_36: 682067858188675686
+      Monster_67_Rune Ghost_37d: 3114834578524493862
+      Monster_67_Rune Ghost_38: -4137437096562030203
+      Monster_67_Rune Ghost_39: 775024215791781509
+      Monster_67_Rune Ghost_4: -5952900235497175362
+      Monster_67_Rune Ghost_40: 1769598420748278526
+      Monster_67_Rune Ghost_41: -3817885411691202064
+      Monster_67_Rune Ghost_42: -216353833290211629
+      Monster_67_Rune Ghost_43: 7105174897239006046
+      Monster_67_Rune Ghost_44: 6492651787402211666
+      Monster_67_Rune Ghost_45: -1274764749614554843
+      Monster_67_Rune Ghost_5: -8864213679056343188
+      Monster_67_Rune Ghost_6: -7347701934241021198
+      Monster_67_Rune Ghost_7: -7925762356249735114
+      Monster_67_Rune Ghost_8: -7062347075803262735
+      Monster_67_Rune Ghost_9a: 3930761693642949038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

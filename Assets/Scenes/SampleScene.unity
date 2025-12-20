@@ -5709,11 +5709,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fdd0ee0c4ee144c44a8cb1beff64a594, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myCharacterStats: {fileID: 0}
   moveSpeed: 6
   animator: {fileID: 898462682}
   spriteRenderer: {fileID: 898462676}
   ShopUI: {fileID: 378599339}
   playerAttack: {fileID: 0}
+  combatRegenRate: 4
+  peaceRegenRate: 25
+  peaceStateDelay: 2
 --- !u!50 &898462679
 Rigidbody2D:
   serializedVersion: 4
@@ -5753,6 +5757,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b05e70c03eb28a4f8d2629e8684ec9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxMP: 300
+  _currentMP: 0
 --- !u!70 &898462681
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -5852,7 +5858,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firePoint: {fileID: 1609777773}
-  globalCooldown: 0.2
+  fireInterval: 0.5
 --- !u!1 &908766716
 GameObject:
   m_ObjectHideFlags: 0
@@ -6626,7 +6632,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 822267956}
   m_Direction: 2
   m_Value: 0.00000051972756
-  m_Size: 0.00000049451126
+  m_Size: 0.80970365
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:

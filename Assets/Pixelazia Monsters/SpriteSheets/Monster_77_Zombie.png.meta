@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 1f17e0f95d60c1f408ac7e6be5a2dc07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7700506113788186003
+    second: Monster_77_Zombie_0
+  - first:
+      213: -6817319516875803059
+    second: Monster_77_Zombie_1
+  - first:
+      213: 6529385862098147641
+    second: Monster_77_Zombie_2
+  - first:
+      213: 8773498063847588794
+    second: Monster_77_Zombie_3
+  - first:
+      213: 6740730985483325744
+    second: Monster_77_Zombie_4
+  - first:
+      213: 4682636534805300070
+    second: Monster_77_Zombie_5
+  - first:
+      213: -1286618278357617090
+    second: Monster_77_Zombie_6
+  - first:
+      213: -2850661422042648132
+    second: Monster_77_Zombie_7
+  - first:
+      213: 5562379821894235728
+    second: Monster_77_Zombie_8a
+  - first:
+      213: -9178255563323566462
+    second: Monster_77_Zombie_9
+  - first:
+      213: 796772791778104010
+    second: Monster_77_Zombie_10
+  - first:
+      213: 7795645983194674026
+    second: Monster_77_Zombie_11
+  - first:
+      213: -8619971387883268594
+    second: Monster_77_Zombie_12
+  - first:
+      213: 2807367540712455523
+    second: Monster_77_Zombie_13
+  - first:
+      213: -7312575270359702279
+    second: Monster_77_Zombie_14
+  - first:
+      213: -8083455452043774043
+    second: Monster_77_Zombie_15
+  - first:
+      213: -5198377796744958868
+    second: Monster_77_Zombie_16
+  - first:
+      213: -1799408883095716208
+    second: Monster_77_Zombie_17b
+  - first:
+      213: -3210248125003867544
+    second: Monster_77_Zombie_18
+  - first:
+      213: 6548564018607152776
+    second: Monster_77_Zombie_19
+  - first:
+      213: 7209888485909394706
+    second: Monster_77_Zombie_20
+  - first:
+      213: 7695335891049240028
+    second: Monster_77_Zombie_21
+  - first:
+      213: 5941455912781724570
+    second: Monster_77_Zombie_22
+  - first:
+      213: -5353343820504662929
+    second: Monster_77_Zombie_23c
+  - first:
+      213: -1981390857919304206
+    second: Monster_77_Zombie_24
+  - first:
+      213: -7072627080807827531
+    second: Monster_77_Zombie_25
+  - first:
+      213: 862908817494865024
+    second: Monster_77_Zombie_26
+  - first:
+      213: -361853029616720723
+    second: Monster_77_Zombie_27
+  - first:
+      213: -5514592073066372761
+    second: Monster_77_Zombie_28
+  - first:
+      213: -8285049391567707485
+    second: Monster_77_Zombie_29
+  - first:
+      213: -6248323202987023395
+    second: Monster_77_Zombie_30
+  - first:
+      213: -177097877964794890
+    second: Monster_77_Zombie_31
+  - first:
+      213: 8827336575897864246
+    second: Monster_77_Zombie_32
+  - first:
+      213: 6259956116555976911
+    second: Monster_77_Zombie_33d
+  - first:
+      213: 186937850620344991
+    second: Monster_77_Zombie_34
+  - first:
+      213: -5981831921342253877
+    second: Monster_77_Zombie_35
+  - first:
+      213: -6235443500379957261
+    second: Monster_77_Zombie_36
+  - first:
+      213: 4259681034378081429
+    second: Monster_77_Zombie_37
+  - first:
+      213: -7469256885670547707
+    second: Monster_77_Zombie_38
+  - first:
+      213: -1824801189307244940
+    second: Monster_77_Zombie_39
+  - first:
+      213: 4165630560911679928
+    second: Monster_77_Zombie_40
+  - first:
+      213: -6003961184634012272
+    second: Monster_77_Zombie_41
+  - first:
+      213: 4240349966737538645
+    second: Monster_77_Zombie_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_77_Zombie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d811fe281bdda60800000000000000
+      internalID: 7700506113788186003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46b744e4040461a0800000000000000
+      internalID: -6817319516875803059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93951dfe8d90d9a50800000000000000
+      internalID: 6529385862098147641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3863d410ab1c970800000000000000
+      internalID: 8773498063847588794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031d33c0e13eb8d50800000000000000
+      internalID: 6740730985483325744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_5
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66306556e111cf040800000000000000
+      internalID: 4682636534805300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_6
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3638fc1e73052ee0800000000000000
+      internalID: -1286618278357617090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_7
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1fc344a8a6078d0800000000000000
+      internalID: -2850661422042648132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0567ecd2afa813d40800000000000000
+      internalID: 5562379821894235728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2869852913940a080800000000000000
+      internalID: -9178255563323566462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac251a4f1a4be0b00800000000000000
+      internalID: 796772791778104010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_11
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63f407f7b2bf2c60800000000000000
+      internalID: 7795645983194674026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06df2b71b5bf5880800000000000000
+      internalID: -8619971387883268594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_13
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36db02a77e5c5f620800000000000000
+      internalID: 2807367540712455523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_14
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f467e80983848a90800000000000000
+      internalID: -7312575270359702279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_15
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a77c37281cc1df80800000000000000
+      internalID: -8083455452043774043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_16
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c2db0afe6abd7b0800000000000000
+      internalID: -5198377796744958868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_17b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eb56d87273707e0800000000000000
+      internalID: -1799408883095716208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 308
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ad744c658e273d0800000000000000
+      internalID: -3210248125003867544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 308
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88edbf5774c21ea50800000000000000
+      internalID: 6548564018607152776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_20
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 308
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215fec8d06bae0460800000000000000
+      internalID: 7209888485909394706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 308
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5dd45a8335bca60800000000000000
+      internalID: 7695335891049240028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_22
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 308
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bbff96caa447250800000000000000
+      internalID: 5941455912781724570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_23c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c7942982a15b5b0800000000000000
+      internalID: -5353343820504662929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd6388338fa084e0800000000000000
+      internalID: -1981390857919304206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_25
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b734a3742bf8dd90800000000000000
+      internalID: -7072627080807827531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_26
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08475546ffaa9fb00800000000000000
+      internalID: 862908817494865024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4ebc436907afaf0800000000000000
+      internalID: -361853029616720723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_28
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761a1b32abb3873b0800000000000000
+      internalID: -5514592073066372761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_29
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a26a057977950d80800000000000000
+      internalID: -8285049391567707485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_30
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3a024e62f7949a0800000000000000
+      internalID: -6248323202987023395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_31
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3de651b62da8df0800000000000000
+      internalID: -177097877964794890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_32
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6388437b8dff08a70800000000000000
+      internalID: 8827336575897864246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_33d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc05adcdbe4dfd650800000000000000
+      internalID: 6259956116555976911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9afc451cf2289200800000000000000
+      internalID: 186937850620344991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_35
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc47d468f834cfca0800000000000000
+      internalID: -5981831921342253877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_36
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f795d65c214779a0800000000000000
+      internalID: -6235443500379957261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_37
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f29ef45d6d1b30800000000000000
+      internalID: 4259681034378081429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_38
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f6771bf6ed75890800000000000000
+      internalID: -7469256885670547707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_39
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e91ad8cf00da6e0800000000000000
+      internalID: -1824801189307244940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_40
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e6a8bcea4fc930800000000000000
+      internalID: 4165630560911679928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_41
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09df7a8ec15adaca0800000000000000
+      internalID: -6003961184634012272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_77_Zombie_42
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55efab214dfb8da30800000000000000
+      internalID: 4240349966737538645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_77_Zombie_0: 7700506113788186003
+      Monster_77_Zombie_1: -6817319516875803059
+      Monster_77_Zombie_10: 796772791778104010
+      Monster_77_Zombie_11: 7795645983194674026
+      Monster_77_Zombie_12: -8619971387883268594
+      Monster_77_Zombie_13: 2807367540712455523
+      Monster_77_Zombie_14: -7312575270359702279
+      Monster_77_Zombie_15: -8083455452043774043
+      Monster_77_Zombie_16: -5198377796744958868
+      Monster_77_Zombie_17b: -1799408883095716208
+      Monster_77_Zombie_18: -3210248125003867544
+      Monster_77_Zombie_19: 6548564018607152776
+      Monster_77_Zombie_2: 6529385862098147641
+      Monster_77_Zombie_20: 7209888485909394706
+      Monster_77_Zombie_21: 7695335891049240028
+      Monster_77_Zombie_22: 5941455912781724570
+      Monster_77_Zombie_23c: -5353343820504662929
+      Monster_77_Zombie_24: -1981390857919304206
+      Monster_77_Zombie_25: -7072627080807827531
+      Monster_77_Zombie_26: 862908817494865024
+      Monster_77_Zombie_27: -361853029616720723
+      Monster_77_Zombie_28: -5514592073066372761
+      Monster_77_Zombie_29: -8285049391567707485
+      Monster_77_Zombie_3: 8773498063847588794
+      Monster_77_Zombie_30: -6248323202987023395
+      Monster_77_Zombie_31: -177097877964794890
+      Monster_77_Zombie_32: 8827336575897864246
+      Monster_77_Zombie_33d: 6259956116555976911
+      Monster_77_Zombie_34: 186937850620344991
+      Monster_77_Zombie_35: -5981831921342253877
+      Monster_77_Zombie_36: -6235443500379957261
+      Monster_77_Zombie_37: 4259681034378081429
+      Monster_77_Zombie_38: -7469256885670547707
+      Monster_77_Zombie_39: -1824801189307244940
+      Monster_77_Zombie_4: 6740730985483325744
+      Monster_77_Zombie_40: 4165630560911679928
+      Monster_77_Zombie_41: -6003961184634012272
+      Monster_77_Zombie_42: 4240349966737538645
+      Monster_77_Zombie_5: 4682636534805300070
+      Monster_77_Zombie_6: -1286618278357617090
+      Monster_77_Zombie_7: -2850661422042648132
+      Monster_77_Zombie_8a: 5562379821894235728
+      Monster_77_Zombie_9: -9178255563323566462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

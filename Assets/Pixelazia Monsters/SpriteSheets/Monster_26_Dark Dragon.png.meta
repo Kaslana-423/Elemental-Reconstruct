@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: e981acec516291c40b42cb163bf0e7fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6146567817366306760
+    second: Monster_26_Dark Dragon_0
+  - first:
+      213: 5949184997599291871
+    second: Monster_26_Dark Dragon_1
+  - first:
+      213: -6700779159757270719
+    second: Monster_26_Dark Dragon_2
+  - first:
+      213: -6748320621867776628
+    second: Monster_26_Dark Dragon_3
+  - first:
+      213: -694803628005861716
+    second: Monster_26_Dark Dragon_4
+  - first:
+      213: 2931675941541705052
+    second: Monster_26_Dark Dragon_5
+  - first:
+      213: 1704751844291650681
+    second: Monster_26_Dark Dragon_6a
+  - first:
+      213: 8773665964530912684
+    second: Monster_26_Dark Dragon_7
+  - first:
+      213: 8457885964933876946
+    second: Monster_26_Dark Dragon_8
+  - first:
+      213: -488800953265588361
+    second: Monster_26_Dark Dragon_9
+  - first:
+      213: 5952455210329540584
+    second: Monster_26_Dark Dragon_10
+  - first:
+      213: -320991435811290547
+    second: Monster_26_Dark Dragon_11
+  - first:
+      213: 7786926713331055614
+    second: Monster_26_Dark Dragon_12
+  - first:
+      213: 2035057167676598292
+    second: Monster_26_Dark Dragon_13b
+  - first:
+      213: 5474169741899936974
+    second: Monster_26_Dark Dragon_14
+  - first:
+      213: -3987485980441506972
+    second: Monster_26_Dark Dragon_15
+  - first:
+      213: -8309159309460045553
+    second: Monster_26_Dark Dragon_16
+  - first:
+      213: 6041632064669370632
+    second: Monster_26_Dark Dragon_17
+  - first:
+      213: -1526042352941509099
+    second: Monster_26_Dark Dragon_18c
+  - first:
+      213: 148257959741798783
+    second: Monster_26_Dark Dragon_19
+  - first:
+      213: -2975182850253116159
+    second: Monster_26_Dark Dragon_20
+  - first:
+      213: -7255375808410408992
+    second: Monster_26_Dark Dragon_21
+  - first:
+      213: 1351107333995119372
+    second: Monster_26_Dark Dragon_22
+  - first:
+      213: -6932614169614789528
+    second: Monster_26_Dark Dragon_23
+  - first:
+      213: -560545760005684468
+    second: Monster_26_Dark Dragon_24
+  - first:
+      213: -827187382828030707
+    second: Monster_26_Dark Dragon_25
+  - first:
+      213: -5415767767504775094
+    second: Monster_26_Dark Dragon_26
+  - first:
+      213: 3356535717146346324
+    second: Monster_26_Dark Dragon_27
+  - first:
+      213: -8494459239153196718
+    second: Monster_26_Dark Dragon_28d
+  - first:
+      213: -906497883149581956
+    second: Monster_26_Dark Dragon_29
+  - first:
+      213: 2427030080258493743
+    second: Monster_26_Dark Dragon_30
+  - first:
+      213: 5598289878986580485
+    second: Monster_26_Dark Dragon_31
+  - first:
+      213: 320339525462101796
+    second: Monster_26_Dark Dragon_32
+  - first:
+      213: -5374334828993413085
+    second: Monster_26_Dark Dragon_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8308802d22103baa0800000000000000
+      internalID: -6146567817366306760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd92df43c30cf8250800000000000000
+      internalID: 5949184997599291871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141d3504bdc0203a0800000000000000
+      internalID: -6700779159757270719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85c02706262952a0800000000000000
+      internalID: -6748320621867776628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6de0418cf8b56f0800000000000000
+      internalID: -694803628005861716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f6247cb76fa820800000000000000
+      internalID: 2931675941541705052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_6a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974223d25ce78a710800000000000000
+      internalID: 1704751844291650681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadccc9b5b252c970800000000000000
+      internalID: 8773665964530912684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc45aa2972706570800000000000000
+      internalID: 8457885964933876946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7777bbe6f1e6739f0800000000000000
+      internalID: -488800953265588361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_10
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e78d11f97e5b9250800000000000000
+      internalID: 5952455210329540584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_11
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4286846dfb9b8bf0800000000000000
+      internalID: -320991435811290547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_12
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbf810c698b01c60800000000000000
+      internalID: 7786926713331055614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_13b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418e9f836b9fd3c10800000000000000
+      internalID: 2035057167676598292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4332a706828fb40800000000000000
+      internalID: 5474169741899936974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b0fec90aa99a8c0800000000000000
+      internalID: -3987485980441506972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f010181c1afefac80800000000000000
+      internalID: -8309159309460045553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_17
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8094a365a5038d350800000000000000
+      internalID: 6041632064669370632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_18c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51658b8b09862dae0800000000000000
+      internalID: -1526042352941509099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b88134d7be0200800000000000000
+      internalID: 148257959741798783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d24dcf5f606b6d0800000000000000
+      internalID: -2975182850253116159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e72cb3942abf4b90800000000000000
+      internalID: -7255375808410408992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03443836f810c210800000000000000
+      internalID: 1351107333995119372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864554fa4286acf90800000000000000
+      internalID: -6932614169614789528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_24
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c038286e99a8838f0800000000000000
+      internalID: -560545760005684468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_25
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05a9db357d3584f0800000000000000
+      internalID: -827187382828030707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_26
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a481edfc8e357d4b0800000000000000
+      internalID: -5415767767504775094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_27
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4534b68737fc49e20800000000000000
+      internalID: 3356535717146346324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_28d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2512d3bd35e9d1a80800000000000000
+      internalID: -8494459239153196718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71c9356af87b63f0800000000000000
+      internalID: -906497883149581956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_30
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dcef0cffa8ea120800000000000000
+      internalID: 2427030080258493743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502e8a2ebfe11bd40800000000000000
+      internalID: 5598289878986580485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_32
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f8fa6e913127400800000000000000
+      internalID: 320339525462101796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_26_Dark Dragon_33
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32086dd82f68a65b0800000000000000
+      internalID: -5374334828993413085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_26_Dark Dragon_0: -6146567817366306760
+      Monster_26_Dark Dragon_1: 5949184997599291871
+      Monster_26_Dark Dragon_10: 5952455210329540584
+      Monster_26_Dark Dragon_11: -320991435811290547
+      Monster_26_Dark Dragon_12: 7786926713331055614
+      Monster_26_Dark Dragon_13b: 2035057167676598292
+      Monster_26_Dark Dragon_14: 5474169741899936974
+      Monster_26_Dark Dragon_15: -3987485980441506972
+      Monster_26_Dark Dragon_16: -8309159309460045553
+      Monster_26_Dark Dragon_17: 6041632064669370632
+      Monster_26_Dark Dragon_18c: -1526042352941509099
+      Monster_26_Dark Dragon_19: 148257959741798783
+      Monster_26_Dark Dragon_2: -6700779159757270719
+      Monster_26_Dark Dragon_20: -2975182850253116159
+      Monster_26_Dark Dragon_21: -7255375808410408992
+      Monster_26_Dark Dragon_22: 1351107333995119372
+      Monster_26_Dark Dragon_23: -6932614169614789528
+      Monster_26_Dark Dragon_24: -560545760005684468
+      Monster_26_Dark Dragon_25: -827187382828030707
+      Monster_26_Dark Dragon_26: -5415767767504775094
+      Monster_26_Dark Dragon_27: 3356535717146346324
+      Monster_26_Dark Dragon_28d: -8494459239153196718
+      Monster_26_Dark Dragon_29: -906497883149581956
+      Monster_26_Dark Dragon_3: -6748320621867776628
+      Monster_26_Dark Dragon_30: 2427030080258493743
+      Monster_26_Dark Dragon_31: 5598289878986580485
+      Monster_26_Dark Dragon_32: 320339525462101796
+      Monster_26_Dark Dragon_33: -5374334828993413085
+      Monster_26_Dark Dragon_4: -694803628005861716
+      Monster_26_Dark Dragon_5: 2931675941541705052
+      Monster_26_Dark Dragon_6a: 1704751844291650681
+      Monster_26_Dark Dragon_7: 8773665964530912684
+      Monster_26_Dark Dragon_8: 8457885964933876946
+      Monster_26_Dark Dragon_9: -488800953265588361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

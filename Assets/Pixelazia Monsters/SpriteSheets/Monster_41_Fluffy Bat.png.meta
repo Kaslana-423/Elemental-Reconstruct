@@ -1,0 +1,953 @@
+fileFormatVersion: 2
+guid: 301bd4dd69a45974ea928da3ac15e94f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2509709501366105055
+    second: Monster_41_Fluffy Bat_0
+  - first:
+      213: -875537144515087256
+    second: Monster_41_Fluffy Bat_1
+  - first:
+      213: -4983102972741510884
+    second: Monster_41_Fluffy Bat_2
+  - first:
+      213: 4610291666641817974
+    second: Monster_41_Fluffy Bat_3
+  - first:
+      213: 8495452350322623237
+    second: Monster_41_Fluffy Bat_4
+  - first:
+      213: -1909174653097458039
+    second: Monster_41_Fluffy Bat_5
+  - first:
+      213: -4560193154821418864
+    second: Monster_41_Fluffy Bat_6
+  - first:
+      213: -1989092494575461194
+    second: Monster_41_Fluffy Bat_7
+  - first:
+      213: -1536333469205758103
+    second: Monster_41_Fluffy Bat_8a
+  - first:
+      213: -1096537326977830421
+    second: Monster_41_Fluffy Bat_9
+  - first:
+      213: -3948835857282741189
+    second: Monster_41_Fluffy Bat_10
+  - first:
+      213: -5928666336017641706
+    second: Monster_41_Fluffy Bat_11
+  - first:
+      213: -842285004159304368
+    second: Monster_41_Fluffy Bat_12
+  - first:
+      213: -5272539402449206572
+    second: Monster_41_Fluffy Bat_13
+  - first:
+      213: -2787383896105974100
+    second: Monster_41_Fluffy Bat_14
+  - first:
+      213: 6361789161548436075
+    second: Monster_41_Fluffy Bat_15
+  - first:
+      213: -2922234749455731161
+    second: Monster_41_Fluffy Bat_16b
+  - first:
+      213: -4538486486783517626
+    second: Monster_41_Fluffy Bat_17
+  - first:
+      213: -8027920183577084548
+    second: Monster_41_Fluffy Bat_18
+  - first:
+      213: -5760796123694112903
+    second: Monster_41_Fluffy Bat_19
+  - first:
+      213: 6551227740377293652
+    second: Monster_41_Fluffy Bat_20c
+  - first:
+      213: -2767449144186904970
+    second: Monster_41_Fluffy Bat_21
+  - first:
+      213: 2928846484498769860
+    second: Monster_41_Fluffy Bat_22
+  - first:
+      213: -2709378295818692303
+    second: Monster_41_Fluffy Bat_23
+  - first:
+      213: -7411138632552533094
+    second: Monster_41_Fluffy Bat_24
+  - first:
+      213: 7371216923301998229
+    second: Monster_41_Fluffy Bat_25
+  - first:
+      213: 706682436496357087
+    second: Monster_41_Fluffy Bat_26
+  - first:
+      213: -6068398657633367527
+    second: Monster_41_Fluffy Bat_27d
+  - first:
+      213: 7244609156211289715
+    second: Monster_41_Fluffy Bat_28
+  - first:
+      213: -7115907293757634965
+    second: Monster_41_Fluffy Bat_29
+  - first:
+      213: 8385550052302781728
+    second: Monster_41_Fluffy Bat_30
+  - first:
+      213: 7490322804196487256
+    second: Monster_41_Fluffy Bat_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd379569e7744d220800000000000000
+      internalID: 2509709501366105055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864b4891b9779d3f0800000000000000
+      internalID: -875537144515087256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c199c867f3678dab0800000000000000
+      internalID: -4983102972741510884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671112d28db0bff30800000000000000
+      internalID: 4610291666641817974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503cc3bd6e8e5e570800000000000000
+      internalID: 8495452350322623237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98642fba4cf3185e0800000000000000
+      internalID: -1909174653097458039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09093b39c70f6b0c0800000000000000
+      internalID: -4560193154821418864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc1f633ae25564e0800000000000000
+      internalID: -1989092494575461194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f727f79d8ddaae0800000000000000
+      internalID: -1536333469205758103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1b78e5c1158c0f0800000000000000
+      internalID: -1096537326977830421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c465aa5bae239c0800000000000000
+      internalID: -3948835857282741189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f0ad9f06529bda0800000000000000
+      internalID: -5928666336017641706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d3277504a9f44f0800000000000000
+      internalID: -842285004159304368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_13
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2c3cc395d24d6b0800000000000000
+      internalID: -5272539402449206572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_14
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca685fb5d193159d0800000000000000
+      internalID: -2787383896105974100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_15
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b625606498d994850800000000000000
+      internalID: 6361789161548436075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_16b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72673606af22277d0800000000000000
+      internalID: -2922234749455731161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c9b51169e0401c0800000000000000
+      internalID: -4538486486783517626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7df2b47029179090800000000000000
+      internalID: -8027920183577084548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_19
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fd3cf827a8d00b0800000000000000
+      internalID: -5760796123694112903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_20c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453afd38be2aaea50800000000000000
+      internalID: 6551227740377293652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ed7ca7aab0899d0800000000000000
+      internalID: -2767449144186904970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_22
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c763362c5a55a820800000000000000
+      internalID: 2928846484498769860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_23
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139d29b7bca566ad0800000000000000
+      internalID: -2709378295818692303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_24
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a933889fda8562990800000000000000
+      internalID: -7411138632552533094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_25
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e63c3ccb2db4660800000000000000
+      internalID: 7371216923301998229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_26
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd67f5c8ee3aec900800000000000000
+      internalID: 706682436496357087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_27d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a4e489297b8cba0800000000000000
+      internalID: -6068398657633367527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_28
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e248cd4a50a8460800000000000000
+      internalID: 7244609156211289715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6607fc94083f3d90800000000000000
+      internalID: -7115907293757634965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_30
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02df3c118557f5470800000000000000
+      internalID: 8385550052302781728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_41_Fluffy Bat_31
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850b32da7e8f2f760800000000000000
+      internalID: 7490322804196487256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_41_Fluffy Bat_0: 2509709501366105055
+      Monster_41_Fluffy Bat_1: -875537144515087256
+      Monster_41_Fluffy Bat_10: -3948835857282741189
+      Monster_41_Fluffy Bat_11: -5928666336017641706
+      Monster_41_Fluffy Bat_12: -842285004159304368
+      Monster_41_Fluffy Bat_13: -5272539402449206572
+      Monster_41_Fluffy Bat_14: -2787383896105974100
+      Monster_41_Fluffy Bat_15: 6361789161548436075
+      Monster_41_Fluffy Bat_16b: -2922234749455731161
+      Monster_41_Fluffy Bat_17: -4538486486783517626
+      Monster_41_Fluffy Bat_18: -8027920183577084548
+      Monster_41_Fluffy Bat_19: -5760796123694112903
+      Monster_41_Fluffy Bat_2: -4983102972741510884
+      Monster_41_Fluffy Bat_20c: 6551227740377293652
+      Monster_41_Fluffy Bat_21: -2767449144186904970
+      Monster_41_Fluffy Bat_22: 2928846484498769860
+      Monster_41_Fluffy Bat_23: -2709378295818692303
+      Monster_41_Fluffy Bat_24: -7411138632552533094
+      Monster_41_Fluffy Bat_25: 7371216923301998229
+      Monster_41_Fluffy Bat_26: 706682436496357087
+      Monster_41_Fluffy Bat_27d: -6068398657633367527
+      Monster_41_Fluffy Bat_28: 7244609156211289715
+      Monster_41_Fluffy Bat_29: -7115907293757634965
+      Monster_41_Fluffy Bat_3: 4610291666641817974
+      Monster_41_Fluffy Bat_30: 8385550052302781728
+      Monster_41_Fluffy Bat_31: 7490322804196487256
+      Monster_41_Fluffy Bat_4: 8495452350322623237
+      Monster_41_Fluffy Bat_5: -1909174653097458039
+      Monster_41_Fluffy Bat_6: -4560193154821418864
+      Monster_41_Fluffy Bat_7: -1989092494575461194
+      Monster_41_Fluffy Bat_8a: -1536333469205758103
+      Monster_41_Fluffy Bat_9: -1096537326977830421
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: b57268e666790a649bb9c7d3f2512cac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3768092151083678848
+    second: Monster_74_Mad Ox_0
+  - first:
+      213: 580057810661536823
+    second: Monster_74_Mad Ox_1
+  - first:
+      213: -5089411586853334215
+    second: Monster_74_Mad Ox_2
+  - first:
+      213: -8250697497951679384
+    second: Monster_74_Mad Ox_3
+  - first:
+      213: -4501537085075595558
+    second: Monster_74_Mad Ox_4
+  - first:
+      213: -4306820174239713057
+    second: Monster_74_Mad Ox_5
+  - first:
+      213: 7055686193077444142
+    second: Monster_74_Mad Ox_6
+  - first:
+      213: 6441695089144707825
+    second: Monster_74_Mad Ox_7
+  - first:
+      213: 6681249908571870387
+    second: Monster_74_Mad Ox_8
+  - first:
+      213: 3991138266908754051
+    second: Monster_74_Mad Ox_9
+  - first:
+      213: 7275827296048615010
+    second: Monster_74_Mad Ox_10
+  - first:
+      213: 8021298154361729492
+    second: Monster_74_Mad Ox_11a
+  - first:
+      213: 1798695530128166779
+    second: Monster_74_Mad Ox_12
+  - first:
+      213: -5025980093787248781
+    second: Monster_74_Mad Ox_13
+  - first:
+      213: 5254161474290655410
+    second: Monster_74_Mad Ox_14
+  - first:
+      213: -3207030287278988768
+    second: Monster_74_Mad Ox_15
+  - first:
+      213: -8215823689563562262
+    second: Monster_74_Mad Ox_16
+  - first:
+      213: -8484753944612670056
+    second: Monster_74_Mad Ox_17
+  - first:
+      213: -5949909912996027425
+    second: Monster_74_Mad Ox_18b
+  - first:
+      213: -509975916770091557
+    second: Monster_74_Mad Ox_19
+  - first:
+      213: -9198204287664277447
+    second: Monster_74_Mad Ox_20
+  - first:
+      213: 6058670290830675466
+    second: Monster_74_Mad Ox_21
+  - first:
+      213: -8218324633727242986
+    second: Monster_74_Mad Ox_22
+  - first:
+      213: -7380816258368381586
+    second: Monster_74_Mad Ox_23
+  - first:
+      213: -438812531386276443
+    second: Monster_74_Mad Ox_24c
+  - first:
+      213: 7083605704594260203
+    second: Monster_74_Mad Ox_25
+  - first:
+      213: 4242603853100582371
+    second: Monster_74_Mad Ox_26
+  - first:
+      213: -4817917877386470935
+    second: Monster_74_Mad Ox_27
+  - first:
+      213: -3095360331233173407
+    second: Monster_74_Mad Ox_28
+  - first:
+      213: 405033034340962689
+    second: Monster_74_Mad Ox_29
+  - first:
+      213: -1998826837136129191
+    second: Monster_74_Mad Ox_30
+  - first:
+      213: 8813034171753589425
+    second: Monster_74_Mad Ox_31
+  - first:
+      213: 1714766227337216957
+    second: Monster_74_Mad Ox_32
+  - first:
+      213: 892100389818009374
+    second: Monster_74_Mad Ox_33d
+  - first:
+      213: 904998126664298600
+    second: Monster_74_Mad Ox_34
+  - first:
+      213: -6067288241736308201
+    second: Monster_74_Mad Ox_35
+  - first:
+      213: -411161762262090185
+    second: Monster_74_Mad Ox_36
+  - first:
+      213: 4734949902285477373
+    second: Monster_74_Mad Ox_37
+  - first:
+      213: 3077398390021332558
+    second: Monster_74_Mad Ox_38
+  - first:
+      213: 1188061485631713088
+    second: Monster_74_Mad Ox_39
+  - first:
+      213: 864779619041238475
+    second: Monster_74_Mad Ox_40
+  - first:
+      213: -6311504789301795700
+    second: Monster_74_Mad Ox_41
+  - first:
+      213: -6414967288814196521
+    second: Monster_74_Mad Ox_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08348bd172c05bbc0800000000000000
+      internalID: -3768092151083678848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734fba96187cc0800800000000000000
+      internalID: 580057810661536823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93399d96027ce59b0800000000000000
+      internalID: -5089411586853334215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cc265f652af7d80800000000000000
+      internalID: -8250697497951679384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade52dc0fd35781c0800000000000000
+      internalID: -4501537085075595558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8b4fabed91b34c0800000000000000
+      internalID: -4306820174239713057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_6
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e5201c535dae160800000000000000
+      internalID: 7055686193077444142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_7
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa39d3dd8f756950800000000000000
+      internalID: 6441695089144707825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_8
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b49900a46198bc50800000000000000
+      internalID: 6681249908571870387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_9
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38080989b1f536730800000000000000
+      internalID: 3991138266908754051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_10
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e8114706ee8f460800000000000000
+      internalID: 7275827296048615010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_11a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d13a383c20615f60800000000000000
+      internalID: 8021298154361729492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f4f540e0046f810800000000000000
+      internalID: 1798695530128166779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37760a5cbb1204ab0800000000000000
+      internalID: -5025980093787248781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b023abe5088ae840800000000000000
+      internalID: 5254161474290655410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02221def1f65e73d0800000000000000
+      internalID: -3207030287278988768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_16
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee135632e78bfd80800000000000000
+      internalID: -8215823689563562262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_17
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89574c4dd39104a80800000000000000
+      internalID: -8484753944612670056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_18b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3eb46457cad6da0800000000000000
+      internalID: -5949909912996027425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd1aec0b933ce8f0800000000000000
+      internalID: -509975916770091557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938bb4e3fe9695080800000000000000
+      internalID: -9198204287664277447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_21
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ecc208788b41450800000000000000
+      internalID: 6058670290830675466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d68d5c945a2fd80800000000000000
+      internalID: -8218324633727242986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_23
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d568fd7b2129990800000000000000
+      internalID: -7380816258368381586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_24c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a52bbfd35609e9f0800000000000000
+      internalID: -438812531386276443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be085479bd50e4260800000000000000
+      internalID: 7083605704594260203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e583c2e9b1c0ea30800000000000000
+      internalID: 4242603853100582371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e910698731532db0800000000000000
+      internalID: -4817917877386470935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160e20dbd221b05d0800000000000000
+      internalID: -3095360331233173407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_29
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18111361667fe9500800000000000000
+      internalID: 405033034340962689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_30
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953cbf4f49db244e0800000000000000
+      internalID: -1998826837136129191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_31
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba60c0c2ef2e4a70800000000000000
+      internalID: 8813034171753589425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_32
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3854d6cc21cc710800000000000000
+      internalID: 1714766227337216957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_33d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e170717f390616c00800000000000000
+      internalID: 892100389818009374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860383650033f8c00800000000000000
+      internalID: 904998126664298600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a27617d79accba0800000000000000
+      internalID: -6067288241736308201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_36
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ef42f3e824b4af0800000000000000
+      internalID: -411161762262090185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_37
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df51ffa69dbe5b140800000000000000
+      internalID: 4734949902285477373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_38
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e949de78d15ba20800000000000000
+      internalID: 3077398390021332558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_39
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa66660a7dc7010800000000000000
+      internalID: 1188061485631713088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_40
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd53f15b70500c00800000000000000
+      internalID: 864779619041238475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_41
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c846d7b75d70968a0800000000000000
+      internalID: -6311504789301795700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_74_Mad Ox_42
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8aa702d3579f6a0800000000000000
+      internalID: -6414967288814196521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_74_Mad Ox_0: -3768092151083678848
+      Monster_74_Mad Ox_1: 580057810661536823
+      Monster_74_Mad Ox_10: 7275827296048615010
+      Monster_74_Mad Ox_11a: 8021298154361729492
+      Monster_74_Mad Ox_12: 1798695530128166779
+      Monster_74_Mad Ox_13: -5025980093787248781
+      Monster_74_Mad Ox_14: 5254161474290655410
+      Monster_74_Mad Ox_15: -3207030287278988768
+      Monster_74_Mad Ox_16: -8215823689563562262
+      Monster_74_Mad Ox_17: -8484753944612670056
+      Monster_74_Mad Ox_18b: -5949909912996027425
+      Monster_74_Mad Ox_19: -509975916770091557
+      Monster_74_Mad Ox_2: -5089411586853334215
+      Monster_74_Mad Ox_20: -9198204287664277447
+      Monster_74_Mad Ox_21: 6058670290830675466
+      Monster_74_Mad Ox_22: -8218324633727242986
+      Monster_74_Mad Ox_23: -7380816258368381586
+      Monster_74_Mad Ox_24c: -438812531386276443
+      Monster_74_Mad Ox_25: 7083605704594260203
+      Monster_74_Mad Ox_26: 4242603853100582371
+      Monster_74_Mad Ox_27: -4817917877386470935
+      Monster_74_Mad Ox_28: -3095360331233173407
+      Monster_74_Mad Ox_29: 405033034340962689
+      Monster_74_Mad Ox_3: -8250697497951679384
+      Monster_74_Mad Ox_30: -1998826837136129191
+      Monster_74_Mad Ox_31: 8813034171753589425
+      Monster_74_Mad Ox_32: 1714766227337216957
+      Monster_74_Mad Ox_33d: 892100389818009374
+      Monster_74_Mad Ox_34: 904998126664298600
+      Monster_74_Mad Ox_35: -6067288241736308201
+      Monster_74_Mad Ox_36: -411161762262090185
+      Monster_74_Mad Ox_37: 4734949902285477373
+      Monster_74_Mad Ox_38: 3077398390021332558
+      Monster_74_Mad Ox_39: 1188061485631713088
+      Monster_74_Mad Ox_4: -4501537085075595558
+      Monster_74_Mad Ox_40: 864779619041238475
+      Monster_74_Mad Ox_41: -6311504789301795700
+      Monster_74_Mad Ox_42: -6414967288814196521
+      Monster_74_Mad Ox_5: -4306820174239713057
+      Monster_74_Mad Ox_6: 7055686193077444142
+      Monster_74_Mad Ox_7: 6441695089144707825
+      Monster_74_Mad Ox_8: 6681249908571870387
+      Monster_74_Mad Ox_9: 3991138266908754051
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

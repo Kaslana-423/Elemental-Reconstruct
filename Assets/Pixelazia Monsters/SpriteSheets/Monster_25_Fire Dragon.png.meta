@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: cc8b3ca7c105a764090b77a20b44d29f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4915837053343031703
+    second: Monster_25_Fire Dragon_0
+  - first:
+      213: 4118779982547892238
+    second: Monster_25_Fire Dragon_1
+  - first:
+      213: 3071087051726683706
+    second: Monster_25_Fire Dragon_2
+  - first:
+      213: -4325330595720867986
+    second: Monster_25_Fire Dragon_3
+  - first:
+      213: 8504627186596711563
+    second: Monster_25_Fire Dragon_4
+  - first:
+      213: 6681460225927375419
+    second: Monster_25_Fire Dragon_5
+  - first:
+      213: -692409248912062062
+    second: Monster_25_Fire Dragon_6a
+  - first:
+      213: -1397322839144772204
+    second: Monster_25_Fire Dragon_7
+  - first:
+      213: -8489909518068449313
+    second: Monster_25_Fire Dragon_8
+  - first:
+      213: -8893500337890690433
+    second: Monster_25_Fire Dragon_9
+  - first:
+      213: -1703646955200739164
+    second: Monster_25_Fire Dragon_10
+  - first:
+      213: 1080550057752497435
+    second: Monster_25_Fire Dragon_11
+  - first:
+      213: -5637461527941427477
+    second: Monster_25_Fire Dragon_12
+  - first:
+      213: -1193253937573266898
+    second: Monster_25_Fire Dragon_13b
+  - first:
+      213: -7390514944636779340
+    second: Monster_25_Fire Dragon_14
+  - first:
+      213: 7527233329277791291
+    second: Monster_25_Fire Dragon_15
+  - first:
+      213: -520539115343420474
+    second: Monster_25_Fire Dragon_16
+  - first:
+      213: 9033320462013860011
+    second: Monster_25_Fire Dragon_17
+  - first:
+      213: 924451160143057684
+    second: Monster_25_Fire Dragon_18c
+  - first:
+      213: -6558680760947845363
+    second: Monster_25_Fire Dragon_19
+  - first:
+      213: 4079504346176104282
+    second: Monster_25_Fire Dragon_20
+  - first:
+      213: 1000972921146877541
+    second: Monster_25_Fire Dragon_21
+  - first:
+      213: -3007893134406159059
+    second: Monster_25_Fire Dragon_22
+  - first:
+      213: 4932052078600993447
+    second: Monster_25_Fire Dragon_23
+  - first:
+      213: -2248558888703427538
+    second: Monster_25_Fire Dragon_24
+  - first:
+      213: 1805727275137594747
+    second: Monster_25_Fire Dragon_25
+  - first:
+      213: -9077252680254696539
+    second: Monster_25_Fire Dragon_26
+  - first:
+      213: 4773387990407893864
+    second: Monster_25_Fire Dragon_27
+  - first:
+      213: -6957982138641231302
+    second: Monster_25_Fire Dragon_28d
+  - first:
+      213: -2506456572534851792
+    second: Monster_25_Fire Dragon_29
+  - first:
+      213: -7503120319373088146
+    second: Monster_25_Fire Dragon_30
+  - first:
+      213: 5203049204666072912
+    second: Monster_25_Fire Dragon_31
+  - first:
+      213: 6434577591679311958
+    second: Monster_25_Fire Dragon_32
+  - first:
+      213: 7770991704663399879
+    second: Monster_25_Fire Dragon_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791e63a31cf883440800000000000000
+      internalID: 4915837053343031703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08b1c76298d82930800000000000000
+      internalID: 4118779982547892238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e7878f661be9a20800000000000000
+      internalID: 3071087051726683706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fcde16db659f3c0800000000000000
+      internalID: -4325330595720867986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c0a34ed51860670800000000000000
+      internalID: 8504627186596711563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a6d43fca059bc50800000000000000
+      internalID: 6681460225927375419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_6a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299c667e4711466f0800000000000000
+      internalID: -692409248912062062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d4c38f746bb9ce0800000000000000
+      internalID: -1397322839144772204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf72585648cd2a80800000000000000
+      internalID: -8489909518068449313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a753eff80f39480800000000000000
+      internalID: -8893500337890690433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_10
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8859cde1e6b58e0800000000000000
+      internalID: -1703646955200739164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_11
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d8d527d82eefe00800000000000000
+      internalID: 1080550057752497435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_12
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beece10eb96b3c1b0800000000000000
+      internalID: -5637461527941427477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_13b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2afb1cadd5b07fe0800000000000000
+      internalID: -1193253937573266898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b485b180dd9f6990800000000000000
+      internalID: -7390514944636779340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c651df4da167860800000000000000
+      internalID: 7527233329277791291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3624abe6ca6c8f0800000000000000
+      internalID: -520539115343420474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_17
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba88a90891dcc5d70800000000000000
+      internalID: 9033320462013860011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_18c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4135684ae6f44dc00800000000000000
+      internalID: 924451160143057684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07d388e892eaf4a0800000000000000
+      internalID: -6558680760947845363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a572d75b69f4d9830800000000000000
+      internalID: 4079504346176104282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566aeb2819b24ed00800000000000000
+      internalID: 1000972921146877541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2572697121d146d0800000000000000
+      internalID: -3007893134406159059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa3dbefb3b227440800000000000000
+      internalID: 4932052078600993447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_24
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cf846aa938bc0e0800000000000000
+      internalID: -2248558888703427538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_25
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b757fcbb36b3f0910800000000000000
+      internalID: 1805727275137594747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_26
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3d4f8d7ce170280800000000000000
+      internalID: -9077252680254696539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_27
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863d067361b7e3240800000000000000
+      internalID: 4773387990407893864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_28d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32d6c02c18407f90800000000000000
+      internalID: -6957982138641231302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037fd1de607473dd0800000000000000
+      internalID: -2506456572534851792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_30
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a60c0a2df8fd790800000000000000
+      internalID: -7503120319373088146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ffff84fa1f43840800000000000000
+      internalID: 5203049204666072912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_32
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650ebbf4a363c4950800000000000000
+      internalID: 6434577591679311958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_25_Fire Dragon_33
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd18fc68cb18db60800000000000000
+      internalID: 7770991704663399879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_25_Fire Dragon_0: 4915837053343031703
+      Monster_25_Fire Dragon_1: 4118779982547892238
+      Monster_25_Fire Dragon_10: -1703646955200739164
+      Monster_25_Fire Dragon_11: 1080550057752497435
+      Monster_25_Fire Dragon_12: -5637461527941427477
+      Monster_25_Fire Dragon_13b: -1193253937573266898
+      Monster_25_Fire Dragon_14: -7390514944636779340
+      Monster_25_Fire Dragon_15: 7527233329277791291
+      Monster_25_Fire Dragon_16: -520539115343420474
+      Monster_25_Fire Dragon_17: 9033320462013860011
+      Monster_25_Fire Dragon_18c: 924451160143057684
+      Monster_25_Fire Dragon_19: -6558680760947845363
+      Monster_25_Fire Dragon_2: 3071087051726683706
+      Monster_25_Fire Dragon_20: 4079504346176104282
+      Monster_25_Fire Dragon_21: 1000972921146877541
+      Monster_25_Fire Dragon_22: -3007893134406159059
+      Monster_25_Fire Dragon_23: 4932052078600993447
+      Monster_25_Fire Dragon_24: -2248558888703427538
+      Monster_25_Fire Dragon_25: 1805727275137594747
+      Monster_25_Fire Dragon_26: -9077252680254696539
+      Monster_25_Fire Dragon_27: 4773387990407893864
+      Monster_25_Fire Dragon_28d: -6957982138641231302
+      Monster_25_Fire Dragon_29: -2506456572534851792
+      Monster_25_Fire Dragon_3: -4325330595720867986
+      Monster_25_Fire Dragon_30: -7503120319373088146
+      Monster_25_Fire Dragon_31: 5203049204666072912
+      Monster_25_Fire Dragon_32: 6434577591679311958
+      Monster_25_Fire Dragon_33: 7770991704663399879
+      Monster_25_Fire Dragon_4: 8504627186596711563
+      Monster_25_Fire Dragon_5: 6681460225927375419
+      Monster_25_Fire Dragon_6a: -692409248912062062
+      Monster_25_Fire Dragon_7: -1397322839144772204
+      Monster_25_Fire Dragon_8: -8489909518068449313
+      Monster_25_Fire Dragon_9: -8893500337890690433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

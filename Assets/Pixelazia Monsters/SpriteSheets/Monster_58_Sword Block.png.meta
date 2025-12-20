@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 1e05bf5254d16704c96853b118f1578a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7244138878172615631
+    second: Monster_58_Sword Block_0
+  - first:
+      213: -5591050153145855031
+    second: Monster_58_Sword Block_1
+  - first:
+      213: -1024122779073929866
+    second: Monster_58_Sword Block_2
+  - first:
+      213: -6770925946528502492
+    second: Monster_58_Sword Block_3
+  - first:
+      213: -3589821084585944923
+    second: Monster_58_Sword Block_4
+  - first:
+      213: 3599958101003914108
+    second: Monster_58_Sword Block_5
+  - first:
+      213: -1801053009739066020
+    second: Monster_58_Sword Block_6
+  - first:
+      213: -3242174382734274128
+    second: Monster_58_Sword Block_7
+  - first:
+      213: 8796390303813429663
+    second: Monster_58_Sword Block_8a
+  - first:
+      213: -4933695677140346780
+    second: Monster_58_Sword Block_9
+  - first:
+      213: -3126182992058606787
+    second: Monster_58_Sword Block_10
+  - first:
+      213: -7911084052935454405
+    second: Monster_58_Sword Block_11
+  - first:
+      213: -7443281614708968310
+    second: Monster_58_Sword Block_12
+  - first:
+      213: 768052871710151893
+    second: Monster_58_Sword Block_13
+  - first:
+      213: 4025176645007107000
+    second: Monster_58_Sword Block_14
+  - first:
+      213: -7012565495166445398
+    second: Monster_58_Sword Block_15
+  - first:
+      213: -5880952943834595967
+    second: Monster_58_Sword Block_16b
+  - first:
+      213: -1215227535129605245
+    second: Monster_58_Sword Block_17
+  - first:
+      213: -5554662566106328030
+    second: Monster_58_Sword Block_18
+  - first:
+      213: 3982372143699443267
+    second: Monster_58_Sword Block_19
+  - first:
+      213: -8995710382981111243
+    second: Monster_58_Sword Block_20
+  - first:
+      213: -617589102907076706
+    second: Monster_58_Sword Block_21
+  - first:
+      213: -2271838137399258171
+    second: Monster_58_Sword Block_22c
+  - first:
+      213: -6604598180437631620
+    second: Monster_58_Sword Block_23
+  - first:
+      213: -7671984994942498012
+    second: Monster_58_Sword Block_24
+  - first:
+      213: -7733979657746354290
+    second: Monster_58_Sword Block_25
+  - first:
+      213: -5735394101347128255
+    second: Monster_58_Sword Block_26
+  - first:
+      213: 6473862799145052348
+    second: Monster_58_Sword Block_27
+  - first:
+      213: -7449661435166753502
+    second: Monster_58_Sword Block_28
+  - first:
+      213: -6243368725766913133
+    second: Monster_58_Sword Block_29
+  - first:
+      213: -3526252225387110042
+    second: Monster_58_Sword Block_30
+  - first:
+      213: -6197080560670380410
+    second: Monster_58_Sword Block_31
+  - first:
+      213: -5467879574376899695
+    second: Monster_58_Sword Block_32
+  - first:
+      213: 7420023960027771436
+    second: Monster_58_Sword Block_33d
+  - first:
+      213: 441714559124792777
+    second: Monster_58_Sword Block_34
+  - first:
+      213: -3098696717805113077
+    second: Monster_58_Sword Block_35
+  - first:
+      213: -187423308500152063
+    second: Monster_58_Sword Block_36
+  - first:
+      213: -7410016244193670814
+    second: Monster_58_Sword Block_37
+  - first:
+      213: 5672620009037311135
+    second: Monster_58_Sword Block_38
+  - first:
+      213: 7519683025767022572
+    second: Monster_58_Sword Block_39
+  - first:
+      213: 9127483763048401458
+    second: Monster_58_Sword Block_40
+  - first:
+      213: -3050349989439843058
+    second: Monster_58_Sword Block_41
+  - first:
+      213: -3444597491029762547
+    second: Monster_58_Sword Block_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cace64216a77b90800000000000000
+      internalID: -7244138878172615631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3195422899862b0800000000000000
+      internalID: -5591050153145855031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d99ea22c599c1f0800000000000000
+      internalID: -1024122779073929866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d61bcb9b6d802a0800000000000000
+      internalID: -6770925946528502492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a81c064eb46e2ec0800000000000000
+      internalID: -3589821084585944923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bc0a8c1de95f130800000000000000
+      internalID: 3599958101003914108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55dadc74df5107e0800000000000000
+      internalID: -1801053009739066020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b19041a39b7103d0800000000000000
+      internalID: -3242174382734274128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f996d74406e031a70800000000000000
+      internalID: 8796390303813429663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4685b26ebedf78bb0800000000000000
+      internalID: -4933695677140346780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b9a77c1219d94d0800000000000000
+      internalID: -3126182992058606787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_11
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b315684f7fe263290800000000000000
+      internalID: -7911084052935454405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_12
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a847310cec624b890800000000000000
+      internalID: -7443281614708968310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_13
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4900b740ca8aa00800000000000000
+      internalID: 768052871710151893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_14
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3e8d315dc4cd730800000000000000
+      internalID: 4025176645007107000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_15
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8517816dc5eae90800000000000000
+      internalID: -7012565495166445398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_16b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d73f9c478a26ea0800000000000000
+      internalID: -5880952943834595967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b835fcef4a22fe0800000000000000
+      internalID: -1215227535129605245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_18
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224921473dfd9e2b0800000000000000
+      internalID: -5554662566106328030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_19
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ebd9c7d5a344730800000000000000
+      internalID: 3982372143699443267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_20
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5322e186111d82380800000000000000
+      internalID: -8995710382981111243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_21
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f4218abf1ed67f0800000000000000
+      internalID: -617589102907076706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_22c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3d121304fc870e0800000000000000
+      internalID: -2271838137399258171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dd2d292f0c754a0800000000000000
+      internalID: -6604598180437631620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b43568b42a78590800000000000000
+      internalID: -7671984994942498012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_25
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f6ee74a726ba490800000000000000
+      internalID: -7733979657746354290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_26
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c6556c379c760b0800000000000000
+      internalID: -5735394101347128255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_27
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb828a37ae7c7d950800000000000000
+      internalID: 6473862799145052348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_28
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d75fb056c7d9890800000000000000
+      internalID: -7449661435166753502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_29
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39341e209391b59a0800000000000000
+      internalID: -6243368725766913133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_30
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661ee5da84c301fc0800000000000000
+      internalID: -3526252225387110042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_31
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e63c8401c8ff9a0800000000000000
+      internalID: -6197080560670380410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_32
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b96a64f703e14b0800000000000000
+      internalID: -5467879574376899695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_33d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22b75a8a7839f660800000000000000
+      internalID: 7420023960027771436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c560cc1d09412600800000000000000
+      internalID: 441714559124792777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01be84b0c73ff4d0800000000000000
+      internalID: -3098696717805113077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_36
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10158327e73266df0800000000000000
+      internalID: -187423308500152063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_37
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26946f06c755a2990800000000000000
+      internalID: -7410016244193670814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_38
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c2178e7d139be40800000000000000
+      internalID: 5672620009037311135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_39
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb066fed74b5860800000000000000
+      internalID: 7519683025767022572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_40
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a45ad7f165bae70800000000000000
+      internalID: 9127483763048401458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_41
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0552d698dafaa5d0800000000000000
+      internalID: -3050349989439843058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_58_Sword Block_42
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e18f805d45230d0800000000000000
+      internalID: -3444597491029762547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_58_Sword Block_0: -7244138878172615631
+      Monster_58_Sword Block_1: -5591050153145855031
+      Monster_58_Sword Block_10: -3126182992058606787
+      Monster_58_Sword Block_11: -7911084052935454405
+      Monster_58_Sword Block_12: -7443281614708968310
+      Monster_58_Sword Block_13: 768052871710151893
+      Monster_58_Sword Block_14: 4025176645007107000
+      Monster_58_Sword Block_15: -7012565495166445398
+      Monster_58_Sword Block_16b: -5880952943834595967
+      Monster_58_Sword Block_17: -1215227535129605245
+      Monster_58_Sword Block_18: -5554662566106328030
+      Monster_58_Sword Block_19: 3982372143699443267
+      Monster_58_Sword Block_2: -1024122779073929866
+      Monster_58_Sword Block_20: -8995710382981111243
+      Monster_58_Sword Block_21: -617589102907076706
+      Monster_58_Sword Block_22c: -2271838137399258171
+      Monster_58_Sword Block_23: -6604598180437631620
+      Monster_58_Sword Block_24: -7671984994942498012
+      Monster_58_Sword Block_25: -7733979657746354290
+      Monster_58_Sword Block_26: -5735394101347128255
+      Monster_58_Sword Block_27: 6473862799145052348
+      Monster_58_Sword Block_28: -7449661435166753502
+      Monster_58_Sword Block_29: -6243368725766913133
+      Monster_58_Sword Block_3: -6770925946528502492
+      Monster_58_Sword Block_30: -3526252225387110042
+      Monster_58_Sword Block_31: -6197080560670380410
+      Monster_58_Sword Block_32: -5467879574376899695
+      Monster_58_Sword Block_33d: 7420023960027771436
+      Monster_58_Sword Block_34: 441714559124792777
+      Monster_58_Sword Block_35: -3098696717805113077
+      Monster_58_Sword Block_36: -187423308500152063
+      Monster_58_Sword Block_37: -7410016244193670814
+      Monster_58_Sword Block_38: 5672620009037311135
+      Monster_58_Sword Block_39: 7519683025767022572
+      Monster_58_Sword Block_4: -3589821084585944923
+      Monster_58_Sword Block_40: 9127483763048401458
+      Monster_58_Sword Block_41: -3050349989439843058
+      Monster_58_Sword Block_42: -3444597491029762547
+      Monster_58_Sword Block_5: 3599958101003914108
+      Monster_58_Sword Block_6: -1801053009739066020
+      Monster_58_Sword Block_7: -3242174382734274128
+      Monster_58_Sword Block_8a: 8796390303813429663
+      Monster_58_Sword Block_9: -4933695677140346780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 5a69410f4e8922a46af4efddd9c35573
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3241676490179391404
+    second: Monster_90_Dark Shell_0
+  - first:
+      213: -5388030487238151954
+    second: Monster_90_Dark Shell_1
+  - first:
+      213: -4464052084811899290
+    second: Monster_90_Dark Shell_2
+  - first:
+      213: 5795274706762290704
+    second: Monster_90_Dark Shell_3
+  - first:
+      213: 862888280530760984
+    second: Monster_90_Dark Shell_4
+  - first:
+      213: -1922517972081655230
+    second: Monster_90_Dark Shell_5
+  - first:
+      213: 1485621112419461298
+    second: Monster_90_Dark Shell_6
+  - first:
+      213: 1379386654196255663
+    second: Monster_90_Dark Shell_7
+  - first:
+      213: -5693469742997497849
+    second: Monster_90_Dark Shell_8a
+  - first:
+      213: 540310209797576568
+    second: Monster_90_Dark Shell_9
+  - first:
+      213: 5599842292997164742
+    second: Monster_90_Dark Shell_10
+  - first:
+      213: -4151043405808489185
+    second: Monster_90_Dark Shell_11
+  - first:
+      213: 9044928570831242562
+    second: Monster_90_Dark Shell_12
+  - first:
+      213: 4566724177710858185
+    second: Monster_90_Dark Shell_13
+  - first:
+      213: -1670946612015574492
+    second: Monster_90_Dark Shell_14
+  - first:
+      213: 4660302275856063277
+    second: Monster_90_Dark Shell_15
+  - first:
+      213: 5322182369836423339
+    second: Monster_90_Dark Shell_16b
+  - first:
+      213: -7575151442193229958
+    second: Monster_90_Dark Shell_17
+  - first:
+      213: 8360157538947955050
+    second: Monster_90_Dark Shell_18
+  - first:
+      213: 6483034043903021993
+    second: Monster_90_Dark Shell_19
+  - first:
+      213: -5624009442602618469
+    second: Monster_90_Dark Shell_20
+  - first:
+      213: -3110218262513873270
+    second: Monster_90_Dark Shell_21c
+  - first:
+      213: -6833838193428831297
+    second: Monster_90_Dark Shell_22
+  - first:
+      213: -1290472257948386843
+    second: Monster_90_Dark Shell_23
+  - first:
+      213: 6307196999189795984
+    second: Monster_90_Dark Shell_24
+  - first:
+      213: -3489765014516824384
+    second: Monster_90_Dark Shell_25
+  - first:
+      213: 4110569245248551269
+    second: Monster_90_Dark Shell_26
+  - first:
+      213: 6115548250910995587
+    second: Monster_90_Dark Shell_27
+  - first:
+      213: 7600267942520794696
+    second: Monster_90_Dark Shell_28
+  - first:
+      213: -8069500988112610955
+    second: Monster_90_Dark Shell_29
+  - first:
+      213: 8095357627475730422
+    second: Monster_90_Dark Shell_30
+  - first:
+      213: 6188367123410114410
+    second: Monster_90_Dark Shell_31d
+  - first:
+      213: -6139381486504430552
+    second: Monster_90_Dark Shell_32
+  - first:
+      213: 4171161989255897858
+    second: Monster_90_Dark Shell_33
+  - first:
+      213: -5781714675697878133
+    second: Monster_90_Dark Shell_34
+  - first:
+      213: 1500290014199097247
+    second: Monster_90_Dark Shell_35
+  - first:
+      213: 6742880667317651156
+    second: Monster_90_Dark Shell_36
+  - first:
+      213: 513711431463466755
+    second: Monster_90_Dark Shell_37
+  - first:
+      213: -3718990505657368409
+    second: Monster_90_Dark Shell_38
+  - first:
+      213: 2559764765028472821
+    second: Monster_90_Dark Shell_39
+  - first:
+      213: 52042405610912132
+    second: Monster_90_Dark Shell_40
+  - first:
+      213: -1851034389415824428
+    second: Monster_90_Dark Shell_41
+  - first:
+      213: -930967277397139124
+    second: Monster_90_Dark Shell_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafa0e9b79fbcfc20800000000000000
+      internalID: 3241676490179391404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f131a1ded935b0800000000000000
+      internalID: -5388030487238151954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ed1f9c7408c02c0800000000000000
+      internalID: -4464052084811899290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0165f5024a3fc6050800000000000000
+      internalID: 5795274706762290704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_4
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81532e1c15899fb00800000000000000
+      internalID: 862888280530760984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242c4cf1718d155e0800000000000000
+      internalID: -1922517972081655230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_6
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b82594d78cfd9410800000000000000
+      internalID: 1485621112419461298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_7
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab484b8ad0942310800000000000000
+      internalID: 1379386654196255663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708133d1f6bbcf0b0800000000000000
+      internalID: -5693469742997497849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877508be5419f7700800000000000000
+      internalID: 540310209797576568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce0e4075e2a6bd40800000000000000
+      internalID: 5599842292997164742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dae8df3088466c0800000000000000
+      internalID: -4151043405808489185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_12
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2458d23fc9a068d70800000000000000
+      internalID: 9044928570831242562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_13
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfb4afa173406f30800000000000000
+      internalID: 4566724177710858185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_14
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4225b20d8ea9fc8e0800000000000000
+      internalID: -1670946612015574492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_15
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b58528a38bca040800000000000000
+      internalID: 4660302275856063277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_16b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba852ffcaa03cd940800000000000000
+      internalID: 5322182369836423339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77d840f5e7afd690800000000000000
+      internalID: -7575151442193229958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69fb47dcfe350470800000000000000
+      internalID: 8360157538947955050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_19
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a39a954d1d58f950800000000000000
+      internalID: 6483034043903021993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_20
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b917a30953183f1b0800000000000000
+      internalID: -5624009442602618469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_21c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e8de808f846d4d0800000000000000
+      internalID: -3110218262513873270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb36d2cce545921a0800000000000000
+      internalID: -6833838193428831297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e97d709152571ee0800000000000000
+      internalID: -1290472257948386843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_24
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0941e19f04aa78750800000000000000
+      internalID: 6307196999189795984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_25
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c68328753dd19fc0800000000000000
+      internalID: -3489765014516824384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_26
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5697fa723fcab0930800000000000000
+      internalID: 4110569245248551269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_27
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384bf4e8bbaced450800000000000000
+      internalID: 6115548250910995587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_28
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eadbffc63997960800000000000000
+      internalID: 7600267942520794696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_29
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57952e8fa9f530090800000000000000
+      internalID: -8069500988112610955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_30
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff90730fdc785070800000000000000
+      internalID: 8095357627475730422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_31d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67d0928c1f71e550800000000000000
+      internalID: 6188367123410114410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8243b4cd0198ccaa0800000000000000
+      internalID: -6139381486504430552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_33
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203a53ebab1f2e930800000000000000
+      internalID: 4171161989255897858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_34
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7d52a22933cfa0800000000000000
+      internalID: -5781714675697878133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_35
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97276ca1d912d410800000000000000
+      internalID: 1500290014199097247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_36
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6415add36839d50800000000000000
+      internalID: 6742880667317651156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_37
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307ff6d33d1112700800000000000000
+      internalID: 513711431463466755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_38
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a00e33d6dd736cc0800000000000000
+      internalID: -3718990505657368409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_39
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f75518dd7c168320800000000000000
+      internalID: 2559764765028472821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_40
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f1bbca44e8b000800000000000000
+      internalID: 52042405610912132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_41
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d376dfa70ecf46e0800000000000000
+      internalID: -1851034389415824428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_90_Dark Shell_42
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c412b35913a8413f0800000000000000
+      internalID: -930967277397139124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_90_Dark Shell_0: 3241676490179391404
+      Monster_90_Dark Shell_1: -5388030487238151954
+      Monster_90_Dark Shell_10: 5599842292997164742
+      Monster_90_Dark Shell_11: -4151043405808489185
+      Monster_90_Dark Shell_12: 9044928570831242562
+      Monster_90_Dark Shell_13: 4566724177710858185
+      Monster_90_Dark Shell_14: -1670946612015574492
+      Monster_90_Dark Shell_15: 4660302275856063277
+      Monster_90_Dark Shell_16b: 5322182369836423339
+      Monster_90_Dark Shell_17: -7575151442193229958
+      Monster_90_Dark Shell_18: 8360157538947955050
+      Monster_90_Dark Shell_19: 6483034043903021993
+      Monster_90_Dark Shell_2: -4464052084811899290
+      Monster_90_Dark Shell_20: -5624009442602618469
+      Monster_90_Dark Shell_21c: -3110218262513873270
+      Monster_90_Dark Shell_22: -6833838193428831297
+      Monster_90_Dark Shell_23: -1290472257948386843
+      Monster_90_Dark Shell_24: 6307196999189795984
+      Monster_90_Dark Shell_25: -3489765014516824384
+      Monster_90_Dark Shell_26: 4110569245248551269
+      Monster_90_Dark Shell_27: 6115548250910995587
+      Monster_90_Dark Shell_28: 7600267942520794696
+      Monster_90_Dark Shell_29: -8069500988112610955
+      Monster_90_Dark Shell_3: 5795274706762290704
+      Monster_90_Dark Shell_30: 8095357627475730422
+      Monster_90_Dark Shell_31d: 6188367123410114410
+      Monster_90_Dark Shell_32: -6139381486504430552
+      Monster_90_Dark Shell_33: 4171161989255897858
+      Monster_90_Dark Shell_34: -5781714675697878133
+      Monster_90_Dark Shell_35: 1500290014199097247
+      Monster_90_Dark Shell_36: 6742880667317651156
+      Monster_90_Dark Shell_37: 513711431463466755
+      Monster_90_Dark Shell_38: -3718990505657368409
+      Monster_90_Dark Shell_39: 2559764765028472821
+      Monster_90_Dark Shell_4: 862888280530760984
+      Monster_90_Dark Shell_40: 52042405610912132
+      Monster_90_Dark Shell_41: -1851034389415824428
+      Monster_90_Dark Shell_42: -930967277397139124
+      Monster_90_Dark Shell_5: -1922517972081655230
+      Monster_90_Dark Shell_6: 1485621112419461298
+      Monster_90_Dark Shell_7: 1379386654196255663
+      Monster_90_Dark Shell_8a: -5693469742997497849
+      Monster_90_Dark Shell_9: 540310209797576568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: 20e0967a4256aa84fb1bb28f2c773c4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6870228915885042900
+    second: Monster_56_Rock Turtle_0
+  - first:
+      213: 7676651534424464334
+    second: Monster_56_Rock Turtle_1
+  - first:
+      213: -4344076542955338405
+    second: Monster_56_Rock Turtle_2
+  - first:
+      213: -5956870756866907648
+    second: Monster_56_Rock Turtle_3
+  - first:
+      213: 2259180408551688752
+    second: Monster_56_Rock Turtle_4
+  - first:
+      213: 343873382447015687
+    second: Monster_56_Rock Turtle_5
+  - first:
+      213: 8465329749931932824
+    second: Monster_56_Rock Turtle_6
+  - first:
+      213: -8640609798601474500
+    second: Monster_56_Rock Turtle_7
+  - first:
+      213: -7930196801035396277
+    second: Monster_56_Rock Turtle_8
+  - first:
+      213: -4314970973737659189
+    second: Monster_56_Rock Turtle_9
+  - first:
+      213: 1526853286016642418
+    second: Monster_56_Rock Turtle_10a
+  - first:
+      213: -8677478376840131365
+    second: Monster_56_Rock Turtle_11
+  - first:
+      213: 7278605999461306521
+    second: Monster_56_Rock Turtle_12
+  - first:
+      213: -8983734478190917235
+    second: Monster_56_Rock Turtle_13
+  - first:
+      213: -6618518607793272060
+    second: Monster_56_Rock Turtle_14
+  - first:
+      213: -1066942452701317780
+    second: Monster_56_Rock Turtle_15
+  - first:
+      213: 2562074648157905737
+    second: Monster_56_Rock Turtle_16
+  - first:
+      213: 3037249009739486402
+    second: Monster_56_Rock Turtle_17
+  - first:
+      213: -2894192038612872975
+    second: Monster_56_Rock Turtle_18b
+  - first:
+      213: -845886235834602571
+    second: Monster_56_Rock Turtle_19
+  - first:
+      213: 2465451628940464418
+    second: Monster_56_Rock Turtle_20
+  - first:
+      213: 1831248894436164661
+    second: Monster_56_Rock Turtle_21
+  - first:
+      213: -3757890903271412083
+    second: Monster_56_Rock Turtle_22
+  - first:
+      213: 6138919120193421106
+    second: Monster_56_Rock Turtle_23c
+  - first:
+      213: -5255448239240068772
+    second: Monster_56_Rock Turtle_24
+  - first:
+      213: 5549157435677298584
+    second: Monster_56_Rock Turtle_25
+  - first:
+      213: -7898484705681146232
+    second: Monster_56_Rock Turtle_26
+  - first:
+      213: 4680811091338027054
+    second: Monster_56_Rock Turtle_27
+  - first:
+      213: -6917595240088495736
+    second: Monster_56_Rock Turtle_28
+  - first:
+      213: 9109517672096286027
+    second: Monster_56_Rock Turtle_29
+  - first:
+      213: 9074087168862909094
+    second: Monster_56_Rock Turtle_30
+  - first:
+      213: -1455277633957933054
+    second: Monster_56_Rock Turtle_31
+  - first:
+      213: 1691265583828951355
+    second: Monster_56_Rock Turtle_32
+  - first:
+      213: -434294264617859659
+    second: Monster_56_Rock Turtle_33
+  - first:
+      213: -3697415184900485716
+    second: Monster_56_Rock Turtle_34
+  - first:
+      213: -1895319231143725334
+    second: Monster_56_Rock Turtle_35
+  - first:
+      213: -1062068338780549692
+    second: Monster_56_Rock Turtle_36d
+  - first:
+      213: -1667309573093402986
+    second: Monster_56_Rock Turtle_37
+  - first:
+      213: -4769762140852467463
+    second: Monster_56_Rock Turtle_38
+  - first:
+      213: 8950032739394693695
+    second: Monster_56_Rock Turtle_39
+  - first:
+      213: -2168929942257631369
+    second: Monster_56_Rock Turtle_40
+  - first:
+      213: -4532137367488303557
+    second: Monster_56_Rock Turtle_41
+  - first:
+      213: 3248774050967468736
+    second: Monster_56_Rock Turtle_42
+  - first:
+      213: 3167660918962522278
+    second: Monster_56_Rock Turtle_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dce1f88cc4f75f50800000000000000
+      internalID: 6870228915885042900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbd3ddd5e1f88a60800000000000000
+      internalID: 7676651534424464334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b554a0c666db6b3c0800000000000000
+      internalID: -4344076542955338405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00229048b91f45da0800000000000000
+      internalID: -5956870756866907648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ace37ac983a5f10800000000000000
+      internalID: 2259180408551688752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7076778f40fa5c400800000000000000
+      internalID: 343873382447015687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c3d3b6e84ea7570800000000000000
+      internalID: 8465329749931932824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e79970b23661880800000000000000
+      internalID: -8640609798601474500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_8
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b9853860842f190800000000000000
+      internalID: -7930196801035396277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_9
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4de36d2c42e14c0800000000000000
+      internalID: -4314970973737659189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_10a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27de82959f8703510800000000000000
+      internalID: 1526853286016642418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc8f4a3467639780800000000000000
+      internalID: -8677478376840131365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9901be1c79dc20560800000000000000
+      internalID: 7278605999461306521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d894007071d535380800000000000000
+      internalID: -8983734478190917235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_14
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b4b23846c4624a0800000000000000
+      internalID: -6618518607793272060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_15
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6534fefd757131f0800000000000000
+      internalID: -1066942452701317780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_16
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9436c7b61515e8320800000000000000
+      internalID: 2562074648157905737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_17
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4ddefd1e9762a20800000000000000
+      internalID: 3037249009739486402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_18b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f057bacca3c5d7d0800000000000000
+      internalID: -2894192038612872975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbafa043fec244f0800000000000000
+      internalID: -845886235834602571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_20
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22197e9a13b073220800000000000000
+      internalID: 2465451628940464418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534c138ca27e96910800000000000000
+      internalID: 1831248894436164661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_22
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ee5d5322a49dbc0800000000000000
+      internalID: -3757890903271412083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_23c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f7bf71a62d13550800000000000000
+      internalID: 6138919120193421106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c4a4cba5e017b0800000000000000
+      internalID: -5255448239240068772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f434c7941920d40800000000000000
+      internalID: 5549157435677298584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_26
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ef4061202f26290800000000000000
+      internalID: -7898484705681146232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_27
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2069e733e495f040800000000000000
+      internalID: 4680811091338027054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_28
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8899796b7c3cfff90800000000000000
+      internalID: -6917595240088495736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_29
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b454178fe028b6e70800000000000000
+      internalID: 9109517672096286027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_30
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2f0091432aded70800000000000000
+      internalID: 9074087168862909094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_31
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200dd5ac3b0ddcbe0800000000000000
+      internalID: -1455277633957933054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_32
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31e7f87615987710800000000000000
+      internalID: 1691265583828951355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_33
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b58675daa319f9f0800000000000000
+      internalID: -434294264617859659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_34
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad0fd4aa7420bcc0800000000000000
+      internalID: -3697415184900485716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_35
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae636bb733972b5e0800000000000000
+      internalID: -1895319231143725334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_36d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdcbc31976c241f0800000000000000
+      internalID: -1062068338780549692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696d82de6c68cd8e0800000000000000
+      internalID: -1667309573093402986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_38
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8c16baa966ecdb0800000000000000
+      internalID: -4769762140852467463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_39
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aacbf6b57e43c70800000000000000
+      internalID: 8950032739394693695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_40
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f760185b966e1e0800000000000000
+      internalID: -2168929942257631369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_41
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ee599931d9a11c0800000000000000
+      internalID: -4532137367488303557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_42
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca3c6f59c6f51d20800000000000000
+      internalID: 3248774050967468736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_56_Rock Turtle_43
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a806a3a2dac5fb20800000000000000
+      internalID: 3167660918962522278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_56_Rock Turtle_0: 6870228915885042900
+      Monster_56_Rock Turtle_1: 7676651534424464334
+      Monster_56_Rock Turtle_10a: 1526853286016642418
+      Monster_56_Rock Turtle_11: -8677478376840131365
+      Monster_56_Rock Turtle_12: 7278605999461306521
+      Monster_56_Rock Turtle_13: -8983734478190917235
+      Monster_56_Rock Turtle_14: -6618518607793272060
+      Monster_56_Rock Turtle_15: -1066942452701317780
+      Monster_56_Rock Turtle_16: 2562074648157905737
+      Monster_56_Rock Turtle_17: 3037249009739486402
+      Monster_56_Rock Turtle_18b: -2894192038612872975
+      Monster_56_Rock Turtle_19: -845886235834602571
+      Monster_56_Rock Turtle_2: -4344076542955338405
+      Monster_56_Rock Turtle_20: 2465451628940464418
+      Monster_56_Rock Turtle_21: 1831248894436164661
+      Monster_56_Rock Turtle_22: -3757890903271412083
+      Monster_56_Rock Turtle_23c: 6138919120193421106
+      Monster_56_Rock Turtle_24: -5255448239240068772
+      Monster_56_Rock Turtle_25: 5549157435677298584
+      Monster_56_Rock Turtle_26: -7898484705681146232
+      Monster_56_Rock Turtle_27: 4680811091338027054
+      Monster_56_Rock Turtle_28: -6917595240088495736
+      Monster_56_Rock Turtle_29: 9109517672096286027
+      Monster_56_Rock Turtle_3: -5956870756866907648
+      Monster_56_Rock Turtle_30: 9074087168862909094
+      Monster_56_Rock Turtle_31: -1455277633957933054
+      Monster_56_Rock Turtle_32: 1691265583828951355
+      Monster_56_Rock Turtle_33: -434294264617859659
+      Monster_56_Rock Turtle_34: -3697415184900485716
+      Monster_56_Rock Turtle_35: -1895319231143725334
+      Monster_56_Rock Turtle_36d: -1062068338780549692
+      Monster_56_Rock Turtle_37: -1667309573093402986
+      Monster_56_Rock Turtle_38: -4769762140852467463
+      Monster_56_Rock Turtle_39: 8950032739394693695
+      Monster_56_Rock Turtle_4: 2259180408551688752
+      Monster_56_Rock Turtle_40: -2168929942257631369
+      Monster_56_Rock Turtle_41: -4532137367488303557
+      Monster_56_Rock Turtle_42: 3248774050967468736
+      Monster_56_Rock Turtle_43: 3167660918962522278
+      Monster_56_Rock Turtle_5: 343873382447015687
+      Monster_56_Rock Turtle_6: 8465329749931932824
+      Monster_56_Rock Turtle_7: -8640609798601474500
+      Monster_56_Rock Turtle_8: -7930196801035396277
+      Monster_56_Rock Turtle_9: -4314970973737659189
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

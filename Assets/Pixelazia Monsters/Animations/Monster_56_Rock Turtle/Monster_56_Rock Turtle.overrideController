@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Monster_56_Rock Turtle
+  m_Controller: {fileID: 9100000, guid: 2565a68d492c21b409f62603c9e1a6e9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b1cfd93510a8ce14b91be3af8f79ee1a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bd5ee0e44fa1b2749bff5b36e9beb1bd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0968dd52b08fc5144a1e3acff3e79a53, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a447487cec09fb043a5e9da3796a32cf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c372672860ad8b147bdda88b71bda264, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1204847b8f4a072438daaf731fed8eeb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 86525cac9caad9d48a43dbdacb01be84, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9664b2bd33c053945bc7d56b6e0c18d8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 96602e3b875ca1e4f8d6f1168bd46927, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6bafd11806c27be4babe2385abcea1c2, type: 2}

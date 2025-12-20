@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Monster_32_Lightning Rabbit
+  m_Controller: {fileID: 9100000, guid: 2565a68d492c21b409f62603c9e1a6e9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b1cfd93510a8ce14b91be3af8f79ee1a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8662441f4d98f35438e283c6f3a4aa0d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0968dd52b08fc5144a1e3acff3e79a53, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7427d793036d18140b3374c80e45e84e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c372672860ad8b147bdda88b71bda264, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0efbc12a69df3764c81fa707b3daab6e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 86525cac9caad9d48a43dbdacb01be84, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2a9ec540248552946806d0762df8eb5d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 96602e3b875ca1e4f8d6f1168bd46927, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 72a969dbc4a3d5d429fae5d374b6b5dd, type: 2}

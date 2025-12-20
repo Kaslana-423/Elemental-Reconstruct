@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: d5848d5cdc280ae4fb3bc95246ec628b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8879401962191714897
+    second: Monster_59_Red Block_0
+  - first:
+      213: 3304530088660577236
+    second: Monster_59_Red Block_1
+  - first:
+      213: 8779383612215882713
+    second: Monster_59_Red Block_2
+  - first:
+      213: -1450623246627848066
+    second: Monster_59_Red Block_3
+  - first:
+      213: 6495310357462635830
+    second: Monster_59_Red Block_4
+  - first:
+      213: 8236207632724495405
+    second: Monster_59_Red Block_5
+  - first:
+      213: -8785398734730444332
+    second: Monster_59_Red Block_6
+  - first:
+      213: 1087091123459671791
+    second: Monster_59_Red Block_7
+  - first:
+      213: -215253496253999655
+    second: Monster_59_Red Block_8a
+  - first:
+      213: 2760847795176844171
+    second: Monster_59_Red Block_9
+  - first:
+      213: -1922321093096518734
+    second: Monster_59_Red Block_10
+  - first:
+      213: 5036235572506980853
+    second: Monster_59_Red Block_11
+  - first:
+      213: -1527314571117617073
+    second: Monster_59_Red Block_12
+  - first:
+      213: -7610960347855311912
+    second: Monster_59_Red Block_13
+  - first:
+      213: 9205852213259967404
+    second: Monster_59_Red Block_14
+  - first:
+      213: 619493985082784820
+    second: Monster_59_Red Block_15
+  - first:
+      213: 5877642234377256693
+    second: Monster_59_Red Block_16b
+  - first:
+      213: -3608862055406004568
+    second: Monster_59_Red Block_17
+  - first:
+      213: -333393020523558894
+    second: Monster_59_Red Block_18
+  - first:
+      213: 5772160357321961992
+    second: Monster_59_Red Block_19
+  - first:
+      213: 6175459078211288120
+    second: Monster_59_Red Block_20
+  - first:
+      213: -3390225923586737883
+    second: Monster_59_Red Block_21
+  - first:
+      213: 1023994720253380725
+    second: Monster_59_Red Block_22c
+  - first:
+      213: 3187764295328548968
+    second: Monster_59_Red Block_23
+  - first:
+      213: 1556749893655092391
+    second: Monster_59_Red Block_24
+  - first:
+      213: -9214982869910700485
+    second: Monster_59_Red Block_25
+  - first:
+      213: -9145491000394148041
+    second: Monster_59_Red Block_26
+  - first:
+      213: -8158773499877976231
+    second: Monster_59_Red Block_27
+  - first:
+      213: -1040931465681101976
+    second: Monster_59_Red Block_28
+  - first:
+      213: -2405639203923164447
+    second: Monster_59_Red Block_29
+  - first:
+      213: -4636767998046767613
+    second: Monster_59_Red Block_30
+  - first:
+      213: -6002038323044616892
+    second: Monster_59_Red Block_31
+  - first:
+      213: 3535899318874441616
+    second: Monster_59_Red Block_32
+  - first:
+      213: 6769470795024833716
+    second: Monster_59_Red Block_33d
+  - first:
+      213: -2108506610511226441
+    second: Monster_59_Red Block_34
+  - first:
+      213: 7179541588330925940
+    second: Monster_59_Red Block_35
+  - first:
+      213: -41754527352852065
+    second: Monster_59_Red Block_36
+  - first:
+      213: 2756920652341152050
+    second: Monster_59_Red Block_37
+  - first:
+      213: -5641293016700069555
+    second: Monster_59_Red Block_38
+  - first:
+      213: 935601168459625321
+    second: Monster_59_Red Block_39
+  - first:
+      213: 2148050764008764600
+    second: Monster_59_Red Block_40
+  - first:
+      213: -5671887828487304851
+    second: Monster_59_Red Block_41
+  - first:
+      213: 3624296201407621778
+    second: Monster_59_Red Block_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_59_Red Block_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa508a1e5f606c480800000000000000
+      internalID: -8879401962191714897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db24348b9c0cdd20800000000000000
+      internalID: 3304530088660577236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3730151e2a6d970800000000000000
+      internalID: 8779383612215882713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70c2d9c7d95edbe0800000000000000
+      internalID: -1450623246627848066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d9724b5af32a50800000000000000
+      internalID: 6495310357462635830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c87e46433ec4270800000000000000
+      internalID: 8236207632724495405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c936d56ef31680800000000000000
+      internalID: -8785398734730444332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe64b4cfd9f161f00800000000000000
+      internalID: 1087091123459671791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d59e1be514430df0800000000000000
+      internalID: -215253496253999655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8baf6e2170805620800000000000000
+      internalID: 2760847795176844171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbcdb5962b8255e0800000000000000
+      internalID: -1922321093096518734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_11
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1f670f19d44e540800000000000000
+      internalID: 5036235572506980853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_12
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40a1485d73edcae0800000000000000
+      internalID: -1527314571117617073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_13
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db208263ef606690800000000000000
+      internalID: -7610960347855311912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_14
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab9a1230d1c1cf70800000000000000
+      internalID: 9205852213259967404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_15
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cb9594f72e89800800000000000000
+      internalID: 619493985082784820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_16b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feb3e89874919150800000000000000
+      internalID: 5877642234377256693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a69328c41fbaedc0800000000000000
+      internalID: -3608862055406004568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_18
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218491170dc8f5bf0800000000000000
+      internalID: -333393020523558894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_19
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80274c44345da1050800000000000000
+      internalID: 5772160357321961992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_20
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cbeb90053a3b550800000000000000
+      internalID: 6175459078211288120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_21
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529ba441c7f73f0d0800000000000000
+      internalID: -3390225923586737883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_22c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5780490d5c5f53e00800000000000000
+      internalID: 1023994720253380725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684bb2bcb63d3c20800000000000000
+      internalID: 3187764295328548968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac507fb7cfaa9510800000000000000
+      internalID: 1556749893655092391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_25
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eb9a327edcd1080800000000000000
+      internalID: -9214982869910700485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_26
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73799f8d360b41180800000000000000
+      internalID: -9145491000394148041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_27
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95717e89ab636ce80800000000000000
+      internalID: -8158773499877976231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_28
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b1d88d85edd81f0800000000000000
+      internalID: -1040931465681101976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_29
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20860c3e37d9ed0800000000000000
+      internalID: -2405639203923164447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_30
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f58a8214e6afb0800000000000000
+      internalID: -4636767998046767613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_31
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445f4a202f974bca0800000000000000
+      internalID: -6002038323044616892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_32
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0978e0f42b9021130800000000000000
+      internalID: 3535899318874441616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_33d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc16d662ddf1fd50800000000000000
+      internalID: 6769470795024833716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b95ae9b8641db2e0800000000000000
+      internalID: -2108506610511226441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fcb96290bd2a360800000000000000
+      internalID: 7179541588330925940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_36
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f917e558a78ab6ff0800000000000000
+      internalID: -41754527352852065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_37
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2398bbcf9bc824620800000000000000
+      internalID: 2756920652341152050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_38
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4953b1e3e916b1b0800000000000000
+      internalID: -5641293016700069555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_39
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f9714e4cebfc00800000000000000
+      internalID: 935601168459625321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_40
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4bf3cf9c86fcd10800000000000000
+      internalID: 2148050764008764600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_41
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69072922186941b0800000000000000
+      internalID: -5671887828487304851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_59_Red Block_42
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ae2bd51361c4230800000000000000
+      internalID: 3624296201407621778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_59_Red Block_0: -8879401962191714897
+      Monster_59_Red Block_1: 3304530088660577236
+      Monster_59_Red Block_10: -1922321093096518734
+      Monster_59_Red Block_11: 5036235572506980853
+      Monster_59_Red Block_12: -1527314571117617073
+      Monster_59_Red Block_13: -7610960347855311912
+      Monster_59_Red Block_14: 9205852213259967404
+      Monster_59_Red Block_15: 619493985082784820
+      Monster_59_Red Block_16b: 5877642234377256693
+      Monster_59_Red Block_17: -3608862055406004568
+      Monster_59_Red Block_18: -333393020523558894
+      Monster_59_Red Block_19: 5772160357321961992
+      Monster_59_Red Block_2: 8779383612215882713
+      Monster_59_Red Block_20: 6175459078211288120
+      Monster_59_Red Block_21: -3390225923586737883
+      Monster_59_Red Block_22c: 1023994720253380725
+      Monster_59_Red Block_23: 3187764295328548968
+      Monster_59_Red Block_24: 1556749893655092391
+      Monster_59_Red Block_25: -9214982869910700485
+      Monster_59_Red Block_26: -9145491000394148041
+      Monster_59_Red Block_27: -8158773499877976231
+      Monster_59_Red Block_28: -1040931465681101976
+      Monster_59_Red Block_29: -2405639203923164447
+      Monster_59_Red Block_3: -1450623246627848066
+      Monster_59_Red Block_30: -4636767998046767613
+      Monster_59_Red Block_31: -6002038323044616892
+      Monster_59_Red Block_32: 3535899318874441616
+      Monster_59_Red Block_33d: 6769470795024833716
+      Monster_59_Red Block_34: -2108506610511226441
+      Monster_59_Red Block_35: 7179541588330925940
+      Monster_59_Red Block_36: -41754527352852065
+      Monster_59_Red Block_37: 2756920652341152050
+      Monster_59_Red Block_38: -5641293016700069555
+      Monster_59_Red Block_39: 935601168459625321
+      Monster_59_Red Block_4: 6495310357462635830
+      Monster_59_Red Block_40: 2148050764008764600
+      Monster_59_Red Block_41: -5671887828487304851
+      Monster_59_Red Block_42: 3624296201407621778
+      Monster_59_Red Block_5: 8236207632724495405
+      Monster_59_Red Block_6: -8785398734730444332
+      Monster_59_Red Block_7: 1087091123459671791
+      Monster_59_Red Block_8a: -215253496253999655
+      Monster_59_Red Block_9: 2760847795176844171
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

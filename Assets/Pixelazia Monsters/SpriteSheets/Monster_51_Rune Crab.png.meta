@@ -1,0 +1,1028 @@
+fileFormatVersion: 2
+guid: 275888bd4bb321f419bdcfb1e04d7f55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8462642981141594574
+    second: Monster_51_Rune Crab_0
+  - first:
+      213: 4633324074320389070
+    second: Monster_51_Rune Crab_1
+  - first:
+      213: 686483452990701095
+    second: Monster_51_Rune Crab_2
+  - first:
+      213: -2332122437352286126
+    second: Monster_51_Rune Crab_3
+  - first:
+      213: -2467843724577811469
+    second: Monster_51_Rune Crab_4
+  - first:
+      213: -1993446895387670103
+    second: Monster_51_Rune Crab_5
+  - first:
+      213: 1701711802137095179
+    second: Monster_51_Rune Crab_6a
+  - first:
+      213: -7383332876457492490
+    second: Monster_51_Rune Crab_7
+  - first:
+      213: -953034266147830864
+    second: Monster_51_Rune Crab_8
+  - first:
+      213: -2709205899957871721
+    second: Monster_51_Rune Crab_9
+  - first:
+      213: -33580724355157426
+    second: Monster_51_Rune Crab_10
+  - first:
+      213: -8353410755561354258
+    second: Monster_51_Rune Crab_11
+  - first:
+      213: -5821430540879721976
+    second: Monster_51_Rune Crab_12
+  - first:
+      213: 1033113931532488142
+    second: Monster_51_Rune Crab_13b
+  - first:
+      213: -6094819837982833712
+    second: Monster_51_Rune Crab_14
+  - first:
+      213: 8357237665894798993
+    second: Monster_51_Rune Crab_15
+  - first:
+      213: 3636749053055726660
+    second: Monster_51_Rune Crab_16
+  - first:
+      213: 1487777076733660894
+    second: Monster_51_Rune Crab_17
+  - first:
+      213: -871881629461428244
+    second: Monster_51_Rune Crab_18
+  - first:
+      213: 5538690885673389984
+    second: Monster_51_Rune Crab_19c
+  - first:
+      213: -1160396002310306443
+    second: Monster_51_Rune Crab_20
+  - first:
+      213: 8126832240943284800
+    second: Monster_51_Rune Crab_21
+  - first:
+      213: 6222431561603792818
+    second: Monster_51_Rune Crab_22
+  - first:
+      213: 5360688931257814423
+    second: Monster_51_Rune Crab_23
+  - first:
+      213: 4734888343669625719
+    second: Monster_51_Rune Crab_24
+  - first:
+      213: -7919632547450683604
+    second: Monster_51_Rune Crab_25
+  - first:
+      213: 5939278456055019196
+    second: Monster_51_Rune Crab_26
+  - first:
+      213: 2990426904364378522
+    second: Monster_51_Rune Crab_27d
+  - first:
+      213: -2526184725150581752
+    second: Monster_51_Rune Crab_28
+  - first:
+      213: -7921146109310356970
+    second: Monster_51_Rune Crab_29
+  - first:
+      213: -6087214866500699451
+    second: Monster_51_Rune Crab_30
+  - first:
+      213: -5742298034598772212
+    second: Monster_51_Rune Crab_31
+  - first:
+      213: -7440391802847646948
+    second: Monster_51_Rune Crab_32
+  - first:
+      213: -8581053666322016724
+    second: Monster_51_Rune Crab_33
+  - first:
+      213: 4899917154520593947
+    second: Monster_51_Rune Crab_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e3a10bb07ae8a80800000000000000
+      internalID: -8462642981141594574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3e12b72bfdc4040800000000000000
+      internalID: 4633324074320389070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eb1b73011e68900800000000000000
+      internalID: 686483452990701095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25816e4dff2a2afd0800000000000000
+      internalID: -2332122437352286126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3dc5b253570cdd0800000000000000
+      internalID: -2467843724577811469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a900d14c9ad554e0800000000000000
+      internalID: -1993446895387670103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_6a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ca8743ed1bd9710800000000000000
+      internalID: 1701711802137095179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffb9401ed1298990800000000000000
+      internalID: -7383332876457492490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3cb73626426c2f0800000000000000
+      internalID: -953034266147830864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_9
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b5e958697f66ad0800000000000000
+      internalID: -2709205899957871721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_10
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b2855282b88ff0800000000000000
+      internalID: -33580724355157426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_11
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb86d31d29b21c80800000000000000
+      internalID: -8353410755561354258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_12
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a014e24cf163fa0800000000000000
+      internalID: -5821430540879721976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_13b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd4085a5ab565e00800000000000000
+      internalID: 1033113931532488142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3870b26a9da6ba0800000000000000
+      internalID: -6094819837982833712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_15
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1969c2be06fdaf370800000000000000
+      internalID: 8357237665894798993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_16
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444ff94def3587230800000000000000
+      internalID: 3636749053055726660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_17
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edecda36e55a5a410800000000000000
+      internalID: 1487777076733660894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_18
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce743c5074476e3f0800000000000000
+      internalID: -871881629461428244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_19c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af8149e3026ddc40800000000000000
+      internalID: 5538690885673389984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c283ebf175efe0800000000000000
+      internalID: -1160396002310306443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_21
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042cd968dde48c070800000000000000
+      internalID: 8126832240943284800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_22
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb29499848a5650800000000000000
+      internalID: 6222431561603792818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_23
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d8dfa4e2ef46a40800000000000000
+      internalID: 5360688931257814423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_24
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773d09facd3b5b140800000000000000
+      internalID: 4734888343669625719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_25
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f74997820d71290800000000000000
+      internalID: -7919632547450683604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_26
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb63a43c94e8c6250800000000000000
+      internalID: 5939278456055019196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_27d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99e861fc61208920800000000000000
+      internalID: 2990426904364378522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cb164706031fcd0800000000000000
+      internalID: -2526184725150581752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_29
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612b694e49f621290800000000000000
+      internalID: -7921146109310356970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_30
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cabfb2945ed58ba0800000000000000
+      internalID: -6087214866500699451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_31
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02015d8c524f40b0800000000000000
+      internalID: -5742298034598772212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_32
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ba981831b6eb890800000000000000
+      internalID: -7440391802847646948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_33
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c261054a729f9e880800000000000000
+      internalID: -8581053666322016724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_51_Rune Crab_34
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16fa00f0b0000440800000000000000
+      internalID: 4899917154520593947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_51_Rune Crab_0: -8462642981141594574
+      Monster_51_Rune Crab_1: 4633324074320389070
+      Monster_51_Rune Crab_10: -33580724355157426
+      Monster_51_Rune Crab_11: -8353410755561354258
+      Monster_51_Rune Crab_12: -5821430540879721976
+      Monster_51_Rune Crab_13b: 1033113931532488142
+      Monster_51_Rune Crab_14: -6094819837982833712
+      Monster_51_Rune Crab_15: 8357237665894798993
+      Monster_51_Rune Crab_16: 3636749053055726660
+      Monster_51_Rune Crab_17: 1487777076733660894
+      Monster_51_Rune Crab_18: -871881629461428244
+      Monster_51_Rune Crab_19c: 5538690885673389984
+      Monster_51_Rune Crab_2: 686483452990701095
+      Monster_51_Rune Crab_20: -1160396002310306443
+      Monster_51_Rune Crab_21: 8126832240943284800
+      Monster_51_Rune Crab_22: 6222431561603792818
+      Monster_51_Rune Crab_23: 5360688931257814423
+      Monster_51_Rune Crab_24: 4734888343669625719
+      Monster_51_Rune Crab_25: -7919632547450683604
+      Monster_51_Rune Crab_26: 5939278456055019196
+      Monster_51_Rune Crab_27d: 2990426904364378522
+      Monster_51_Rune Crab_28: -2526184725150581752
+      Monster_51_Rune Crab_29: -7921146109310356970
+      Monster_51_Rune Crab_3: -2332122437352286126
+      Monster_51_Rune Crab_30: -6087214866500699451
+      Monster_51_Rune Crab_31: -5742298034598772212
+      Monster_51_Rune Crab_32: -7440391802847646948
+      Monster_51_Rune Crab_33: -8581053666322016724
+      Monster_51_Rune Crab_34: 4899917154520593947
+      Monster_51_Rune Crab_4: -2467843724577811469
+      Monster_51_Rune Crab_5: -1993446895387670103
+      Monster_51_Rune Crab_6a: 1701711802137095179
+      Monster_51_Rune Crab_7: -7383332876457492490
+      Monster_51_Rune Crab_8: -953034266147830864
+      Monster_51_Rune Crab_9: -2709205899957871721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

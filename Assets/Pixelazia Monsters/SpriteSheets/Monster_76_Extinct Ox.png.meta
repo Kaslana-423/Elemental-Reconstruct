@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: b16682dd5dcc4d242b732795fb7674c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4505214015664526082
+    second: Monster_76_Extinct Ox_0
+  - first:
+      213: 6990341086602503941
+    second: Monster_76_Extinct Ox_1
+  - first:
+      213: 3902932344974448164
+    second: Monster_76_Extinct Ox_2
+  - first:
+      213: 2855098830106596329
+    second: Monster_76_Extinct Ox_3
+  - first:
+      213: 7530415564893200194
+    second: Monster_76_Extinct Ox_4
+  - first:
+      213: -5242530736637998090
+    second: Monster_76_Extinct Ox_5
+  - first:
+      213: -474912575938881611
+    second: Monster_76_Extinct Ox_6
+  - first:
+      213: 8873947721741776961
+    second: Monster_76_Extinct Ox_7
+  - first:
+      213: -2233369368565545713
+    second: Monster_76_Extinct Ox_8
+  - first:
+      213: -5320506355461613082
+    second: Monster_76_Extinct Ox_9
+  - first:
+      213: 1020294924767737724
+    second: Monster_76_Extinct Ox_10
+  - first:
+      213: 2949199639240980066
+    second: Monster_76_Extinct Ox_11a
+  - first:
+      213: 6938759531843252186
+    second: Monster_76_Extinct Ox_12
+  - first:
+      213: 3242694695383019549
+    second: Monster_76_Extinct Ox_13
+  - first:
+      213: 2269852685549498203
+    second: Monster_76_Extinct Ox_14
+  - first:
+      213: -81391732020453872
+    second: Monster_76_Extinct Ox_15
+  - first:
+      213: 1150450778043553675
+    second: Monster_76_Extinct Ox_16
+  - first:
+      213: -258172204383272939
+    second: Monster_76_Extinct Ox_17
+  - first:
+      213: 1783824365338667362
+    second: Monster_76_Extinct Ox_18b
+  - first:
+      213: -5651992025963796919
+    second: Monster_76_Extinct Ox_19
+  - first:
+      213: -4648574138482123331
+    second: Monster_76_Extinct Ox_20
+  - first:
+      213: 7559792030988646938
+    second: Monster_76_Extinct Ox_21
+  - first:
+      213: 6939323708017483597
+    second: Monster_76_Extinct Ox_22
+  - first:
+      213: 8018742480634452930
+    second: Monster_76_Extinct Ox_23
+  - first:
+      213: -6818331917195390530
+    second: Monster_76_Extinct Ox_24c
+  - first:
+      213: 7325770369678857239
+    second: Monster_76_Extinct Ox_25
+  - first:
+      213: 6298191849244152587
+    second: Monster_76_Extinct Ox_26
+  - first:
+      213: -5330042655590105603
+    second: Monster_76_Extinct Ox_27
+  - first:
+      213: 6211335276345898565
+    second: Monster_76_Extinct Ox_28
+  - first:
+      213: 3199868923985321168
+    second: Monster_76_Extinct Ox_29
+  - first:
+      213: -4193023528586589688
+    second: Monster_76_Extinct Ox_30
+  - first:
+      213: -4056142358605721630
+    second: Monster_76_Extinct Ox_31
+  - first:
+      213: 4474746735694562639
+    second: Monster_76_Extinct Ox_32
+  - first:
+      213: 2258291185315670025
+    second: Monster_76_Extinct Ox_33d
+  - first:
+      213: 2884181154380506904
+    second: Monster_76_Extinct Ox_34
+  - first:
+      213: 2647693142519693142
+    second: Monster_76_Extinct Ox_35
+  - first:
+      213: 8087822173203868688
+    second: Monster_76_Extinct Ox_36
+  - first:
+      213: 8703071499336886887
+    second: Monster_76_Extinct Ox_37
+  - first:
+      213: 935315693554556698
+    second: Monster_76_Extinct Ox_38
+  - first:
+      213: 6003338750425959677
+    second: Monster_76_Extinct Ox_39
+  - first:
+      213: 8174941017733579148
+    second: Monster_76_Extinct Ox_40
+  - first:
+      213: 8999655112352695367
+    second: Monster_76_Extinct Ox_41
+  - first:
+      213: 7148090041579973722
+    second: Monster_76_Extinct Ox_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc643fe8b34a71c0800000000000000
+      internalID: -4505214015664526082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507a2cd8e2ea20160800000000000000
+      internalID: 6990341086602503941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42695940a400a2630800000000000000
+      internalID: 3902932344974448164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3132f42495f9720800000000000000
+      internalID: 2855098830106596329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f1884fe09618860800000000000000
+      internalID: 7530415564893200194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb00a6321ace37b0800000000000000
+      internalID: -5242530736637998090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_6
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b71cc34785c869f0800000000000000
+      internalID: -474912575938881611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_7
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1483ecdcf68962b70800000000000000
+      internalID: 8873947721741776961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_8
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f058966646a7101e0800000000000000
+      internalID: -2233369368565545713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_9
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99081b8a3c926b0800000000000000
+      internalID: -5320506355461613082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_10
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c773aec04d0d82e00800000000000000
+      internalID: 1020294924767737724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_11a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2663ba44279ade820800000000000000
+      internalID: 2949199639240980066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf6f55f70d6b4060800000000000000
+      internalID: 6938759531843252186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10395915ad500d20800000000000000
+      internalID: 3242694695383019549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe4a6cdf2208f10800000000000000
+      internalID: 2269852685549498203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e5445a6a6dedef0800000000000000
+      internalID: -81391732020453872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_16
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b879bd423e837ff00800000000000000
+      internalID: 1150450778043553675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_17
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5100bda7fb9ca6cf0800000000000000
+      internalID: -258172204383272939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_18b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269a2b52fca61c810800000000000000
+      internalID: 1783824365338667362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946661ba2371091b0800000000000000
+      internalID: -5651992025963796919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd94b34372fc7fb0800000000000000
+      internalID: -4648574138482123331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_21
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a38e67cc6c9e860800000000000000
+      internalID: 7559792030988646938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f14d5752e6d4060800000000000000
+      internalID: 6939323708017483597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_23
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb1d8f0dcb484f60800000000000000
+      internalID: 8018742480634452930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_24c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb15cd21f3b6061a0800000000000000
+      internalID: -6818331917195390530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7145ace665d5aa560800000000000000
+      internalID: 7325770369678857239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03557d1e1ca76750800000000000000
+      internalID: 6298191849244152587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd3fdbc172e706b0800000000000000
+      internalID: -5330042655590105603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54633775688133650800000000000000
+      internalID: 6211335276345898565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_29
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcd4fd25d7386c20800000000000000
+      internalID: 3199868923985321168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_30
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80acdbbf0536fc5c0800000000000000
+      internalID: -4193023528586589688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_31
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef04e4e300b5b7c0800000000000000
+      internalID: -4056142358605721630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_32
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45c9e8a27e791e30800000000000000
+      internalID: 4474746735694562639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_33d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908e22c3edf075f10800000000000000
+      internalID: 2258291185315670025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e9b69a7ba60820800000000000000
+      internalID: 2884181154380506904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fbf1292ee7eb420800000000000000
+      internalID: 2647693142519693142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_36
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c28585a67bd3070800000000000000
+      internalID: 8087822173203868688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_37
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a2dc4fa6587c870800000000000000
+      internalID: 8703071499336886887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_38
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fda23faa8eafc00800000000000000
+      internalID: 935315693554556698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_39
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc0a7559c4205350800000000000000
+      internalID: 6003338750425959677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_40
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c7cdfa89337170800000000000000
+      internalID: 8174941017733579148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_41
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7448fc874a235ec70800000000000000
+      internalID: 8999655112352695367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_76_Extinct Ox_42
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ca1e6450e133360800000000000000
+      internalID: 7148090041579973722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_76_Extinct Ox_0: -4505214015664526082
+      Monster_76_Extinct Ox_1: 6990341086602503941
+      Monster_76_Extinct Ox_10: 1020294924767737724
+      Monster_76_Extinct Ox_11a: 2949199639240980066
+      Monster_76_Extinct Ox_12: 6938759531843252186
+      Monster_76_Extinct Ox_13: 3242694695383019549
+      Monster_76_Extinct Ox_14: 2269852685549498203
+      Monster_76_Extinct Ox_15: -81391732020453872
+      Monster_76_Extinct Ox_16: 1150450778043553675
+      Monster_76_Extinct Ox_17: -258172204383272939
+      Monster_76_Extinct Ox_18b: 1783824365338667362
+      Monster_76_Extinct Ox_19: -5651992025963796919
+      Monster_76_Extinct Ox_2: 3902932344974448164
+      Monster_76_Extinct Ox_20: -4648574138482123331
+      Monster_76_Extinct Ox_21: 7559792030988646938
+      Monster_76_Extinct Ox_22: 6939323708017483597
+      Monster_76_Extinct Ox_23: 8018742480634452930
+      Monster_76_Extinct Ox_24c: -6818331917195390530
+      Monster_76_Extinct Ox_25: 7325770369678857239
+      Monster_76_Extinct Ox_26: 6298191849244152587
+      Monster_76_Extinct Ox_27: -5330042655590105603
+      Monster_76_Extinct Ox_28: 6211335276345898565
+      Monster_76_Extinct Ox_29: 3199868923985321168
+      Monster_76_Extinct Ox_3: 2855098830106596329
+      Monster_76_Extinct Ox_30: -4193023528586589688
+      Monster_76_Extinct Ox_31: -4056142358605721630
+      Monster_76_Extinct Ox_32: 4474746735694562639
+      Monster_76_Extinct Ox_33d: 2258291185315670025
+      Monster_76_Extinct Ox_34: 2884181154380506904
+      Monster_76_Extinct Ox_35: 2647693142519693142
+      Monster_76_Extinct Ox_36: 8087822173203868688
+      Monster_76_Extinct Ox_37: 8703071499336886887
+      Monster_76_Extinct Ox_38: 935315693554556698
+      Monster_76_Extinct Ox_39: 6003338750425959677
+      Monster_76_Extinct Ox_4: 7530415564893200194
+      Monster_76_Extinct Ox_40: 8174941017733579148
+      Monster_76_Extinct Ox_41: 8999655112352695367
+      Monster_76_Extinct Ox_42: 7148090041579973722
+      Monster_76_Extinct Ox_5: -5242530736637998090
+      Monster_76_Extinct Ox_6: -474912575938881611
+      Monster_76_Extinct Ox_7: 8873947721741776961
+      Monster_76_Extinct Ox_8: -2233369368565545713
+      Monster_76_Extinct Ox_9: -5320506355461613082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

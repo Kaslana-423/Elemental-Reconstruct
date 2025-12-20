@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: e6c493f2a7303904795132a6ee632173
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9083080658473057983
+    second: Monster_96_Masked Iron_0
+  - first:
+      213: -6030988408919740919
+    second: Monster_96_Masked Iron_1
+  - first:
+      213: -1407839979486398868
+    second: Monster_96_Masked Iron_2
+  - first:
+      213: -8081627328240800394
+    second: Monster_96_Masked Iron_3
+  - first:
+      213: -6049246465038782010
+    second: Monster_96_Masked Iron_4
+  - first:
+      213: -1317619922068268234
+    second: Monster_96_Masked Iron_5
+  - first:
+      213: 2779827420521427223
+    second: Monster_96_Masked Iron_6
+  - first:
+      213: -6219764110870928963
+    second: Monster_96_Masked Iron_7
+  - first:
+      213: -3393573516134649456
+    second: Monster_96_Masked Iron_8
+  - first:
+      213: 7032165253463627430
+    second: Monster_96_Masked Iron_9
+  - first:
+      213: -209255881768993093
+    second: Monster_96_Masked Iron_10
+  - first:
+      213: 3590481408128253314
+    second: Monster_96_Masked Iron_11
+  - first:
+      213: -6455643111833871721
+    second: Monster_96_Masked Iron_12
+  - first:
+      213: 5587182055851037161
+    second: Monster_96_Masked Iron_13
+  - first:
+      213: 2215960628803906242
+    second: Monster_96_Masked Iron_14a
+  - first:
+      213: 5918565771971966529
+    second: Monster_96_Masked Iron_15
+  - first:
+      213: -2555328366038793113
+    second: Monster_96_Masked Iron_16
+  - first:
+      213: 4083461906941307662
+    second: Monster_96_Masked Iron_17
+  - first:
+      213: -8764480458634788898
+    second: Monster_96_Masked Iron_18
+  - first:
+      213: 6078398841189147338
+    second: Monster_96_Masked Iron_19
+  - first:
+      213: -7852957626231486732
+    second: Monster_96_Masked Iron_20
+  - first:
+      213: 7143052775171694429
+    second: Monster_96_Masked Iron_21
+  - first:
+      213: 7349783606776960068
+    second: Monster_96_Masked Iron_22
+  - first:
+      213: 5106565606374884132
+    second: Monster_96_Masked Iron_23b
+  - first:
+      213: -3353846292299892088
+    second: Monster_96_Masked Iron_24
+  - first:
+      213: 7348062030760195420
+    second: Monster_96_Masked Iron_25
+  - first:
+      213: -1194353805288336391
+    second: Monster_96_Masked Iron_26
+  - first:
+      213: 5520670166209564632
+    second: Monster_96_Masked Iron_27
+  - first:
+      213: 6668885687374052784
+    second: Monster_96_Masked Iron_28
+  - first:
+      213: 6477583270791667624
+    second: Monster_96_Masked Iron_29c
+  - first:
+      213: 5552334715895598438
+    second: Monster_96_Masked Iron_30
+  - first:
+      213: -3265030367972410386
+    second: Monster_96_Masked Iron_31
+  - first:
+      213: -5134824452427832196
+    second: Monster_96_Masked Iron_32
+  - first:
+      213: 7107809512690177974
+    second: Monster_96_Masked Iron_33
+  - first:
+      213: 5644872659213831635
+    second: Monster_96_Masked Iron_34
+  - first:
+      213: -6431189698377306424
+    second: Monster_96_Masked Iron_35
+  - first:
+      213: -4629975406642715430
+    second: Monster_96_Masked Iron_36
+  - first:
+      213: 5606189328761157636
+    second: Monster_96_Masked Iron_37
+  - first:
+      213: 4557245519316544904
+    second: Monster_96_Masked Iron_38
+  - first:
+      213: -8879645497461997442
+    second: Monster_96_Masked Iron_39d
+  - first:
+      213: -2815092805823444513
+    second: Monster_96_Masked Iron_40
+  - first:
+      213: -8053984305560139486
+    second: Monster_96_Masked Iron_41
+  - first:
+      213: 6671826785239749720
+    second: Monster_96_Masked Iron_42
+  - first:
+      213: 6608844330037750984
+    second: Monster_96_Masked Iron_43
+  - first:
+      213: 3981022032476604713
+    second: Monster_96_Masked Iron_44
+  - first:
+      213: -8263877021702701533
+    second: Monster_96_Masked Iron_45
+  - first:
+      213: 8089692367899426650
+    second: Monster_96_Masked Iron_46
+  - first:
+      213: 5616553762674864643
+    second: Monster_96_Masked Iron_47
+  - first:
+      213: -1220547183038498380
+    second: Monster_96_Masked Iron_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbef1821cb59d0e70800000000000000
+      internalID: 9083080658473057983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e27d1eeff9d4ca0800000000000000
+      internalID: -6030988408919740919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66be1a6ff8567ce0800000000000000
+      internalID: -1407839979486398868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d2e1563ca48df80800000000000000
+      internalID: -8081627328240800394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1739ce362cc0ca0800000000000000
+      internalID: -6049246465038782010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b942479afd6bde0800000000000000
+      internalID: -1317619922068268234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711f1119f4ee39620800000000000000
+      internalID: 2779827420521427223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1a0d0be75fea9a0800000000000000
+      internalID: -6219764110870928963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_8
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091fe93fdda97e0d0800000000000000
+      internalID: -3393573516134649456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_9
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a65b8e3a05479160800000000000000
+      internalID: 7032165253463627430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_10
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe7ffb52e2981df0800000000000000
+      internalID: -209255881768993093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_11
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28df02841d3f3d130800000000000000
+      internalID: 3590481408128253314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_12
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad1721bc2f866a0800000000000000
+      internalID: -6455643111833871721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_13
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e110764a78a98d40800000000000000
+      internalID: 5587182055851037161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_14a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caab14837ca0ce10800000000000000
+      internalID: 2215960628803906242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146bc223638f22250800000000000000
+      internalID: 5918565771971966529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_16
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76447c9c366a98cd0800000000000000
+      internalID: -2555328366038793113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_17
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b631128fe5ba830800000000000000
+      internalID: 4083461906941307662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_18
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf7836857f4e5680800000000000000
+      internalID: -8764480458634788898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_19
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2a9349a8fca5450800000000000000
+      internalID: 6078398841189147338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_20
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6074c45a0b40390800000000000000
+      internalID: -7852957626231486732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_21
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f1afb47a8312360800000000000000
+      internalID: 7143052775171694429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_22
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4441ee1ef3daff560800000000000000
+      internalID: 7349783606776960068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_23b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423c33efc5a2ed640800000000000000
+      internalID: 5106565606374884132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a343c019eb471d0800000000000000
+      internalID: -3353846292299892088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c553ffa3c7f89f560800000000000000
+      internalID: 7348062030760195420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_26
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f317a3ca8dcc6fe0800000000000000
+      internalID: -1194353805288336391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_27
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df8403344c5d9c40800000000000000
+      internalID: 5520670166209564632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_28
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdfd9b0334ac8c50800000000000000
+      internalID: 6668885687374052784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_29c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afdc824aaff4e950800000000000000
+      internalID: 6477583270791667624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_30
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dc60fa10bdd0d40800000000000000
+      internalID: 5552334715895598438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_31
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb3420ed2840b2d0800000000000000
+      internalID: -3265030367972410386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_32
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74ac01bd507db8b0800000000000000
+      internalID: -5134824452427832196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_33
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b75a0fc71304a260800000000000000
+      internalID: 7107809512690177974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_34
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd41c696cd965e40800000000000000
+      internalID: 5644872659213831635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_35
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cea1111b03dfb6a0800000000000000
+      internalID: -6431189698377306424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_36
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad42448f5e50fbfb0800000000000000
+      internalID: -4629975406642715430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_37
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408f46cdd7f2dcd40800000000000000
+      internalID: 5606189328761157636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_38
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d6a1d87a69e3f30800000000000000
+      internalID: 4557245519316544904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_39d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708168677925c480800000000000000
+      internalID: -8879645497461997442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c2231208cee8d0800000000000000
+      internalID: -2815092805823444513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_41
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229448822ff7a3090800000000000000
+      internalID: -8053984305560139486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_42
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854d621cc17179c50800000000000000
+      internalID: 6671826785239749720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_43
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc21cb27e457bb50800000000000000
+      internalID: 6608844330037750984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_44
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92985c8327e6f3730800000000000000
+      internalID: 3981022032476604713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_45
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eb5e5f1afc05d80800000000000000
+      internalID: -8263877021702701533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_46
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f75daf85c544070800000000000000
+      internalID: 8089692367899426650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_47
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3027e1ea3e102fd40800000000000000
+      internalID: 5616553762674864643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_96_Masked Iron_48
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9f263cdcebf0fe0800000000000000
+      internalID: -1220547183038498380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_96_Masked Iron_0: 9083080658473057983
+      Monster_96_Masked Iron_1: -6030988408919740919
+      Monster_96_Masked Iron_10: -209255881768993093
+      Monster_96_Masked Iron_11: 3590481408128253314
+      Monster_96_Masked Iron_12: -6455643111833871721
+      Monster_96_Masked Iron_13: 5587182055851037161
+      Monster_96_Masked Iron_14a: 2215960628803906242
+      Monster_96_Masked Iron_15: 5918565771971966529
+      Monster_96_Masked Iron_16: -2555328366038793113
+      Monster_96_Masked Iron_17: 4083461906941307662
+      Monster_96_Masked Iron_18: -8764480458634788898
+      Monster_96_Masked Iron_19: 6078398841189147338
+      Monster_96_Masked Iron_2: -1407839979486398868
+      Monster_96_Masked Iron_20: -7852957626231486732
+      Monster_96_Masked Iron_21: 7143052775171694429
+      Monster_96_Masked Iron_22: 7349783606776960068
+      Monster_96_Masked Iron_23b: 5106565606374884132
+      Monster_96_Masked Iron_24: -3353846292299892088
+      Monster_96_Masked Iron_25: 7348062030760195420
+      Monster_96_Masked Iron_26: -1194353805288336391
+      Monster_96_Masked Iron_27: 5520670166209564632
+      Monster_96_Masked Iron_28: 6668885687374052784
+      Monster_96_Masked Iron_29c: 6477583270791667624
+      Monster_96_Masked Iron_3: -8081627328240800394
+      Monster_96_Masked Iron_30: 5552334715895598438
+      Monster_96_Masked Iron_31: -3265030367972410386
+      Monster_96_Masked Iron_32: -5134824452427832196
+      Monster_96_Masked Iron_33: 7107809512690177974
+      Monster_96_Masked Iron_34: 5644872659213831635
+      Monster_96_Masked Iron_35: -6431189698377306424
+      Monster_96_Masked Iron_36: -4629975406642715430
+      Monster_96_Masked Iron_37: 5606189328761157636
+      Monster_96_Masked Iron_38: 4557245519316544904
+      Monster_96_Masked Iron_39d: -8879645497461997442
+      Monster_96_Masked Iron_4: -6049246465038782010
+      Monster_96_Masked Iron_40: -2815092805823444513
+      Monster_96_Masked Iron_41: -8053984305560139486
+      Monster_96_Masked Iron_42: 6671826785239749720
+      Monster_96_Masked Iron_43: 6608844330037750984
+      Monster_96_Masked Iron_44: 3981022032476604713
+      Monster_96_Masked Iron_45: -8263877021702701533
+      Monster_96_Masked Iron_46: 8089692367899426650
+      Monster_96_Masked Iron_47: 5616553762674864643
+      Monster_96_Masked Iron_48: -1220547183038498380
+      Monster_96_Masked Iron_5: -1317619922068268234
+      Monster_96_Masked Iron_6: 2779827420521427223
+      Monster_96_Masked Iron_7: -6219764110870928963
+      Monster_96_Masked Iron_8: -3393573516134649456
+      Monster_96_Masked Iron_9: 7032165253463627430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

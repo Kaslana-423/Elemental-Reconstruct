@@ -1,0 +1,1278 @@
+fileFormatVersion: 2
+guid: 28b7cffc019624c448e161093eeffdb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6530918710948559983
+    second: Monster_85_TwoHeaded Orc_0
+  - first:
+      213: -8354242712933040033
+    second: Monster_85_TwoHeaded Orc_1
+  - first:
+      213: -4947839321063975233
+    second: Monster_85_TwoHeaded Orc_2
+  - first:
+      213: -1057011840917215938
+    second: Monster_85_TwoHeaded Orc_3
+  - first:
+      213: -1782333870108152320
+    second: Monster_85_TwoHeaded Orc_4
+  - first:
+      213: -1890831836906781196
+    second: Monster_85_TwoHeaded Orc_5
+  - first:
+      213: 3148927936109535239
+    second: Monster_85_TwoHeaded Orc_6
+  - first:
+      213: 166669987817204506
+    second: Monster_85_TwoHeaded Orc_7
+  - first:
+      213: 5294707630139141081
+    second: Monster_85_TwoHeaded Orc_8
+  - first:
+      213: 5760421376045932634
+    second: Monster_85_TwoHeaded Orc_9a
+  - first:
+      213: -1670713447335930665
+    second: Monster_85_TwoHeaded Orc_10
+  - first:
+      213: -8032984902596194710
+    second: Monster_85_TwoHeaded Orc_11
+  - first:
+      213: -2456685406864649607
+    second: Monster_85_TwoHeaded Orc_12
+  - first:
+      213: -6441254245629037461
+    second: Monster_85_TwoHeaded Orc_13
+  - first:
+      213: -3246852937804020437
+    second: Monster_85_TwoHeaded Orc_14
+  - first:
+      213: -1119096804415412048
+    second: Monster_85_TwoHeaded Orc_15
+  - first:
+      213: -4732167217125246650
+    second: Monster_85_TwoHeaded Orc_16
+  - first:
+      213: 8302875605465707516
+    second: Monster_85_TwoHeaded Orc_17
+  - first:
+      213: -3843882434860715596
+    second: Monster_85_TwoHeaded Orc_18
+  - first:
+      213: -3774195620764792945
+    second: Monster_85_TwoHeaded Orc_19b
+  - first:
+      213: -5961179642662638831
+    second: Monster_85_TwoHeaded Orc_20
+  - first:
+      213: 4416132776058900603
+    second: Monster_85_TwoHeaded Orc_21
+  - first:
+      213: 8210739203616506950
+    second: Monster_85_TwoHeaded Orc_22
+  - first:
+      213: 4360103421231634570
+    second: Monster_85_TwoHeaded Orc_23
+  - first:
+      213: 1533997866908026641
+    second: Monster_85_TwoHeaded Orc_24c
+  - first:
+      213: -8543821968274877697
+    second: Monster_85_TwoHeaded Orc_25
+  - first:
+      213: 3904750766317750842
+    second: Monster_85_TwoHeaded Orc_26
+  - first:
+      213: -4166764551223945620
+    second: Monster_85_TwoHeaded Orc_27
+  - first:
+      213: 2522434086442183235
+    second: Monster_85_TwoHeaded Orc_28
+  - first:
+      213: -205620786787368565
+    second: Monster_85_TwoHeaded Orc_29
+  - first:
+      213: -1295226395387194250
+    second: Monster_85_TwoHeaded Orc_30
+  - first:
+      213: -2677701255486840370
+    second: Monster_85_TwoHeaded Orc_31
+  - first:
+      213: -4384622251587265551
+    second: Monster_85_TwoHeaded Orc_32
+  - first:
+      213: -3723241953750993610
+    second: Monster_85_TwoHeaded Orc_33
+  - first:
+      213: 1968484642668523524
+    second: Monster_85_TwoHeaded Orc_34
+  - first:
+      213: -4332571682804490449
+    second: Monster_85_TwoHeaded Orc_35d
+  - first:
+      213: -9085628751922233437
+    second: Monster_85_TwoHeaded Orc_36
+  - first:
+      213: 185995619219329228
+    second: Monster_85_TwoHeaded Orc_37
+  - first:
+      213: -2877823025000183363
+    second: Monster_85_TwoHeaded Orc_38
+  - first:
+      213: 1610474197340547702
+    second: Monster_85_TwoHeaded Orc_39
+  - first:
+      213: -4659343974578059020
+    second: Monster_85_TwoHeaded Orc_40
+  - first:
+      213: 2896475687223001221
+    second: Monster_85_TwoHeaded Orc_41
+  - first:
+      213: -6456030272323875180
+    second: Monster_85_TwoHeaded Orc_42
+  - first:
+      213: -6602384737526874063
+    second: Monster_85_TwoHeaded Orc_43
+  - first:
+      213: 3219967282398054378
+    second: Monster_85_TwoHeaded Orc_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c7a0f17fb72aa50800000000000000
+      internalID: 6530918710948559983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f500b38e384cf0c80800000000000000
+      internalID: -8354242712933040033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6954e2a5eb55bb0800000000000000
+      internalID: -4947839321063975233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356fbab45db451f0800000000000000
+      internalID: -1057011840917215938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e6e01d9c0e347e0800000000000000
+      internalID: -1782333870108152320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_5
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f50c2f567a62c5e0800000000000000
+      internalID: -1890831836906781196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_6
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700ec1f264d33bb20800000000000000
+      internalID: 3148927936109535239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_7
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b209a8871205200800000000000000
+      internalID: 166669987817204506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_8
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db6efb79849a7940800000000000000
+      internalID: 5294707630139141081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_9a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50e8c3b8b021ff40800000000000000
+      internalID: 5760421376045932634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4d212b8fe60d8e0800000000000000
+      internalID: -1670713447335930665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e8daaaaca158090800000000000000
+      internalID: -8032984902596194710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97252f673a918edd0800000000000000
+      internalID: -2456685406864649607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64fd4d04611c96a0800000000000000
+      internalID: -6441254245629037461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_14
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250244a47cd0f2d0800000000000000
+      internalID: -3246852937804020437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_15
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b86b87b26b2870f0800000000000000
+      internalID: -1119096804415412048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_16
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6493085fcf6f35eb0800000000000000
+      internalID: -4732167217125246650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_17
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf33a066f5db93370800000000000000
+      internalID: 8302875605465707516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_18
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b173cf8a49c7aac0800000000000000
+      internalID: -3843882434860715596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_19b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87ca77541d5f9bc0800000000000000
+      internalID: -3774195620764792945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 432
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11badccd2b2a54da0800000000000000
+      internalID: -5961179642662638831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 432
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7053f5bc51494d30800000000000000
+      internalID: 4416132776058900603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 432
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6448fe6adc762f170800000000000000
+      internalID: 8210739203616506950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_23
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 432
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a881a76f5f2328c30800000000000000
+      internalID: 4360103421231634570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_24c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1178247beead94510800000000000000
+      internalID: 1533997866908026641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff21cccdf2f3e6980800000000000000
+      internalID: -8543821968274877697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3acdca3226703630800000000000000
+      internalID: 3904750766317750842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c665b9597bdac26c0800000000000000
+      internalID: -4166764551223945620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_28
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a29bbef6c710320800000000000000
+      internalID: 2522434086442183235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_29
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b814a1ddbfc752df0800000000000000
+      internalID: -205620786787368565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_30
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6749c3fa47e660ee0800000000000000
+      internalID: -1295226395387194250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_31
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1e61c25e4e6dad0800000000000000
+      internalID: -2677701255486840370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_32
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1edbfa41b623c0800000000000000
+      internalID: -4384622251587265551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_33
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63537dd6b23645cc0800000000000000
+      internalID: -3723241953750993610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_34
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400b1106a56715b10800000000000000
+      internalID: 1968484642668523524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_35d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f958a620d9fd3c0800000000000000
+      internalID: -4332571682804490449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af7990b9cc59e180800000000000000
+      internalID: -9085628751922233437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_37
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0d85db70ac49200800000000000000
+      internalID: 185995619219329228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_38
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db98c64c43bef08d0800000000000000
+      internalID: -2877823025000183363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_39
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6a64ffbd895610800000000000000
+      internalID: 1610474197340547702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_40
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f80be4675fa65fb0800000000000000
+      internalID: -4659343974578059020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_41
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5808b759a49523820800000000000000
+      internalID: 2896475687223001221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_42
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e87fe3ca29766a0800000000000000
+      internalID: -6456030272323875180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_43
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1300049ef0e9f54a0800000000000000
+      internalID: -6602384737526874063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_85_TwoHeaded Orc_44
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae747b7ee2f9fac20800000000000000
+      internalID: 3219967282398054378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_85_TwoHeaded Orc_0: 6530918710948559983
+      Monster_85_TwoHeaded Orc_1: -8354242712933040033
+      Monster_85_TwoHeaded Orc_10: -1670713447335930665
+      Monster_85_TwoHeaded Orc_11: -8032984902596194710
+      Monster_85_TwoHeaded Orc_12: -2456685406864649607
+      Monster_85_TwoHeaded Orc_13: -6441254245629037461
+      Monster_85_TwoHeaded Orc_14: -3246852937804020437
+      Monster_85_TwoHeaded Orc_15: -1119096804415412048
+      Monster_85_TwoHeaded Orc_16: -4732167217125246650
+      Monster_85_TwoHeaded Orc_17: 8302875605465707516
+      Monster_85_TwoHeaded Orc_18: -3843882434860715596
+      Monster_85_TwoHeaded Orc_19b: -3774195620764792945
+      Monster_85_TwoHeaded Orc_2: -4947839321063975233
+      Monster_85_TwoHeaded Orc_20: -5961179642662638831
+      Monster_85_TwoHeaded Orc_21: 4416132776058900603
+      Monster_85_TwoHeaded Orc_22: 8210739203616506950
+      Monster_85_TwoHeaded Orc_23: 4360103421231634570
+      Monster_85_TwoHeaded Orc_24c: 1533997866908026641
+      Monster_85_TwoHeaded Orc_25: -8543821968274877697
+      Monster_85_TwoHeaded Orc_26: 3904750766317750842
+      Monster_85_TwoHeaded Orc_27: -4166764551223945620
+      Monster_85_TwoHeaded Orc_28: 2522434086442183235
+      Monster_85_TwoHeaded Orc_29: -205620786787368565
+      Monster_85_TwoHeaded Orc_3: -1057011840917215938
+      Monster_85_TwoHeaded Orc_30: -1295226395387194250
+      Monster_85_TwoHeaded Orc_31: -2677701255486840370
+      Monster_85_TwoHeaded Orc_32: -4384622251587265551
+      Monster_85_TwoHeaded Orc_33: -3723241953750993610
+      Monster_85_TwoHeaded Orc_34: 1968484642668523524
+      Monster_85_TwoHeaded Orc_35d: -4332571682804490449
+      Monster_85_TwoHeaded Orc_36: -9085628751922233437
+      Monster_85_TwoHeaded Orc_37: 185995619219329228
+      Monster_85_TwoHeaded Orc_38: -2877823025000183363
+      Monster_85_TwoHeaded Orc_39: 1610474197340547702
+      Monster_85_TwoHeaded Orc_4: -1782333870108152320
+      Monster_85_TwoHeaded Orc_40: -4659343974578059020
+      Monster_85_TwoHeaded Orc_41: 2896475687223001221
+      Monster_85_TwoHeaded Orc_42: -6456030272323875180
+      Monster_85_TwoHeaded Orc_43: -6602384737526874063
+      Monster_85_TwoHeaded Orc_44: 3219967282398054378
+      Monster_85_TwoHeaded Orc_5: -1890831836906781196
+      Monster_85_TwoHeaded Orc_6: 3148927936109535239
+      Monster_85_TwoHeaded Orc_7: 166669987817204506
+      Monster_85_TwoHeaded Orc_8: 5294707630139141081
+      Monster_85_TwoHeaded Orc_9a: 5760421376045932634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

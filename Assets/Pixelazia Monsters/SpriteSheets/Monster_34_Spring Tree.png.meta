@@ -1,0 +1,1278 @@
+fileFormatVersion: 2
+guid: 19f481c462fe25542a853fa937e00ca6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5346534827013760117
+    second: Monster_34_Spring Tree_0
+  - first:
+      213: 3072365376122927624
+    second: Monster_34_Spring Tree_1
+  - first:
+      213: 5459542756151232222
+    second: Monster_34_Spring Tree_2
+  - first:
+      213: 599989782279346699
+    second: Monster_34_Spring Tree_3
+  - first:
+      213: -6727368350823627007
+    second: Monster_34_Spring Tree_4
+  - first:
+      213: 3159049841663262710
+    second: Monster_34_Spring Tree_5
+  - first:
+      213: 7416814614998291570
+    second: Monster_34_Spring Tree_6
+  - first:
+      213: 2510999077843922995
+    second: Monster_34_Spring Tree_7
+  - first:
+      213: 2721480136823729075
+    second: Monster_34_Spring Tree_8
+  - first:
+      213: -1849951332654001809
+    second: Monster_34_Spring Tree_9a
+  - first:
+      213: 7765505642048210230
+    second: Monster_34_Spring Tree_10
+  - first:
+      213: -9074795075306238391
+    second: Monster_34_Spring Tree_11
+  - first:
+      213: 3855875353527111201
+    second: Monster_34_Spring Tree_12
+  - first:
+      213: -3923808021235767032
+    second: Monster_34_Spring Tree_13
+  - first:
+      213: 9084041320320434459
+    second: Monster_34_Spring Tree_14
+  - first:
+      213: 8792185947475248157
+    second: Monster_34_Spring Tree_15
+  - first:
+      213: -3758460459411762622
+    second: Monster_34_Spring Tree_16
+  - first:
+      213: -560402588068961198
+    second: Monster_34_Spring Tree_17
+  - first:
+      213: -1851616242012692025
+    second: Monster_34_Spring Tree_18b
+  - first:
+      213: -4369768449475051412
+    second: Monster_34_Spring Tree_19
+  - first:
+      213: 6412373934346185133
+    second: Monster_34_Spring Tree_20
+  - first:
+      213: -2528531032980077150
+    second: Monster_34_Spring Tree_21
+  - first:
+      213: -5058088948268680782
+    second: Monster_34_Spring Tree_22
+  - first:
+      213: 3037881314318995039
+    second: Monster_34_Spring Tree_23c
+  - first:
+      213: 1988487193590697992
+    second: Monster_34_Spring Tree_24
+  - first:
+      213: 432852969270377184
+    second: Monster_34_Spring Tree_25
+  - first:
+      213: -4790147486408736797
+    second: Monster_34_Spring Tree_26
+  - first:
+      213: 7682659865120488341
+    second: Monster_34_Spring Tree_27
+  - first:
+      213: 5038822937397640652
+    second: Monster_34_Spring Tree_28
+  - first:
+      213: -2023647451634144410
+    second: Monster_34_Spring Tree_29
+  - first:
+      213: 7161610104692339186
+    second: Monster_34_Spring Tree_30
+  - first:
+      213: 5086030490095757927
+    second: Monster_34_Spring Tree_31
+  - first:
+      213: -8379610828501784742
+    second: Monster_34_Spring Tree_32
+  - first:
+      213: 5950968082556869052
+    second: Monster_34_Spring Tree_33
+  - first:
+      213: 491557186944144788
+    second: Monster_34_Spring Tree_34
+  - first:
+      213: 4693075396568782648
+    second: Monster_34_Spring Tree_35d
+  - first:
+      213: -8254101097482966945
+    second: Monster_34_Spring Tree_36
+  - first:
+      213: -4062291439358513899
+    second: Monster_34_Spring Tree_37
+  - first:
+      213: -1801861533120370829
+    second: Monster_34_Spring Tree_38
+  - first:
+      213: -4534105889327985067
+    second: Monster_34_Spring Tree_39
+  - first:
+      213: -5309602900761157707
+    second: Monster_34_Spring Tree_40
+  - first:
+      213: 262282710841387002
+    second: Monster_34_Spring Tree_41
+  - first:
+      213: -2247069598399131057
+    second: Monster_34_Spring Tree_42
+  - first:
+      213: 5270132963283799226
+    second: Monster_34_Spring Tree_43
+  - first:
+      213: 2442372864914692592
+    second: Monster_34_Spring Tree_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b1798e6ea4dc5b0800000000000000
+      internalID: -5346534827013760117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a3400180c33aa20800000000000000
+      internalID: 3072365376122927624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed68378f53134cb40800000000000000
+      internalID: 5459542756151232222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0adf913787935800800000000000000
+      internalID: 599989782279346699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107c3f7c02693a2a0800000000000000
+      internalID: -6727368350823627007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffb718f71337db20800000000000000
+      internalID: 3159049841663262710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27416eba891dde660800000000000000
+      internalID: 7416814614998291570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33078328b5cd8d220800000000000000
+      internalID: 2510999077843922995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_8
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbe8a2f3c3a4c520800000000000000
+      internalID: 2721480136823729075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_9a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61d56d7017a356e0800000000000000
+      internalID: -1849951332654001809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635439fec3e94cb60800000000000000
+      internalID: 7765505642048210230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e48e695f9df0280800000000000000
+      internalID: -9074795075306238391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eca296432d28530800000000000000
+      internalID: 3855875353527111201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809e967d465db89c0800000000000000
+      internalID: -3923808021235767032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_14
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118ba6937ff01e70800000000000000
+      internalID: 9084041320320434459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_15
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d148176498e140a70800000000000000
+      internalID: 8792185947475248157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_16
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2421966102447dbc0800000000000000
+      internalID: -3758460459411762622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_17
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254a0f6b0dc0938f0800000000000000
+      internalID: -560402588068961198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_18b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c16d7296dcbd46e0800000000000000
+      internalID: -1851616242012692025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60845a4fb67b53c0800000000000000
+      internalID: -4369768449475051412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9adab7e145df850800000000000000
+      internalID: 6412373934346185133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5cba71c6ad8ecd0800000000000000
+      internalID: -2528531032980077150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9bd1486ee0ec9b0800000000000000
+      internalID: -5058088948268680782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_23c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ec7c1c5f8b82a20800000000000000
+      internalID: 3037881314318995039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_24
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800136e2196889b10800000000000000
+      internalID: 1988487193590697992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_25
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea75517b7dc10600800000000000000
+      internalID: 432852969270377184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef70ea8d3af58db0800000000000000
+      internalID: -4790147486408736797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b38ae517a4e9a60800000000000000
+      internalID: 7682659865120488341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_28
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd3da5c3ce7de540800000000000000
+      internalID: 5038822937397640652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_29
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66be8be4d5f8ae3e0800000000000000
+      internalID: -2023647451634144410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_30
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f8064276236360800000000000000
+      internalID: 7161610104692339186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_31
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aa6f6a8c5359640800000000000000
+      internalID: 5086030490095757927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_32
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57622b3954a5bb80800000000000000
+      internalID: -8379610828501784742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_33
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb95d7601f5169250800000000000000
+      internalID: 5950968082556869052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_34
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495989a38ac52d600800000000000000
+      internalID: 491557186944144788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_35d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8379b9c4537212140800000000000000
+      internalID: 4693075396568782648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58ad50b8ca837d80800000000000000
+      internalID: -8254101097482966945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_37
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dece67577df97c0800000000000000
+      internalID: -4062291439358513899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_38
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3776be77b708ef6e0800000000000000
+      internalID: -1801861533120370829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_39
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e499467be9311c0800000000000000
+      internalID: -4534105889327985067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_40
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf5fb11b408056b0800000000000000
+      internalID: -5309602900761157707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_41
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af76d626cb0d3a300800000000000000
+      internalID: 262282710841387002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_42
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4217d11b1ec0d0e0800000000000000
+      internalID: -2247069598399131057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_43
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8b9bf106432940800000000000000
+      internalID: 5270132963283799226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_34_Spring Tree_44
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f91b4e2e2d05e120800000000000000
+      internalID: 2442372864914692592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_34_Spring Tree_0: -5346534827013760117
+      Monster_34_Spring Tree_1: 3072365376122927624
+      Monster_34_Spring Tree_10: 7765505642048210230
+      Monster_34_Spring Tree_11: -9074795075306238391
+      Monster_34_Spring Tree_12: 3855875353527111201
+      Monster_34_Spring Tree_13: -3923808021235767032
+      Monster_34_Spring Tree_14: 9084041320320434459
+      Monster_34_Spring Tree_15: 8792185947475248157
+      Monster_34_Spring Tree_16: -3758460459411762622
+      Monster_34_Spring Tree_17: -560402588068961198
+      Monster_34_Spring Tree_18b: -1851616242012692025
+      Monster_34_Spring Tree_19: -4369768449475051412
+      Monster_34_Spring Tree_2: 5459542756151232222
+      Monster_34_Spring Tree_20: 6412373934346185133
+      Monster_34_Spring Tree_21: -2528531032980077150
+      Monster_34_Spring Tree_22: -5058088948268680782
+      Monster_34_Spring Tree_23c: 3037881314318995039
+      Monster_34_Spring Tree_24: 1988487193590697992
+      Monster_34_Spring Tree_25: 432852969270377184
+      Monster_34_Spring Tree_26: -4790147486408736797
+      Monster_34_Spring Tree_27: 7682659865120488341
+      Monster_34_Spring Tree_28: 5038822937397640652
+      Monster_34_Spring Tree_29: -2023647451634144410
+      Monster_34_Spring Tree_3: 599989782279346699
+      Monster_34_Spring Tree_30: 7161610104692339186
+      Monster_34_Spring Tree_31: 5086030490095757927
+      Monster_34_Spring Tree_32: -8379610828501784742
+      Monster_34_Spring Tree_33: 5950968082556869052
+      Monster_34_Spring Tree_34: 491557186944144788
+      Monster_34_Spring Tree_35d: 4693075396568782648
+      Monster_34_Spring Tree_36: -8254101097482966945
+      Monster_34_Spring Tree_37: -4062291439358513899
+      Monster_34_Spring Tree_38: -1801861533120370829
+      Monster_34_Spring Tree_39: -4534105889327985067
+      Monster_34_Spring Tree_4: -6727368350823627007
+      Monster_34_Spring Tree_40: -5309602900761157707
+      Monster_34_Spring Tree_41: 262282710841387002
+      Monster_34_Spring Tree_42: -2247069598399131057
+      Monster_34_Spring Tree_43: 5270132963283799226
+      Monster_34_Spring Tree_44: 2442372864914692592
+      Monster_34_Spring Tree_5: 3159049841663262710
+      Monster_34_Spring Tree_6: 7416814614998291570
+      Monster_34_Spring Tree_7: 2510999077843922995
+      Monster_34_Spring Tree_8: 2721480136823729075
+      Monster_34_Spring Tree_9a: -1849951332654001809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

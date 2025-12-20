@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: 72db754fa9c07274aa9f043fc31a9acc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -540235992541247347
+    second: Monster_93_Jungle Lizard_0
+  - first:
+      213: 1495660556791264146
+    second: Monster_93_Jungle Lizard_1
+  - first:
+      213: -4825921725859095109
+    second: Monster_93_Jungle Lizard_2
+  - first:
+      213: -3432903258070850202
+    second: Monster_93_Jungle Lizard_3
+  - first:
+      213: -244151668399153949
+    second: Monster_93_Jungle Lizard_4
+  - first:
+      213: 2899650707784463985
+    second: Monster_93_Jungle Lizard_5
+  - first:
+      213: 8971649775623299465
+    second: Monster_93_Jungle Lizard_6
+  - first:
+      213: -6923915516939969912
+    second: Monster_93_Jungle Lizard_7
+  - first:
+      213: -2322678293397773631
+    second: Monster_93_Jungle Lizard_8
+  - first:
+      213: -902429886493025813
+    second: Monster_93_Jungle Lizard_9
+  - first:
+      213: -6534629901516054391
+    second: Monster_93_Jungle Lizard_10
+  - first:
+      213: -7466859723352596109
+    second: Monster_93_Jungle Lizard_11
+  - first:
+      213: -3628587090757703331
+    second: Monster_93_Jungle Lizard_12a
+  - first:
+      213: -2296150547035013029
+    second: Monster_93_Jungle Lizard_13
+  - first:
+      213: 5933705873869331838
+    second: Monster_93_Jungle Lizard_14
+  - first:
+      213: -4515493255176868168
+    second: Monster_93_Jungle Lizard_15
+  - first:
+      213: 5673127300898391945
+    second: Monster_93_Jungle Lizard_16
+  - first:
+      213: 3274225628577234361
+    second: Monster_93_Jungle Lizard_17
+  - first:
+      213: -5832470743969788954
+    second: Monster_93_Jungle Lizard_18
+  - first:
+      213: 2279529038981715641
+    second: Monster_93_Jungle Lizard_19
+  - first:
+      213: 1618466149577707744
+    second: Monster_93_Jungle Lizard_20
+  - first:
+      213: 4463059785144271139
+    second: Monster_93_Jungle Lizard_21b
+  - first:
+      213: 4993448199672599664
+    second: Monster_93_Jungle Lizard_22
+  - first:
+      213: -7391273231912185014
+    second: Monster_93_Jungle Lizard_23
+  - first:
+      213: -7874436693399302978
+    second: Monster_93_Jungle Lizard_24
+  - first:
+      213: -4191496382822866907
+    second: Monster_93_Jungle Lizard_25
+  - first:
+      213: -1300282111902612006
+    second: Monster_93_Jungle Lizard_26
+  - first:
+      213: 8785207632810145311
+    second: Monster_93_Jungle Lizard_27c
+  - first:
+      213: -4828922601394757224
+    second: Monster_93_Jungle Lizard_28
+  - first:
+      213: -7210075358852937760
+    second: Monster_93_Jungle Lizard_29
+  - first:
+      213: -7192645332492731956
+    second: Monster_93_Jungle Lizard_30
+  - first:
+      213: 6311312313629191958
+    second: Monster_93_Jungle Lizard_31
+  - first:
+      213: 7994874637694702607
+    second: Monster_93_Jungle Lizard_32
+  - first:
+      213: 1915381707350891490
+    second: Monster_93_Jungle Lizard_33
+  - first:
+      213: 6704729134477170410
+    second: Monster_93_Jungle Lizard_34
+  - first:
+      213: 6088126875529534365
+    second: Monster_93_Jungle Lizard_35
+  - first:
+      213: -8097461710576074078
+    second: Monster_93_Jungle Lizard_36
+  - first:
+      213: 7727711415723509326
+    second: Monster_93_Jungle Lizard_37d
+  - first:
+      213: -5533855918765435537
+    second: Monster_93_Jungle Lizard_38
+  - first:
+      213: -494255054130698711
+    second: Monster_93_Jungle Lizard_39
+  - first:
+      213: -8038481477861425847
+    second: Monster_93_Jungle Lizard_40
+  - first:
+      213: -1542373318784431045
+    second: Monster_93_Jungle Lizard_41
+  - first:
+      213: -221492456509665579
+    second: Monster_93_Jungle Lizard_42
+  - first:
+      213: 3365739396183667117
+    second: Monster_93_Jungle Lizard_43
+  - first:
+      213: -496356863171737179
+    second: Monster_93_Jungle Lizard_44
+  - first:
+      213: 3405069085262277401
+    second: Monster_93_Jungle Lizard_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88c2b12a32b088f0800000000000000
+      internalID: -540235992541247347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2933b102a57a1c410800000000000000
+      internalID: 1495660556791264146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd145852c1e60db0800000000000000
+      internalID: -4825921725859095109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e762dca0eb50d0800000000000000
+      internalID: -3432903258070850202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecdfb5e9599c9cf0800000000000000
+      internalID: -244151668399153949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_5
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176f33aa4f0ad3820800000000000000
+      internalID: 2899650707784463985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_6
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9816d35efe3b18c70800000000000000
+      internalID: 8971649775623299465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_7
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a5af5958f49ef90800000000000000
+      internalID: -6923915516939969912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_8
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2e382f56034cfd0800000000000000
+      internalID: -2322678293397773631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_9
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be913ecaccce973f0800000000000000
+      internalID: -902429886493025813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_10
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9806d7df9b45055a0800000000000000
+      internalID: -6534629901516054391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_11
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a5e984a2606890800000000000000
+      internalID: -7466859723352596109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_12a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59a1da144ba4adc0800000000000000
+      internalID: -3628587090757703331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50c8253e3f6220e0800000000000000
+      internalID: -2296150547035013029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d51addd02c85250800000000000000
+      internalID: 5933705873869331838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bea28bfeceb551c0800000000000000
+      internalID: -4515493255176868168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9878e9ff83ffabe40800000000000000
+      internalID: 5673127300898391945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_17
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd73d19cd2607d20800000000000000
+      internalID: 3274225628577234361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_18
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb82d692c6ee0fa0800000000000000
+      internalID: -5832470743969788954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_19
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b651bf559382af10800000000000000
+      internalID: 2279529038981715641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_20
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0d2965362f57610800000000000000
+      internalID: 1618466149577707744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_21b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3210bd07a39ffed30800000000000000
+      internalID: 4463059785144271139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0749cc16eaa4c4540800000000000000
+      internalID: 4993448199672599664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43550ef72cec6990800000000000000
+      internalID: -7391273231912185014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc02a34c8168b290800000000000000
+      internalID: -7874436693399302978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_25
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52022805f30d4d5c0800000000000000
+      internalID: -4191496382822866907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_26
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad50044fe4874fde0800000000000000
+      internalID: -1300282111902612006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_27c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16f2b7cbc35be970800000000000000
+      internalID: 8785207632810145311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891a2009a783cfcb0800000000000000
+      internalID: -4828922601394757224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e706c769aaa0fb90800000000000000
+      internalID: -7210075358852937760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_30
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc93669ad279e2c90800000000000000
+      internalID: -7192645332492731956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_31
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61faa684c19469750800000000000000
+      internalID: 6311312313629191958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_32
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f049293df1083fe60800000000000000
+      internalID: 7994874637694702607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_33
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb5ee3c38dc49a10800000000000000
+      internalID: 1915381707350891490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_34
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae659b7ef9bfb0d50800000000000000
+      internalID: 6704729134477170410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_35
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b5273132f5d7450800000000000000
+      internalID: 6088126875529534365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_36
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a249c6f97900af80800000000000000
+      internalID: -8097461710576074078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_37d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e464ee4e6985e3b60800000000000000
+      internalID: 7727711415723509326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f651bcb8c5bc333b0800000000000000
+      internalID: -5533855918765435537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926291e95ad0429f0800000000000000
+      internalID: -494255054130698711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_40
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d33828fa3917090800000000000000
+      internalID: -8038481477861425847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_41
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c40de63a3689ae0800000000000000
+      internalID: -1542373318784431045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_42
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de0059c8c91decf0800000000000000
+      internalID: -221492456509665579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_43
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1b01cf52285be20800000000000000
+      internalID: 3365739396183667117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_44
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a942d010169c19f0800000000000000
+      internalID: -496356863171737179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_93_Jungle Lizard_45
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91be8beca4c314f20800000000000000
+      internalID: 3405069085262277401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_93_Jungle Lizard_0: -540235992541247347
+      Monster_93_Jungle Lizard_1: 1495660556791264146
+      Monster_93_Jungle Lizard_10: -6534629901516054391
+      Monster_93_Jungle Lizard_11: -7466859723352596109
+      Monster_93_Jungle Lizard_12a: -3628587090757703331
+      Monster_93_Jungle Lizard_13: -2296150547035013029
+      Monster_93_Jungle Lizard_14: 5933705873869331838
+      Monster_93_Jungle Lizard_15: -4515493255176868168
+      Monster_93_Jungle Lizard_16: 5673127300898391945
+      Monster_93_Jungle Lizard_17: 3274225628577234361
+      Monster_93_Jungle Lizard_18: -5832470743969788954
+      Monster_93_Jungle Lizard_19: 2279529038981715641
+      Monster_93_Jungle Lizard_2: -4825921725859095109
+      Monster_93_Jungle Lizard_20: 1618466149577707744
+      Monster_93_Jungle Lizard_21b: 4463059785144271139
+      Monster_93_Jungle Lizard_22: 4993448199672599664
+      Monster_93_Jungle Lizard_23: -7391273231912185014
+      Monster_93_Jungle Lizard_24: -7874436693399302978
+      Monster_93_Jungle Lizard_25: -4191496382822866907
+      Monster_93_Jungle Lizard_26: -1300282111902612006
+      Monster_93_Jungle Lizard_27c: 8785207632810145311
+      Monster_93_Jungle Lizard_28: -4828922601394757224
+      Monster_93_Jungle Lizard_29: -7210075358852937760
+      Monster_93_Jungle Lizard_3: -3432903258070850202
+      Monster_93_Jungle Lizard_30: -7192645332492731956
+      Monster_93_Jungle Lizard_31: 6311312313629191958
+      Monster_93_Jungle Lizard_32: 7994874637694702607
+      Monster_93_Jungle Lizard_33: 1915381707350891490
+      Monster_93_Jungle Lizard_34: 6704729134477170410
+      Monster_93_Jungle Lizard_35: 6088126875529534365
+      Monster_93_Jungle Lizard_36: -8097461710576074078
+      Monster_93_Jungle Lizard_37d: 7727711415723509326
+      Monster_93_Jungle Lizard_38: -5533855918765435537
+      Monster_93_Jungle Lizard_39: -494255054130698711
+      Monster_93_Jungle Lizard_4: -244151668399153949
+      Monster_93_Jungle Lizard_40: -8038481477861425847
+      Monster_93_Jungle Lizard_41: -1542373318784431045
+      Monster_93_Jungle Lizard_42: -221492456509665579
+      Monster_93_Jungle Lizard_43: 3365739396183667117
+      Monster_93_Jungle Lizard_44: -496356863171737179
+      Monster_93_Jungle Lizard_45: 3405069085262277401
+      Monster_93_Jungle Lizard_5: 2899650707784463985
+      Monster_93_Jungle Lizard_6: 8971649775623299465
+      Monster_93_Jungle Lizard_7: -6923915516939969912
+      Monster_93_Jungle Lizard_8: -2322678293397773631
+      Monster_93_Jungle Lizard_9: -902429886493025813
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

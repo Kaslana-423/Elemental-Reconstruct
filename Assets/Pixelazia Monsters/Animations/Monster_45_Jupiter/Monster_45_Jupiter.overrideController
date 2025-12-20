@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Monster_45_Jupiter
+  m_Controller: {fileID: 9100000, guid: 2565a68d492c21b409f62603c9e1a6e9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b1cfd93510a8ce14b91be3af8f79ee1a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ebeed9f2435a0164ca1cab263edb7582, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0968dd52b08fc5144a1e3acff3e79a53, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 772e8a83a9566544e91c31eb14997909, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c372672860ad8b147bdda88b71bda264, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0ce3a24d56352594bb29c96a38e91546, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 86525cac9caad9d48a43dbdacb01be84, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 730806b6cb3c23c4a94ba1b1a6aaf4f5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 96602e3b875ca1e4f8d6f1168bd46927, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eddecfbee92a2bb4993dfc90b9c9de64, type: 2}

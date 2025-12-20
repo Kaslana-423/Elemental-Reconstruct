@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: 7ece880a4fd674e4399a01889da6fdbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8820319370192908331
+    second: Monster_22_Floating Stone_0
+  - first:
+      213: -5646169891647855125
+    second: Monster_22_Floating Stone_1
+  - first:
+      213: -4386617753594845254
+    second: Monster_22_Floating Stone_2
+  - first:
+      213: -1040717930587101869
+    second: Monster_22_Floating Stone_3
+  - first:
+      213: 242418979973254924
+    second: Monster_22_Floating Stone_4
+  - first:
+      213: 3866555814690074653
+    second: Monster_22_Floating Stone_5
+  - first:
+      213: -2432788092091173344
+    second: Monster_22_Floating Stone_6
+  - first:
+      213: -6777699394664633578
+    second: Monster_22_Floating Stone_7
+  - first:
+      213: -7349746033616083526
+    second: Monster_22_Floating Stone_8
+  - first:
+      213: -776200956196560955
+    second: Monster_22_Floating Stone_9
+  - first:
+      213: -7771264507468654499
+    second: Monster_22_Floating Stone_10a
+  - first:
+      213: 5799070786991809561
+    second: Monster_22_Floating Stone_11
+  - first:
+      213: -2694203088499014627
+    second: Monster_22_Floating Stone_12
+  - first:
+      213: 7362053684489564896
+    second: Monster_22_Floating Stone_13
+  - first:
+      213: -5909932684625838607
+    second: Monster_22_Floating Stone_14
+  - first:
+      213: 5042953478757148905
+    second: Monster_22_Floating Stone_15
+  - first:
+      213: 5344097724239916426
+    second: Monster_22_Floating Stone_16
+  - first:
+      213: 5459254829991145841
+    second: Monster_22_Floating Stone_17
+  - first:
+      213: -2679680315484732231
+    second: Monster_22_Floating Stone_18
+  - first:
+      213: -3842893654065724623
+    second: Monster_22_Floating Stone_19
+  - first:
+      213: 2379239707195361607
+    second: Monster_22_Floating Stone_20
+  - first:
+      213: 9194530127104092442
+    second: Monster_22_Floating Stone_21
+  - first:
+      213: -5528312776959189330
+    second: Monster_22_Floating Stone_22b
+  - first:
+      213: -5805642225005857648
+    second: Monster_22_Floating Stone_23
+  - first:
+      213: 1134696750832304573
+    second: Monster_22_Floating Stone_24
+  - first:
+      213: -5508100163210613608
+    second: Monster_22_Floating Stone_25
+  - first:
+      213: 250867062711794627
+    second: Monster_22_Floating Stone_26
+  - first:
+      213: 7180173146323186469
+    second: Monster_22_Floating Stone_27
+  - first:
+      213: -2724620745605062751
+    second: Monster_22_Floating Stone_28
+  - first:
+      213: -8984294746508261058
+    second: Monster_22_Floating Stone_29c
+  - first:
+      213: -876248018172510703
+    second: Monster_22_Floating Stone_30
+  - first:
+      213: -1482634692822860482
+    second: Monster_22_Floating Stone_31
+  - first:
+      213: -8488445754099076155
+    second: Monster_22_Floating Stone_32
+  - first:
+      213: -646740766974696715
+    second: Monster_22_Floating Stone_33
+  - first:
+      213: 2960885889374848748
+    second: Monster_22_Floating Stone_34
+  - first:
+      213: -5534656475345878338
+    second: Monster_22_Floating Stone_35
+  - first:
+      213: -2989235523419192669
+    second: Monster_22_Floating Stone_36
+  - first:
+      213: 5305738078752140336
+    second: Monster_22_Floating Stone_37
+  - first:
+      213: 6109805204202952260
+    second: Monster_22_Floating Stone_38
+  - first:
+      213: 3504545428442699020
+    second: Monster_22_Floating Stone_39
+  - first:
+      213: -7705764872116371422
+    second: Monster_22_Floating Stone_40
+  - first:
+      213: -8952366712588302428
+    second: Monster_22_Floating Stone_41d
+  - first:
+      213: 555746944661988689
+    second: Monster_22_Floating Stone_42
+  - first:
+      213: 2152924284315945349
+    second: Monster_22_Floating Stone_43
+  - first:
+      213: 7965440177910006911
+    second: Monster_22_Floating Stone_44
+  - first:
+      213: -6350335468267194655
+    second: Monster_22_Floating Stone_45
+  - first:
+      213: -2770149323006927394
+    second: Monster_22_Floating Stone_46
+  - first:
+      213: -3472063714469570458
+    second: Monster_22_Floating Stone_47
+  - first:
+      213: 7932481664475693763
+    second: Monster_22_Floating Stone_48
+  - first:
+      213: 3254040936858458097
+    second: Monster_22_Floating Stone_49
+  - first:
+      213: -209515151316664048
+    second: Monster_22_Floating Stone_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df872ec34ee79580800000000000000
+      internalID: -8820319370192908331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5e2d2f566c4a1b0800000000000000
+      internalID: -5646169891647855125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7ae87f46a9f13c0800000000000000
+      internalID: -4386617753594845254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e9fb5e80ae81f0800000000000000
+      internalID: -1040717930587101869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f4e1427ce3d5300800000000000000
+      internalID: 242418979973254924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10b2de0704c8a530800000000000000
+      internalID: 3866555814690074653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026fa15ae100d3ed0800000000000000
+      internalID: -2432788092091173344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b62a27f46c0f1a0800000000000000
+      internalID: -6777699394664633578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_8
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab52afc4ce4700a90800000000000000
+      internalID: -7349746033616083526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_9
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfd593c7516a35f0800000000000000
+      internalID: -776200956196560955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_10a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58dab8ba1ce62490800000000000000
+      internalID: -7771264507468654499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914edfde7207a7050800000000000000
+      internalID: 5799070786991809561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d148145c0944c9ad0800000000000000
+      internalID: -2694203088499014627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e23b59f1d44b2660800000000000000
+      internalID: 7362053684489564896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdf7661983bbfda0800000000000000
+      internalID: -5909932684625838607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8e320687b2cf540800000000000000
+      internalID: 5042953478757148905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_16
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d2b42e09c0a2a40800000000000000
+      internalID: 5344097724239916426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_17
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17135ffe75b23cb40800000000000000
+      internalID: 5459254829991145841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_18
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b40deb53fcdfcad0800000000000000
+      internalID: -2679680315484732231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_19
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1334fc7059c4baac0800000000000000
+      internalID: -3842893654065724623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_20
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74942ee68e1c40120800000000000000
+      internalID: 2379239707195361607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_21
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19aaa69f68899f70800000000000000
+      internalID: 9194530127104092442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_22b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae1812d1dc7743b0800000000000000
+      internalID: -5528312776959189330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094748de7273e6fa0800000000000000
+      internalID: -5805642225005857648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db14629dea04fbf00800000000000000
+      internalID: 1134696750832304573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c6f80b51c4f83b0800000000000000
+      internalID: -5508100163210613608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_26
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb38cea3424b7300800000000000000
+      internalID: 250867062711794627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_27
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52374643f6915a360800000000000000
+      internalID: 7180173146323186469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_28
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afdc861ed3303ad0800000000000000
+      internalID: -2724620745605062751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_29c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3987f4678f515380800000000000000
+      internalID: -8984294746508261058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11effade111f6d3f0800000000000000
+      internalID: -876248018172510703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d7f9a2a9f9c6be0800000000000000
+      internalID: -1482634692822860482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c370c37f8bf23a80800000000000000
+      internalID: -8488445754099076155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_33
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2a5b2f2b05607f0800000000000000
+      internalID: -646740766974696715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_34
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce687a8670e271920800000000000000
+      internalID: 2960885889374848748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_35
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb281317243f033b0800000000000000
+      internalID: -5534656475345878338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_36
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2ce9c012a1486d0800000000000000
+      internalID: -2989235523419192669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_37
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ce84feba4c1a940800000000000000
+      internalID: 5305738078752140336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_38
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446995b46736ac450800000000000000
+      internalID: 6109805204202952260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_39
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05db81df75a2a030800000000000000
+      internalID: 3504545428442699020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_40
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22002dafcaf9f0590800000000000000
+      internalID: -7705764872116371422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_41d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7842518edc2c380800000000000000
+      internalID: -8952366712588302428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_42
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1552695d6e866b700800000000000000
+      internalID: 555746944661988689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589c6fada39b0ed10800000000000000
+      internalID: 2152924284315945349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_44
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7443fb93adea8e60800000000000000
+      internalID: 7965440177910006911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_45
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6be5189831fd7a0800000000000000
+      internalID: -6350335468267194655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_46
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd126b1ed37e89d0800000000000000
+      internalID: -2770149323006927394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_47
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668948d8270c0dfc0800000000000000
+      internalID: -3472063714469570458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_48
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c28f56bb06d51e60800000000000000
+      internalID: 7932481664475693763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_49
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7170ecdfca82d20800000000000000
+      internalID: 3254040936858458097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_22_Floating Stone_50
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01145b67417a71df0800000000000000
+      internalID: -209515151316664048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_22_Floating Stone_0: -8820319370192908331
+      Monster_22_Floating Stone_1: -5646169891647855125
+      Monster_22_Floating Stone_10a: -7771264507468654499
+      Monster_22_Floating Stone_11: 5799070786991809561
+      Monster_22_Floating Stone_12: -2694203088499014627
+      Monster_22_Floating Stone_13: 7362053684489564896
+      Monster_22_Floating Stone_14: -5909932684625838607
+      Monster_22_Floating Stone_15: 5042953478757148905
+      Monster_22_Floating Stone_16: 5344097724239916426
+      Monster_22_Floating Stone_17: 5459254829991145841
+      Monster_22_Floating Stone_18: -2679680315484732231
+      Monster_22_Floating Stone_19: -3842893654065724623
+      Monster_22_Floating Stone_2: -4386617753594845254
+      Monster_22_Floating Stone_20: 2379239707195361607
+      Monster_22_Floating Stone_21: 9194530127104092442
+      Monster_22_Floating Stone_22b: -5528312776959189330
+      Monster_22_Floating Stone_23: -5805642225005857648
+      Monster_22_Floating Stone_24: 1134696750832304573
+      Monster_22_Floating Stone_25: -5508100163210613608
+      Monster_22_Floating Stone_26: 250867062711794627
+      Monster_22_Floating Stone_27: 7180173146323186469
+      Monster_22_Floating Stone_28: -2724620745605062751
+      Monster_22_Floating Stone_29c: -8984294746508261058
+      Monster_22_Floating Stone_3: -1040717930587101869
+      Monster_22_Floating Stone_30: -876248018172510703
+      Monster_22_Floating Stone_31: -1482634692822860482
+      Monster_22_Floating Stone_32: -8488445754099076155
+      Monster_22_Floating Stone_33: -646740766974696715
+      Monster_22_Floating Stone_34: 2960885889374848748
+      Monster_22_Floating Stone_35: -5534656475345878338
+      Monster_22_Floating Stone_36: -2989235523419192669
+      Monster_22_Floating Stone_37: 5305738078752140336
+      Monster_22_Floating Stone_38: 6109805204202952260
+      Monster_22_Floating Stone_39: 3504545428442699020
+      Monster_22_Floating Stone_4: 242418979973254924
+      Monster_22_Floating Stone_40: -7705764872116371422
+      Monster_22_Floating Stone_41d: -8952366712588302428
+      Monster_22_Floating Stone_42: 555746944661988689
+      Monster_22_Floating Stone_43: 2152924284315945349
+      Monster_22_Floating Stone_44: 7965440177910006911
+      Monster_22_Floating Stone_45: -6350335468267194655
+      Monster_22_Floating Stone_46: -2770149323006927394
+      Monster_22_Floating Stone_47: -3472063714469570458
+      Monster_22_Floating Stone_48: 7932481664475693763
+      Monster_22_Floating Stone_49: 3254040936858458097
+      Monster_22_Floating Stone_5: 3866555814690074653
+      Monster_22_Floating Stone_50: -209515151316664048
+      Monster_22_Floating Stone_6: -2432788092091173344
+      Monster_22_Floating Stone_7: -6777699394664633578
+      Monster_22_Floating Stone_8: -7349746033616083526
+      Monster_22_Floating Stone_9: -776200956196560955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1078 @@
+fileFormatVersion: 2
+guid: f44fdc33f8473cf4788e2009e5f4a5f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 85957251003222533
+    second: Monster_2_Skulled Salamander_0
+  - first:
+      213: 7420605625182115014
+    second: Monster_2_Skulled Salamander_1
+  - first:
+      213: -6007368586401824332
+    second: Monster_2_Skulled Salamander_2
+  - first:
+      213: -2823152405400680165
+    second: Monster_2_Skulled Salamander_3
+  - first:
+      213: -2166805842098091026
+    second: Monster_2_Skulled Salamander_4
+  - first:
+      213: -3784667449101978567
+    second: Monster_2_Skulled Salamander_5A
+  - first:
+      213: 3140352491202720412
+    second: Monster_2_Skulled Salamander_6
+  - first:
+      213: -2886948158615056528
+    second: Monster_2_Skulled Salamander_7
+  - first:
+      213: 445061340234387952
+    second: Monster_2_Skulled Salamander_8
+  - first:
+      213: -2280175203851023843
+    second: Monster_2_Skulled Salamander_9
+  - first:
+      213: -9187955819888640498
+    second: Monster_2_Skulled Salamander_10
+  - first:
+      213: -23341176236489510
+    second: Monster_2_Skulled Salamander_11
+  - first:
+      213: -982211465109637959
+    second: Monster_2_Skulled Salamander_12
+  - first:
+      213: -4817130935365985059
+    second: Monster_2_Skulled Salamander_13
+  - first:
+      213: 4757148830547978749
+    second: Monster_2_Skulled Salamander_14S
+  - first:
+      213: 65803730951078866
+    second: Monster_2_Skulled Salamander_15
+  - first:
+      213: 9151902186138173103
+    second: Monster_2_Skulled Salamander_16
+  - first:
+      213: 906186319033114238
+    second: Monster_2_Skulled Salamander_17
+  - first:
+      213: 1131975651110936174
+    second: Monster_2_Skulled Salamander_18
+  - first:
+      213: 3194394511210230492
+    second: Monster_2_Skulled Salamander_19
+  - first:
+      213: -2804412313404520313
+    second: Monster_2_Skulled Salamander_20D
+  - first:
+      213: 2998610098639418246
+    second: Monster_2_Skulled Salamander_21
+  - first:
+      213: 8907053584954695807
+    second: Monster_2_Skulled Salamander_22
+  - first:
+      213: -5104347711062257115
+    second: Monster_2_Skulled Salamander_23
+  - first:
+      213: -7385091499436280491
+    second: Monster_2_Skulled Salamander_24
+  - first:
+      213: 8594937343776765875
+    second: Monster_2_Skulled Salamander_25
+  - first:
+      213: -8615208189478105648
+    second: Monster_2_Skulled Salamander_26
+  - first:
+      213: -1118901909894141277
+    second: Monster_2_Skulled Salamander_27
+  - first:
+      213: 5029386755527440944
+    second: Monster_2_Skulled Salamander_28
+  - first:
+      213: 3392719037006057490
+    second: Monster_2_Skulled Salamander_29
+  - first:
+      213: -7230045876204458761
+    second: Monster_2_Skulled Salamander_30
+  - first:
+      213: 2794612894826025302
+    second: Monster_2_Skulled Salamander_31F
+  - first:
+      213: -3340315270076700717
+    second: Monster_2_Skulled Salamander_32
+  - first:
+      213: 7833899086356900040
+    second: Monster_2_Skulled Salamander_33
+  - first:
+      213: -3413264385421273436
+    second: Monster_2_Skulled Salamander_34
+  - first:
+      213: -5565369432563594998
+    second: Monster_2_Skulled Salamander_35
+  - first:
+      213: -7416348669352735915
+    second: Monster_2_Skulled Salamander_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a8ae31aa1613100800000000000000
+      internalID: 85957251003222533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4de3300894bf660800000000000000
+      internalID: 7420605625182115014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1cdac591a81aca0800000000000000
+      internalID: -6007368586401824332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b198d4158d522d8d0800000000000000
+      internalID: -2823152405400680165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb808c1195fde1e0800000000000000
+      internalID: -2166805842098091026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_5A
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934fa4fc1092a7bc0800000000000000
+      internalID: -3784667449101978567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b6a3d3f5c49b20800000000000000
+      internalID: 3140352491202720412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f08c802ff7fe7d0800000000000000
+      internalID: -2886948158615056528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f11eef4eec2d2600800000000000000
+      internalID: 445061340234387952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_9
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a4ec4abb03b50e0800000000000000
+      internalID: -2280175203851023843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_10
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0efd879cd2dd7080800000000000000
+      internalID: -9187955819888640498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_11
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4c8c9e2531daff0800000000000000
+      internalID: -23341176236489510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_12
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4f2df50eb7e52f0800000000000000
+      internalID: -982211465109637959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_13
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc17f0cfec162db0800000000000000
+      internalID: -4817130935365985059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_14S
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df92a7c28a9c40240800000000000000
+      internalID: 4757148830547978749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d30c380528c9e000800000000000000
+      internalID: 65803730951078866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faef2e7ac86120f70800000000000000
+      internalID: 9151902186138173103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_17
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e994ee7ab639c00800000000000000
+      internalID: 906186319033114238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_18
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6edbd27bd595bf00800000000000000
+      internalID: 1131975651110936174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_19
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2b42122e4c45c20800000000000000
+      internalID: 3194394511210230492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_20D
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788cacffbd9b419d0800000000000000
+      internalID: -2804412313404520313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6833d455ff33d9920800000000000000
+      internalID: 2998610098639418246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_22
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70289e3b063c9b70800000000000000
+      internalID: 8907053584954695807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_23
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5225e000dc6b929b0800000000000000
+      internalID: -5104347711062257115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_24
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f75eb862e28990800000000000000
+      internalID: -7385091499436280491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_25
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7bd8ae9f9574770800000000000000
+      internalID: 8594937343776765875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_26
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd0f180cc1a07880800000000000000
+      internalID: -8615208189478105648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_27
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae04224acd870f0800000000000000
+      internalID: -1118901909894141277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_28
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a74497b98fbc540800000000000000
+      internalID: 5029386755527440944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_29
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210937f1dfb551f20800000000000000
+      internalID: 3392719037006057490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_30
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc2e0ff497b9ab90800000000000000
+      internalID: -7230045876204458761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_31F
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651d4d01f9578c620800000000000000
+      internalID: 2794612894826025302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7e349a5f0d4a1d0800000000000000
+      internalID: -3340315270076700717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c86f8896b997bc60800000000000000
+      internalID: 7833899086356900040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_34
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6197e2026a1a0d0800000000000000
+      internalID: -3413264385421273436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_35
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09ca38dcf5d3c2b0800000000000000
+      internalID: -5565369432563594998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_2_Skulled Salamander_36
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b0ac0cd26d31990800000000000000
+      internalID: -7416348669352735915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_2_Skulled Salamander_0: 85957251003222533
+      Monster_2_Skulled Salamander_1: 7420605625182115014
+      Monster_2_Skulled Salamander_10: -9187955819888640498
+      Monster_2_Skulled Salamander_11: -23341176236489510
+      Monster_2_Skulled Salamander_12: -982211465109637959
+      Monster_2_Skulled Salamander_13: -4817130935365985059
+      Monster_2_Skulled Salamander_14S: 4757148830547978749
+      Monster_2_Skulled Salamander_15: 65803730951078866
+      Monster_2_Skulled Salamander_16: 9151902186138173103
+      Monster_2_Skulled Salamander_17: 906186319033114238
+      Monster_2_Skulled Salamander_18: 1131975651110936174
+      Monster_2_Skulled Salamander_19: 3194394511210230492
+      Monster_2_Skulled Salamander_2: -6007368586401824332
+      Monster_2_Skulled Salamander_20D: -2804412313404520313
+      Monster_2_Skulled Salamander_21: 2998610098639418246
+      Monster_2_Skulled Salamander_22: 8907053584954695807
+      Monster_2_Skulled Salamander_23: -5104347711062257115
+      Monster_2_Skulled Salamander_24: -7385091499436280491
+      Monster_2_Skulled Salamander_25: 8594937343776765875
+      Monster_2_Skulled Salamander_26: -8615208189478105648
+      Monster_2_Skulled Salamander_27: -1118901909894141277
+      Monster_2_Skulled Salamander_28: 5029386755527440944
+      Monster_2_Skulled Salamander_29: 3392719037006057490
+      Monster_2_Skulled Salamander_3: -2823152405400680165
+      Monster_2_Skulled Salamander_30: -7230045876204458761
+      Monster_2_Skulled Salamander_31F: 2794612894826025302
+      Monster_2_Skulled Salamander_32: -3340315270076700717
+      Monster_2_Skulled Salamander_33: 7833899086356900040
+      Monster_2_Skulled Salamander_34: -3413264385421273436
+      Monster_2_Skulled Salamander_35: -5565369432563594998
+      Monster_2_Skulled Salamander_36: -7416348669352735915
+      Monster_2_Skulled Salamander_4: -2166805842098091026
+      Monster_2_Skulled Salamander_5A: -3784667449101978567
+      Monster_2_Skulled Salamander_6: 3140352491202720412
+      Monster_2_Skulled Salamander_7: -2886948158615056528
+      Monster_2_Skulled Salamander_8: 445061340234387952
+      Monster_2_Skulled Salamander_9: -2280175203851023843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

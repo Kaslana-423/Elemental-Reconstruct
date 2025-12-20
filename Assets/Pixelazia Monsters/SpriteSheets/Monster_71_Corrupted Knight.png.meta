@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: f0ad17c233873ba4a94d9e4b86b538fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2875414473285298876
+    second: Monster_71_Corrupted Knight_0
+  - first:
+      213: 1422300972361774306
+    second: Monster_71_Corrupted Knight_1
+  - first:
+      213: -3388868896263199102
+    second: Monster_71_Corrupted Knight_2
+  - first:
+      213: -4583102778524759773
+    second: Monster_71_Corrupted Knight_3
+  - first:
+      213: -1545351607725594650
+    second: Monster_71_Corrupted Knight_4
+  - first:
+      213: 4672895742557257411
+    second: Monster_71_Corrupted Knight_5
+  - first:
+      213: 2438567219687630481
+    second: Monster_71_Corrupted Knight_6
+  - first:
+      213: 4275682142949207405
+    second: Monster_71_Corrupted Knight_7a
+  - first:
+      213: 5170831995039829792
+    second: Monster_71_Corrupted Knight_8
+  - first:
+      213: -5757632515495163199
+    second: Monster_71_Corrupted Knight_9
+  - first:
+      213: 1748145587587506832
+    second: Monster_71_Corrupted Knight_10
+  - first:
+      213: -6274232398570612844
+    second: Monster_71_Corrupted Knight_11
+  - first:
+      213: -4378687075961698683
+    second: Monster_71_Corrupted Knight_12
+  - first:
+      213: -4039384971496476516
+    second: Monster_71_Corrupted Knight_13
+  - first:
+      213: 4927181554943177564
+    second: Monster_71_Corrupted Knight_14
+  - first:
+      213: -5258469141938031692
+    second: Monster_71_Corrupted Knight_15
+  - first:
+      213: -671755441173589620
+    second: Monster_71_Corrupted Knight_16
+  - first:
+      213: 7006240118376144548
+    second: Monster_71_Corrupted Knight_17b
+  - first:
+      213: -4485173543777922639
+    second: Monster_71_Corrupted Knight_18
+  - first:
+      213: 8665885745020551287
+    second: Monster_71_Corrupted Knight_19
+  - first:
+      213: -2058444986553600540
+    second: Monster_71_Corrupted Knight_20
+  - first:
+      213: -1978655736027857700
+    second: Monster_71_Corrupted Knight_21
+  - first:
+      213: -7030490122874944642
+    second: Monster_71_Corrupted Knight_22
+  - first:
+      213: 1920605803066968805
+    second: Monster_71_Corrupted Knight_23c
+  - first:
+      213: -1717915217879768793
+    second: Monster_71_Corrupted Knight_24
+  - first:
+      213: 3461899927487626685
+    second: Monster_71_Corrupted Knight_25
+  - first:
+      213: -6333369528293937770
+    second: Monster_71_Corrupted Knight_26
+  - first:
+      213: 7082166159099631145
+    second: Monster_71_Corrupted Knight_27
+  - first:
+      213: 3679797479182987796
+    second: Monster_71_Corrupted Knight_28
+  - first:
+      213: 8612528888052649806
+    second: Monster_71_Corrupted Knight_29
+  - first:
+      213: 8006614229861221400
+    second: Monster_71_Corrupted Knight_30
+  - first:
+      213: -1292793255407843287
+    second: Monster_71_Corrupted Knight_31
+  - first:
+      213: 372522403538926915
+    second: Monster_71_Corrupted Knight_32
+  - first:
+      213: 2625504051526927874
+    second: Monster_71_Corrupted Knight_33
+  - first:
+      213: -7476611146089335072
+    second: Monster_71_Corrupted Knight_34
+  - first:
+      213: -8451633591379804396
+    second: Monster_71_Corrupted Knight_35
+  - first:
+      213: -6576591711895608085
+    second: Monster_71_Corrupted Knight_36d
+  - first:
+      213: -940585203602801818
+    second: Monster_71_Corrupted Knight_37
+  - first:
+      213: -1652581168995094731
+    second: Monster_71_Corrupted Knight_38
+  - first:
+      213: 6654928319379809387
+    second: Monster_71_Corrupted Knight_39
+  - first:
+      213: -5108275447423582692
+    second: Monster_71_Corrupted Knight_40
+  - first:
+      213: -782882140759916777
+    second: Monster_71_Corrupted Knight_41
+  - first:
+      213: 3557829027146052422
+    second: Monster_71_Corrupted Knight_42
+  - first:
+      213: -617099856493658588
+    second: Monster_71_Corrupted Knight_43
+  - first:
+      213: 2737225889403933988
+    second: Monster_71_Corrupted Knight_44
+  - first:
+      213: 5702904160552213123
+    second: Monster_71_Corrupted Knight_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaef269a3687e720800000000000000
+      internalID: 2875414473285298876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f05dd2370db310800000000000000
+      internalID: 1422300972361774306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286acdf91b158f0d0800000000000000
+      internalID: -3388868896263199102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3290de42e4c8560c0800000000000000
+      internalID: -4583102778524759773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7ef6086eecd8ae0800000000000000
+      internalID: -1545351607725594650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce7f877be579d040800000000000000
+      internalID: 4672895742557257411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a46a57f787d120800000000000000
+      internalID: 2438567219687630481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_7a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6de7f66146465b30800000000000000
+      internalID: 4275682142949207405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc291ad4c72c740800000000000000
+      internalID: 5170831995039829792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca0cae7bb7c810b0800000000000000
+      internalID: -5757632515495163199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092e1db5629a24810800000000000000
+      internalID: 1748145587587506832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49793f430e27de8a0800000000000000
+      internalID: -6274232398570612844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58685bebd47cb33c0800000000000000
+      internalID: -4378687075961698683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90b6ee15c831f7c0800000000000000
+      internalID: -4039384971496476516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_14
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53be36d48dd06440800000000000000
+      internalID: 4927181554943177564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_15
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b33e6c0d2a2607b0800000000000000
+      internalID: -5258469141938031692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_16
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8199e04cf17da6f0800000000000000
+      internalID: -671755441173589620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_17b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae96ea544a2b3160800000000000000
+      internalID: 7006240118376144548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b11327ec6671c1c0800000000000000
+      internalID: -4485173543777922639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7704218db29634870800000000000000
+      internalID: 8665885745020551287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5f9cad03fee63e0800000000000000
+      internalID: -2058444986553600540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc354967176a84e0800000000000000
+      internalID: -1978655736027857700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73852d7b7eae6e90800000000000000
+      internalID: -7030490122874944642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_23c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4c555dcc57aa10800000000000000
+      internalID: 1920605803066968805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721e904163db828e0800000000000000
+      internalID: -1717915217879768793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdb9d164a32b0030800000000000000
+      internalID: 3461899927487626685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da1ca38f95b18a0800000000000000
+      internalID: -6333369528293937770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_27
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9261d694998e84260800000000000000
+      internalID: 7082166159099631145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_28
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41274189f44411330800000000000000
+      internalID: 3679797479182987796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_29
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f0b2e7469d58770800000000000000
+      internalID: 8612528888052649806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_30
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8144770a8353d1f60800000000000000
+      internalID: 8006614229861221400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_31
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928056b32631f0ee0800000000000000
+      internalID: -1292793255407843287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_32
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dffcdf6277b2500800000000000000
+      internalID: 372522403538926915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_33
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068c9b360aaf6420800000000000000
+      internalID: 2625504051526927874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_34
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e67e9186cdbd3890800000000000000
+      internalID: -7476611146089335072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_35
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3c0ef604c5ba80800000000000000
+      internalID: -8451633591379804396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_36d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be42fabaea04bb4a0800000000000000
+      internalID: -6576591711895608085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b3442adbe52f2f0800000000000000
+      internalID: -940585203602801818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f2c8bbe2ad019e0800000000000000
+      internalID: -1652581168995094731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6422521c0e0b5c50800000000000000
+      internalID: 6654928319379809387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eb77d9b82cb19b0800000000000000
+      internalID: -5108275447423582692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_41
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ff10347d4a225f0800000000000000
+      internalID: -782882140759916777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_42
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6433d9666a2ff5130800000000000000
+      internalID: 3557829027146052422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_43
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e30c633fe9f67f0800000000000000
+      internalID: -617099856493658588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_44
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4259ce7a1749cf520800000000000000
+      internalID: 2737225889403933988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_71_Corrupted Knight_45
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38adfc56e19c42f40800000000000000
+      internalID: 5702904160552213123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_71_Corrupted Knight_0: 2875414473285298876
+      Monster_71_Corrupted Knight_1: 1422300972361774306
+      Monster_71_Corrupted Knight_10: 1748145587587506832
+      Monster_71_Corrupted Knight_11: -6274232398570612844
+      Monster_71_Corrupted Knight_12: -4378687075961698683
+      Monster_71_Corrupted Knight_13: -4039384971496476516
+      Monster_71_Corrupted Knight_14: 4927181554943177564
+      Monster_71_Corrupted Knight_15: -5258469141938031692
+      Monster_71_Corrupted Knight_16: -671755441173589620
+      Monster_71_Corrupted Knight_17b: 7006240118376144548
+      Monster_71_Corrupted Knight_18: -4485173543777922639
+      Monster_71_Corrupted Knight_19: 8665885745020551287
+      Monster_71_Corrupted Knight_2: -3388868896263199102
+      Monster_71_Corrupted Knight_20: -2058444986553600540
+      Monster_71_Corrupted Knight_21: -1978655736027857700
+      Monster_71_Corrupted Knight_22: -7030490122874944642
+      Monster_71_Corrupted Knight_23c: 1920605803066968805
+      Monster_71_Corrupted Knight_24: -1717915217879768793
+      Monster_71_Corrupted Knight_25: 3461899927487626685
+      Monster_71_Corrupted Knight_26: -6333369528293937770
+      Monster_71_Corrupted Knight_27: 7082166159099631145
+      Monster_71_Corrupted Knight_28: 3679797479182987796
+      Monster_71_Corrupted Knight_29: 8612528888052649806
+      Monster_71_Corrupted Knight_3: -4583102778524759773
+      Monster_71_Corrupted Knight_30: 8006614229861221400
+      Monster_71_Corrupted Knight_31: -1292793255407843287
+      Monster_71_Corrupted Knight_32: 372522403538926915
+      Monster_71_Corrupted Knight_33: 2625504051526927874
+      Monster_71_Corrupted Knight_34: -7476611146089335072
+      Monster_71_Corrupted Knight_35: -8451633591379804396
+      Monster_71_Corrupted Knight_36d: -6576591711895608085
+      Monster_71_Corrupted Knight_37: -940585203602801818
+      Monster_71_Corrupted Knight_38: -1652581168995094731
+      Monster_71_Corrupted Knight_39: 6654928319379809387
+      Monster_71_Corrupted Knight_4: -1545351607725594650
+      Monster_71_Corrupted Knight_40: -5108275447423582692
+      Monster_71_Corrupted Knight_41: -782882140759916777
+      Monster_71_Corrupted Knight_42: 3557829027146052422
+      Monster_71_Corrupted Knight_43: -617099856493658588
+      Monster_71_Corrupted Knight_44: 2737225889403933988
+      Monster_71_Corrupted Knight_45: 5702904160552213123
+      Monster_71_Corrupted Knight_5: 4672895742557257411
+      Monster_71_Corrupted Knight_6: 2438567219687630481
+      Monster_71_Corrupted Knight_7a: 4275682142949207405
+      Monster_71_Corrupted Knight_8: 5170831995039829792
+      Monster_71_Corrupted Knight_9: -5757632515495163199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

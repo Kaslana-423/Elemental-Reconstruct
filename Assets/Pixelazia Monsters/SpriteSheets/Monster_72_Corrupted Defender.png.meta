@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: 86ff21549c31bea44967ca4bec5d7105
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4700804393481669470
+    second: Monster_72_Corrupted Defender_0
+  - first:
+      213: 1440852703566094364
+    second: Monster_72_Corrupted Defender_1
+  - first:
+      213: 4888756296804877936
+    second: Monster_72_Corrupted Defender_2
+  - first:
+      213: 6208413851064931457
+    second: Monster_72_Corrupted Defender_3
+  - first:
+      213: -2732479132475338512
+    second: Monster_72_Corrupted Defender_4
+  - first:
+      213: 7755094196082627397
+    second: Monster_72_Corrupted Defender_5
+  - first:
+      213: 1541429251519536307
+    second: Monster_72_Corrupted Defender_6
+  - first:
+      213: 5165704520423352323
+    second: Monster_72_Corrupted Defender_7a
+  - first:
+      213: 7575850667953315307
+    second: Monster_72_Corrupted Defender_8
+  - first:
+      213: 3441389728771498961
+    second: Monster_72_Corrupted Defender_9
+  - first:
+      213: 4009654657453502112
+    second: Monster_72_Corrupted Defender_10
+  - first:
+      213: 3570044263594959557
+    second: Monster_72_Corrupted Defender_11
+  - first:
+      213: 8258626010342686308
+    second: Monster_72_Corrupted Defender_12
+  - first:
+      213: -4207364445059343771
+    second: Monster_72_Corrupted Defender_13
+  - first:
+      213: 3361540599962131379
+    second: Monster_72_Corrupted Defender_14
+  - first:
+      213: -451375693611387237
+    second: Monster_72_Corrupted Defender_15
+  - first:
+      213: -6209352643466655923
+    second: Monster_72_Corrupted Defender_16
+  - first:
+      213: -5391623888330317297
+    second: Monster_72_Corrupted Defender_17b
+  - first:
+      213: -5868071943256157939
+    second: Monster_72_Corrupted Defender_18
+  - first:
+      213: -8006380568836577375
+    second: Monster_72_Corrupted Defender_19
+  - first:
+      213: -2973124860786141146
+    second: Monster_72_Corrupted Defender_20
+  - first:
+      213: 6012893592200350875
+    second: Monster_72_Corrupted Defender_21
+  - first:
+      213: 5228222495515222519
+    second: Monster_72_Corrupted Defender_22
+  - first:
+      213: -6460975017008904574
+    second: Monster_72_Corrupted Defender_23c
+  - first:
+      213: 4965805516632032398
+    second: Monster_72_Corrupted Defender_24
+  - first:
+      213: 1269758322547810659
+    second: Monster_72_Corrupted Defender_25
+  - first:
+      213: -2510741314431696982
+    second: Monster_72_Corrupted Defender_26
+  - first:
+      213: 1016530921344669073
+    second: Monster_72_Corrupted Defender_27
+  - first:
+      213: -2704148420976400952
+    second: Monster_72_Corrupted Defender_28
+  - first:
+      213: -6913009807347687158
+    second: Monster_72_Corrupted Defender_29
+  - first:
+      213: 702088339923464895
+    second: Monster_72_Corrupted Defender_30
+  - first:
+      213: -403584478348578854
+    second: Monster_72_Corrupted Defender_31
+  - first:
+      213: -7133930975090025209
+    second: Monster_72_Corrupted Defender_32
+  - first:
+      213: 6079845634761232771
+    second: Monster_72_Corrupted Defender_33
+  - first:
+      213: -4792052209625530375
+    second: Monster_72_Corrupted Defender_34
+  - first:
+      213: 1551674667630877038
+    second: Monster_72_Corrupted Defender_35
+  - first:
+      213: 1259339520260350793
+    second: Monster_72_Corrupted Defender_36d
+  - first:
+      213: 7917246396977180053
+    second: Monster_72_Corrupted Defender_37
+  - first:
+      213: -5438934008111075145
+    second: Monster_72_Corrupted Defender_38
+  - first:
+      213: -894562571601989672
+    second: Monster_72_Corrupted Defender_39
+  - first:
+      213: -5420694556916618427
+    second: Monster_72_Corrupted Defender_40
+  - first:
+      213: 2284125185324726246
+    second: Monster_72_Corrupted Defender_41
+  - first:
+      213: -5792704772491509025
+    second: Monster_72_Corrupted Defender_42
+  - first:
+      213: -1812953481675337692
+    second: Monster_72_Corrupted Defender_43
+  - first:
+      213: 7221711919466151218
+    second: Monster_72_Corrupted Defender_44
+  - first:
+      213: -4543738595691000845
+    second: Monster_72_Corrupted Defender_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4fdef5f4363ceb0800000000000000
+      internalID: -4700804393481669470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10e7b166efeef310800000000000000
+      internalID: 1440852703566094364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076428043f958d340800000000000000
+      internalID: 4888756296804877936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18417530187b82650800000000000000
+      internalID: 6208413851064931457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d3a0d4b8441ad0800000000000000
+      internalID: -2732479132475338512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543d2354511af9b60800000000000000
+      internalID: 7755094196082627397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 884
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcd737ccb1446510800000000000000
+      internalID: 1541429251519536307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_7a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308a67a64e440b740800000000000000
+      internalID: 5165704520423352323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed53ce3b04d22960800000000000000
+      internalID: 7575850667953315307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d36a1d99b542cf20800000000000000
+      internalID: 3441389728771498961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea189baa725a730800000000000000
+      internalID: 4009654657453502112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2aff3c7585b8130800000000000000
+      internalID: 3570044263594959557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ef64fa9988c9270800000000000000
+      internalID: 8258626010342686308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a11ab24507c95c0800000000000000
+      internalID: -4207364445059343771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_14
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbdbce8d5796ae20800000000000000
+      internalID: 3361540599962131379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_15
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b963c0ab2346cb9f0800000000000000
+      internalID: -451375693611387237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_16
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 663
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4789095ba2f3d9a0800000000000000
+      internalID: -6209352643466655923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_17b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02af8db3aa1d25b0800000000000000
+      internalID: -5391623888330317297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d7c178ab609ea0800000000000000
+      internalID: -5868071943256157939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e7e1da4f93e090800000000000000
+      internalID: -8006380568836577375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62895fff0b65db6d0800000000000000
+      internalID: -2973124860786141146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c035b4dd6127350800000000000000
+      internalID: 6012893592200350875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 442
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f124ebc8a06e8840800000000000000
+      internalID: 5228222495515222519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_23c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c28824710656a0800000000000000
+      internalID: -6460975017008904574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e840782bec51ae440800000000000000
+      internalID: 4965805516632032398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361ee0687761f9110800000000000000
+      internalID: 1269758322547810659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafb666b31e082dd0800000000000000
+      internalID: -2510741314431696982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_27
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19513f5bc717b1e00800000000000000
+      internalID: 1016530921344669073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_28
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5a4cb965fe87ad0800000000000000
+      internalID: -2704148420976400952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_29
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01ef38f43e0010a0800000000000000
+      internalID: -6913009807347687158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_30
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2f41610a15eb900800000000000000
+      internalID: 702088339923464895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_31
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfeb232e0e266af0800000000000000
+      internalID: -403584478348578854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_32
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d5a99439f2ffc90800000000000000
+      internalID: -7133930975090025209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_33
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38117257463ff5450800000000000000
+      internalID: 6079845634761232771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_34
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fff42c97e53f7db0800000000000000
+      internalID: -4792052209625530375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_35
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 221
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e695c1b93e7a88510800000000000000
+      internalID: 1551674667630877038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_36d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943aab41f921a7110800000000000000
+      internalID: 1259339520260350793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59de01396a5bfdd60800000000000000
+      internalID: 7917246396977180053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b07fb916560584b0800000000000000
+      internalID: -5438934008111075145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfad4aa410e593f0800000000000000
+      internalID: -894562571601989672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b67134503d5c4b0800000000000000
+      internalID: -5420694556916618427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_41
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7bdc511c7d2bf10800000000000000
+      internalID: 2284125185324726246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_42
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd20fe253bd2c9fa0800000000000000
+      internalID: -5792704772491509025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_43
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4201f62f96817d6e0800000000000000
+      internalID: -1812953481675337692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_44
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dfbfd7abca83460800000000000000
+      internalID: 7221711919466151218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_72_Corrupted Defender_45
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 320
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb0b9b22d561f0c0800000000000000
+      internalID: -4543738595691000845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_72_Corrupted Defender_0: -4700804393481669470
+      Monster_72_Corrupted Defender_1: 1440852703566094364
+      Monster_72_Corrupted Defender_10: 4009654657453502112
+      Monster_72_Corrupted Defender_11: 3570044263594959557
+      Monster_72_Corrupted Defender_12: 8258626010342686308
+      Monster_72_Corrupted Defender_13: -4207364445059343771
+      Monster_72_Corrupted Defender_14: 3361540599962131379
+      Monster_72_Corrupted Defender_15: -451375693611387237
+      Monster_72_Corrupted Defender_16: -6209352643466655923
+      Monster_72_Corrupted Defender_17b: -5391623888330317297
+      Monster_72_Corrupted Defender_18: -5868071943256157939
+      Monster_72_Corrupted Defender_19: -8006380568836577375
+      Monster_72_Corrupted Defender_2: 4888756296804877936
+      Monster_72_Corrupted Defender_20: -2973124860786141146
+      Monster_72_Corrupted Defender_21: 6012893592200350875
+      Monster_72_Corrupted Defender_22: 5228222495515222519
+      Monster_72_Corrupted Defender_23c: -6460975017008904574
+      Monster_72_Corrupted Defender_24: 4965805516632032398
+      Monster_72_Corrupted Defender_25: 1269758322547810659
+      Monster_72_Corrupted Defender_26: -2510741314431696982
+      Monster_72_Corrupted Defender_27: 1016530921344669073
+      Monster_72_Corrupted Defender_28: -2704148420976400952
+      Monster_72_Corrupted Defender_29: -6913009807347687158
+      Monster_72_Corrupted Defender_3: 6208413851064931457
+      Monster_72_Corrupted Defender_30: 702088339923464895
+      Monster_72_Corrupted Defender_31: -403584478348578854
+      Monster_72_Corrupted Defender_32: -7133930975090025209
+      Monster_72_Corrupted Defender_33: 6079845634761232771
+      Monster_72_Corrupted Defender_34: -4792052209625530375
+      Monster_72_Corrupted Defender_35: 1551674667630877038
+      Monster_72_Corrupted Defender_36d: 1259339520260350793
+      Monster_72_Corrupted Defender_37: 7917246396977180053
+      Monster_72_Corrupted Defender_38: -5438934008111075145
+      Monster_72_Corrupted Defender_39: -894562571601989672
+      Monster_72_Corrupted Defender_4: -2732479132475338512
+      Monster_72_Corrupted Defender_40: -5420694556916618427
+      Monster_72_Corrupted Defender_41: 2284125185324726246
+      Monster_72_Corrupted Defender_42: -5792704772491509025
+      Monster_72_Corrupted Defender_43: -1812953481675337692
+      Monster_72_Corrupted Defender_44: 7221711919466151218
+      Monster_72_Corrupted Defender_45: -4543738595691000845
+      Monster_72_Corrupted Defender_5: 7755094196082627397
+      Monster_72_Corrupted Defender_6: 1541429251519536307
+      Monster_72_Corrupted Defender_7a: 5165704520423352323
+      Monster_72_Corrupted Defender_8: 7575850667953315307
+      Monster_72_Corrupted Defender_9: 3441389728771498961
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

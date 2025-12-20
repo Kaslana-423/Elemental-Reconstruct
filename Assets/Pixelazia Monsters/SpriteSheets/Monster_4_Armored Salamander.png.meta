@@ -1,0 +1,1078 @@
+fileFormatVersion: 2
+guid: 2062240a5ad19bf45b9db2e2e2ea8dcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3733257608667662193
+    second: Monster_4_Armored Salamander_0
+  - first:
+      213: 4515686610429721751
+    second: Monster_4_Armored Salamander_1
+  - first:
+      213: -418274757433105565
+    second: Monster_4_Armored Salamander_2
+  - first:
+      213: -5485356288827455870
+    second: Monster_4_Armored Salamander_3
+  - first:
+      213: -5845497888285982994
+    second: Monster_4_Armored Salamander_4
+  - first:
+      213: -3397808126663553380
+    second: Monster_4_Armored Salamander_5A
+  - first:
+      213: 2144210573020459860
+    second: Monster_4_Armored Salamander_6
+  - first:
+      213: -7825504358015840404
+    second: Monster_4_Armored Salamander_7
+  - first:
+      213: 5917188118974229185
+    second: Monster_4_Armored Salamander_8
+  - first:
+      213: -3700422195844087083
+    second: Monster_4_Armored Salamander_9
+  - first:
+      213: -8071896318336465832
+    second: Monster_4_Armored Salamander_10
+  - first:
+      213: -1590150007465241374
+    second: Monster_4_Armored Salamander_11
+  - first:
+      213: 5121308950464254929
+    second: Monster_4_Armored Salamander_12
+  - first:
+      213: -8976548279096458166
+    second: Monster_4_Armored Salamander_13
+  - first:
+      213: -2123349628442071097
+    second: Monster_4_Armored Salamander_14S
+  - first:
+      213: 2380564896760026083
+    second: Monster_4_Armored Salamander_15
+  - first:
+      213: -1577652278462479016
+    second: Monster_4_Armored Salamander_16
+  - first:
+      213: -5235354072564448813
+    second: Monster_4_Armored Salamander_17
+  - first:
+      213: -8099111157569648927
+    second: Monster_4_Armored Salamander_18
+  - first:
+      213: -1214908669262386477
+    second: Monster_4_Armored Salamander_19
+  - first:
+      213: -5365545545330752985
+    second: Monster_4_Armored Salamander_20D
+  - first:
+      213: -6507487268317884914
+    second: Monster_4_Armored Salamander_21
+  - first:
+      213: 2130991599354108480
+    second: Monster_4_Armored Salamander_22
+  - first:
+      213: 134644108663669014
+    second: Monster_4_Armored Salamander_23
+  - first:
+      213: 5200624617918389355
+    second: Monster_4_Armored Salamander_24
+  - first:
+      213: 1065650993852363445
+    second: Monster_4_Armored Salamander_25
+  - first:
+      213: -3650373085565509561
+    second: Monster_4_Armored Salamander_26
+  - first:
+      213: -6647591283482225912
+    second: Monster_4_Armored Salamander_27
+  - first:
+      213: 6628829188980034578
+    second: Monster_4_Armored Salamander_28
+  - first:
+      213: 4642602495514680233
+    second: Monster_4_Armored Salamander_29
+  - first:
+      213: 2512844519630904801
+    second: Monster_4_Armored Salamander_30
+  - first:
+      213: 3129287048321476616
+    second: Monster_4_Armored Salamander_31F
+  - first:
+      213: 1534337440355088632
+    second: Monster_4_Armored Salamander_32
+  - first:
+      213: 6309590825602181290
+    second: Monster_4_Armored Salamander_33
+  - first:
+      213: 9120704988521547947
+    second: Monster_4_Armored Salamander_34
+  - first:
+      213: 8923540208735285275
+    second: Monster_4_Armored Salamander_35
+  - first:
+      213: -3811785798160201072
+    second: Monster_4_Armored Salamander_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88f65c0cfdc03cc0800000000000000
+      internalID: -3733257608667662193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cb6ab0c01faae30800000000000000
+      internalID: 4515686610429721751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363efa0035df13af0800000000000000
+      internalID: -418274757433105565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2860cf9948910e3b0800000000000000
+      internalID: -5485356288827455870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 628
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeefa6134ae90eea0800000000000000
+      internalID: -5845497888285982994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_5A
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e884bd28f88d0d0800000000000000
+      internalID: -3397808126663553380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4537588d724c1cd10800000000000000
+      internalID: 2144210573020459860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fc1386f39366390800000000000000
+      internalID: -7825504358015840404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caee9c5e331e1250800000000000000
+      internalID: 5917188118974229185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_9
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d20eb95e9575acc0800000000000000
+      internalID: -3700422195844087083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_10
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85485c1b01ddaff80800000000000000
+      internalID: -8071896318336465832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_11
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e413714ef6aee9e0800000000000000
+      internalID: -1590150007465241374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_12
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d353794b5b821740800000000000000
+      internalID: 5121308950464254929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_13
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 471
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44cf4366e4ec6380800000000000000
+      internalID: -8976548279096458166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_14S
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfa0ce43c85882e0800000000000000
+      internalID: -2123349628442071097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3552c2927790120800000000000000
+      internalID: 2380564896760026083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855882b8c9d0b1ae0800000000000000
+      internalID: -1577652278462479016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_17
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1c66785394857b0800000000000000
+      internalID: -5235354072564448813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_18
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e688a8205d2a9f80800000000000000
+      internalID: -8099111157569648927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_19
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 314
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daa21e8007c32fe0800000000000000
+      internalID: -1214908669262386477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_20D
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722816021c0c985b0800000000000000
+      internalID: -5365545545330752985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e098fbec2c0b5a0800000000000000
+      internalID: -6507487268317884914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_22
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ad7d2b19dc29d10800000000000000
+      internalID: 2130991599354108480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_23
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6114ffb7a1a5ed100800000000000000
+      internalID: 134644108663669014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_24
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c5d2139845c2840800000000000000
+      internalID: 5200624617918389355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_25
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2bc1fcee3f9ce00800000000000000
+      internalID: 1065650993852363445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_26
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740a839e405475dc0800000000000000
+      internalID: -3650373085565509561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_27
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8031f08b2f20fb3a0800000000000000
+      internalID: -6647591283482225912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_28
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c45edb6055efb50800000000000000
+      internalID: 6628829188980034578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_29
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab9e724f56dd6040800000000000000
+      internalID: 4642602495514680233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_30
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 157
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed1368e6ca6fd220800000000000000
+      internalID: 2512844519630904801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_31F
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808ae63adf57d6b20800000000000000
+      internalID: 3129287048321476616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f872f1d5cf0b4510800000000000000
+      internalID: 1534337440355088632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8e41e1d6b209750800000000000000
+      internalID: 6309590825602181290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_34
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8c5fd0dd0439e70800000000000000
+      internalID: 9120704988521547947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_35
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10f4987a88c6db70800000000000000
+      internalID: 8923540208735285275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_4_Armored Salamander_36
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a48c42301d91bc0800000000000000
+      internalID: -3811785798160201072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_4_Armored Salamander_0: -3733257608667662193
+      Monster_4_Armored Salamander_1: 4515686610429721751
+      Monster_4_Armored Salamander_10: -8071896318336465832
+      Monster_4_Armored Salamander_11: -1590150007465241374
+      Monster_4_Armored Salamander_12: 5121308950464254929
+      Monster_4_Armored Salamander_13: -8976548279096458166
+      Monster_4_Armored Salamander_14S: -2123349628442071097
+      Monster_4_Armored Salamander_15: 2380564896760026083
+      Monster_4_Armored Salamander_16: -1577652278462479016
+      Monster_4_Armored Salamander_17: -5235354072564448813
+      Monster_4_Armored Salamander_18: -8099111157569648927
+      Monster_4_Armored Salamander_19: -1214908669262386477
+      Monster_4_Armored Salamander_2: -418274757433105565
+      Monster_4_Armored Salamander_20D: -5365545545330752985
+      Monster_4_Armored Salamander_21: -6507487268317884914
+      Monster_4_Armored Salamander_22: 2130991599354108480
+      Monster_4_Armored Salamander_23: 134644108663669014
+      Monster_4_Armored Salamander_24: 5200624617918389355
+      Monster_4_Armored Salamander_25: 1065650993852363445
+      Monster_4_Armored Salamander_26: -3650373085565509561
+      Monster_4_Armored Salamander_27: -6647591283482225912
+      Monster_4_Armored Salamander_28: 6628829188980034578
+      Monster_4_Armored Salamander_29: 4642602495514680233
+      Monster_4_Armored Salamander_3: -5485356288827455870
+      Monster_4_Armored Salamander_30: 2512844519630904801
+      Monster_4_Armored Salamander_31F: 3129287048321476616
+      Monster_4_Armored Salamander_32: 1534337440355088632
+      Monster_4_Armored Salamander_33: 6309590825602181290
+      Monster_4_Armored Salamander_34: 9120704988521547947
+      Monster_4_Armored Salamander_35: 8923540208735285275
+      Monster_4_Armored Salamander_36: -3811785798160201072
+      Monster_4_Armored Salamander_4: -5845497888285982994
+      Monster_4_Armored Salamander_5A: -3397808126663553380
+      Monster_4_Armored Salamander_6: 2144210573020459860
+      Monster_4_Armored Salamander_7: -7825504358015840404
+      Monster_4_Armored Salamander_8: 5917188118974229185
+      Monster_4_Armored Salamander_9: -3700422195844087083
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: ce000f2bed9889d44a3466142d3020b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -472126508980195385
+    second: Monster_17_Mace Shadow_0
+  - first:
+      213: 6880757839579144919
+    second: Monster_17_Mace Shadow_1
+  - first:
+      213: -6202366448874786114
+    second: Monster_17_Mace Shadow_2
+  - first:
+      213: 7338998535760487444
+    second: Monster_17_Mace Shadow_3
+  - first:
+      213: -8872601877895197200
+    second: Monster_17_Mace Shadow_4
+  - first:
+      213: 874074495421506557
+    second: Monster_17_Mace Shadow_5
+  - first:
+      213: 2583955852394657841
+    second: Monster_17_Mace Shadow_6
+  - first:
+      213: 4577064738276913600
+    second: Monster_17_Mace Shadow_7a
+  - first:
+      213: -7480844113061314635
+    second: Monster_17_Mace Shadow_8
+  - first:
+      213: 1692249477913029339
+    second: Monster_17_Mace Shadow_9
+  - first:
+      213: 205194335030766969
+    second: Monster_17_Mace Shadow_10
+  - first:
+      213: 3431286286184274670
+    second: Monster_17_Mace Shadow_11
+  - first:
+      213: 1058508988342046631
+    second: Monster_17_Mace Shadow_12
+  - first:
+      213: -1445621742779423050
+    second: Monster_17_Mace Shadow_13
+  - first:
+      213: 7298784469636296002
+    second: Monster_17_Mace Shadow_14b
+  - first:
+      213: 7794629593886897602
+    second: Monster_17_Mace Shadow_15
+  - first:
+      213: -9084392227503273697
+    second: Monster_17_Mace Shadow_16
+  - first:
+      213: 399759825521690092
+    second: Monster_17_Mace Shadow_17
+  - first:
+      213: -8920797390054276360
+    second: Monster_17_Mace Shadow_18
+  - first:
+      213: 3872560403321842600
+    second: Monster_17_Mace Shadow_19c
+  - first:
+      213: -629723759428748311
+    second: Monster_17_Mace Shadow_20
+  - first:
+      213: 2476617211221640615
+    second: Monster_17_Mace Shadow_21
+  - first:
+      213: 4637437295857577549
+    second: Monster_17_Mace Shadow_22
+  - first:
+      213: 1436499320285829349
+    second: Monster_17_Mace Shadow_23
+  - first:
+      213: 5091633713412357486
+    second: Monster_17_Mace Shadow_24
+  - first:
+      213: 8281053631033413480
+    second: Monster_17_Mace Shadow_25
+  - first:
+      213: 8843438997813428197
+    second: Monster_17_Mace Shadow_26
+  - first:
+      213: 5317913550340456328
+    second: Monster_17_Mace Shadow_27
+  - first:
+      213: -2538015860101781137
+    second: Monster_17_Mace Shadow_28
+  - first:
+      213: 3635995439852278165
+    second: Monster_17_Mace Shadow_29d
+  - first:
+      213: -1582272009181748011
+    second: Monster_17_Mace Shadow_30
+  - first:
+      213: 1106978852319587806
+    second: Monster_17_Mace Shadow_31
+  - first:
+      213: -7046952730154062009
+    second: Monster_17_Mace Shadow_32
+  - first:
+      213: -1624703257717855041
+    second: Monster_17_Mace Shadow_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfa037017ba279f0800000000000000
+      internalID: -472126508980195385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2699d9ccc5d7f50800000000000000
+      internalID: 6880757839579144919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb274088394cce9a0800000000000000
+      internalID: -6202366448874786114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414ad1bd84c59d560800000000000000
+      internalID: 7338998535760487444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdc792e99f2ed480800000000000000
+      internalID: -8872601877895197200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3e3de5f16512c00800000000000000
+      internalID: 874074495421506557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1387649482e0cd320800000000000000
+      internalID: 2583955852394657841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_7a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c136fe0120058f30800000000000000
+      internalID: 4577064738276913600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf78e41ae3be2890800000000000000
+      internalID: -7480844113061314635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaa85a2fe31c7710800000000000000
+      internalID: 1692249477913029339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d6e69192ff8d200800000000000000
+      internalID: 205194335030766969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeadea292b06e9f20800000000000000
+      internalID: 3431286286184274670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af8fa1115490be00800000000000000
+      internalID: 1058508988342046631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b62d062fae10fbe0800000000000000
+      internalID: -1445621742779423050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_14b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d2fc4fdcd7a4560800000000000000
+      internalID: 7298784469636296002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 590
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5306361561c2c60800000000000000
+      internalID: 7794629593886897602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 590
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1909577661cde180800000000000000
+      internalID: -9084392227503273697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 590
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce541bb717b3c8500800000000000000
+      internalID: 399759825521690092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 590
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24594c906f23480800000000000000
+      internalID: -8920797390054276360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_19c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abed3b4b291eb530800000000000000
+      internalID: 3872560403321842600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb30a4c395c247f0800000000000000
+      internalID: -629723759428748311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a50c7f5b36be5220800000000000000
+      internalID: 2476617211221640615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e2dbf76ac7b5040800000000000000
+      internalID: 4637437295857577549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e81ab955887fe310800000000000000
+      internalID: 1436499320285829349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6db85eb2ed19a640800000000000000
+      internalID: 5091633713412357486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f84bb07663ce270800000000000000
+      internalID: 8281053631033413480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef7189f9e43aba70800000000000000
+      internalID: 8843438997813428197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f7742d2360dc940800000000000000
+      internalID: 5317913550340456328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f696350b50827ccd0800000000000000
+      internalID: -2538015860101781137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_29d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591d5559696a57230800000000000000
+      internalID: 3635995439852278165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4adaaadf3aa0ae0800000000000000
+      internalID: -1582272009181748011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edde062b667cc5f00800000000000000
+      internalID: 1106978852319587806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa23a04d1343e90800000000000000
+      internalID: -7046952730154062009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_17_Mace Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 0
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcae42cef4e379e0800000000000000
+      internalID: -1624703257717855041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_17_Mace Shadow_0: -472126508980195385
+      Monster_17_Mace Shadow_1: 6880757839579144919
+      Monster_17_Mace Shadow_10: 205194335030766969
+      Monster_17_Mace Shadow_11: 3431286286184274670
+      Monster_17_Mace Shadow_12: 1058508988342046631
+      Monster_17_Mace Shadow_13: -1445621742779423050
+      Monster_17_Mace Shadow_14b: 7298784469636296002
+      Monster_17_Mace Shadow_15: 7794629593886897602
+      Monster_17_Mace Shadow_16: -9084392227503273697
+      Monster_17_Mace Shadow_17: 399759825521690092
+      Monster_17_Mace Shadow_18: -8920797390054276360
+      Monster_17_Mace Shadow_19c: 3872560403321842600
+      Monster_17_Mace Shadow_2: -6202366448874786114
+      Monster_17_Mace Shadow_20: -629723759428748311
+      Monster_17_Mace Shadow_21: 2476617211221640615
+      Monster_17_Mace Shadow_22: 4637437295857577549
+      Monster_17_Mace Shadow_23: 1436499320285829349
+      Monster_17_Mace Shadow_24: 5091633713412357486
+      Monster_17_Mace Shadow_25: 8281053631033413480
+      Monster_17_Mace Shadow_26: 8843438997813428197
+      Monster_17_Mace Shadow_27: 5317913550340456328
+      Monster_17_Mace Shadow_28: -2538015860101781137
+      Monster_17_Mace Shadow_29d: 3635995439852278165
+      Monster_17_Mace Shadow_3: 7338998535760487444
+      Monster_17_Mace Shadow_30: -1582272009181748011
+      Monster_17_Mace Shadow_31: 1106978852319587806
+      Monster_17_Mace Shadow_32: -7046952730154062009
+      Monster_17_Mace Shadow_33: -1624703257717855041
+      Monster_17_Mace Shadow_4: -8872601877895197200
+      Monster_17_Mace Shadow_5: 874074495421506557
+      Monster_17_Mace Shadow_6: 2583955852394657841
+      Monster_17_Mace Shadow_7a: 4577064738276913600
+      Monster_17_Mace Shadow_8: -7480844113061314635
+      Monster_17_Mace Shadow_9: 1692249477913029339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

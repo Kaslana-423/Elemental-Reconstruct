@@ -1,0 +1,1078 @@
+fileFormatVersion: 2
+guid: 6e3a73078f49194498f0dbb3f2d48ece
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2455803736744154653
+    second: Monster_44_Volcano_0
+  - first:
+      213: -4988170412347998566
+    second: Monster_44_Volcano_1
+  - first:
+      213: 7942338290274532095
+    second: Monster_44_Volcano_2
+  - first:
+      213: 8591190863020075176
+    second: Monster_44_Volcano_3
+  - first:
+      213: 5912625128671867940
+    second: Monster_44_Volcano_4
+  - first:
+      213: -7781404560571473151
+    second: Monster_44_Volcano_5
+  - first:
+      213: -3815148072278898225
+    second: Monster_44_Volcano_6
+  - first:
+      213: 7698003242228130212
+    second: Monster_44_Volcano_7
+  - first:
+      213: -7909129343166105035
+    second: Monster_44_Volcano_8a
+  - first:
+      213: 5256209871412360900
+    second: Monster_44_Volcano_9
+  - first:
+      213: 8438480447276955019
+    second: Monster_44_Volcano_10
+  - first:
+      213: -7889312252829312624
+    second: Monster_44_Volcano_11
+  - first:
+      213: 4112452728159686245
+    second: Monster_44_Volcano_12
+  - first:
+      213: -7448063087640803000
+    second: Monster_44_Volcano_13
+  - first:
+      213: 7541698323499281445
+    second: Monster_44_Volcano_14b
+  - first:
+      213: -8760952990429812766
+    second: Monster_44_Volcano_15
+  - first:
+      213: 7926075953600374887
+    second: Monster_44_Volcano_16
+  - first:
+      213: -558759995983751865
+    second: Monster_44_Volcano_17
+  - first:
+      213: -2643615826448000248
+    second: Monster_44_Volcano_18
+  - first:
+      213: 4237135148801024628
+    second: Monster_44_Volcano_19
+  - first:
+      213: -1604100339727898272
+    second: Monster_44_Volcano_20
+  - first:
+      213: -7623117760346917619
+    second: Monster_44_Volcano_21c
+  - first:
+      213: 1145175174013890559
+    second: Monster_44_Volcano_22
+  - first:
+      213: -983243310140920114
+    second: Monster_44_Volcano_23
+  - first:
+      213: 299902099130853851
+    second: Monster_44_Volcano_24
+  - first:
+      213: 6709354538695280315
+    second: Monster_44_Volcano_25
+  - first:
+      213: -2048569853999013369
+    second: Monster_44_Volcano_26
+  - first:
+      213: 1681497206701166461
+    second: Monster_44_Volcano_27
+  - first:
+      213: 6349760627711817946
+    second: Monster_44_Volcano_28
+  - first:
+      213: -5129812864262985879
+    second: Monster_44_Volcano_29d
+  - first:
+      213: -9016190130323902789
+    second: Monster_44_Volcano_30
+  - first:
+      213: -4227620237924972740
+    second: Monster_44_Volcano_31
+  - first:
+      213: 8615504710538247506
+    second: Monster_44_Volcano_32
+  - first:
+      213: -6016985381281051149
+    second: Monster_44_Volcano_33
+  - first:
+      213: -8777618740685826019
+    second: Monster_44_Volcano_34
+  - first:
+      213: 5667487802004541614
+    second: Monster_44_Volcano_35
+  - first:
+      213: 626124133660790807
+    second: Monster_44_Volcano_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_44_Volcano_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9a949438b3bedd0800000000000000
+      internalID: -2455803736744154653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e32ec307576cab0800000000000000
+      internalID: -4988170412347998566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffafbcd389ad83e60800000000000000
+      internalID: 7942338290274532095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8a4e3629a0a3770800000000000000
+      internalID: 8591190863020075176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424f8846a3ddd0250800000000000000
+      internalID: 5912625128671867940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1036881a7c5e20490800000000000000
+      internalID: -7781404560571473151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9cc42ba0fdd0bc0800000000000000
+      internalID: -3815148072278898225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 568
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a120dcb92dc4da60800000000000000
+      internalID: 7698003242228130212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a37f944c02d3290800000000000000
+      internalID: -7909129343166105035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c67f6a870fc1f840800000000000000
+      internalID: 5256209871412360900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85b50002418b1570800000000000000
+      internalID: 8438480447276955019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099d8ff2e48838290800000000000000
+      internalID: -7889312252829312624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e4b81b7fd521930800000000000000
+      internalID: 4112452728159686245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_13
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 426
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8498874551a23a890800000000000000
+      internalID: -7448063087640803000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_14b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c6557eaae79a860800000000000000
+      internalID: 7541698323499281445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7e8873ca7da6680800000000000000
+      internalID: -8760952990429812766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768ad1de5141ffd60800000000000000
+      internalID: 7926075953600374887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_17
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74590bc7eb2ee38f0800000000000000
+      internalID: -558759995983751865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_18
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b57fd896dff4bd0800000000000000
+      internalID: -2643615826448000248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_19
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4726b91f7f35dca30800000000000000
+      internalID: 4237135148801024628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_20
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 284
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0696f6a6d371db9e0800000000000000
+      internalID: -1604100339727898272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_21c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05fc8539ce353690800000000000000
+      internalID: -7623117760346917619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffa1bcd0ca74ef00800000000000000
+      internalID: 1145175174013890559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece654b3b61da52f0800000000000000
+      internalID: -983243310140920114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_24
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9a616ce57792400800000000000000
+      internalID: 299902099130853851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_25
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6461fb76a6c1d50800000000000000
+      internalID: 6709354538695280315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_26
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702a0d252940293e0800000000000000
+      internalID: -2048569853999013369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_27
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f0c30fcc0e55710800000000000000
+      internalID: 1681497206701166461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_28
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 142
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8368ff5a1ee1850800000000000000
+      internalID: 6349760627711817946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_29d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967206df06e3fc8b0800000000000000
+      internalID: -5129812864262985879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe29a6a8de00e280800000000000000
+      internalID: -9016190130323902789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37ca31eac97455c0800000000000000
+      internalID: -4227620237924972740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d365823eb609770800000000000000
+      internalID: 8615504710538247506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_33
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd4602dcaf5f7ca0800000000000000
+      internalID: -6016985381281051149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_34
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d181c9bd242af2680800000000000000
+      internalID: -8777618740685826019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_35
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea01757d026f6ae40800000000000000
+      internalID: 5667487802004541614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_44_Volcano_36
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710962c059070b800800000000000000
+      internalID: 626124133660790807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_44_Volcano_0: -2455803736744154653
+      Monster_44_Volcano_1: -4988170412347998566
+      Monster_44_Volcano_10: 8438480447276955019
+      Monster_44_Volcano_11: -7889312252829312624
+      Monster_44_Volcano_12: 4112452728159686245
+      Monster_44_Volcano_13: -7448063087640803000
+      Monster_44_Volcano_14b: 7541698323499281445
+      Monster_44_Volcano_15: -8760952990429812766
+      Monster_44_Volcano_16: 7926075953600374887
+      Monster_44_Volcano_17: -558759995983751865
+      Monster_44_Volcano_18: -2643615826448000248
+      Monster_44_Volcano_19: 4237135148801024628
+      Monster_44_Volcano_2: 7942338290274532095
+      Monster_44_Volcano_20: -1604100339727898272
+      Monster_44_Volcano_21c: -7623117760346917619
+      Monster_44_Volcano_22: 1145175174013890559
+      Monster_44_Volcano_23: -983243310140920114
+      Monster_44_Volcano_24: 299902099130853851
+      Monster_44_Volcano_25: 6709354538695280315
+      Monster_44_Volcano_26: -2048569853999013369
+      Monster_44_Volcano_27: 1681497206701166461
+      Monster_44_Volcano_28: 6349760627711817946
+      Monster_44_Volcano_29d: -5129812864262985879
+      Monster_44_Volcano_3: 8591190863020075176
+      Monster_44_Volcano_30: -9016190130323902789
+      Monster_44_Volcano_31: -4227620237924972740
+      Monster_44_Volcano_32: 8615504710538247506
+      Monster_44_Volcano_33: -6016985381281051149
+      Monster_44_Volcano_34: -8777618740685826019
+      Monster_44_Volcano_35: 5667487802004541614
+      Monster_44_Volcano_36: 626124133660790807
+      Monster_44_Volcano_4: 5912625128671867940
+      Monster_44_Volcano_5: -7781404560571473151
+      Monster_44_Volcano_6: -3815148072278898225
+      Monster_44_Volcano_7: 7698003242228130212
+      Monster_44_Volcano_8a: -7909129343166105035
+      Monster_44_Volcano_9: 5256209871412360900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

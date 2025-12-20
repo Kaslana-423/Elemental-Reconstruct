@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Monster_86_Red Snail
+  m_Controller: {fileID: 9100000, guid: 2565a68d492c21b409f62603c9e1a6e9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b1cfd93510a8ce14b91be3af8f79ee1a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 07b7a79a4560a8844abd6f4b7e912aa2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0968dd52b08fc5144a1e3acff3e79a53, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c9d70d968537ed4438c3b88ac2d2a5cb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c372672860ad8b147bdda88b71bda264, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fc0900cf82b8a84449251fb4c024f384, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 86525cac9caad9d48a43dbdacb01be84, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dd25658e05a246547a20820eb37112a0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 96602e3b875ca1e4f8d6f1168bd46927, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3a1aba4adae868e42b0fc5db8c03e35d, type: 2}

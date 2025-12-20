@@ -1,0 +1,1278 @@
+fileFormatVersion: 2
+guid: b74d14d9c063c554aa892eb87f05d516
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7458713733510254803
+    second: Monster_63_Dark Mushroom_0
+  - first:
+      213: -8544013054600331589
+    second: Monster_63_Dark Mushroom_1
+  - first:
+      213: 7066215867840371294
+    second: Monster_63_Dark Mushroom_2
+  - first:
+      213: 4711835456086217478
+    second: Monster_63_Dark Mushroom_3
+  - first:
+      213: 119239901228525056
+    second: Monster_63_Dark Mushroom_4
+  - first:
+      213: -2164550116318815800
+    second: Monster_63_Dark Mushroom_5
+  - first:
+      213: 5133915101471325676
+    second: Monster_63_Dark Mushroom_6
+  - first:
+      213: 1534806732025005671
+    second: Monster_63_Dark Mushroom_7
+  - first:
+      213: -9162815641726830876
+    second: Monster_63_Dark Mushroom_8
+  - first:
+      213: -4380633887721562825
+    second: Monster_63_Dark Mushroom_9
+  - first:
+      213: -8155307546913878605
+    second: Monster_63_Dark Mushroom_10a
+  - first:
+      213: -346428955743426983
+    second: Monster_63_Dark Mushroom_11
+  - first:
+      213: -7253345735049633769
+    second: Monster_63_Dark Mushroom_12
+  - first:
+      213: -3936279078073157785
+    second: Monster_63_Dark Mushroom_13
+  - first:
+      213: -664497756924220281
+    second: Monster_63_Dark Mushroom_14
+  - first:
+      213: 5117371059149613004
+    second: Monster_63_Dark Mushroom_15
+  - first:
+      213: 871365103894141959
+    second: Monster_63_Dark Mushroom_16
+  - first:
+      213: -3120521475144204766
+    second: Monster_63_Dark Mushroom_17
+  - first:
+      213: 4846736029107035095
+    second: Monster_63_Dark Mushroom_18b
+  - first:
+      213: 4873735220497307300
+    second: Monster_63_Dark Mushroom_19
+  - first:
+      213: -1002891719317050442
+    second: Monster_63_Dark Mushroom_20
+  - first:
+      213: -7807694319187147132
+    second: Monster_63_Dark Mushroom_21
+  - first:
+      213: 2511688883296025076
+    second: Monster_63_Dark Mushroom_22
+  - first:
+      213: 5182008165729597262
+    second: Monster_63_Dark Mushroom_23c
+  - first:
+      213: 802080458701496041
+    second: Monster_63_Dark Mushroom_24
+  - first:
+      213: -6958909174112144415
+    second: Monster_63_Dark Mushroom_25
+  - first:
+      213: 4167137292574448186
+    second: Monster_63_Dark Mushroom_26
+  - first:
+      213: 5306895905996606471
+    second: Monster_63_Dark Mushroom_27
+  - first:
+      213: 8325094929680180512
+    second: Monster_63_Dark Mushroom_28
+  - first:
+      213: -1003660215493314934
+    second: Monster_63_Dark Mushroom_29
+  - first:
+      213: 1001229106223668342
+    second: Monster_63_Dark Mushroom_30
+  - first:
+      213: 2718784121761357884
+    second: Monster_63_Dark Mushroom_31
+  - first:
+      213: -779023700607480628
+    second: Monster_63_Dark Mushroom_32
+  - first:
+      213: -7840641207418933068
+    second: Monster_63_Dark Mushroom_33
+  - first:
+      213: -149669767793878452
+    second: Monster_63_Dark Mushroom_34
+  - first:
+      213: -1457343720924303011
+    second: Monster_63_Dark Mushroom_35
+  - first:
+      213: 4572837274180741683
+    second: Monster_63_Dark Mushroom_36
+  - first:
+      213: -8131025596883344694
+    second: Monster_63_Dark Mushroom_37d
+  - first:
+      213: 5616921744593142197
+    second: Monster_63_Dark Mushroom_38
+  - first:
+      213: 5184326690856385224
+    second: Monster_63_Dark Mushroom_39
+  - first:
+      213: -4653687162115076251
+    second: Monster_63_Dark Mushroom_40
+  - first:
+      213: 3892021486105942572
+    second: Monster_63_Dark Mushroom_41
+  - first:
+      213: 3223221544571591886
+    second: Monster_63_Dark Mushroom_42
+  - first:
+      213: 3229686851532039406
+    second: Monster_63_Dark Mushroom_43
+  - first:
+      213: -9115285280537648026
+    second: Monster_63_Dark Mushroom_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f2bc890635d7890800000000000000
+      internalID: -7458713733510254803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe3f3c15619d6980800000000000000
+      internalID: -8544013054600331589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a9ad4b4ed301260800000000000000
+      internalID: 7066215867840371294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6031c18026dc36140800000000000000
+      internalID: 4711835456086217478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00667c3fe00a7a100800000000000000
+      internalID: 119239901228525056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c959423329f5f1e0800000000000000
+      internalID: -2164550116318815800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced363a85945f3740800000000000000
+      internalID: 5133915101471325676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7668a3d479abc4510800000000000000
+      internalID: 1534806732025005671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_8
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6ba7478b327d080800000000000000
+      internalID: -9162815641726830876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_9
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d515f40bcd433c0800000000000000
+      internalID: -4380633887721562825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_10a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdc228aef682de80800000000000000
+      internalID: -8155307546913878605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956e00143bc313bf0800000000000000
+      internalID: -346428955743426983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710a54ddb70f65b90800000000000000
+      internalID: -7253345735049633769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767b5a6a8078f59c0800000000000000
+      internalID: -3936279078073157785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_14
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cec7c8fca37c6f0800000000000000
+      internalID: -664497756924220281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_15
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc72a748ddd840740800000000000000
+      internalID: 5117371059149613004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_16
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c184ff1f5b71c00800000000000000
+      internalID: 871365103894141959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_17
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e3d08604ea1b4d0800000000000000
+      internalID: -3120521475144204766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_18b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db13074db0134340800000000000000
+      internalID: 4846736029107035095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a65d036c5cf2a340800000000000000
+      internalID: 4873735220497307300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_20
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb2de97b430512f0800000000000000
+      internalID: -1002891719317050442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486c306326f75a390800000000000000
+      internalID: -7807694319187147132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_22
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9382b5bbf4bd220800000000000000
+      internalID: 2511688883296025076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_23c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e477c75a8f03ae740800000000000000
+      internalID: 5182008165729597262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee5f267def812b00800000000000000
+      internalID: 802080458701496041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3b6dcd9fcfc6f90800000000000000
+      internalID: -6958909174112144415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_26
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ade260a45a4d930800000000000000
+      internalID: 4167137292574448186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_27
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c07e895b1e5a940800000000000000
+      internalID: 5306895905996606471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_28
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0252ef4fabda88370800000000000000
+      internalID: 8325094929680180512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_29
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8634540a584212f0800000000000000
+      internalID: -1003660215493314934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_30
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c5e3f319415ed00800000000000000
+      internalID: 1001229106223668342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_31
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30ee8601cf0bb520800000000000000
+      internalID: 2718784121761357884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_32
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc4ead521a5035f0800000000000000
+      internalID: -779023700607480628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_33
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b031840d52703390800000000000000
+      internalID: -7840641207418933068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_34
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ad701a3244cedf0800000000000000
+      internalID: -149669767793878452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_35
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5139ae6b9976cbe0800000000000000
+      internalID: -1457343720924303011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_36
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a653fd54bf57f30800000000000000
+      internalID: 4572837274180741683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_37d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2e826bc4bc82f80800000000000000
+      internalID: -8131025596883344694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b144a5219053fd40800000000000000
+      internalID: 5616921744593142197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_39
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca321858ad62f740800000000000000
+      internalID: 5184326690856385224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_40
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fc55eae28ca6fb0800000000000000
+      internalID: -4653687162115076251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_41
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a5889bbec330630800000000000000
+      internalID: 3892021486105942572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_42
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc539cdaee2bbc20800000000000000
+      internalID: 3223221544571591886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_43
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee42151741722dc20800000000000000
+      internalID: 3229686851532039406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_63_Dark Mushroom_44
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664e43b0550008180800000000000000
+      internalID: -9115285280537648026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_63_Dark Mushroom_0: -7458713733510254803
+      Monster_63_Dark Mushroom_1: -8544013054600331589
+      Monster_63_Dark Mushroom_10a: -8155307546913878605
+      Monster_63_Dark Mushroom_11: -346428955743426983
+      Monster_63_Dark Mushroom_12: -7253345735049633769
+      Monster_63_Dark Mushroom_13: -3936279078073157785
+      Monster_63_Dark Mushroom_14: -664497756924220281
+      Monster_63_Dark Mushroom_15: 5117371059149613004
+      Monster_63_Dark Mushroom_16: 871365103894141959
+      Monster_63_Dark Mushroom_17: -3120521475144204766
+      Monster_63_Dark Mushroom_18b: 4846736029107035095
+      Monster_63_Dark Mushroom_19: 4873735220497307300
+      Monster_63_Dark Mushroom_2: 7066215867840371294
+      Monster_63_Dark Mushroom_20: -1002891719317050442
+      Monster_63_Dark Mushroom_21: -7807694319187147132
+      Monster_63_Dark Mushroom_22: 2511688883296025076
+      Monster_63_Dark Mushroom_23c: 5182008165729597262
+      Monster_63_Dark Mushroom_24: 802080458701496041
+      Monster_63_Dark Mushroom_25: -6958909174112144415
+      Monster_63_Dark Mushroom_26: 4167137292574448186
+      Monster_63_Dark Mushroom_27: 5306895905996606471
+      Monster_63_Dark Mushroom_28: 8325094929680180512
+      Monster_63_Dark Mushroom_29: -1003660215493314934
+      Monster_63_Dark Mushroom_3: 4711835456086217478
+      Monster_63_Dark Mushroom_30: 1001229106223668342
+      Monster_63_Dark Mushroom_31: 2718784121761357884
+      Monster_63_Dark Mushroom_32: -779023700607480628
+      Monster_63_Dark Mushroom_33: -7840641207418933068
+      Monster_63_Dark Mushroom_34: -149669767793878452
+      Monster_63_Dark Mushroom_35: -1457343720924303011
+      Monster_63_Dark Mushroom_36: 4572837274180741683
+      Monster_63_Dark Mushroom_37d: -8131025596883344694
+      Monster_63_Dark Mushroom_38: 5616921744593142197
+      Monster_63_Dark Mushroom_39: 5184326690856385224
+      Monster_63_Dark Mushroom_4: 119239901228525056
+      Monster_63_Dark Mushroom_40: -4653687162115076251
+      Monster_63_Dark Mushroom_41: 3892021486105942572
+      Monster_63_Dark Mushroom_42: 3223221544571591886
+      Monster_63_Dark Mushroom_43: 3229686851532039406
+      Monster_63_Dark Mushroom_44: -9115285280537648026
+      Monster_63_Dark Mushroom_5: -2164550116318815800
+      Monster_63_Dark Mushroom_6: 5133915101471325676
+      Monster_63_Dark Mushroom_7: 1534806732025005671
+      Monster_63_Dark Mushroom_8: -9162815641726830876
+      Monster_63_Dark Mushroom_9: -4380633887721562825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: 32cf3ee0633c55f448985b7f430063df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5081857788928085074
+    second: Monster_6_Beast Yeti_0
+  - first:
+      213: -7693619440129290104
+    second: Monster_6_Beast Yeti_1
+  - first:
+      213: -7473780344476498743
+    second: Monster_6_Beast Yeti_2
+  - first:
+      213: -6536724735899047125
+    second: Monster_6_Beast Yeti_3
+  - first:
+      213: -6855064903777189572
+    second: Monster_6_Beast Yeti_4
+  - first:
+      213: -4881675882582245524
+    second: Monster_6_Beast Yeti_5
+  - first:
+      213: -8305052593042560919
+    second: Monster_6_Beast Yeti_6
+  - first:
+      213: 17689971405603985
+    second: Monster_6_Beast Yeti_7
+  - first:
+      213: 3720684715810520155
+    second: Monster_6_Beast Yeti_8a
+  - first:
+      213: -7283865131167170110
+    second: Monster_6_Beast Yeti_9
+  - first:
+      213: -5876758559133000776
+    second: Monster_6_Beast Yeti_10
+  - first:
+      213: -5631055157694694061
+    second: Monster_6_Beast Yeti_11
+  - first:
+      213: -7268773439630620030
+    second: Monster_6_Beast Yeti_12
+  - first:
+      213: -1661570490532492369
+    second: Monster_6_Beast Yeti_13
+  - first:
+      213: -7934581246274963993
+    second: Monster_6_Beast Yeti_14
+  - first:
+      213: 2254694771741818551
+    second: Monster_6_Beast Yeti_15
+  - first:
+      213: 1211312252154314693
+    second: Monster_6_Beast Yeti_16
+  - first:
+      213: 4103593863025419719
+    second: Monster_6_Beast Yeti_17
+  - first:
+      213: 3437305887911177627
+    second: Monster_6_Beast Yeti_18b
+  - first:
+      213: -2005630836371782984
+    second: Monster_6_Beast Yeti_19
+  - first:
+      213: -5754498862456631876
+    second: Monster_6_Beast Yeti_20
+  - first:
+      213: -8741219028551463067
+    second: Monster_6_Beast Yeti_21
+  - first:
+      213: 3266220114523549494
+    second: Monster_6_Beast Yeti_22
+  - first:
+      213: -7886003517542760725
+    second: Monster_6_Beast Yeti_23
+  - first:
+      213: -1424590860090001082
+    second: Monster_6_Beast Yeti_24c
+  - first:
+      213: -212243812460683633
+    second: Monster_6_Beast Yeti_25
+  - first:
+      213: 981377764346043032
+    second: Monster_6_Beast Yeti_26
+  - first:
+      213: 1589124810113708512
+    second: Monster_6_Beast Yeti_27
+  - first:
+      213: 7955133826573682295
+    second: Monster_6_Beast Yeti_28
+  - first:
+      213: -7466852999447193067
+    second: Monster_6_Beast Yeti_29
+  - first:
+      213: 1521714022009548164
+    second: Monster_6_Beast Yeti_30
+  - first:
+      213: -5107117920134671762
+    second: Monster_6_Beast Yeti_31
+  - first:
+      213: -1870398470062632025
+    second: Monster_6_Beast Yeti_32
+  - first:
+      213: 3514531605251582537
+    second: Monster_6_Beast Yeti_33
+  - first:
+      213: 1095988128669368347
+    second: Monster_6_Beast Yeti_34
+  - first:
+      213: -2494486655157074372
+    second: Monster_6_Beast Yeti_35d
+  - first:
+      213: -8718174946654548303
+    second: Monster_6_Beast Yeti_36
+  - first:
+      213: 831471353740672604
+    second: Monster_6_Beast Yeti_37
+  - first:
+      213: -1490310079879113542
+    second: Monster_6_Beast Yeti_38
+  - first:
+      213: 8778639393951532621
+    second: Monster_6_Beast Yeti_39
+  - first:
+      213: 6021468736836137043
+    second: Monster_6_Beast Yeti_40
+  - first:
+      213: 3724964039429773631
+    second: Monster_6_Beast Yeti_41
+  - first:
+      213: 7680933239467016164
+    second: Monster_6_Beast Yeti_42
+  - first:
+      213: -6036333836914585483
+    second: Monster_6_Beast Yeti_43
+  - first:
+      213: -6476276232234483197
+    second: Monster_6_Beast Yeti_44
+  - first:
+      213: -1665510070047843484
+    second: Monster_6_Beast Yeti_45
+  - first:
+      213: 5924206121065384127
+    second: Monster_6_Beast Yeti_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3b3eb044d9979b0800000000000000
+      internalID: -5081857788928085074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880dd0ab1e5ca3590800000000000000
+      internalID: -7693619440129290104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c48e2edf5cc74890800000000000000
+      internalID: -7473780344476498743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b6a3a5c73e845a0800000000000000
+      internalID: -6536724735899047125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c310d1a2acaedd0a0800000000000000
+      internalID: -6855064903777189572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ff71626adc04cb0800000000000000
+      internalID: -4881675882582245524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968e2ce2ba68ebc80800000000000000
+      internalID: -8305052593042560919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194c7bd6fe8de3000800000000000000
+      internalID: 17689971405603985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c7c17390782a330800000000000000
+      internalID: 3720684715810520155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c14de831438aea90800000000000000
+      internalID: -7283865131167170110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb14241a3f817ea0800000000000000
+      internalID: -5876758559133000776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35df9fe2b297ad1b0800000000000000
+      internalID: -5631055157694694061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ac50a7111202b90800000000000000
+      internalID: -7268773439630620030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_13
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab0a86317ae0f8e0800000000000000
+      internalID: -1661570490532492369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_14
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5fd4e4564b2e190800000000000000
+      internalID: -7934581246274963993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_15
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef992f2f84a4f10800000000000000
+      internalID: 2254694771741818551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_16
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7cb553127fc010800000000000000
+      internalID: 1211312252154314693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_17
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56a1c60e4e2f830800000000000000
+      internalID: 4103593863025419719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_18b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ded415e73c3bf20800000000000000
+      internalID: 3437305887911177627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b28d7f61619a24e0800000000000000
+      internalID: -2005630836371782984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd02e2f5c9e320b0800000000000000
+      internalID: -5754498862456631876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f0e434b93f0b680800000000000000
+      internalID: -8741219028551463067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f696493e1f35d20800000000000000
+      internalID: 3266220114523549494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef16725994f8290800000000000000
+      internalID: -7886003517542760725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_24c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649311a1926da3ce0800000000000000
+      internalID: -1424590860090001082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e91888065fd0df0800000000000000
+      internalID: -212243812460683633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_26
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a105a80ed8e9d00800000000000000
+      internalID: 981377764346043032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_27
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e176926894bd0610800000000000000
+      internalID: 1589124810113708512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_28
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7764e913110566e60800000000000000
+      internalID: 7955133826573682295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_29
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ad3e112c8606890800000000000000
+      internalID: -7466852999447193067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_30
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d2c9337d63e1510800000000000000
+      internalID: 1521714022009548164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_31
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6257507f4fdf19b0800000000000000
+      internalID: -5107117920134671762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_32
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a39b7350820b06e0800000000000000
+      internalID: -1870398470062632025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_33
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a67eacfdf16c030800000000000000
+      internalID: 3514531605251582537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_34
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10026f656bb53f00800000000000000
+      internalID: 1095988128669368347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_35d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36096e7a9dc16dd0800000000000000
+      internalID: -2494486655157074372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be02fea312d20780800000000000000
+      internalID: -8718174946654548303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_37
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e30a87acaf98b00800000000000000
+      internalID: 831471353740672604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_38
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab41f9bd0ea515be0800000000000000
+      internalID: -1490310079879113542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_39
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d464bbf740ef3d970800000000000000
+      internalID: 8778639393951532621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_40
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350fc3db9ed809350800000000000000
+      internalID: 6021468736836137043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_41
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39d053ee0bb1b330800000000000000
+      internalID: 3724964039429773631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_42
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4effbe10618289a60800000000000000
+      internalID: 7680933239467016164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_43
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57019017b52aa3ca0800000000000000
+      internalID: -6036333836914585483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_44
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302cb5e5415af16a0800000000000000
+      internalID: -6476276232234483197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_45
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b56f06a6be2e8e0800000000000000
+      internalID: -1665510070047843484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_6_Beast Yeti_46
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb80c4e4412073250800000000000000
+      internalID: 5924206121065384127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_6_Beast Yeti_0: -5081857788928085074
+      Monster_6_Beast Yeti_1: -7693619440129290104
+      Monster_6_Beast Yeti_10: -5876758559133000776
+      Monster_6_Beast Yeti_11: -5631055157694694061
+      Monster_6_Beast Yeti_12: -7268773439630620030
+      Monster_6_Beast Yeti_13: -1661570490532492369
+      Monster_6_Beast Yeti_14: -7934581246274963993
+      Monster_6_Beast Yeti_15: 2254694771741818551
+      Monster_6_Beast Yeti_16: 1211312252154314693
+      Monster_6_Beast Yeti_17: 4103593863025419719
+      Monster_6_Beast Yeti_18b: 3437305887911177627
+      Monster_6_Beast Yeti_19: -2005630836371782984
+      Monster_6_Beast Yeti_2: -7473780344476498743
+      Monster_6_Beast Yeti_20: -5754498862456631876
+      Monster_6_Beast Yeti_21: -8741219028551463067
+      Monster_6_Beast Yeti_22: 3266220114523549494
+      Monster_6_Beast Yeti_23: -7886003517542760725
+      Monster_6_Beast Yeti_24c: -1424590860090001082
+      Monster_6_Beast Yeti_25: -212243812460683633
+      Monster_6_Beast Yeti_26: 981377764346043032
+      Monster_6_Beast Yeti_27: 1589124810113708512
+      Monster_6_Beast Yeti_28: 7955133826573682295
+      Monster_6_Beast Yeti_29: -7466852999447193067
+      Monster_6_Beast Yeti_3: -6536724735899047125
+      Monster_6_Beast Yeti_30: 1521714022009548164
+      Monster_6_Beast Yeti_31: -5107117920134671762
+      Monster_6_Beast Yeti_32: -1870398470062632025
+      Monster_6_Beast Yeti_33: 3514531605251582537
+      Monster_6_Beast Yeti_34: 1095988128669368347
+      Monster_6_Beast Yeti_35d: -2494486655157074372
+      Monster_6_Beast Yeti_36: -8718174946654548303
+      Monster_6_Beast Yeti_37: 831471353740672604
+      Monster_6_Beast Yeti_38: -1490310079879113542
+      Monster_6_Beast Yeti_39: 8778639393951532621
+      Monster_6_Beast Yeti_4: -6855064903777189572
+      Monster_6_Beast Yeti_40: 6021468736836137043
+      Monster_6_Beast Yeti_41: 3724964039429773631
+      Monster_6_Beast Yeti_42: 7680933239467016164
+      Monster_6_Beast Yeti_43: -6036333836914585483
+      Monster_6_Beast Yeti_44: -6476276232234483197
+      Monster_6_Beast Yeti_45: -1665510070047843484
+      Monster_6_Beast Yeti_46: 5924206121065384127
+      Monster_6_Beast Yeti_5: -4881675882582245524
+      Monster_6_Beast Yeti_6: -8305052593042560919
+      Monster_6_Beast Yeti_7: 17689971405603985
+      Monster_6_Beast Yeti_8a: 3720684715810520155
+      Monster_6_Beast Yeti_9: -7283865131167170110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

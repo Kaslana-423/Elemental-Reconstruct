@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: d54571060c56bcf49ac871c9078f2cdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7591353388247498487
+    second: Monster_66_Scythe Ghost_0
+  - first:
+      213: 2787286771438048875
+    second: Monster_66_Scythe Ghost_1
+  - first:
+      213: 1033627977389662172
+    second: Monster_66_Scythe Ghost_2
+  - first:
+      213: 2192772462568439253
+    second: Monster_66_Scythe Ghost_3
+  - first:
+      213: -4216392687631889689
+    second: Monster_66_Scythe Ghost_4
+  - first:
+      213: 5310178476619153105
+    second: Monster_66_Scythe Ghost_5
+  - first:
+      213: 5529434175511250702
+    second: Monster_66_Scythe Ghost_6
+  - first:
+      213: -6600280560395462629
+    second: Monster_66_Scythe Ghost_7
+  - first:
+      213: -5917846996170474988
+    second: Monster_66_Scythe Ghost_8
+  - first:
+      213: -3071751630419513234
+    second: Monster_66_Scythe Ghost_9a
+  - first:
+      213: 818511373999992458
+    second: Monster_66_Scythe Ghost_10
+  - first:
+      213: -1070746569851843717
+    second: Monster_66_Scythe Ghost_11
+  - first:
+      213: -1732368489420806824
+    second: Monster_66_Scythe Ghost_12
+  - first:
+      213: -6201317078757483234
+    second: Monster_66_Scythe Ghost_13
+  - first:
+      213: 7781382079083822223
+    second: Monster_66_Scythe Ghost_14
+  - first:
+      213: -330437262176674082
+    second: Monster_66_Scythe Ghost_15
+  - first:
+      213: 3086669858064313708
+    second: Monster_66_Scythe Ghost_16
+  - first:
+      213: 5095162067409286194
+    second: Monster_66_Scythe Ghost_17
+  - first:
+      213: 2811421870625068437
+    second: Monster_66_Scythe Ghost_18
+  - first:
+      213: -3583532140999700423
+    second: Monster_66_Scythe Ghost_19
+  - first:
+      213: -1451078767349754873
+    second: Monster_66_Scythe Ghost_20b
+  - first:
+      213: -7336790215296499158
+    second: Monster_66_Scythe Ghost_21
+  - first:
+      213: -6652662532732246532
+    second: Monster_66_Scythe Ghost_22
+  - first:
+      213: 8665935684698507306
+    second: Monster_66_Scythe Ghost_23
+  - first:
+      213: 671323178190913604
+    second: Monster_66_Scythe Ghost_24
+  - first:
+      213: 1838580641330642440
+    second: Monster_66_Scythe Ghost_25
+  - first:
+      213: 1948676180104689816
+    second: Monster_66_Scythe Ghost_26c
+  - first:
+      213: -1027494370581398834
+    second: Monster_66_Scythe Ghost_27
+  - first:
+      213: 117614717796967576
+    second: Monster_66_Scythe Ghost_28
+  - first:
+      213: 330388160394723399
+    second: Monster_66_Scythe Ghost_29
+  - first:
+      213: -9207260645216913136
+    second: Monster_66_Scythe Ghost_30
+  - first:
+      213: 5451733961606511235
+    second: Monster_66_Scythe Ghost_31
+  - first:
+      213: -387493133119451428
+    second: Monster_66_Scythe Ghost_32
+  - first:
+      213: -4548517706736969938
+    second: Monster_66_Scythe Ghost_33
+  - first:
+      213: 8342161527956577766
+    second: Monster_66_Scythe Ghost_34
+  - first:
+      213: 5900236638150975692
+    second: Monster_66_Scythe Ghost_35
+  - first:
+      213: -8064478832306059829
+    second: Monster_66_Scythe Ghost_36
+  - first:
+      213: 7754922425558297410
+    second: Monster_66_Scythe Ghost_37d
+  - first:
+      213: 6839472326284396272
+    second: Monster_66_Scythe Ghost_38
+  - first:
+      213: -9190545480661019425
+    second: Monster_66_Scythe Ghost_39
+  - first:
+      213: -4658145785090943169
+    second: Monster_66_Scythe Ghost_40
+  - first:
+      213: -1975495550319531819
+    second: Monster_66_Scythe Ghost_41
+  - first:
+      213: 7201270959202730910
+    second: Monster_66_Scythe Ghost_42
+  - first:
+      213: 3158915109784919546
+    second: Monster_66_Scythe Ghost_43
+  - first:
+      213: 8386012076011763385
+    second: Monster_66_Scythe Ghost_44
+  - first:
+      213: -7944885859117350666
+    second: Monster_66_Scythe Ghost_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe33f69fa7e95960800000000000000
+      internalID: 7591353388247498487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d5ba0d8e6ea620800000000000000
+      internalID: 2787286771438048875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf57364b2f285e00800000000000000
+      internalID: 1033627977389662172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd76a8dfea4e6e10800000000000000
+      internalID: 2192772462568439253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea8524a03d5c75c0800000000000000
+      internalID: -4216392687631889689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de3fc0a03b81b940800000000000000
+      internalID: 5310178476619153105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07c040261f7cbc40800000000000000
+      internalID: 5529434175511250702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1856b3dcc71764a0800000000000000
+      internalID: -6600280560395462629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_8
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a7526d2859fdda0800000000000000
+      internalID: -5917846996170474988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_9a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e603e9eba22fe55d0800000000000000
+      internalID: -3071751630419513234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ee2eb02cfeb5b00800000000000000
+      internalID: 818511373999992458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b4383faa1f321f0800000000000000
+      internalID: -1070746569851843717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_12
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8552eff890465f7e0800000000000000
+      internalID: -1732368489420806824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_13
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dd81d09fe70f9a0800000000000000
+      internalID: -6201317078757483234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_14
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cb16df5c50dfb60800000000000000
+      internalID: 7781382079083822223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_15
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede186f8f0d0a6bf0800000000000000
+      internalID: -330437262176674082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_16
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d24dcc1ed06da20800000000000000
+      internalID: 3086669858064313708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_17
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234b9fca7e6a5b640800000000000000
+      internalID: 5095162067409286194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_18
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5951f58bb4d240720800000000000000
+      internalID: 2811421870625068437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_19
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930948e018cb44ec0800000000000000
+      internalID: -3583532140999700423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_20b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704910b9c8bbcdbe0800000000000000
+      internalID: -1451078767349754873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22c0b1db2c7e2a90800000000000000
+      internalID: -7336790215296499158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_22
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5a1fd7caefca3a0800000000000000
+      internalID: -6652662532732246532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_23
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2806d45796934870800000000000000
+      internalID: 8665935684698507306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_24
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4404e8dafd4015900800000000000000
+      internalID: 671323178190913604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_25
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e3c612a53f38910800000000000000
+      internalID: 1838580641330642440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_26c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898b76949a61b0b10800000000000000
+      internalID: 1948676180104689816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca38c8505b9db1f0800000000000000
+      internalID: -1027494370581398834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89465a276f9d1a100800000000000000
+      internalID: 117614717796967576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_29
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740825a0846c59400800000000000000
+      internalID: 330388160394723399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_30
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019796fa93d393080800000000000000
+      internalID: -9207260645216913136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_31
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a3d7f472378ab40800000000000000
+      internalID: 5451733961606511235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_32
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde03876c095f9af0800000000000000
+      internalID: -387493133119451428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_33
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e275e5bae3b60e0c0800000000000000
+      internalID: -4548517706736969938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_34
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed18c406bf45c370800000000000000
+      internalID: 8342161527956577766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_35
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0ebbb26f9d1e150800000000000000
+      internalID: 5900236638150975692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_36
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc58dbdba37351090800000000000000
+      internalID: -8064478832306059829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_37d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bec14dbd40f9b60800000000000000
+      internalID: 7754922425558297410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6cb4bf7dfaaee50800000000000000
+      internalID: 6839472326284396272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_39
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4d025349f947080800000000000000
+      internalID: -9190545480661019425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_40
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37dbaf9611fa5fb0800000000000000
+      internalID: -4658145785090943169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_41
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8e6db7341a594e0800000000000000
+      internalID: -1975495550319531819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_42
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e938d9e88cd00f360800000000000000
+      internalID: 7201270959202730910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_43
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd18524e88b6db20800000000000000
+      internalID: 3158915109784919546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_44
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b631d85d89116470800000000000000
+      internalID: 8386012076011763385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_66_Scythe Ghost_45
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0494aa7681eb190800000000000000
+      internalID: -7944885859117350666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_66_Scythe Ghost_0: 7591353388247498487
+      Monster_66_Scythe Ghost_1: 2787286771438048875
+      Monster_66_Scythe Ghost_10: 818511373999992458
+      Monster_66_Scythe Ghost_11: -1070746569851843717
+      Monster_66_Scythe Ghost_12: -1732368489420806824
+      Monster_66_Scythe Ghost_13: -6201317078757483234
+      Monster_66_Scythe Ghost_14: 7781382079083822223
+      Monster_66_Scythe Ghost_15: -330437262176674082
+      Monster_66_Scythe Ghost_16: 3086669858064313708
+      Monster_66_Scythe Ghost_17: 5095162067409286194
+      Monster_66_Scythe Ghost_18: 2811421870625068437
+      Monster_66_Scythe Ghost_19: -3583532140999700423
+      Monster_66_Scythe Ghost_2: 1033627977389662172
+      Monster_66_Scythe Ghost_20b: -1451078767349754873
+      Monster_66_Scythe Ghost_21: -7336790215296499158
+      Monster_66_Scythe Ghost_22: -6652662532732246532
+      Monster_66_Scythe Ghost_23: 8665935684698507306
+      Monster_66_Scythe Ghost_24: 671323178190913604
+      Monster_66_Scythe Ghost_25: 1838580641330642440
+      Monster_66_Scythe Ghost_26c: 1948676180104689816
+      Monster_66_Scythe Ghost_27: -1027494370581398834
+      Monster_66_Scythe Ghost_28: 117614717796967576
+      Monster_66_Scythe Ghost_29: 330388160394723399
+      Monster_66_Scythe Ghost_3: 2192772462568439253
+      Monster_66_Scythe Ghost_30: -9207260645216913136
+      Monster_66_Scythe Ghost_31: 5451733961606511235
+      Monster_66_Scythe Ghost_32: -387493133119451428
+      Monster_66_Scythe Ghost_33: -4548517706736969938
+      Monster_66_Scythe Ghost_34: 8342161527956577766
+      Monster_66_Scythe Ghost_35: 5900236638150975692
+      Monster_66_Scythe Ghost_36: -8064478832306059829
+      Monster_66_Scythe Ghost_37d: 7754922425558297410
+      Monster_66_Scythe Ghost_38: 6839472326284396272
+      Monster_66_Scythe Ghost_39: -9190545480661019425
+      Monster_66_Scythe Ghost_4: -4216392687631889689
+      Monster_66_Scythe Ghost_40: -4658145785090943169
+      Monster_66_Scythe Ghost_41: -1975495550319531819
+      Monster_66_Scythe Ghost_42: 7201270959202730910
+      Monster_66_Scythe Ghost_43: 3158915109784919546
+      Monster_66_Scythe Ghost_44: 8386012076011763385
+      Monster_66_Scythe Ghost_45: -7944885859117350666
+      Monster_66_Scythe Ghost_5: 5310178476619153105
+      Monster_66_Scythe Ghost_6: 5529434175511250702
+      Monster_66_Scythe Ghost_7: -6600280560395462629
+      Monster_66_Scythe Ghost_8: -5917846996170474988
+      Monster_66_Scythe Ghost_9a: -3071751630419513234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 66600792e81ad0f4f99eed10c3877ab8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5207545562735806755
+    second: Monster_36_Wolf_0
+  - first:
+      213: -1992118101686414489
+    second: Monster_36_Wolf_1
+  - first:
+      213: -3488046158746987580
+    second: Monster_36_Wolf_2
+  - first:
+      213: -6019124351070407538
+    second: Monster_36_Wolf_3
+  - first:
+      213: 5710432030077405053
+    second: Monster_36_Wolf_4
+  - first:
+      213: 3493529646438176569
+    second: Monster_36_Wolf_5
+  - first:
+      213: 4530220052681661592
+    second: Monster_36_Wolf_6
+  - first:
+      213: 8193702799120264277
+    second: Monster_36_Wolf_7
+  - first:
+      213: -4858804157837490686
+    second: Monster_36_Wolf_8a
+  - first:
+      213: 2908974148881152449
+    second: Monster_36_Wolf_9
+  - first:
+      213: -2893082439215320248
+    second: Monster_36_Wolf_10
+  - first:
+      213: -8607240852754112922
+    second: Monster_36_Wolf_11
+  - first:
+      213: -7850866312067891828
+    second: Monster_36_Wolf_12
+  - first:
+      213: -7285324671804489815
+    second: Monster_36_Wolf_13
+  - first:
+      213: -579767363237891654
+    second: Monster_36_Wolf_14
+  - first:
+      213: 5783796164274428203
+    second: Monster_36_Wolf_15b
+  - first:
+      213: 8429785587851605619
+    second: Monster_36_Wolf_16
+  - first:
+      213: -5698368439229399989
+    second: Monster_36_Wolf_17
+  - first:
+      213: -3854429579758779771
+    second: Monster_36_Wolf_18
+  - first:
+      213: 1757355435879916162
+    second: Monster_36_Wolf_19c
+  - first:
+      213: 8690381977460691429
+    second: Monster_36_Wolf_20
+  - first:
+      213: 2070493494594303105
+    second: Monster_36_Wolf_21
+  - first:
+      213: -4491507492909601611
+    second: Monster_36_Wolf_22
+  - first:
+      213: 363590864047237709
+    second: Monster_36_Wolf_23
+  - first:
+      213: -1117884791238759216
+    second: Monster_36_Wolf_24
+  - first:
+      213: 8091129315577368785
+    second: Monster_36_Wolf_25
+  - first:
+      213: 4309661090495408829
+    second: Monster_36_Wolf_26d
+  - first:
+      213: -8837535246651110558
+    second: Monster_36_Wolf_27
+  - first:
+      213: 8337797113027676441
+    second: Monster_36_Wolf_28
+  - first:
+      213: -4116227682636082459
+    second: Monster_36_Wolf_29
+  - first:
+      213: 6596016808359258073
+    second: Monster_36_Wolf_30
+  - first:
+      213: 1552974793245180395
+    second: Monster_36_Wolf_31
+  - first:
+      213: -8895601532406137295
+    second: Monster_36_Wolf_32
+  - first:
+      213: -9103087547667750099
+    second: Monster_36_Wolf_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_36_Wolf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329878a391be44840800000000000000
+      internalID: 5207545562735806755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7631b5624239a54e0800000000000000
+      internalID: -1992118101686414489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c358b3cf78f79fc0800000000000000
+      internalID: -3488046158746987580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e847b8b1b46c77ca0800000000000000
+      internalID: -6019124351070407538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77c6ca1da78f3f40800000000000000
+      internalID: 5710432030077405053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9375e3434b28b7030800000000000000
+      internalID: 3493529646438176569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c1172c2239ede30800000000000000
+      internalID: 4530220052681661592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cefa0a841e5b170800000000000000
+      internalID: 8193702799120264277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206c7ea8c5f029cb0800000000000000
+      internalID: -4858804157837490686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9fad47390ce5820800000000000000
+      internalID: 2908974148881152449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84376a889d4b9d7d0800000000000000
+      internalID: -2893082439215320248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e5c5b2c00fc8880800000000000000
+      internalID: -8607240852754112922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dbc125fae1c0390800000000000000
+      internalID: -7850866312067891828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_13
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af34bf6fc355ea90800000000000000
+      internalID: -7285324671804489815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_14
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab137d5a7a044f7f0800000000000000
+      internalID: -579767363237891654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_15b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2918d0b7fb244050800000000000000
+      internalID: 5783796164274428203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 244
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3763a98445d9cf470800000000000000
+      internalID: 8429785587851605619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 244
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c3f6488145be0b0800000000000000
+      internalID: -5698368439229399989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_18
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 244
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58248b608b0528ac0800000000000000
+      internalID: -3854429579758779771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_19c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28269b34571636810800000000000000
+      internalID: 1757355435879916162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e150096d507a9870800000000000000
+      internalID: 8690381977460691429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184fc070ddedbbc10800000000000000
+      internalID: 2070493494594303105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc2e137bb5faa1c0800000000000000
+      internalID: -4491507492909601611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_23
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aec17e6fbbb0500800000000000000
+      internalID: 363590864047237709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_24
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dce66684b97c70f0800000000000000
+      internalID: -1117884791238759216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_25
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01dbe6e37794070800000000000000
+      internalID: 8091129315577368785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_26d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba2d41adedfecb30800000000000000
+      internalID: 4309661090495408829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bcd553484ca5580800000000000000
+      internalID: -8837535246651110558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919ca4b7c4ec5b370800000000000000
+      internalID: 8337797113027676441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2d8d93bb830e6c0800000000000000
+      internalID: -4116227682636082459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_30
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d762ca0752c98b50800000000000000
+      internalID: 6596016808359258073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_31
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1c380b8564d8510800000000000000
+      internalID: 1552974793245180395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_32
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef28589897c8480800000000000000
+      internalID: -8895601532406137295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_36_Wolf_33
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d236bf90b165ba180800000000000000
+      internalID: -9103087547667750099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_36_Wolf_0: 5207545562735806755
+      Monster_36_Wolf_1: -1992118101686414489
+      Monster_36_Wolf_10: -2893082439215320248
+      Monster_36_Wolf_11: -8607240852754112922
+      Monster_36_Wolf_12: -7850866312067891828
+      Monster_36_Wolf_13: -7285324671804489815
+      Monster_36_Wolf_14: -579767363237891654
+      Monster_36_Wolf_15b: 5783796164274428203
+      Monster_36_Wolf_16: 8429785587851605619
+      Monster_36_Wolf_17: -5698368439229399989
+      Monster_36_Wolf_18: -3854429579758779771
+      Monster_36_Wolf_19c: 1757355435879916162
+      Monster_36_Wolf_2: -3488046158746987580
+      Monster_36_Wolf_20: 8690381977460691429
+      Monster_36_Wolf_21: 2070493494594303105
+      Monster_36_Wolf_22: -4491507492909601611
+      Monster_36_Wolf_23: 363590864047237709
+      Monster_36_Wolf_24: -1117884791238759216
+      Monster_36_Wolf_25: 8091129315577368785
+      Monster_36_Wolf_26d: 4309661090495408829
+      Monster_36_Wolf_27: -8837535246651110558
+      Monster_36_Wolf_28: 8337797113027676441
+      Monster_36_Wolf_29: -4116227682636082459
+      Monster_36_Wolf_3: -6019124351070407538
+      Monster_36_Wolf_30: 6596016808359258073
+      Monster_36_Wolf_31: 1552974793245180395
+      Monster_36_Wolf_32: -8895601532406137295
+      Monster_36_Wolf_33: -9103087547667750099
+      Monster_36_Wolf_4: 5710432030077405053
+      Monster_36_Wolf_5: 3493529646438176569
+      Monster_36_Wolf_6: 4530220052681661592
+      Monster_36_Wolf_7: 8193702799120264277
+      Monster_36_Wolf_8a: -4858804157837490686
+      Monster_36_Wolf_9: 2908974148881152449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

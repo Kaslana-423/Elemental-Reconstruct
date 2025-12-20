@@ -4,6 +4,10 @@ using UnityEngine.InputSystem;
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : MonoBehaviour
 {
+    [Header("组件引用")]
+    // 持有自己身上的 Character 组件引用
+    [SerializeField] private Character myCharacterStats;
+
     [Header("数值设置")]
     public float moveSpeed = 6f;
 
@@ -18,6 +22,22 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 moveInput;
 
+
+    [Header("玩家专属：双状态回复机制")]
+    [Tooltip("战斗状态下的低速回蓝 (GDD: 战斗低回蓝)")]
+    public float combatRegenRate = 4f;
+    [Tooltip("脱战状态下的高速回蓝 (GDD: 脱战高回蓝)")]
+    public float peaceRegenRate = 25f;
+    [Tooltip("停止攻击/受击多少秒后，进入脱战状态")]
+    public float peaceStateDelay = 2.0f; // GDD建议3秒，这里设2秒供测试，可调整
+
+    // 记录上一次进行“战斗动作”的时间戳
+    private float lastCombatActionTime;
+
+    // 用于 UI 显示或其他逻辑判断
+    public bool IsInCombatState => Time.time - lastCombatActionTime < peaceStateDelay;
+
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -25,19 +45,36 @@ public class PlayerController : MonoBehaviour
 
         // 自动获取攻击脚本 (假设挂在同一个物体上)
         if (playerAttack == null) playerAttack = GetComponent<PlayerAttack>();
+
+        // 如果没有在编辑器里拖拽，就自动获取
+        if (myCharacterStats == null)
+        {
+            myCharacterStats = GetComponent<Character>();
+        }
+
+        if (myCharacterStats == null)
+        {
+            Debug.LogError("PlayerController: 找不到 Character 组件！回蓝逻辑将失效。");
+            enabled = false; // 禁用自己以防报错
+            return;
+        }
+
+        // 初始化时间戳，保证刚开始是脱战状态
+        lastCombatActionTime = Time.time - peaceStateDelay - 1f;
     }
 
     void Update()
     {
         // --- 1. 核心修改：如果商店开着，截断逻辑 ---
-        // 增加判空，防止 ShopUI 被意外销毁导致报错
-        if (ShopUI != null && ShopUI.activeSelf)
+        if (ShopUI.activeSelf)
         {
             HandleShopInput(); // 只处理商店开关
 
             // 强制停止移动 (防止滑行)
             moveInput = Vector2.zero;
             rb.velocity = Vector2.zero;
+
+
             return; // 【关键】直接结束 Update，不再执行下面的移动和翻转逻辑
         }
 
@@ -64,6 +101,8 @@ public class PlayerController : MonoBehaviour
         moveInput = moveInput.normalized;
 
         UpdateVisuals();
+
+        HandleManaRegenerationLogic();
     }
 
     void FixedUpdate()
@@ -104,5 +143,45 @@ public class PlayerController : MonoBehaviour
     {
         if (moveInput.x < 0) spriteRenderer.flipX = true;
         else if (moveInput.x > 0) spriteRenderer.flipX = false;
+    }
+
+    private void HandleManaRegenerationLogic()
+    {
+        // 安全检查
+        if (myCharacterStats == null) return;
+
+        // 如果蓝满了，就别算了
+        if (myCharacterStats.CurrentMP >= myCharacterStats.maxMP) return;
+
+        // 判断回复速率
+        float currentRegenRate = IsInCombatState ? combatRegenRate : peaceRegenRate;
+
+        // 【关键修改】调用引用的组件的方法
+        myCharacterStats.RestoreMP(currentRegenRate * Time.deltaTime);
+    }
+
+    // --- 公开方法：供外部调用以触发战斗状态 ---
+
+    // 供 PlayerAttack 调用：当尝试攻击扣蓝成功时调用此方法
+    public void NotifyAttackPerformed()
+    {
+        // 刷新战斗计时器
+        lastCombatActionTime = Time.time;
+        // Debug.Log("玩家发起攻击，刷新战斗状态");
+    }
+
+    // 供外部（如碰撞检测）调用：当玩家挨打时
+    public void NotifyDamageTaken(float damage)
+    {
+        // 先让 Character 扣血
+        if (myCharacterStats != null)
+        {
+            //TODO
+            // myCharacterStats.TakeDamage(damage);
+        }
+
+        // 然后刷新战斗计时器
+        lastCombatActionTime = Time.time;
+        // Debug.Log("受到伤害，进入战斗状态！");
     }
 }

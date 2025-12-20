@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 545a3618b25754145a208d2ecd75ad39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1691551615648956144
+    second: Monster_91_Magma Shell_0
+  - first:
+      213: -3570900324717671663
+    second: Monster_91_Magma Shell_1
+  - first:
+      213: -2144243372912357666
+    second: Monster_91_Magma Shell_2
+  - first:
+      213: -3868946433866732313
+    second: Monster_91_Magma Shell_3
+  - first:
+      213: -630059213749865568
+    second: Monster_91_Magma Shell_4
+  - first:
+      213: -5112580896297061134
+    second: Monster_91_Magma Shell_5
+  - first:
+      213: -2546044539638095953
+    second: Monster_91_Magma Shell_6
+  - first:
+      213: -7624935648298518364
+    second: Monster_91_Magma Shell_7
+  - first:
+      213: -7296039481273258156
+    second: Monster_91_Magma Shell_8a
+  - first:
+      213: 8837648619798782260
+    second: Monster_91_Magma Shell_9
+  - first:
+      213: -7351751460900946832
+    second: Monster_91_Magma Shell_10
+  - first:
+      213: 7527712388245066085
+    second: Monster_91_Magma Shell_11
+  - first:
+      213: -7041693471877201529
+    second: Monster_91_Magma Shell_12
+  - first:
+      213: -6128843425066099630
+    second: Monster_91_Magma Shell_13
+  - first:
+      213: 8749011207213438878
+    second: Monster_91_Magma Shell_14
+  - first:
+      213: 7664743560779018344
+    second: Monster_91_Magma Shell_15
+  - first:
+      213: -359286332351460709
+    second: Monster_91_Magma Shell_16b
+  - first:
+      213: -8302809604401848318
+    second: Monster_91_Magma Shell_17
+  - first:
+      213: 3681609069487658594
+    second: Monster_91_Magma Shell_18
+  - first:
+      213: -3500816687096293735
+    second: Monster_91_Magma Shell_19
+  - first:
+      213: 7877158559920579202
+    second: Monster_91_Magma Shell_20
+  - first:
+      213: 5948625654028575827
+    second: Monster_91_Magma Shell_21c
+  - first:
+      213: -4421392737974363864
+    second: Monster_91_Magma Shell_22
+  - first:
+      213: -3169042538322584770
+    second: Monster_91_Magma Shell_23
+  - first:
+      213: 8320193008158437580
+    second: Monster_91_Magma Shell_24
+  - first:
+      213: -4844153031565274882
+    second: Monster_91_Magma Shell_25
+  - first:
+      213: -4962529648176376418
+    second: Monster_91_Magma Shell_26
+  - first:
+      213: -2505478590116926812
+    second: Monster_91_Magma Shell_27
+  - first:
+      213: -1148872180395277206
+    second: Monster_91_Magma Shell_28
+  - first:
+      213: -9121006072050840433
+    second: Monster_91_Magma Shell_29
+  - first:
+      213: 8341239031607698498
+    second: Monster_91_Magma Shell_30
+  - first:
+      213: 5509475665980983546
+    second: Monster_91_Magma Shell_31d
+  - first:
+      213: -2015452924719135449
+    second: Monster_91_Magma Shell_32
+  - first:
+      213: -6902504597717239042
+    second: Monster_91_Magma Shell_33
+  - first:
+      213: -4677528401822148841
+    second: Monster_91_Magma Shell_34
+  - first:
+      213: 1359582308757422650
+    second: Monster_91_Magma Shell_35
+  - first:
+      213: 4668431059169404096
+    second: Monster_91_Magma Shell_36
+  - first:
+      213: -760664369982292686
+    second: Monster_91_Magma Shell_37
+  - first:
+      213: 1566000347913227794
+    second: Monster_91_Magma Shell_38
+  - first:
+      213: -3597502207288443026
+    second: Monster_91_Magma Shell_39
+  - first:
+      213: -8495749891910582076
+    second: Monster_91_Magma Shell_40
+  - first:
+      213: -6476919256335636368
+    second: Monster_91_Magma Shell_41
+  - first:
+      213: -2489370025346351552
+    second: Monster_91_Magma Shell_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe7ef17b39997710800000000000000
+      internalID: 1691551615648956144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b40e8f21d917ec0800000000000000
+      internalID: -3570900324717671663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edec295530e1e32e0800000000000000
+      internalID: -2144243372912357666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eceb5a87bdbe4ac0800000000000000
+      internalID: -3868946433866732313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_4
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a33af8bb749147f0800000000000000
+      internalID: -630059213749865568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4f3ce23c67c09b0800000000000000
+      internalID: -5112580896297061134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_6
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf5c801bf1aaacd0800000000000000
+      internalID: -2546044539638095953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_7
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a834ff2d69ce2690800000000000000
+      internalID: -7624935648298518364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f6b737fb24fba90800000000000000
+      internalID: -7296039481273258156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431e3d88892a5aa70800000000000000
+      internalID: 8837648619798782260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c3a006ff459f990800000000000000
+      internalID: -7351751460900946832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56197a8988ec77860800000000000000
+      internalID: 7527712388245066085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_12
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78182978811e64e90800000000000000
+      internalID: -7041693471877201529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_13
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c52fc7069f1faa0800000000000000
+      internalID: -6128843425066099630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_14
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e975ed5b65bba6970800000000000000
+      internalID: 8749011207213438878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_15
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86032b2b8a3ae5a60800000000000000
+      internalID: 7664743560779018344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_16b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ac98bfbfe830bf0800000000000000
+      internalID: -359286332351460709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2002deba7ae76cc80800000000000000
+      internalID: -8302809604401848318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2661ba451f3b71330800000000000000
+      internalID: 3681609069487658594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_19
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9969ddd65c99a6fc0800000000000000
+      internalID: -3500816687096293735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_20
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2826e7ba9f9415d60800000000000000
+      internalID: 7877158559920579202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_21c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3542622e383cd8250800000000000000
+      internalID: 5948625654028575827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829db88fabe04a2c0800000000000000
+      internalID: -4421392737974363864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b1e290a9c4504d0800000000000000
+      internalID: -3169042538322584770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_24
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0f8f96573477370800000000000000
+      internalID: 8320193008158437580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_25
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef09be3bb7c16ccb0800000000000000
+      internalID: -4844153031565274882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_26
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e955a1dd39d812bb0800000000000000
+      internalID: -4962529648176376418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_27
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaebb33f70ca3dd0800000000000000
+      internalID: -2505478590116926812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_28
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a640633c6d26e00f0800000000000000
+      internalID: -1148872180395277206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_29
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8a397d4dab6180800000000000000
+      internalID: -9121006072050840433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_30
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a99994b802c370800000000000000
+      internalID: 8341239031607698498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_31d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af884718de6957c40800000000000000
+      internalID: 5509475665980983546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72508984e3ca704e0800000000000000
+      internalID: -2015452924719135449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_33
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa3090b3a06530a0800000000000000
+      internalID: -6902504597717239042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_34
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717179e73b4161fb0800000000000000
+      internalID: -4677528401822148841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_35
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32446c08e43ed210800000000000000
+      internalID: 1359582308757422650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_36
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4613c505999c040800000000000000
+      internalID: 4668431059169404096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_37
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23db8e129c39175f0800000000000000
+      internalID: -760664369982292686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_38
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e8187f40d8bb510800000000000000
+      internalID: 1566000347913227794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_39
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f73e78dca131ec0800000000000000
+      internalID: -3597502207288443026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_40
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c04b185c78091a80800000000000000
+      internalID: -8495749891910582076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_41
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0782a37a04c5d16a0800000000000000
+      internalID: -6476919256335636368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_91_Magma Shell_42
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eb9b4b62bf37dd0800000000000000
+      internalID: -2489370025346351552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_91_Magma Shell_0: 1691551615648956144
+      Monster_91_Magma Shell_1: -3570900324717671663
+      Monster_91_Magma Shell_10: -7351751460900946832
+      Monster_91_Magma Shell_11: 7527712388245066085
+      Monster_91_Magma Shell_12: -7041693471877201529
+      Monster_91_Magma Shell_13: -6128843425066099630
+      Monster_91_Magma Shell_14: 8749011207213438878
+      Monster_91_Magma Shell_15: 7664743560779018344
+      Monster_91_Magma Shell_16b: -359286332351460709
+      Monster_91_Magma Shell_17: -8302809604401848318
+      Monster_91_Magma Shell_18: 3681609069487658594
+      Monster_91_Magma Shell_19: -3500816687096293735
+      Monster_91_Magma Shell_2: -2144243372912357666
+      Monster_91_Magma Shell_20: 7877158559920579202
+      Monster_91_Magma Shell_21c: 5948625654028575827
+      Monster_91_Magma Shell_22: -4421392737974363864
+      Monster_91_Magma Shell_23: -3169042538322584770
+      Monster_91_Magma Shell_24: 8320193008158437580
+      Monster_91_Magma Shell_25: -4844153031565274882
+      Monster_91_Magma Shell_26: -4962529648176376418
+      Monster_91_Magma Shell_27: -2505478590116926812
+      Monster_91_Magma Shell_28: -1148872180395277206
+      Monster_91_Magma Shell_29: -9121006072050840433
+      Monster_91_Magma Shell_3: -3868946433866732313
+      Monster_91_Magma Shell_30: 8341239031607698498
+      Monster_91_Magma Shell_31d: 5509475665980983546
+      Monster_91_Magma Shell_32: -2015452924719135449
+      Monster_91_Magma Shell_33: -6902504597717239042
+      Monster_91_Magma Shell_34: -4677528401822148841
+      Monster_91_Magma Shell_35: 1359582308757422650
+      Monster_91_Magma Shell_36: 4668431059169404096
+      Monster_91_Magma Shell_37: -760664369982292686
+      Monster_91_Magma Shell_38: 1566000347913227794
+      Monster_91_Magma Shell_39: -3597502207288443026
+      Monster_91_Magma Shell_4: -630059213749865568
+      Monster_91_Magma Shell_40: -8495749891910582076
+      Monster_91_Magma Shell_41: -6476919256335636368
+      Monster_91_Magma Shell_42: -2489370025346351552
+      Monster_91_Magma Shell_5: -5112580896297061134
+      Monster_91_Magma Shell_6: -2546044539638095953
+      Monster_91_Magma Shell_7: -7624935648298518364
+      Monster_91_Magma Shell_8a: -7296039481273258156
+      Monster_91_Magma Shell_9: 8837648619798782260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

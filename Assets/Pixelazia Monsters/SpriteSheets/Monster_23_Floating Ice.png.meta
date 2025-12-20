@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: 04eff14364e7a6f46a43121a8ea39e5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1917917411486267941
+    second: Monster_23_Floating Ice_0
+  - first:
+      213: 7551695186722863462
+    second: Monster_23_Floating Ice_1
+  - first:
+      213: -9040234295468685737
+    second: Monster_23_Floating Ice_2
+  - first:
+      213: -7123816294159148655
+    second: Monster_23_Floating Ice_3
+  - first:
+      213: 8653916062101892500
+    second: Monster_23_Floating Ice_4
+  - first:
+      213: 6901913654408312312
+    second: Monster_23_Floating Ice_5
+  - first:
+      213: 7353108498771298516
+    second: Monster_23_Floating Ice_6
+  - first:
+      213: -3283664605688013361
+    second: Monster_23_Floating Ice_7
+  - first:
+      213: -5077650883506114840
+    second: Monster_23_Floating Ice_8
+  - first:
+      213: 170446171475142047
+    second: Monster_23_Floating Ice_9
+  - first:
+      213: -8224649588741712617
+    second: Monster_23_Floating Ice_10a
+  - first:
+      213: 7216995634986648306
+    second: Monster_23_Floating Ice_11
+  - first:
+      213: -3176491877752630170
+    second: Monster_23_Floating Ice_12
+  - first:
+      213: -1662779605185170854
+    second: Monster_23_Floating Ice_13
+  - first:
+      213: 3380770281158616241
+    second: Monster_23_Floating Ice_14
+  - first:
+      213: -6379723635941170754
+    second: Monster_23_Floating Ice_15
+  - first:
+      213: 6825591574456603267
+    second: Monster_23_Floating Ice_16
+  - first:
+      213: 758184879242169075
+    second: Monster_23_Floating Ice_17
+  - first:
+      213: -5762845731390261713
+    second: Monster_23_Floating Ice_18
+  - first:
+      213: 2735138018613528718
+    second: Monster_23_Floating Ice_19
+  - first:
+      213: -4349788411509778772
+    second: Monster_23_Floating Ice_20
+  - first:
+      213: 6555099452158201849
+    second: Monster_23_Floating Ice_21
+  - first:
+      213: 5040288453891643722
+    second: Monster_23_Floating Ice_22b
+  - first:
+      213: -315701537796832807
+    second: Monster_23_Floating Ice_23
+  - first:
+      213: -8782398056953052278
+    second: Monster_23_Floating Ice_24
+  - first:
+      213: 207300969894939212
+    second: Monster_23_Floating Ice_25
+  - first:
+      213: 5425185767947671491
+    second: Monster_23_Floating Ice_26
+  - first:
+      213: -3635509909040318517
+    second: Monster_23_Floating Ice_27
+  - first:
+      213: 3654952553690940907
+    second: Monster_23_Floating Ice_28
+  - first:
+      213: 144275979380702635
+    second: Monster_23_Floating Ice_29c
+  - first:
+      213: -4348535447816634160
+    second: Monster_23_Floating Ice_30
+  - first:
+      213: 8958319078783638552
+    second: Monster_23_Floating Ice_31
+  - first:
+      213: 5011066339291141615
+    second: Monster_23_Floating Ice_32
+  - first:
+      213: 8958415788464258554
+    second: Monster_23_Floating Ice_33
+  - first:
+      213: 5961736167895815531
+    second: Monster_23_Floating Ice_34
+  - first:
+      213: 3897350605179437900
+    second: Monster_23_Floating Ice_35
+  - first:
+      213: -7264931475992582068
+    second: Monster_23_Floating Ice_36
+  - first:
+      213: -656343704268695633
+    second: Monster_23_Floating Ice_37
+  - first:
+      213: 6575445087087938697
+    second: Monster_23_Floating Ice_38
+  - first:
+      213: -1642513913802521829
+    second: Monster_23_Floating Ice_39
+  - first:
+      213: 4273345674627597682
+    second: Monster_23_Floating Ice_40
+  - first:
+      213: 1417219146367559266
+    second: Monster_23_Floating Ice_41d
+  - first:
+      213: 8175591323733665925
+    second: Monster_23_Floating Ice_42
+  - first:
+      213: 3171638628635037014
+    second: Monster_23_Floating Ice_43
+  - first:
+      213: 4587112053165995851
+    second: Monster_23_Floating Ice_44
+  - first:
+      213: -2295305882645174436
+    second: Monster_23_Floating Ice_45
+  - first:
+      213: 4312357054620397067
+    second: Monster_23_Floating Ice_46
+  - first:
+      213: -4941933240989171140
+    second: Monster_23_Floating Ice_47
+  - first:
+      213: -2697837931179012839
+    second: Monster_23_Floating Ice_48
+  - first:
+      213: -1459211329778149106
+    second: Monster_23_Floating Ice_49
+  - first:
+      213: 9051863447499290141
+    second: Monster_23_Floating Ice_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52afc2469bfcd9a10800000000000000
+      internalID: 1917917411486267941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669b4a003c20dc860800000000000000
+      internalID: 7551695186722863462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75609443ec2aa8280800000000000000
+      internalID: -9040234295468685737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1991185f2de132d90800000000000000
+      internalID: -7123816294159148655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d61addec2e81870800000000000000
+      internalID: 8653916062101892500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5fc6996e588cf50800000000000000
+      internalID: 6901913654408312312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d84b20a83d7b0660800000000000000
+      internalID: 7353108498771298516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd517050741e62d0800000000000000
+      internalID: -3283664605688013361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_8
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6b2b8c6f8889b0800000000000000
+      internalID: -5077650883506114840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_9
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95e910d3eb8d5200800000000000000
+      internalID: 170446171475142047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_10a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715dcfc66cc2cdd80800000000000000
+      internalID: -8224649588741712617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f28ce0fa4be72460800000000000000
+      internalID: 7216995634986648306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66414aa8775dae3d0800000000000000
+      internalID: -3176491877752630170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a527c2542ce9ce8e0800000000000000
+      internalID: -1662779605185170854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b428ab98a8eaee20800000000000000
+      internalID: 3380770281158616241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb12092872ba677a0800000000000000
+      internalID: -6379723635941170754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_16
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38292699f5f59be50800000000000000
+      internalID: 6825591574456603267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_17
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa4d41712d958a00800000000000000
+      internalID: 758184879242169075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_18
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267b1517524600b0800000000000000
+      internalID: -5762845731390261713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_19
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88002b598925f520800000000000000
+      internalID: 2735138018613528718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_20
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca659d36c7272a3c0800000000000000
+      internalID: -4349788411509778772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_21
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff4f39a83468fa50800000000000000
+      internalID: 6555099452158201849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_22b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49d6bbe4a3b2f540800000000000000
+      internalID: 5040288453891643722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d14390cf176e9bf0800000000000000
+      internalID: -315701537796832807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a838b339f77ae1680800000000000000
+      internalID: -8782398056953052278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a8e20422b70e200800000000000000
+      internalID: 207300969894939212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_26
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7960b46b12a4b40800000000000000
+      internalID: 5425185767947671491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_27
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc73d3edff21c8dc0800000000000000
+      internalID: -3635509909040318517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_28
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5c7a99bfff8b230800000000000000
+      internalID: 3654952553690940907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_29c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badbb942d32900200800000000000000
+      internalID: 144275979380702635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d002bbbc06e6a3c0800000000000000
+      internalID: -4348535447816634160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cd08b2db7525c70800000000000000
+      internalID: 8958319078783638552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe59d5b2942ea8540800000000000000
+      internalID: 5011066339291141615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_33
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdb9a522bfa25c70800000000000000
+      internalID: 8958415788464258554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_34
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65570445775cb250800000000000000
+      internalID: 5961736167895815531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_35
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43cfd2f9bb261630800000000000000
+      internalID: 3897350605179437900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_36
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4868e75057cd2b90800000000000000
+      internalID: -7264931475992582068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_37
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa71080e0e234e6f0800000000000000
+      internalID: -656343704268695633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_38
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cc6ffe77ca04b50800000000000000
+      internalID: 6575445087087938697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_39
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b130a2d3c4e9439e0800000000000000
+      internalID: -1642513913802521829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_40
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27541aaff39fd4b30800000000000000
+      internalID: 4273345674627597682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_41d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266ee1c0e49faa310800000000000000
+      internalID: 1417219146367559266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_42
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58829e72ef8857170800000000000000
+      internalID: 8175591323733665925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc2b7578ce30c20800000000000000
+      internalID: 3171638628635037014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_44
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b473fd9db12b8af30800000000000000
+      internalID: 4587112053165995851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_45
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57e116f57f6520e0800000000000000
+      internalID: -2295305882645174436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_46
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e6c41b4e198db30800000000000000
+      internalID: 4312357054620397067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_47
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32452b96e9ba6bb0800000000000000
+      internalID: -4941933240989171140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_48
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d008202ba5f8ad0800000000000000
+      internalID: -2697837931179012839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_49
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09195cd607dfbbe0800000000000000
+      internalID: -1459211329778149106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_23_Floating Ice_50
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16b98fb8ddae9d70800000000000000
+      internalID: 9051863447499290141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_23_Floating Ice_0: 1917917411486267941
+      Monster_23_Floating Ice_1: 7551695186722863462
+      Monster_23_Floating Ice_10a: -8224649588741712617
+      Monster_23_Floating Ice_11: 7216995634986648306
+      Monster_23_Floating Ice_12: -3176491877752630170
+      Monster_23_Floating Ice_13: -1662779605185170854
+      Monster_23_Floating Ice_14: 3380770281158616241
+      Monster_23_Floating Ice_15: -6379723635941170754
+      Monster_23_Floating Ice_16: 6825591574456603267
+      Monster_23_Floating Ice_17: 758184879242169075
+      Monster_23_Floating Ice_18: -5762845731390261713
+      Monster_23_Floating Ice_19: 2735138018613528718
+      Monster_23_Floating Ice_2: -9040234295468685737
+      Monster_23_Floating Ice_20: -4349788411509778772
+      Monster_23_Floating Ice_21: 6555099452158201849
+      Monster_23_Floating Ice_22b: 5040288453891643722
+      Monster_23_Floating Ice_23: -315701537796832807
+      Monster_23_Floating Ice_24: -8782398056953052278
+      Monster_23_Floating Ice_25: 207300969894939212
+      Monster_23_Floating Ice_26: 5425185767947671491
+      Monster_23_Floating Ice_27: -3635509909040318517
+      Monster_23_Floating Ice_28: 3654952553690940907
+      Monster_23_Floating Ice_29c: 144275979380702635
+      Monster_23_Floating Ice_3: -7123816294159148655
+      Monster_23_Floating Ice_30: -4348535447816634160
+      Monster_23_Floating Ice_31: 8958319078783638552
+      Monster_23_Floating Ice_32: 5011066339291141615
+      Monster_23_Floating Ice_33: 8958415788464258554
+      Monster_23_Floating Ice_34: 5961736167895815531
+      Monster_23_Floating Ice_35: 3897350605179437900
+      Monster_23_Floating Ice_36: -7264931475992582068
+      Monster_23_Floating Ice_37: -656343704268695633
+      Monster_23_Floating Ice_38: 6575445087087938697
+      Monster_23_Floating Ice_39: -1642513913802521829
+      Monster_23_Floating Ice_4: 8653916062101892500
+      Monster_23_Floating Ice_40: 4273345674627597682
+      Monster_23_Floating Ice_41d: 1417219146367559266
+      Monster_23_Floating Ice_42: 8175591323733665925
+      Monster_23_Floating Ice_43: 3171638628635037014
+      Monster_23_Floating Ice_44: 4587112053165995851
+      Monster_23_Floating Ice_45: -2295305882645174436
+      Monster_23_Floating Ice_46: 4312357054620397067
+      Monster_23_Floating Ice_47: -4941933240989171140
+      Monster_23_Floating Ice_48: -2697837931179012839
+      Monster_23_Floating Ice_49: -1459211329778149106
+      Monster_23_Floating Ice_5: 6901913654408312312
+      Monster_23_Floating Ice_50: 9051863447499290141
+      Monster_23_Floating Ice_6: 7353108498771298516
+      Monster_23_Floating Ice_7: -3283664605688013361
+      Monster_23_Floating Ice_8: -5077650883506114840
+      Monster_23_Floating Ice_9: 170446171475142047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

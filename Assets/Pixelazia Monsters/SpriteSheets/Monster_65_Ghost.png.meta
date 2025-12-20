@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: 812301d6651a9b643940abfc584aa5d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2106265677252524336
+    second: Monster_65_Ghost_0
+  - first:
+      213: -8653578027473151792
+    second: Monster_65_Ghost_1
+  - first:
+      213: -221163925295405726
+    second: Monster_65_Ghost_2
+  - first:
+      213: 8499928459294643823
+    second: Monster_65_Ghost_3
+  - first:
+      213: -990413920219812004
+    second: Monster_65_Ghost_4
+  - first:
+      213: -3528252634206388726
+    second: Monster_65_Ghost_5
+  - first:
+      213: 8194747848729584833
+    second: Monster_65_Ghost_6
+  - first:
+      213: -8043877715530116182
+    second: Monster_65_Ghost_7
+  - first:
+      213: -5369351819262634531
+    second: Monster_65_Ghost_8
+  - first:
+      213: -7310118961777133748
+    second: Monster_65_Ghost_9a
+  - first:
+      213: 479539831393628702
+    second: Monster_65_Ghost_10
+  - first:
+      213: -918935923294490842
+    second: Monster_65_Ghost_11
+  - first:
+      213: 6630736409684736679
+    second: Monster_65_Ghost_12
+  - first:
+      213: 1528156592675405457
+    second: Monster_65_Ghost_13
+  - first:
+      213: 1837255925076808761
+    second: Monster_65_Ghost_14
+  - first:
+      213: 4768714647476628957
+    second: Monster_65_Ghost_15
+  - first:
+      213: 8039608594857390334
+    second: Monster_65_Ghost_16
+  - first:
+      213: 4437801848034744227
+    second: Monster_65_Ghost_17
+  - first:
+      213: -2854005672063942353
+    second: Monster_65_Ghost_18
+  - first:
+      213: -5796998962690720183
+    second: Monster_65_Ghost_19
+  - first:
+      213: -5217384079618191062
+    second: Monster_65_Ghost_20b
+  - first:
+      213: 3171637692290790050
+    second: Monster_65_Ghost_21
+  - first:
+      213: 5003113228377760118
+    second: Monster_65_Ghost_22
+  - first:
+      213: -2845604371171916895
+    second: Monster_65_Ghost_23
+  - first:
+      213: 1947341362836407731
+    second: Monster_65_Ghost_24
+  - first:
+      213: -7216379963603045484
+    second: Monster_65_Ghost_25
+  - first:
+      213: -6656622392343026522
+    second: Monster_65_Ghost_26c
+  - first:
+      213: -5108501713819407265
+    second: Monster_65_Ghost_27
+  - first:
+      213: -8406047101267263578
+    second: Monster_65_Ghost_28
+  - first:
+      213: 5574910928111142379
+    second: Monster_65_Ghost_29
+  - first:
+      213: 2368593749377486241
+    second: Monster_65_Ghost_30
+  - first:
+      213: 549590070380309473
+    second: Monster_65_Ghost_31
+  - first:
+      213: 8103856056902433297
+    second: Monster_65_Ghost_32
+  - first:
+      213: 6570403447420620156
+    second: Monster_65_Ghost_33
+  - first:
+      213: -351187958978103589
+    second: Monster_65_Ghost_34
+  - first:
+      213: 1512757650803796942
+    second: Monster_65_Ghost_35
+  - first:
+      213: 5693574551898712849
+    second: Monster_65_Ghost_36
+  - first:
+      213: 8610011396130000379
+    second: Monster_65_Ghost_37d
+  - first:
+      213: -3139822971200346376
+    second: Monster_65_Ghost_38
+  - first:
+      213: 4884543074113381850
+    second: Monster_65_Ghost_39
+  - first:
+      213: -7055186625036763972
+    second: Monster_65_Ghost_40
+  - first:
+      213: -4776187528003934993
+    second: Monster_65_Ghost_41
+  - first:
+      213: -1989329764671991316
+    second: Monster_65_Ghost_42
+  - first:
+      213: 512948658979713702
+    second: Monster_65_Ghost_43
+  - first:
+      213: -584394499074573905
+    second: Monster_65_Ghost_44
+  - first:
+      213: 6583695996460042320
+    second: Monster_65_Ghost_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_65_Ghost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d604c8a68a05c2e0800000000000000
+      internalID: -2106265677252524336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d85654f1a058e780800000000000000
+      internalID: -8653578027473151792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e2abe4944eecf0800000000000000
+      internalID: -221163925295405726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f669d7036efc5f570800000000000000
+      internalID: 8499928459294643823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f22b879c75142f0800000000000000
+      internalID: -990413920219812004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eba443ce0290fc0800000000000000
+      internalID: -3528252634206388726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c46c6330c799b170800000000000000
+      internalID: 8194747848729584833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3952506d76e5090800000000000000
+      internalID: -8043877715530116182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_8
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 864
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5d0cae7fa3c75b0800000000000000
+      internalID: -5369351819262634531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_9a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c473d61f88d3d8a90800000000000000
+      internalID: -7310118961777133748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e123ed99feaa7a600800000000000000
+      internalID: 479539831393628702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fafa085a84f33f0800000000000000
+      internalID: -918935923294490842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_12
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaf18a22ab150c50800000000000000
+      internalID: 6630736409684736679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_13
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eb693135a153510800000000000000
+      internalID: 1528156592675405457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_14
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9345fa7978e3f7910800000000000000
+      internalID: 1837255925076808761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_15
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddeb06c4b0ed2240800000000000000
+      internalID: 4768714647476628957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_16
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0f6addb6d629f60800000000000000
+      internalID: 8039608594857390334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_17
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7deafa44d369d30800000000000000
+      internalID: 4437801848034744227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_18
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21cda166f88468d0800000000000000
+      internalID: -2854005672063942353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_19
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 648
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef281482cec8fa0800000000000000
+      internalID: -5796998962690720183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_20b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21549d82d02897b0800000000000000
+      internalID: -5217384079618191062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a27b355dabe30c20800000000000000
+      internalID: 3171637692290790050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_22
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671a38c39f0ae6540800000000000000
+      internalID: 5003113228377760118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_23
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3cffca6e16288d0800000000000000
+      internalID: -2845604371171916895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_24
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b50a4ce6a8560b10800000000000000
+      internalID: 1947341362836407731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_25
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 432
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493b13938a44adb90800000000000000
+      internalID: -7216379963603045484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_26c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4ab74d33dee93a0800000000000000
+      internalID: -6656622392343026522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ce15dd1c4fa19b0800000000000000
+      internalID: -5108501713819407265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af33c3d2b8b75b80800000000000000
+      internalID: -8406047101267263578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_29
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be50284b3ff0e5d40800000000000000
+      internalID: 5574910928111142379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_30
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad0bd8377feed020800000000000000
+      internalID: 2368593749377486241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_31
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eba915d14980a700800000000000000
+      internalID: 549590070380309473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_32
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a319ec52ea67070800000000000000
+      internalID: 8103856056902433297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_33
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d028abf13ce2b50800000000000000
+      internalID: 6570403447420620156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_34
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd637b77964502bf0800000000000000
+      internalID: -351187958978103589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_35
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb2a6781156ef410800000000000000
+      internalID: 1512757650803796942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_36
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 216
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b602c93e3a30f40800000000000000
+      internalID: 5693574551898712849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_37d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdc46a3fb7ec7770800000000000000
+      internalID: 8610011396130000379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6edf7a4ab1d64d0800000000000000
+      internalID: -3139822971200346376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_39
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad56f96eb0269c340800000000000000
+      internalID: 4884543074113381850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_40
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcb89ef421f61e90800000000000000
+      internalID: -7055186625036763972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_41
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4aca4afb297bdb0800000000000000
+      internalID: -4776187528003934993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_42
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce15d937e1b7464e0800000000000000
+      internalID: -1989329764671991316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_43
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2bf7e661c5e1700800000000000000
+      internalID: 512948658979713702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_44
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9b7f1ac40d3e7f0800000000000000
+      internalID: -584394499074573905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_65_Ghost_45
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 265
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058892a70acfd5b50800000000000000
+      internalID: 6583695996460042320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_65_Ghost_0: -2106265677252524336
+      Monster_65_Ghost_1: -8653578027473151792
+      Monster_65_Ghost_10: 479539831393628702
+      Monster_65_Ghost_11: -918935923294490842
+      Monster_65_Ghost_12: 6630736409684736679
+      Monster_65_Ghost_13: 1528156592675405457
+      Monster_65_Ghost_14: 1837255925076808761
+      Monster_65_Ghost_15: 4768714647476628957
+      Monster_65_Ghost_16: 8039608594857390334
+      Monster_65_Ghost_17: 4437801848034744227
+      Monster_65_Ghost_18: -2854005672063942353
+      Monster_65_Ghost_19: -5796998962690720183
+      Monster_65_Ghost_2: -221163925295405726
+      Monster_65_Ghost_20b: -5217384079618191062
+      Monster_65_Ghost_21: 3171637692290790050
+      Monster_65_Ghost_22: 5003113228377760118
+      Monster_65_Ghost_23: -2845604371171916895
+      Monster_65_Ghost_24: 1947341362836407731
+      Monster_65_Ghost_25: -7216379963603045484
+      Monster_65_Ghost_26c: -6656622392343026522
+      Monster_65_Ghost_27: -5108501713819407265
+      Monster_65_Ghost_28: -8406047101267263578
+      Monster_65_Ghost_29: 5574910928111142379
+      Monster_65_Ghost_3: 8499928459294643823
+      Monster_65_Ghost_30: 2368593749377486241
+      Monster_65_Ghost_31: 549590070380309473
+      Monster_65_Ghost_32: 8103856056902433297
+      Monster_65_Ghost_33: 6570403447420620156
+      Monster_65_Ghost_34: -351187958978103589
+      Monster_65_Ghost_35: 1512757650803796942
+      Monster_65_Ghost_36: 5693574551898712849
+      Monster_65_Ghost_37d: 8610011396130000379
+      Monster_65_Ghost_38: -3139822971200346376
+      Monster_65_Ghost_39: 4884543074113381850
+      Monster_65_Ghost_4: -990413920219812004
+      Monster_65_Ghost_40: -7055186625036763972
+      Monster_65_Ghost_41: -4776187528003934993
+      Monster_65_Ghost_42: -1989329764671991316
+      Monster_65_Ghost_43: 512948658979713702
+      Monster_65_Ghost_44: -584394499074573905
+      Monster_65_Ghost_45: 6583695996460042320
+      Monster_65_Ghost_5: -3528252634206388726
+      Monster_65_Ghost_6: 8194747848729584833
+      Monster_65_Ghost_7: -8043877715530116182
+      Monster_65_Ghost_8: -5369351819262634531
+      Monster_65_Ghost_9a: -7310118961777133748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

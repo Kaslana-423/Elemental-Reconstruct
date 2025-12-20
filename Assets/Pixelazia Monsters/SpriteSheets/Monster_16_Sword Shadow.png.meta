@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: db133c9abde94f04885d3c2068e6fbe9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 580587960601868948
+    second: Monster_16_Sword Shadow_0
+  - first:
+      213: -2611294314484892401
+    second: Monster_16_Sword Shadow_1
+  - first:
+      213: 2887965935171143738
+    second: Monster_16_Sword Shadow_2
+  - first:
+      213: 7528446171381093167
+    second: Monster_16_Sword Shadow_3
+  - first:
+      213: -1226757899496210041
+    second: Monster_16_Sword Shadow_4
+  - first:
+      213: 6854421058807120845
+    second: Monster_16_Sword Shadow_5
+  - first:
+      213: 1001138099630837922
+    second: Monster_16_Sword Shadow_6
+  - first:
+      213: 8764448008811210180
+    second: Monster_16_Sword Shadow_7a
+  - first:
+      213: 5836402526926189596
+    second: Monster_16_Sword Shadow_8
+  - first:
+      213: -1549405103454729491
+    second: Monster_16_Sword Shadow_9
+  - first:
+      213: -5429847032568022848
+    second: Monster_16_Sword Shadow_10
+  - first:
+      213: 582475753297097080
+    second: Monster_16_Sword Shadow_11
+  - first:
+      213: 1057087750074622434
+    second: Monster_16_Sword Shadow_12
+  - first:
+      213: -2394760603482602189
+    second: Monster_16_Sword Shadow_13
+  - first:
+      213: 8216644750480948811
+    second: Monster_16_Sword Shadow_14b
+  - first:
+      213: 3566600776202805637
+    second: Monster_16_Sword Shadow_15
+  - first:
+      213: 2557282091330208371
+    second: Monster_16_Sword Shadow_16
+  - first:
+      213: 8292991454371387515
+    second: Monster_16_Sword Shadow_17
+  - first:
+      213: -7872346087316113176
+    second: Monster_16_Sword Shadow_18
+  - first:
+      213: 1494766936253063384
+    second: Monster_16_Sword Shadow_19c
+  - first:
+      213: 9061976289770763676
+    second: Monster_16_Sword Shadow_20
+  - first:
+      213: 2136880349949422982
+    second: Monster_16_Sword Shadow_21
+  - first:
+      213: -4100088549976143046
+    second: Monster_16_Sword Shadow_22
+  - first:
+      213: -732841612649655604
+    second: Monster_16_Sword Shadow_23
+  - first:
+      213: 5056868912991447478
+    second: Monster_16_Sword Shadow_24
+  - first:
+      213: -361161676173533021
+    second: Monster_16_Sword Shadow_25
+  - first:
+      213: -8900475769956611356
+    second: Monster_16_Sword Shadow_26
+  - first:
+      213: -6914576815227767639
+    second: Monster_16_Sword Shadow_27
+  - first:
+      213: -6773169542686981164
+    second: Monster_16_Sword Shadow_28
+  - first:
+      213: -6947935309288857396
+    second: Monster_16_Sword Shadow_29d
+  - first:
+      213: 5883335010787334766
+    second: Monster_16_Sword Shadow_30
+  - first:
+      213: -7176622297580233989
+    second: Monster_16_Sword Shadow_31
+  - first:
+      213: 4112562707208322745
+    second: Monster_16_Sword Shadow_32
+  - first:
+      213: 5471562927252318273
+    second: Monster_16_Sword Shadow_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49afa809ca9ae0800800000000000000
+      internalID: 580587960601868948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1180
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d712df7a1d2cbd0800000000000000
+      internalID: -2611294314484892401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1180
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a380e4987bd141820800000000000000
+      internalID: 2887965935171143738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1180
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23d1dbc7e96a7860800000000000000
+      internalID: 7528446171381093167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1180
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781cf17a03ea9fee0800000000000000
+      internalID: -1226757899496210041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1180
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3c72ff2abcf1f50800000000000000
+      internalID: 6854421058807120845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1180
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a01b9f1cc1c4ed00800000000000000
+      internalID: 1001138099630837922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_7a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 885
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c56299270391a970800000000000000
+      internalID: 8764448008811210180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 885
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14b0a7fc211ff050800000000000000
+      internalID: 5836402526926189596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 885
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea476b74486f7ae0800000000000000
+      internalID: -1549405103454729491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 885
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8f21774ee45a4b0800000000000000
+      internalID: -5429847032568022848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 885
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8713d8d8c9e551800800000000000000
+      internalID: 582475753297097080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 885
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e16d9f35b78bae00800000000000000
+      internalID: 1057087750074622434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 885
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335c15b4be914ced0800000000000000
+      internalID: -2394760603482602189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_14b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ebefdedd2670270800000000000000
+      internalID: 8216644750480948811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 590
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5816331628c1f7130800000000000000
+      internalID: 3566600776202805637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 590
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3728434538a4d7320800000000000000
+      internalID: 2557282091330208371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 590
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7818232acf961370800000000000000
+      internalID: 8292991454371387515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 590
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8369c61fecfb290800000000000000
+      internalID: -7872346087316113176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_19c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0ec51eb9a7eb410800000000000000
+      internalID: 1494766936253063384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 295
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c957cc25c6b92cd70800000000000000
+      internalID: 9061976289770763676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 295
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d6f3a4b59b7ad10800000000000000
+      internalID: 2136880349949422982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 295
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b860fdf2f8917c0800000000000000
+      internalID: -4100088549976143046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 295
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc29461af6c64d5f0800000000000000
+      internalID: -732841612649655604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 295
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b92292eb7b9d2640800000000000000
+      internalID: 5056868912991447478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 295
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a021397e55ecfaf0800000000000000
+      internalID: -361161676173533021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 295
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac3c7a1782b7480800000000000000
+      internalID: -8900475769956611356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 295
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a47234850d7a00a0800000000000000
+      internalID: -6914576815227767639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 295
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c5accf2ed002a0800000000000000
+      internalID: -6773169542686981164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_29d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a17fd5a9f39f90800000000000000
+      internalID: -6947935309288857396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a1994650ec5a150800000000000000
+      internalID: 5883335010787334766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa15913b04876c90800000000000000
+      internalID: -7176622297580233989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bebbaf2ef1c21930800000000000000
+      internalID: 4112562707208322745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_16_Sword Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14822152e75eeeb40800000000000000
+      internalID: 5471562927252318273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_16_Sword Shadow_0: 580587960601868948
+      Monster_16_Sword Shadow_1: -2611294314484892401
+      Monster_16_Sword Shadow_10: -5429847032568022848
+      Monster_16_Sword Shadow_11: 582475753297097080
+      Monster_16_Sword Shadow_12: 1057087750074622434
+      Monster_16_Sword Shadow_13: -2394760603482602189
+      Monster_16_Sword Shadow_14b: 8216644750480948811
+      Monster_16_Sword Shadow_15: 3566600776202805637
+      Monster_16_Sword Shadow_16: 2557282091330208371
+      Monster_16_Sword Shadow_17: 8292991454371387515
+      Monster_16_Sword Shadow_18: -7872346087316113176
+      Monster_16_Sword Shadow_19c: 1494766936253063384
+      Monster_16_Sword Shadow_2: 2887965935171143738
+      Monster_16_Sword Shadow_20: 9061976289770763676
+      Monster_16_Sword Shadow_21: 2136880349949422982
+      Monster_16_Sword Shadow_22: -4100088549976143046
+      Monster_16_Sword Shadow_23: -732841612649655604
+      Monster_16_Sword Shadow_24: 5056868912991447478
+      Monster_16_Sword Shadow_25: -361161676173533021
+      Monster_16_Sword Shadow_26: -8900475769956611356
+      Monster_16_Sword Shadow_27: -6914576815227767639
+      Monster_16_Sword Shadow_28: -6773169542686981164
+      Monster_16_Sword Shadow_29d: -6947935309288857396
+      Monster_16_Sword Shadow_3: 7528446171381093167
+      Monster_16_Sword Shadow_30: 5883335010787334766
+      Monster_16_Sword Shadow_31: -7176622297580233989
+      Monster_16_Sword Shadow_32: 4112562707208322745
+      Monster_16_Sword Shadow_33: 5471562927252318273
+      Monster_16_Sword Shadow_4: -1226757899496210041
+      Monster_16_Sword Shadow_5: 6854421058807120845
+      Monster_16_Sword Shadow_6: 1001138099630837922
+      Monster_16_Sword Shadow_7a: 8764448008811210180
+      Monster_16_Sword Shadow_8: 5836402526926189596
+      Monster_16_Sword Shadow_9: -1549405103454729491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

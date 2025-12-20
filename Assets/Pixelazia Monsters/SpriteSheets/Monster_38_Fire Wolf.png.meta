@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 2c8c332d94e527e468e0c087c32e7f02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4707570266577425108
+    second: Monster_38_Fire Wolf_0
+  - first:
+      213: -4631747838199852808
+    second: Monster_38_Fire Wolf_1
+  - first:
+      213: 6763007125512338849
+    second: Monster_38_Fire Wolf_2
+  - first:
+      213: 686966114312315696
+    second: Monster_38_Fire Wolf_3
+  - first:
+      213: 8053420597013109629
+    second: Monster_38_Fire Wolf_4
+  - first:
+      213: -2161135166342869926
+    second: Monster_38_Fire Wolf_5
+  - first:
+      213: -2045038751005524950
+    second: Monster_38_Fire Wolf_6
+  - first:
+      213: 2031500241649073760
+    second: Monster_38_Fire Wolf_7
+  - first:
+      213: 3979882973296196928
+    second: Monster_38_Fire Wolf_8a
+  - first:
+      213: -6771000791213805556
+    second: Monster_38_Fire Wolf_9
+  - first:
+      213: 1658964815276308884
+    second: Monster_38_Fire Wolf_10
+  - first:
+      213: 3912864252992292508
+    second: Monster_38_Fire Wolf_11
+  - first:
+      213: -5439034197910430334
+    second: Monster_38_Fire Wolf_12
+  - first:
+      213: 9099024002156667670
+    second: Monster_38_Fire Wolf_13
+  - first:
+      213: -2499351186042567091
+    second: Monster_38_Fire Wolf_14
+  - first:
+      213: -4241657583014788083
+    second: Monster_38_Fire Wolf_15b
+  - first:
+      213: 3537137973900154104
+    second: Monster_38_Fire Wolf_16
+  - first:
+      213: 7341314528575333096
+    second: Monster_38_Fire Wolf_17
+  - first:
+      213: 1693545624612346232
+    second: Monster_38_Fire Wolf_18
+  - first:
+      213: -1937656792041079057
+    second: Monster_38_Fire Wolf_19c
+  - first:
+      213: 5036685366042381613
+    second: Monster_38_Fire Wolf_20
+  - first:
+      213: -1077050218082468404
+    second: Monster_38_Fire Wolf_21
+  - first:
+      213: 3001112938626123582
+    second: Monster_38_Fire Wolf_22
+  - first:
+      213: 1632146908556973243
+    second: Monster_38_Fire Wolf_23
+  - first:
+      213: -7794659154953845383
+    second: Monster_38_Fire Wolf_24
+  - first:
+      213: 1027790275438248058
+    second: Monster_38_Fire Wolf_25
+  - first:
+      213: -7035218701290746744
+    second: Monster_38_Fire Wolf_26d
+  - first:
+      213: 5983606393732265968
+    second: Monster_38_Fire Wolf_27
+  - first:
+      213: 961562904158936429
+    second: Monster_38_Fire Wolf_28
+  - first:
+      213: 9081764888138465822
+    second: Monster_38_Fire Wolf_29
+  - first:
+      213: -7590888783365698813
+    second: Monster_38_Fire Wolf_30
+  - first:
+      213: 6246366255782305484
+    second: Monster_38_Fire Wolf_31
+  - first:
+      213: 3875687537781969417
+    second: Monster_38_Fire Wolf_32
+  - first:
+      213: 1749035980710753624
+    second: Monster_38_Fire Wolf_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2d9863736a45140800000000000000
+      internalID: 4707570266577425108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01ae691e9b8bfb0800000000000000
+      internalID: -4631747838199852808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad399116270bdd50800000000000000
+      internalID: 6763007125512338849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033e0509a08988900800000000000000
+      internalID: 686966114312315696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bd7c73d5f73cf60800000000000000
+      internalID: 8053420597013109629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c4782340b1202e0800000000000000
+      internalID: -2161135166342869926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c386e47109e93e0800000000000000
+      internalID: -2045038751005524950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06efc98d4b6513c10800000000000000
+      internalID: 2031500241649073760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04df1f65a726b3730800000000000000
+      internalID: 3979882973296196928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00ffc997a29802a0800000000000000
+      internalID: -6771000791213805556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4997a6db5b3d50710800000000000000
+      internalID: 1658964815276308884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c960eed8e494d4630800000000000000
+      internalID: 3912864252992292508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dd858d63ba484b0800000000000000
+      internalID: -5439034197910430334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_13
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6132d4b0f1a364e70800000000000000
+      internalID: 9099024002156667670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_14
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d464bf2a655805dd0800000000000000
+      internalID: -2499351186042567091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_15b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04cf89c6ea9225c0800000000000000
+      internalID: -4241657583014788083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 244
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f41dd72f30761130800000000000000
+      internalID: 3537137973900154104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 244
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2a524faa691e560800000000000000
+      internalID: 7341314528575333096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_18
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 244
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8799fe5d5cea08710800000000000000
+      internalID: 1693545624612346232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_19c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeb4cde96f0c15e0800000000000000
+      internalID: -1937656792041079057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d4d58a7a6e5e540800000000000000
+      internalID: 5036685366042381613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdffe9788c8d01f0800000000000000
+      internalID: -1077050218082468404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3783ad215816a920800000000000000
+      internalID: 3001112938626123582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_23
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb45ac147fc86a610800000000000000
+      internalID: 1632146908556973243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_24
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975cab3ebcec3d390800000000000000
+      internalID: -7794659154953845383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_25
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70091f5fc1734e00800000000000000
+      internalID: 1027790275438248058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_26d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c41688dd1ed5e90800000000000000
+      internalID: -7035218701290746744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7fa26005a0a0350800000000000000
+      internalID: 5983606393732265968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d1693ed58285d00800000000000000
+      internalID: 961562904158936429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12cb1b6c09e80e70800000000000000
+      internalID: 9081764888138465822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_30
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b8df9aedeb7a690800000000000000
+      internalID: -7590888783365698813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_31
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce14e4d30d8fa650800000000000000
+      internalID: 6246366255782305484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_32
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90217e5084539c530800000000000000
+      internalID: 3875687537781969417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_38_Fire Wolf_33
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85534a925f2d54810800000000000000
+      internalID: 1749035980710753624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_38_Fire Wolf_0: 4707570266577425108
+      Monster_38_Fire Wolf_1: -4631747838199852808
+      Monster_38_Fire Wolf_10: 1658964815276308884
+      Monster_38_Fire Wolf_11: 3912864252992292508
+      Monster_38_Fire Wolf_12: -5439034197910430334
+      Monster_38_Fire Wolf_13: 9099024002156667670
+      Monster_38_Fire Wolf_14: -2499351186042567091
+      Monster_38_Fire Wolf_15b: -4241657583014788083
+      Monster_38_Fire Wolf_16: 3537137973900154104
+      Monster_38_Fire Wolf_17: 7341314528575333096
+      Monster_38_Fire Wolf_18: 1693545624612346232
+      Monster_38_Fire Wolf_19c: -1937656792041079057
+      Monster_38_Fire Wolf_2: 6763007125512338849
+      Monster_38_Fire Wolf_20: 5036685366042381613
+      Monster_38_Fire Wolf_21: -1077050218082468404
+      Monster_38_Fire Wolf_22: 3001112938626123582
+      Monster_38_Fire Wolf_23: 1632146908556973243
+      Monster_38_Fire Wolf_24: -7794659154953845383
+      Monster_38_Fire Wolf_25: 1027790275438248058
+      Monster_38_Fire Wolf_26d: -7035218701290746744
+      Monster_38_Fire Wolf_27: 5983606393732265968
+      Monster_38_Fire Wolf_28: 961562904158936429
+      Monster_38_Fire Wolf_29: 9081764888138465822
+      Monster_38_Fire Wolf_3: 686966114312315696
+      Monster_38_Fire Wolf_30: -7590888783365698813
+      Monster_38_Fire Wolf_31: 6246366255782305484
+      Monster_38_Fire Wolf_32: 3875687537781969417
+      Monster_38_Fire Wolf_33: 1749035980710753624
+      Monster_38_Fire Wolf_4: 8053420597013109629
+      Monster_38_Fire Wolf_5: -2161135166342869926
+      Monster_38_Fire Wolf_6: -2045038751005524950
+      Monster_38_Fire Wolf_7: 2031500241649073760
+      Monster_38_Fire Wolf_8a: 3979882973296196928
+      Monster_38_Fire Wolf_9: -6771000791213805556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

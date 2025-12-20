@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: d9bc64761c5ef9d4d9f223a7fc602b6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7314381635413693189
+    second: Monster_75_Evil Ox_0
+  - first:
+      213: 804082857740182760
+    second: Monster_75_Evil Ox_1
+  - first:
+      213: -4511454039893142887
+    second: Monster_75_Evil Ox_2
+  - first:
+      213: -4499790518470343085
+    second: Monster_75_Evil Ox_3
+  - first:
+      213: 4688660711682055956
+    second: Monster_75_Evil Ox_4
+  - first:
+      213: 2086478560936471710
+    second: Monster_75_Evil Ox_5
+  - first:
+      213: -8169592113433562282
+    second: Monster_75_Evil Ox_6
+  - first:
+      213: 7410873295564951619
+    second: Monster_75_Evil Ox_7
+  - first:
+      213: -6333464928601980990
+    second: Monster_75_Evil Ox_8
+  - first:
+      213: 7748991469384339241
+    second: Monster_75_Evil Ox_9
+  - first:
+      213: 6857229118623258456
+    second: Monster_75_Evil Ox_10
+  - first:
+      213: -1151196984805650699
+    second: Monster_75_Evil Ox_11a
+  - first:
+      213: 5809653777539895081
+    second: Monster_75_Evil Ox_12
+  - first:
+      213: 6160078547096434532
+    second: Monster_75_Evil Ox_13
+  - first:
+      213: -6779117646706166239
+    second: Monster_75_Evil Ox_14
+  - first:
+      213: -2365169066610469906
+    second: Monster_75_Evil Ox_15
+  - first:
+      213: -6735249956539962035
+    second: Monster_75_Evil Ox_16
+  - first:
+      213: 5375412417764980004
+    second: Monster_75_Evil Ox_17
+  - first:
+      213: 6569428033057030243
+    second: Monster_75_Evil Ox_18b
+  - first:
+      213: 1752657077963151028
+    second: Monster_75_Evil Ox_19
+  - first:
+      213: -8896608052196905623
+    second: Monster_75_Evil Ox_20
+  - first:
+      213: 433595224513194094
+    second: Monster_75_Evil Ox_21
+  - first:
+      213: -4227330460834420287
+    second: Monster_75_Evil Ox_22
+  - first:
+      213: 8261327391935801971
+    second: Monster_75_Evil Ox_23
+  - first:
+      213: 3347669165025172227
+    second: Monster_75_Evil Ox_24c
+  - first:
+      213: -2531316552031111876
+    second: Monster_75_Evil Ox_25
+  - first:
+      213: -9209907602042208547
+    second: Monster_75_Evil Ox_26
+  - first:
+      213: 4927041898672895992
+    second: Monster_75_Evil Ox_27
+  - first:
+      213: -5007261974815683305
+    second: Monster_75_Evil Ox_28
+  - first:
+      213: -3935294004495829966
+    second: Monster_75_Evil Ox_29
+  - first:
+      213: -4489275395728045504
+    second: Monster_75_Evil Ox_30
+  - first:
+      213: 4871965447980696544
+    second: Monster_75_Evil Ox_31
+  - first:
+      213: 8698496883984411757
+    second: Monster_75_Evil Ox_32
+  - first:
+      213: -1144870969744686237
+    second: Monster_75_Evil Ox_33d
+  - first:
+      213: 7070193551495287945
+    second: Monster_75_Evil Ox_34
+  - first:
+      213: -3383559580445737854
+    second: Monster_75_Evil Ox_35
+  - first:
+      213: 3860934577248708998
+    second: Monster_75_Evil Ox_36
+  - first:
+      213: -8770209289231028646
+    second: Monster_75_Evil Ox_37
+  - first:
+      213: 4300492591257393921
+    second: Monster_75_Evil Ox_38
+  - first:
+      213: 7513211948164549607
+    second: Monster_75_Evil Ox_39
+  - first:
+      213: -5856891837953985616
+    second: Monster_75_Evil Ox_40
+  - first:
+      213: 7020287990232615347
+    second: Monster_75_Evil Ox_41
+  - first:
+      213: 6849611440344402695
+    second: Monster_75_Evil Ox_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503597a1857e18560800000000000000
+      internalID: 7314381635413693189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4a591591da82b00800000000000000
+      internalID: 804082857740182760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9921ba314781461c0800000000000000
+      internalID: -4511454039893142887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35687e64d588d81c0800000000000000
+      internalID: -4499790518470343085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f93206318711140800000000000000
+      internalID: 4688660711682055956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c26105239a4fc10800000000000000
+      internalID: 2086478560936471710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_6
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653b5f6d147cf9e80800000000000000
+      internalID: -8169592113433562282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_7
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340d3917ff5b8d660800000000000000
+      internalID: 7410873295564951619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_8
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfb84d14330b18a0800000000000000
+      internalID: -6333464928601980990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_9
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f8f2c7fa2f98b60800000000000000
+      internalID: 7748991469384339241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_10
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 728
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857110f5d85c92f50800000000000000
+      internalID: 6857229118623258456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_11a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe882e01702600f0800000000000000
+      internalID: -1151196984805650699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f854e645900a050800000000000000
+      internalID: 5809653777539895081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467ff241dcefc7550800000000000000
+      internalID: 6160078547096434532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1263f79ea6cbbe1a0800000000000000
+      internalID: -6779117646706166239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3d0fed34b3d2fd0800000000000000
+      internalID: -2365169066610469906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_16
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d68f279d59782a0800000000000000
+      internalID: -6735249956539962035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_17
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 546
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425fa122d1d499a40800000000000000
+      internalID: 5375412417764980004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_18b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3608bdf5dfb4b2b50800000000000000
+      internalID: 6569428033057030243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b651119350b25810800000000000000
+      internalID: 1752657077963151028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d6ceedc16e88480800000000000000
+      internalID: -8896608052196905623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_21
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e682a653f80740600800000000000000
+      internalID: 433595224513194094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9a6cdd7518555c0800000000000000
+      internalID: -4227330460834420287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_23
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 364
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aa9891e7126a270800000000000000
+      internalID: 8261327391935801971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_24c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b9ade6e5f457e20800000000000000
+      internalID: 3347669165025172227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357e16e105fedcd0800000000000000
+      internalID: -2531316552031111876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeba1605d5df2080800000000000000
+      internalID: -9209907602042208547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f73dd3908e506440800000000000000
+      internalID: 4927041898672895992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d4ac573c1a28ab0800000000000000
+      internalID: -5007261974815683305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_29
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2343d47f3f60369c0800000000000000
+      internalID: -3935294004495829966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_30
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a8ab210d3e2b1c0800000000000000
+      internalID: -4489275395728045504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_31
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3cddc13c2bc9340800000000000000
+      internalID: 4871965447980696544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_32
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 182
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cabb154d447b870800000000000000
+      internalID: 8698496883984411757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_33d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36306b63be99c10f0800000000000000
+      internalID: -1144870969744686237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984522a539f5e1260800000000000000
+      internalID: 7070193551495287945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c792b0d7e2b01d0800000000000000
+      internalID: -3383559580445737854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_36
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689aee9ba8bc49530800000000000000
+      internalID: 3860934577248708998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_37
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ead853e15f94680800000000000000
+      internalID: -8770209289231028646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_38
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b981d0a3b6eab30800000000000000
+      internalID: 4300492591257393921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_39
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb819cc57a444860800000000000000
+      internalID: 7513211948164549607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_40
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b33ede87e328bea0800000000000000
+      internalID: -5856891837953985616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_41
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b981c66bb21d6160800000000000000
+      internalID: 7020287990232615347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_75_Evil Ox_42
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 0
+        width: 270
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b0e2f6055be0f50800000000000000
+      internalID: 6849611440344402695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_75_Evil Ox_0: 7314381635413693189
+      Monster_75_Evil Ox_1: 804082857740182760
+      Monster_75_Evil Ox_10: 6857229118623258456
+      Monster_75_Evil Ox_11a: -1151196984805650699
+      Monster_75_Evil Ox_12: 5809653777539895081
+      Monster_75_Evil Ox_13: 6160078547096434532
+      Monster_75_Evil Ox_14: -6779117646706166239
+      Monster_75_Evil Ox_15: -2365169066610469906
+      Monster_75_Evil Ox_16: -6735249956539962035
+      Monster_75_Evil Ox_17: 5375412417764980004
+      Monster_75_Evil Ox_18b: 6569428033057030243
+      Monster_75_Evil Ox_19: 1752657077963151028
+      Monster_75_Evil Ox_2: -4511454039893142887
+      Monster_75_Evil Ox_20: -8896608052196905623
+      Monster_75_Evil Ox_21: 433595224513194094
+      Monster_75_Evil Ox_22: -4227330460834420287
+      Monster_75_Evil Ox_23: 8261327391935801971
+      Monster_75_Evil Ox_24c: 3347669165025172227
+      Monster_75_Evil Ox_25: -2531316552031111876
+      Monster_75_Evil Ox_26: -9209907602042208547
+      Monster_75_Evil Ox_27: 4927041898672895992
+      Monster_75_Evil Ox_28: -5007261974815683305
+      Monster_75_Evil Ox_29: -3935294004495829966
+      Monster_75_Evil Ox_3: -4499790518470343085
+      Monster_75_Evil Ox_30: -4489275395728045504
+      Monster_75_Evil Ox_31: 4871965447980696544
+      Monster_75_Evil Ox_32: 8698496883984411757
+      Monster_75_Evil Ox_33d: -1144870969744686237
+      Monster_75_Evil Ox_34: 7070193551495287945
+      Monster_75_Evil Ox_35: -3383559580445737854
+      Monster_75_Evil Ox_36: 3860934577248708998
+      Monster_75_Evil Ox_37: -8770209289231028646
+      Monster_75_Evil Ox_38: 4300492591257393921
+      Monster_75_Evil Ox_39: 7513211948164549607
+      Monster_75_Evil Ox_4: 4688660711682055956
+      Monster_75_Evil Ox_40: -5856891837953985616
+      Monster_75_Evil Ox_41: 7020287990232615347
+      Monster_75_Evil Ox_42: 6849611440344402695
+      Monster_75_Evil Ox_5: 2086478560936471710
+      Monster_75_Evil Ox_6: -8169592113433562282
+      Monster_75_Evil Ox_7: 7410873295564951619
+      Monster_75_Evil Ox_8: -6333464928601980990
+      Monster_75_Evil Ox_9: 7748991469384339241
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

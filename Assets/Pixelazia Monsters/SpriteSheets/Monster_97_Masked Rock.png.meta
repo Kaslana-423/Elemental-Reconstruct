@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 66f00c89987930e4bb89eeef42c2124e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9205621599880902795
+    second: Monster_97_Masked Rock_0
+  - first:
+      213: -9107311361790249100
+    second: Monster_97_Masked Rock_1
+  - first:
+      213: -1260884558230150902
+    second: Monster_97_Masked Rock_2
+  - first:
+      213: 8333394132357383201
+    second: Monster_97_Masked Rock_3
+  - first:
+      213: 4775622868225547192
+    second: Monster_97_Masked Rock_4
+  - first:
+      213: 5216852116832353534
+    second: Monster_97_Masked Rock_5
+  - first:
+      213: 3075502122888358378
+    second: Monster_97_Masked Rock_6
+  - first:
+      213: -6708837309041989075
+    second: Monster_97_Masked Rock_7
+  - first:
+      213: -3020354458588857872
+    second: Monster_97_Masked Rock_8
+  - first:
+      213: -1623152305997254836
+    second: Monster_97_Masked Rock_9
+  - first:
+      213: 1586021517003688010
+    second: Monster_97_Masked Rock_10
+  - first:
+      213: 141789004259536480
+    second: Monster_97_Masked Rock_11
+  - first:
+      213: 617168373831865920
+    second: Monster_97_Masked Rock_12
+  - first:
+      213: 323514742268665710
+    second: Monster_97_Masked Rock_13
+  - first:
+      213: 2337834454255061838
+    second: Monster_97_Masked Rock_14a
+  - first:
+      213: 2031505154660725242
+    second: Monster_97_Masked Rock_15
+  - first:
+      213: 5531766348506652690
+    second: Monster_97_Masked Rock_16
+  - first:
+      213: 6786295217345137692
+    second: Monster_97_Masked Rock_17
+  - first:
+      213: -4263000435689674818
+    second: Monster_97_Masked Rock_18
+  - first:
+      213: 2398722258894746775
+    second: Monster_97_Masked Rock_19
+  - first:
+      213: 5606026458349591973
+    second: Monster_97_Masked Rock_20
+  - first:
+      213: -7703203037874343892
+    second: Monster_97_Masked Rock_21
+  - first:
+      213: -7890481080414827867
+    second: Monster_97_Masked Rock_22
+  - first:
+      213: -7018744189243781429
+    second: Monster_97_Masked Rock_23b
+  - first:
+      213: -8652229557795095048
+    second: Monster_97_Masked Rock_24
+  - first:
+      213: 757257135495678384
+    second: Monster_97_Masked Rock_25
+  - first:
+      213: 3022783664815668706
+    second: Monster_97_Masked Rock_26
+  - first:
+      213: -1887361494814515529
+    second: Monster_97_Masked Rock_27
+  - first:
+      213: -1348333398840272185
+    second: Monster_97_Masked Rock_28
+  - first:
+      213: -7930798692884767002
+    second: Monster_97_Masked Rock_29c
+  - first:
+      213: 6422733694354220460
+    second: Monster_97_Masked Rock_30
+  - first:
+      213: 5260017575941867932
+    second: Monster_97_Masked Rock_31
+  - first:
+      213: -8671791733405616745
+    second: Monster_97_Masked Rock_32
+  - first:
+      213: -6354747562596877975
+    second: Monster_97_Masked Rock_33
+  - first:
+      213: 3935696892104236511
+    second: Monster_97_Masked Rock_34
+  - first:
+      213: -3294501540066431548
+    second: Monster_97_Masked Rock_35
+  - first:
+      213: 7242833116915633507
+    second: Monster_97_Masked Rock_36
+  - first:
+      213: -4441823099124959499
+    second: Monster_97_Masked Rock_37
+  - first:
+      213: -7127868708476123763
+    second: Monster_97_Masked Rock_38
+  - first:
+      213: 2383734425496064866
+    second: Monster_97_Masked Rock_39d
+  - first:
+      213: 5598201524849026622
+    second: Monster_97_Masked Rock_40
+  - first:
+      213: -2877552606732848009
+    second: Monster_97_Masked Rock_41
+  - first:
+      213: -8627438765503086289
+    second: Monster_97_Masked Rock_42
+  - first:
+      213: 5213119836578966936
+    second: Monster_97_Masked Rock_43
+  - first:
+      213: -2528445665670421076
+    second: Monster_97_Masked Rock_44
+  - first:
+      213: 8569870436727220864
+    second: Monster_97_Masked Rock_45
+  - first:
+      213: -3736225828468715562
+    second: Monster_97_Masked Rock_46
+  - first:
+      213: -414781927821704692
+    second: Monster_97_Masked Rock_47
+  - first:
+      213: -5450955525696447999
+    second: Monster_97_Masked Rock_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5778f6aadef0f3080800000000000000
+      internalID: -9205621599880902795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477fc9da1945c9180800000000000000
+      internalID: -9107311361790249100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01aaebbc20708ee0800000000000000
+      internalID: -1260884558230150902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1248c78afc926a370800000000000000
+      internalID: 8333394132357383201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbd0d142bb664240800000000000000
+      internalID: 4775622868225547192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc79853c5bf56840800000000000000
+      internalID: 5216852116832353534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae968b4d2e06eaa20800000000000000
+      internalID: 3075502122888358378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a2aaa230c65e2a0800000000000000
+      internalID: -6708837309041989075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_8
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f93b085f9b8516d0800000000000000
+      internalID: -3020354458588857872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_9
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f6da8d3976979e0800000000000000
+      internalID: -1623152305997254836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_10
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a488127aa2ea20610800000000000000
+      internalID: 1586021517003688010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_11
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e22ff195cb7f100800000000000000
+      internalID: 141789004259536480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_12
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0469ad8bd5f909800800000000000000
+      internalID: 617168373831865920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_13
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f968ca1fa5d7400800000000000000
+      internalID: 323514742268665710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_14a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bca8dbc08a17020800000000000000
+      internalID: 2337834454255061838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af17deebc2b513c10800000000000000
+      internalID: 2031505154660725242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_16
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210e2377f28c4cc40800000000000000
+      internalID: 5531766348506652690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_17
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c0aca7b83cd2e50800000000000000
+      internalID: 6786295217345137692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_18
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7a169a0b7c6d4c0800000000000000
+      internalID: -4263000435689674818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_19
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7947e3c7f29f94120800000000000000
+      internalID: 2398722258894746775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_20
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad5e53ac5b9ccd40800000000000000
+      internalID: 5606026458349591973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_21
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c203ace76a9b81590800000000000000
+      internalID: -7703203037874343892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_22
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa0fee43416f7290800000000000000
+      internalID: -7890481080414827867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_23b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce89c6c859689e90800000000000000
+      internalID: -7018744189243781429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdfc740f0b1de780800000000000000
+      internalID: -8652229557795095048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b989d44a51528a00800000000000000
+      internalID: 757257135495678384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_26
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edf03e4ab513f920800000000000000
+      internalID: 3022783664815668706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_27
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be94da58bebec5e0800000000000000
+      internalID: -1887361494814515529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_28
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca9453eae1c94de0800000000000000
+      internalID: -1348333398840272185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_29c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee9875ab9420f190800000000000000
+      internalID: -7930798692884767002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_30
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca56ae21442222950800000000000000
+      internalID: 6422733694354220460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_31
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c998356dd165ff840800000000000000
+      internalID: 5260017575941867932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_32
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79570341d5b97a780800000000000000
+      internalID: -8671791733405616745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_33
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969322eb2c66fc7a0800000000000000
+      internalID: -6354747562596877975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_34
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd5b7d98776e9630800000000000000
+      internalID: 3935696892104236511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_35
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdec58ed449742d0800000000000000
+      internalID: -3294501540066431548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_36
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d013d7856b38460800000000000000
+      internalID: 7242833116915633507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_37
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f63885dc697b52c0800000000000000
+      internalID: -4441823099124959499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_38
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8588a9bc29b41d90800000000000000
+      internalID: -7127868708476123763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_39d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263109694d9b41120800000000000000
+      internalID: 2383734425496064866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e362da550aec0bd40800000000000000
+      internalID: 5598201524849026622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_41
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774703d6621e018d0800000000000000
+      internalID: -2877552606732848009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_42
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2101c4272e254880800000000000000
+      internalID: -8627438765503086289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_43
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89de4defed8b85840800000000000000
+      internalID: 5213119836578966936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_44
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5a6d7301829ecd0800000000000000
+      internalID: -2528445665670421076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_45
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a6f30d1cb4ee670800000000000000
+      internalID: 8569870436727220864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_46
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df8b758762462cc0800000000000000
+      internalID: -3736225828468715562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_47
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c028fe4c8066e3af0800000000000000
+      internalID: -414781927821704692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_97_Masked Rock_48
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a196c64d05a54b0800000000000000
+      internalID: -5450955525696447999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_97_Masked Rock_0: -9205621599880902795
+      Monster_97_Masked Rock_1: -9107311361790249100
+      Monster_97_Masked Rock_10: 1586021517003688010
+      Monster_97_Masked Rock_11: 141789004259536480
+      Monster_97_Masked Rock_12: 617168373831865920
+      Monster_97_Masked Rock_13: 323514742268665710
+      Monster_97_Masked Rock_14a: 2337834454255061838
+      Monster_97_Masked Rock_15: 2031505154660725242
+      Monster_97_Masked Rock_16: 5531766348506652690
+      Monster_97_Masked Rock_17: 6786295217345137692
+      Monster_97_Masked Rock_18: -4263000435689674818
+      Monster_97_Masked Rock_19: 2398722258894746775
+      Monster_97_Masked Rock_2: -1260884558230150902
+      Monster_97_Masked Rock_20: 5606026458349591973
+      Monster_97_Masked Rock_21: -7703203037874343892
+      Monster_97_Masked Rock_22: -7890481080414827867
+      Monster_97_Masked Rock_23b: -7018744189243781429
+      Monster_97_Masked Rock_24: -8652229557795095048
+      Monster_97_Masked Rock_25: 757257135495678384
+      Monster_97_Masked Rock_26: 3022783664815668706
+      Monster_97_Masked Rock_27: -1887361494814515529
+      Monster_97_Masked Rock_28: -1348333398840272185
+      Monster_97_Masked Rock_29c: -7930798692884767002
+      Monster_97_Masked Rock_3: 8333394132357383201
+      Monster_97_Masked Rock_30: 6422733694354220460
+      Monster_97_Masked Rock_31: 5260017575941867932
+      Monster_97_Masked Rock_32: -8671791733405616745
+      Monster_97_Masked Rock_33: -6354747562596877975
+      Monster_97_Masked Rock_34: 3935696892104236511
+      Monster_97_Masked Rock_35: -3294501540066431548
+      Monster_97_Masked Rock_36: 7242833116915633507
+      Monster_97_Masked Rock_37: -4441823099124959499
+      Monster_97_Masked Rock_38: -7127868708476123763
+      Monster_97_Masked Rock_39d: 2383734425496064866
+      Monster_97_Masked Rock_4: 4775622868225547192
+      Monster_97_Masked Rock_40: 5598201524849026622
+      Monster_97_Masked Rock_41: -2877552606732848009
+      Monster_97_Masked Rock_42: -8627438765503086289
+      Monster_97_Masked Rock_43: 5213119836578966936
+      Monster_97_Masked Rock_44: -2528445665670421076
+      Monster_97_Masked Rock_45: 8569870436727220864
+      Monster_97_Masked Rock_46: -3736225828468715562
+      Monster_97_Masked Rock_47: -414781927821704692
+      Monster_97_Masked Rock_48: -5450955525696447999
+      Monster_97_Masked Rock_5: 5216852116832353534
+      Monster_97_Masked Rock_6: 3075502122888358378
+      Monster_97_Masked Rock_7: -6708837309041989075
+      Monster_97_Masked Rock_8: -3020354458588857872
+      Monster_97_Masked Rock_9: -1623152305997254836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

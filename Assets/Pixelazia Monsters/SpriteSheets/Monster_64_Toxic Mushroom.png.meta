@@ -1,0 +1,1278 @@
+fileFormatVersion: 2
+guid: 5a4f94a1ccffce04fb3c14f818221f81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 603900923757993191
+    second: Monster_64_Toxic Mushroom_0
+  - first:
+      213: 5178531095851019970
+    second: Monster_64_Toxic Mushroom_1
+  - first:
+      213: -9040343432930551380
+    second: Monster_64_Toxic Mushroom_2
+  - first:
+      213: 6146905660292018362
+    second: Monster_64_Toxic Mushroom_3
+  - first:
+      213: -6648139756394118244
+    second: Monster_64_Toxic Mushroom_4
+  - first:
+      213: 3505611251616000836
+    second: Monster_64_Toxic Mushroom_5
+  - first:
+      213: 5233952809640128796
+    second: Monster_64_Toxic Mushroom_6
+  - first:
+      213: 4871808940042108818
+    second: Monster_64_Toxic Mushroom_7
+  - first:
+      213: -8042373370320353195
+    second: Monster_64_Toxic Mushroom_8
+  - first:
+      213: 8556634027635013877
+    second: Monster_64_Toxic Mushroom_9
+  - first:
+      213: -1583356671055577863
+    second: Monster_64_Toxic Mushroom_10a
+  - first:
+      213: 861337482545883366
+    second: Monster_64_Toxic Mushroom_11
+  - first:
+      213: 2323884424396024679
+    second: Monster_64_Toxic Mushroom_12
+  - first:
+      213: -7247943229244179252
+    second: Monster_64_Toxic Mushroom_13
+  - first:
+      213: 2917871920231209024
+    second: Monster_64_Toxic Mushroom_14
+  - first:
+      213: -7066216156720658874
+    second: Monster_64_Toxic Mushroom_15
+  - first:
+      213: -2147208724460102804
+    second: Monster_64_Toxic Mushroom_16
+  - first:
+      213: -290683513777861304
+    second: Monster_64_Toxic Mushroom_17
+  - first:
+      213: 3785582714495855663
+    second: Monster_64_Toxic Mushroom_18b
+  - first:
+      213: -7538805672073006736
+    second: Monster_64_Toxic Mushroom_19
+  - first:
+      213: 3888814463807808205
+    second: Monster_64_Toxic Mushroom_20
+  - first:
+      213: 4891772632596960327
+    second: Monster_64_Toxic Mushroom_21
+  - first:
+      213: -696383284060705658
+    second: Monster_64_Toxic Mushroom_22
+  - first:
+      213: -3902219579012517461
+    second: Monster_64_Toxic Mushroom_23c
+  - first:
+      213: -7333935528506995589
+    second: Monster_64_Toxic Mushroom_24
+  - first:
+      213: -8742079361932859387
+    second: Monster_64_Toxic Mushroom_25
+  - first:
+      213: -4549277655333851334
+    second: Monster_64_Toxic Mushroom_26
+  - first:
+      213: -8009971047355784796
+    second: Monster_64_Toxic Mushroom_27
+  - first:
+      213: 6593715614072674119
+    second: Monster_64_Toxic Mushroom_28
+  - first:
+      213: -1967785169372151929
+    second: Monster_64_Toxic Mushroom_29
+  - first:
+      213: -7935247703175502933
+    second: Monster_64_Toxic Mushroom_30
+  - first:
+      213: 6288182564725646098
+    second: Monster_64_Toxic Mushroom_31
+  - first:
+      213: -6018355472504252509
+    second: Monster_64_Toxic Mushroom_32
+  - first:
+      213: -4841543893301043637
+    second: Monster_64_Toxic Mushroom_33
+  - first:
+      213: 4055355763223312616
+    second: Monster_64_Toxic Mushroom_34
+  - first:
+      213: 2693079057970894386
+    second: Monster_64_Toxic Mushroom_35
+  - first:
+      213: -29856703685886655
+    second: Monster_64_Toxic Mushroom_36
+  - first:
+      213: 6471706791414501476
+    second: Monster_64_Toxic Mushroom_37d
+  - first:
+      213: 4451302185058397129
+    second: Monster_64_Toxic Mushroom_38
+  - first:
+      213: 6208317275118266432
+    second: Monster_64_Toxic Mushroom_39
+  - first:
+      213: -5900471429617451794
+    second: Monster_64_Toxic Mushroom_40
+  - first:
+      213: -8045258222346291950
+    second: Monster_64_Toxic Mushroom_41
+  - first:
+      213: -6808346013668990443
+    second: Monster_64_Toxic Mushroom_42
+  - first:
+      213: -779112314571636865
+    second: Monster_64_Toxic Mushroom_43
+  - first:
+      213: -6095376201409409541
+    second: Monster_64_Toxic Mushroom_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec1028c0bc716800800000000000000
+      internalID: 603900923757993191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cea38a3896ddd740800000000000000
+      internalID: 5178531095851019970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca993a8ab8f3a8280800000000000000
+      internalID: -9040343432930551380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab03b8d51223e4550800000000000000
+      internalID: 6146905660292018362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c930afa6d101db3a0800000000000000
+      internalID: -6648139756394118244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b2f2d1cde66a030800000000000000
+      internalID: 3505611251616000836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11f1c5895cb2a840800000000000000
+      internalID: 5233952809640128796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f38c44b642c9340800000000000000
+      internalID: 4871808940042108818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_8
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5588efea700c36090800000000000000
+      internalID: -8042373370320353195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_9
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 728
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8743a20554fb670800000000000000
+      internalID: 8556634027635013877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_10a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcbcf42f79c60ae0800000000000000
+      internalID: -1583356671055577863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e860e670e514fb00800000000000000
+      internalID: 861337482545883366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b203f4298104020800000000000000
+      internalID: 2323884424396024679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf3b4c8022a6b90800000000000000
+      internalID: -7247943229244179252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_14
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048d7794d0d5e7820800000000000000
+      internalID: 2917871920231209024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_15
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6460a8808d1cfed90800000000000000
+      internalID: -7066216156720658874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_16
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b9fef9a059332e0800000000000000
+      internalID: -2147208724460102804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_17
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 546
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d453362e847fbf0800000000000000
+      internalID: -290683513777861304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_18b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c62650c67198430800000000000000
+      internalID: 3785582714495855663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071736dfe28c06790800000000000000
+      internalID: -7538805672073006736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_20
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc26aa8a628d7f530800000000000000
+      internalID: 3888814463807808205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7445be7aa4113e340800000000000000
+      internalID: 4891772632596960327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_22
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 364
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68caa0eb713f556f0800000000000000
+      internalID: -696383284060705658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_23c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1726db7f788d9c0800000000000000
+      internalID: -3902219579012517461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c49b16e70a83a90800000000000000
+      internalID: -7333935528506995589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508e7b94325eda680800000000000000
+      internalID: -8742079361932859387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_26
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f24395318bdd0c0800000000000000
+      internalID: -4549277655333851334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_27
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1e13565cdd6d090800000000000000
+      internalID: -8009971047355784796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_28
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7479fbe7a65918b50800000000000000
+      internalID: 6593715614072674119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_29
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f7a4170d501b4e0800000000000000
+      internalID: -1967785169372151929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_30
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba36d77b14650e190800000000000000
+      internalID: -7935247703175502933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_31
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213e645f9bc144750800000000000000
+      internalID: 6288182564725646098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_32
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a71b5995918a7ca0800000000000000
+      internalID: -6018355472504252509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_33
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e545b0b716fccb0800000000000000
+      internalID: -4841543893301043637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_34
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e832c89494874830800000000000000
+      internalID: 4055355763223312616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_35
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236166a722dbf5520800000000000000
+      internalID: 2693079057970894386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_36
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 182
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d73a67c7de59ff0800000000000000
+      internalID: -29856703685886655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_37d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4609eb8c90f10d950800000000000000
+      internalID: 6471706791414501476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb6358d0c336cd30800000000000000
+      internalID: 4451302185058397129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_39
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048685c2baf582650800000000000000
+      internalID: 6208317275118266432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_40
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec7f4e2f705d1ea0800000000000000
+      internalID: -5900471429617451794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_41
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21532cab540895090800000000000000
+      internalID: -8045258222346291950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_42
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512205b6f55e381a0800000000000000
+      internalID: -6808346013668990443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_43
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f33d15a790035f0800000000000000
+      internalID: -779112314571636865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_64_Toxic Mushroom_44
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd4f96b3afd86ba0800000000000000
+      internalID: -6095376201409409541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_64_Toxic Mushroom_0: 603900923757993191
+      Monster_64_Toxic Mushroom_1: 5178531095851019970
+      Monster_64_Toxic Mushroom_10a: -1583356671055577863
+      Monster_64_Toxic Mushroom_11: 861337482545883366
+      Monster_64_Toxic Mushroom_12: 2323884424396024679
+      Monster_64_Toxic Mushroom_13: -7247943229244179252
+      Monster_64_Toxic Mushroom_14: 2917871920231209024
+      Monster_64_Toxic Mushroom_15: -7066216156720658874
+      Monster_64_Toxic Mushroom_16: -2147208724460102804
+      Monster_64_Toxic Mushroom_17: -290683513777861304
+      Monster_64_Toxic Mushroom_18b: 3785582714495855663
+      Monster_64_Toxic Mushroom_19: -7538805672073006736
+      Monster_64_Toxic Mushroom_2: -9040343432930551380
+      Monster_64_Toxic Mushroom_20: 3888814463807808205
+      Monster_64_Toxic Mushroom_21: 4891772632596960327
+      Monster_64_Toxic Mushroom_22: -696383284060705658
+      Monster_64_Toxic Mushroom_23c: -3902219579012517461
+      Monster_64_Toxic Mushroom_24: -7333935528506995589
+      Monster_64_Toxic Mushroom_25: -8742079361932859387
+      Monster_64_Toxic Mushroom_26: -4549277655333851334
+      Monster_64_Toxic Mushroom_27: -8009971047355784796
+      Monster_64_Toxic Mushroom_28: 6593715614072674119
+      Monster_64_Toxic Mushroom_29: -1967785169372151929
+      Monster_64_Toxic Mushroom_3: 6146905660292018362
+      Monster_64_Toxic Mushroom_30: -7935247703175502933
+      Monster_64_Toxic Mushroom_31: 6288182564725646098
+      Monster_64_Toxic Mushroom_32: -6018355472504252509
+      Monster_64_Toxic Mushroom_33: -4841543893301043637
+      Monster_64_Toxic Mushroom_34: 4055355763223312616
+      Monster_64_Toxic Mushroom_35: 2693079057970894386
+      Monster_64_Toxic Mushroom_36: -29856703685886655
+      Monster_64_Toxic Mushroom_37d: 6471706791414501476
+      Monster_64_Toxic Mushroom_38: 4451302185058397129
+      Monster_64_Toxic Mushroom_39: 6208317275118266432
+      Monster_64_Toxic Mushroom_4: -6648139756394118244
+      Monster_64_Toxic Mushroom_40: -5900471429617451794
+      Monster_64_Toxic Mushroom_41: -8045258222346291950
+      Monster_64_Toxic Mushroom_42: -6808346013668990443
+      Monster_64_Toxic Mushroom_43: -779112314571636865
+      Monster_64_Toxic Mushroom_44: -6095376201409409541
+      Monster_64_Toxic Mushroom_5: 3505611251616000836
+      Monster_64_Toxic Mushroom_6: 5233952809640128796
+      Monster_64_Toxic Mushroom_7: 4871808940042108818
+      Monster_64_Toxic Mushroom_8: -8042373370320353195
+      Monster_64_Toxic Mushroom_9: 8556634027635013877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

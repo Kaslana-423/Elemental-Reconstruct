@@ -39,5 +39,5 @@ MonoBehaviour:
     critRate: 0
     critMultiplier: 0
     knockback: 0
-    delayMod: 0
+    delayMod: 0.5
     chargeMod: 0

@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: 94a656fb99915fa4ea5d65cd37327072
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6796704219739246238
+    second: Monster_24_Floating Steel_0
+  - first:
+      213: -3487561888148880251
+    second: Monster_24_Floating Steel_1
+  - first:
+      213: -1941226703422665580
+    second: Monster_24_Floating Steel_2
+  - first:
+      213: 6142618457737148369
+    second: Monster_24_Floating Steel_3
+  - first:
+      213: 2709291374407992706
+    second: Monster_24_Floating Steel_4
+  - first:
+      213: -4510730245498230795
+    second: Monster_24_Floating Steel_5
+  - first:
+      213: 8266755084055908955
+    second: Monster_24_Floating Steel_6
+  - first:
+      213: 7629484726978473194
+    second: Monster_24_Floating Steel_7
+  - first:
+      213: 9000730215202294001
+    second: Monster_24_Floating Steel_8
+  - first:
+      213: -7107876394869387494
+    second: Monster_24_Floating Steel_9
+  - first:
+      213: 4621621762421773171
+    second: Monster_24_Floating Steel_10a
+  - first:
+      213: 1033727467878652914
+    second: Monster_24_Floating Steel_11
+  - first:
+      213: -2449049599756710515
+    second: Monster_24_Floating Steel_12
+  - first:
+      213: 7772544193821437791
+    second: Monster_24_Floating Steel_13
+  - first:
+      213: 4053231259684348311
+    second: Monster_24_Floating Steel_14
+  - first:
+      213: -6090116048462572662
+    second: Monster_24_Floating Steel_15
+  - first:
+      213: -1792881373319472082
+    second: Monster_24_Floating Steel_16
+  - first:
+      213: 251032457866730454
+    second: Monster_24_Floating Steel_17
+  - first:
+      213: 7947684103639116784
+    second: Monster_24_Floating Steel_18
+  - first:
+      213: 2766991407599951247
+    second: Monster_24_Floating Steel_19
+  - first:
+      213: -1349213826911033010
+    second: Monster_24_Floating Steel_20
+  - first:
+      213: -401133692229629860
+    second: Monster_24_Floating Steel_21
+  - first:
+      213: 4759922642488953601
+    second: Monster_24_Floating Steel_22b
+  - first:
+      213: -4187263838144557400
+    second: Monster_24_Floating Steel_23
+  - first:
+      213: 3532667283128720606
+    second: Monster_24_Floating Steel_24
+  - first:
+      213: -6285666924402672172
+    second: Monster_24_Floating Steel_25
+  - first:
+      213: 2996469271883399997
+    second: Monster_24_Floating Steel_26
+  - first:
+      213: -6375465513037939883
+    second: Monster_24_Floating Steel_27
+  - first:
+      213: 4478512034867392452
+    second: Monster_24_Floating Steel_28
+  - first:
+      213: 423663500043903602
+    second: Monster_24_Floating Steel_29c
+  - first:
+      213: -2147267868897929863
+    second: Monster_24_Floating Steel_30
+  - first:
+      213: 3990365736307473187
+    second: Monster_24_Floating Steel_31
+  - first:
+      213: -4598317390605252145
+    second: Monster_24_Floating Steel_32
+  - first:
+      213: -7857469912263708614
+    second: Monster_24_Floating Steel_33
+  - first:
+      213: 1821186913028220227
+    second: Monster_24_Floating Steel_34
+  - first:
+      213: 6148302453508847497
+    second: Monster_24_Floating Steel_35
+  - first:
+      213: 3894586896608816377
+    second: Monster_24_Floating Steel_36
+  - first:
+      213: 7456859104787376862
+    second: Monster_24_Floating Steel_37
+  - first:
+      213: -8127565644034237793
+    second: Monster_24_Floating Steel_38
+  - first:
+      213: 5433600671591167898
+    second: Monster_24_Floating Steel_39
+  - first:
+      213: -628192999727048628
+    second: Monster_24_Floating Steel_40
+  - first:
+      213: -8874941779275039303
+    second: Monster_24_Floating Steel_41d
+  - first:
+      213: -4484036039398828696
+    second: Monster_24_Floating Steel_42
+  - first:
+      213: -5253147009008267584
+    second: Monster_24_Floating Steel_43
+  - first:
+      213: -8995206193001807451
+    second: Monster_24_Floating Steel_44
+  - first:
+      213: 3053032579144514646
+    second: Monster_24_Floating Steel_45
+  - first:
+      213: 7453554663151588262
+    second: Monster_24_Floating Steel_46
+  - first:
+      213: 4449283224328855506
+    second: Monster_24_Floating Steel_47
+  - first:
+      213: 1938800869574829490
+    second: Monster_24_Floating Steel_48
+  - first:
+      213: -1174866805177124058
+    second: Monster_24_Floating Steel_49
+  - first:
+      213: 5862627936140427474
+    second: Monster_24_Floating Steel_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ec4f43a7eb25e50800000000000000
+      internalID: 6796704219739246238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58402bcc0f0b99fc0800000000000000
+      internalID: -3487561888148880251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c4df929906f05e0800000000000000
+      internalID: -1941226703422665580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d73e2c31f6fe3550800000000000000
+      internalID: 6142618457737148369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854e9c8626599520800000000000000
+      internalID: 2709291374407992706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7a7779dbaa661c0800000000000000
+      internalID: -4510730245498230795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529e4623f969b270800000000000000
+      internalID: 8266755084055908955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aece1dabfef51e960800000000000000
+      internalID: 7629484726978473194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_8
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8024c517409ec70800000000000000
+      internalID: 9000730215202294001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_9
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 748
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f0d68f310cb5d90800000000000000
+      internalID: -7107876394869387494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_10a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3735d5ba18c432040800000000000000
+      internalID: 4621621762421773171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb9875b7a9885e00800000000000000
+      internalID: 1033727467878652914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d40395d5a330ed0800000000000000
+      internalID: -2449049599756710515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f60c973cf9ddb60800000000000000
+      internalID: 7772544193821437791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791aef11b58ff3830800000000000000
+      internalID: 4053231259684348311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a839b7288bf8b7ba0800000000000000
+      internalID: -6090116048462572662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_16
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cd0ead3e76e17e0800000000000000
+      internalID: -1792881373319472082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_17
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db5d3eb0b8db7300800000000000000
+      internalID: 251032457866730454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_18
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbad686598db4e60800000000000000
+      internalID: 7947684103639116784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_19
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d9d8a6604566620800000000000000
+      internalID: 2766991407599951247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_20
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e492ce04c21a64de0800000000000000
+      internalID: -1349213826911033010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_21
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 561
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58463f3803ee6af0800000000000000
+      internalID: -401133692229629860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_22b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b84e79c64ae0240800000000000000
+      internalID: 4759922642488953601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae0e8a69b9d3e5c0800000000000000
+      internalID: -4187263838144557400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc18885d2e860130800000000000000
+      internalID: 3532667283128720606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd7e823c33d4c8a0800000000000000
+      internalID: -6285666924402672172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_26
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33cbf24de8959920800000000000000
+      internalID: 2996469271883399997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_27
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bbe9105ebc587a0800000000000000
+      internalID: -6375465513037939883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_28
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 374
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf2590b7fed62e30800000000000000
+      internalID: 4478512034867392452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_29c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2726a6865b721e500800000000000000
+      internalID: 423663500043903602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759abcff3f5332e0800000000000000
+      internalID: -2147267868897929863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b3f7cce70a06730800000000000000
+      internalID: 3990365736307473187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9097832be7f20c0800000000000000
+      internalID: -4598317390605252145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_33
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30b336deb8a4f290800000000000000
+      internalID: -7857469912263708614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_34
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34523ac29d7264910800000000000000
+      internalID: 1821186913028220227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_35
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987be01a188235550800000000000000
+      internalID: 6148302453508847497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_36
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc6247e52a5c0630800000000000000
+      internalID: 3894586896608816377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_37
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda2df009d51c7760800000000000000
+      internalID: 7456859104787376862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_38
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a9ba2cb16153f80800000000000000
+      internalID: -8127565644034237793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_39
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97f389b507086b40800000000000000
+      internalID: 5433600671591167898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_40
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 187
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48d1e88bc53847f0800000000000000
+      internalID: -628192999727048628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_41d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdb904297fd5d480800000000000000
+      internalID: -8874941779275039303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_42
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8655597caf085c1c0800000000000000
+      internalID: -4484036039398828696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce082fa0a21917b0800000000000000
+      internalID: -5253147009008267584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_44
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1cbb840ab9a2380800000000000000
+      internalID: -8995206193001807451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_45
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c7a9f74fc8e5a20800000000000000
+      internalID: 3053032579144514646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_46
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a35b1bb978507760800000000000000
+      internalID: 7453554663151588262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_47
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfd93be4870fbd30800000000000000
+      internalID: 4449283224328855506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_48
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5e9316e1108ea10800000000000000
+      internalID: 1938800869574829490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_49
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bf40b8dd802bfe0800000000000000
+      internalID: -1174866805177124058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_24_Floating Steel_50
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 0
+        width: 213
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d08eefdb0d3c5150800000000000000
+      internalID: 5862627936140427474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_24_Floating Steel_0: 6796704219739246238
+      Monster_24_Floating Steel_1: -3487561888148880251
+      Monster_24_Floating Steel_10a: 4621621762421773171
+      Monster_24_Floating Steel_11: 1033727467878652914
+      Monster_24_Floating Steel_12: -2449049599756710515
+      Monster_24_Floating Steel_13: 7772544193821437791
+      Monster_24_Floating Steel_14: 4053231259684348311
+      Monster_24_Floating Steel_15: -6090116048462572662
+      Monster_24_Floating Steel_16: -1792881373319472082
+      Monster_24_Floating Steel_17: 251032457866730454
+      Monster_24_Floating Steel_18: 7947684103639116784
+      Monster_24_Floating Steel_19: 2766991407599951247
+      Monster_24_Floating Steel_2: -1941226703422665580
+      Monster_24_Floating Steel_20: -1349213826911033010
+      Monster_24_Floating Steel_21: -401133692229629860
+      Monster_24_Floating Steel_22b: 4759922642488953601
+      Monster_24_Floating Steel_23: -4187263838144557400
+      Monster_24_Floating Steel_24: 3532667283128720606
+      Monster_24_Floating Steel_25: -6285666924402672172
+      Monster_24_Floating Steel_26: 2996469271883399997
+      Monster_24_Floating Steel_27: -6375465513037939883
+      Monster_24_Floating Steel_28: 4478512034867392452
+      Monster_24_Floating Steel_29c: 423663500043903602
+      Monster_24_Floating Steel_3: 6142618457737148369
+      Monster_24_Floating Steel_30: -2147267868897929863
+      Monster_24_Floating Steel_31: 3990365736307473187
+      Monster_24_Floating Steel_32: -4598317390605252145
+      Monster_24_Floating Steel_33: -7857469912263708614
+      Monster_24_Floating Steel_34: 1821186913028220227
+      Monster_24_Floating Steel_35: 6148302453508847497
+      Monster_24_Floating Steel_36: 3894586896608816377
+      Monster_24_Floating Steel_37: 7456859104787376862
+      Monster_24_Floating Steel_38: -8127565644034237793
+      Monster_24_Floating Steel_39: 5433600671591167898
+      Monster_24_Floating Steel_4: 2709291374407992706
+      Monster_24_Floating Steel_40: -628192999727048628
+      Monster_24_Floating Steel_41d: -8874941779275039303
+      Monster_24_Floating Steel_42: -4484036039398828696
+      Monster_24_Floating Steel_43: -5253147009008267584
+      Monster_24_Floating Steel_44: -8995206193001807451
+      Monster_24_Floating Steel_45: 3053032579144514646
+      Monster_24_Floating Steel_46: 7453554663151588262
+      Monster_24_Floating Steel_47: 4449283224328855506
+      Monster_24_Floating Steel_48: 1938800869574829490
+      Monster_24_Floating Steel_49: -1174866805177124058
+      Monster_24_Floating Steel_5: -4510730245498230795
+      Monster_24_Floating Steel_50: 5862627936140427474
+      Monster_24_Floating Steel_6: 8266755084055908955
+      Monster_24_Floating Steel_7: 7629484726978473194
+      Monster_24_Floating Steel_8: 9000730215202294001
+      Monster_24_Floating Steel_9: -7107876394869387494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

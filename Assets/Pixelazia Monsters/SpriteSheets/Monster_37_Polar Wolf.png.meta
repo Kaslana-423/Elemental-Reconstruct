@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 435e80ee3b7086140a7c1ffaeaac2783
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4073951954966774508
+    second: Monster_37_Polar Wolf_0
+  - first:
+      213: 310072589545962923
+    second: Monster_37_Polar Wolf_1
+  - first:
+      213: -1049626631296743913
+    second: Monster_37_Polar Wolf_2
+  - first:
+      213: -8294074976236921008
+    second: Monster_37_Polar Wolf_3
+  - first:
+      213: -5326814785932615398
+    second: Monster_37_Polar Wolf_4
+  - first:
+      213: -1987917292623028644
+    second: Monster_37_Polar Wolf_5
+  - first:
+      213: -4552931832765500422
+    second: Monster_37_Polar Wolf_6
+  - first:
+      213: -6997306076483678208
+    second: Monster_37_Polar Wolf_7
+  - first:
+      213: 3457428188710021510
+    second: Monster_37_Polar Wolf_8a
+  - first:
+      213: 7292075820820532586
+    second: Monster_37_Polar Wolf_9
+  - first:
+      213: 9012289069878170217
+    second: Monster_37_Polar Wolf_10
+  - first:
+      213: 1997871161465107172
+    second: Monster_37_Polar Wolf_11
+  - first:
+      213: 309334219275620279
+    second: Monster_37_Polar Wolf_12
+  - first:
+      213: -7740267999091241107
+    second: Monster_37_Polar Wolf_13
+  - first:
+      213: -4410067477683914060
+    second: Monster_37_Polar Wolf_14
+  - first:
+      213: -2143948852920753258
+    second: Monster_37_Polar Wolf_15b
+  - first:
+      213: 487735976949354847
+    second: Monster_37_Polar Wolf_16
+  - first:
+      213: 5856781318418153439
+    second: Monster_37_Polar Wolf_17
+  - first:
+      213: -6099195302792643705
+    second: Monster_37_Polar Wolf_18
+  - first:
+      213: 3333583719759818330
+    second: Monster_37_Polar Wolf_19c
+  - first:
+      213: -1143653945386112245
+    second: Monster_37_Polar Wolf_20
+  - first:
+      213: -4303064156637272250
+    second: Monster_37_Polar Wolf_21
+  - first:
+      213: 9004826238058689757
+    second: Monster_37_Polar Wolf_22
+  - first:
+      213: 3161291103313473400
+    second: Monster_37_Polar Wolf_23
+  - first:
+      213: 1336069059767670805
+    second: Monster_37_Polar Wolf_24
+  - first:
+      213: 7838125979524114437
+    second: Monster_37_Polar Wolf_25
+  - first:
+      213: -8592882218425075232
+    second: Monster_37_Polar Wolf_26d
+  - first:
+      213: 1335560165850922172
+    second: Monster_37_Polar Wolf_27
+  - first:
+      213: 5116961289435441698
+    second: Monster_37_Polar Wolf_28
+  - first:
+      213: 5799851682783091437
+    second: Monster_37_Polar Wolf_29
+  - first:
+      213: -7217653301867770685
+    second: Monster_37_Polar Wolf_30
+  - first:
+      213: 8406153269138351470
+    second: Monster_37_Polar Wolf_31
+  - first:
+      213: 3460609697285745377
+    second: Monster_37_Polar Wolf_32
+  - first:
+      213: -4804916359323319075
+    second: Monster_37_Polar Wolf_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d723c184a6677c0800000000000000
+      internalID: -4073951954966774508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badf87a90699d4400800000000000000
+      internalID: 310072589545962923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71684c6d32afe61f0800000000000000
+      internalID: -1049626631296743913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f11f4c0c685ec80800000000000000
+      internalID: -8294074976236921008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a112034cc2a5316b0800000000000000
+      internalID: -5326814785932615398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e195a31cf7964e0800000000000000
+      internalID: -1987917292623028644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3b17dde9cb0d0c0800000000000000
+      internalID: -4552931832765500422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 488
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000128e523394ee90800000000000000
+      internalID: -6997306076483678208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689ab709e904bff20800000000000000
+      internalID: 3457428188710021510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d093fe258a23560800000000000000
+      internalID: 7292075820820532586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962593fe825121d70800000000000000
+      internalID: 9012289069878170217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2ff167c3dd9bb10800000000000000
+      internalID: 1997871161465107172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfcbc065d9fa4400800000000000000
+      internalID: 309334219275620279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_13
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fc7d7b34b059490800000000000000
+      internalID: -7740267999091241107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_14
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 366
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bab52d9efa4cc2c0800000000000000
+      internalID: -4410067477683914060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_15b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6936d0d90e92f32e0800000000000000
+      internalID: -2143948852920753258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 244
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f519e327949c4c600800000000000000
+      internalID: 487735976949354847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 244
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf357b1497774150800000000000000
+      internalID: 5856781318418153439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_18
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 244
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b3051ef2e4b5ba0800000000000000
+      internalID: -6099195302792643705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_19c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e2f452bb4434e20800000000000000
+      internalID: 3333583719759818330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b6947cbcce020f0800000000000000
+      internalID: -1143653945386112245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6476be9b2f17844c0800000000000000
+      internalID: -4303064156637272250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4fa9ff0c197fc70800000000000000
+      internalID: 9004826238058689757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_23
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f2a9c52892fdb20800000000000000
+      internalID: 3161291103313473400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_24
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51897d62bbbaa8210800000000000000
+      internalID: 1336069059767670805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_25
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 122
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508ab4adc0e96cc60800000000000000
+      internalID: 7838125979524114437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_26d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9b00e3623ffb880800000000000000
+      internalID: -8592882218425075232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcb4bd05ecd88210800000000000000
+      internalID: 1335560165850922172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a69329e29130740800000000000000
+      internalID: 5116961289435441698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deadc3660663d7050800000000000000
+      internalID: 5799851682783091437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_30
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc0f3e009eb5db90800000000000000
+      internalID: -7217653301867770685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_31
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65ea7e4cd7a8a470800000000000000
+      internalID: 8406153269138351470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_32
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2df04f2e860030800000000000000
+      internalID: 3460609697285745377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_37_Polar Wolf_33
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4021b5702815db0800000000000000
+      internalID: -4804916359323319075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_37_Polar Wolf_0: -4073951954966774508
+      Monster_37_Polar Wolf_1: 310072589545962923
+      Monster_37_Polar Wolf_10: 9012289069878170217
+      Monster_37_Polar Wolf_11: 1997871161465107172
+      Monster_37_Polar Wolf_12: 309334219275620279
+      Monster_37_Polar Wolf_13: -7740267999091241107
+      Monster_37_Polar Wolf_14: -4410067477683914060
+      Monster_37_Polar Wolf_15b: -2143948852920753258
+      Monster_37_Polar Wolf_16: 487735976949354847
+      Monster_37_Polar Wolf_17: 5856781318418153439
+      Monster_37_Polar Wolf_18: -6099195302792643705
+      Monster_37_Polar Wolf_19c: 3333583719759818330
+      Monster_37_Polar Wolf_2: -1049626631296743913
+      Monster_37_Polar Wolf_20: -1143653945386112245
+      Monster_37_Polar Wolf_21: -4303064156637272250
+      Monster_37_Polar Wolf_22: 9004826238058689757
+      Monster_37_Polar Wolf_23: 3161291103313473400
+      Monster_37_Polar Wolf_24: 1336069059767670805
+      Monster_37_Polar Wolf_25: 7838125979524114437
+      Monster_37_Polar Wolf_26d: -8592882218425075232
+      Monster_37_Polar Wolf_27: 1335560165850922172
+      Monster_37_Polar Wolf_28: 5116961289435441698
+      Monster_37_Polar Wolf_29: 5799851682783091437
+      Monster_37_Polar Wolf_3: -8294074976236921008
+      Monster_37_Polar Wolf_30: -7217653301867770685
+      Monster_37_Polar Wolf_31: 8406153269138351470
+      Monster_37_Polar Wolf_32: 3460609697285745377
+      Monster_37_Polar Wolf_33: -4804916359323319075
+      Monster_37_Polar Wolf_4: -5326814785932615398
+      Monster_37_Polar Wolf_5: -1987917292623028644
+      Monster_37_Polar Wolf_6: -4552931832765500422
+      Monster_37_Polar Wolf_7: -6997306076483678208
+      Monster_37_Polar Wolf_8a: 3457428188710021510
+      Monster_37_Polar Wolf_9: 7292075820820532586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

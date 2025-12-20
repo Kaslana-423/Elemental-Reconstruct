@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: f501ecdd1b1bea94f958098a67b3802d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4417937955110448494
+    second: Monster_18_Crescent Shadow_0
+  - first:
+      213: -8016150234497632706
+    second: Monster_18_Crescent Shadow_1
+  - first:
+      213: -311482907317618890
+    second: Monster_18_Crescent Shadow_2
+  - first:
+      213: 8401943799187008275
+    second: Monster_18_Crescent Shadow_3
+  - first:
+      213: -8532598242137416501
+    second: Monster_18_Crescent Shadow_4
+  - first:
+      213: -6248943591456435045
+    second: Monster_18_Crescent Shadow_5
+  - first:
+      213: -5361942665011674407
+    second: Monster_18_Crescent Shadow_6
+  - first:
+      213: 1942038773486961439
+    second: Monster_18_Crescent Shadow_7a
+  - first:
+      213: -4411022860863380672
+    second: Monster_18_Crescent Shadow_8
+  - first:
+      213: -5645524078817716292
+    second: Monster_18_Crescent Shadow_9
+  - first:
+      213: 6274852663678392575
+    second: Monster_18_Crescent Shadow_10
+  - first:
+      213: 6208857651306004675
+    second: Monster_18_Crescent Shadow_11
+  - first:
+      213: 7688965403931422818
+    second: Monster_18_Crescent Shadow_12
+  - first:
+      213: -426695239036919508
+    second: Monster_18_Crescent Shadow_13
+  - first:
+      213: -4897769241544873798
+    second: Monster_18_Crescent Shadow_14b
+  - first:
+      213: -9210289262488225811
+    second: Monster_18_Crescent Shadow_15
+  - first:
+      213: 630328888643591436
+    second: Monster_18_Crescent Shadow_16
+  - first:
+      213: 7125483297142515779
+    second: Monster_18_Crescent Shadow_17
+  - first:
+      213: -813489080709573391
+    second: Monster_18_Crescent Shadow_18
+  - first:
+      213: -9186688786298038132
+    second: Monster_18_Crescent Shadow_19c
+  - first:
+      213: -6282839817943083315
+    second: Monster_18_Crescent Shadow_20
+  - first:
+      213: -2350702375498022871
+    second: Monster_18_Crescent Shadow_21
+  - first:
+      213: -3639417963355767933
+    second: Monster_18_Crescent Shadow_22
+  - first:
+      213: -7652146578283995402
+    second: Monster_18_Crescent Shadow_23
+  - first:
+      213: -5285542978034724286
+    second: Monster_18_Crescent Shadow_24
+  - first:
+      213: -2268235668305039468
+    second: Monster_18_Crescent Shadow_25
+  - first:
+      213: 109747087536055808
+    second: Monster_18_Crescent Shadow_26
+  - first:
+      213: -2284696201184638371
+    second: Monster_18_Crescent Shadow_27
+  - first:
+      213: 6278091039787365353
+    second: Monster_18_Crescent Shadow_28
+  - first:
+      213: 5124089632982850395
+    second: Monster_18_Crescent Shadow_29d
+  - first:
+      213: 5404028246499520150
+    second: Monster_18_Crescent Shadow_30
+  - first:
+      213: -5827160287057146458
+    second: Monster_18_Crescent Shadow_31
+  - first:
+      213: 7102732059652251029
+    second: Monster_18_Crescent Shadow_32
+  - first:
+      213: 9120939472010243675
+    second: Monster_18_Crescent Shadow_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2921de946d450b2c0800000000000000
+      internalID: -4417937955110448494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36ba9645d9e0c090800000000000000
+      internalID: -8016150234497632706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6373ab332f36dabf0800000000000000
+      internalID: -311482907317618890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b6655be53b99470800000000000000
+      internalID: 8401943799187008275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccd64e3b1f169980800000000000000
+      internalID: -8532598242137416501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9419c179ea4749a0800000000000000
+      internalID: -6248943591456435045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1180
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2c7f11e8d8695b0800000000000000
+      internalID: -5361942665011674407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_7a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13c9b1a9f183fa10800000000000000
+      internalID: 1942038773486961439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0436c122416e8c2c0800000000000000
+      internalID: -4411022860863380672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7d727f2c117a1b0800000000000000
+      internalID: -5645524078817716292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8d6748041c41750800000000000000
+      internalID: 6274852663678392575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c08f0f432b4a2650800000000000000
+      internalID: 6208857651306004675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260b9970c41b4ba60800000000000000
+      internalID: 7688965403931422818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 885
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21aad9d0f2141af0800000000000000
+      internalID: -426695239036919508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_14b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab822e503d0a70cb0800000000000000
+      internalID: -4897769241544873798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 590
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de77bc6c6ba7e2080800000000000000
+      internalID: -9210289262488225811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 590
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d944bd8c06fb800800000000000000
+      internalID: 630328888643591436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 590
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348a82b6e4dc2e260800000000000000
+      internalID: 7125483297142515779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 590
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f495abbdf7e5b4f0800000000000000
+      internalID: -813489080709573391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_19c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8814a6d833528080800000000000000
+      internalID: -9186688786298038132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc692d6397edec8a0800000000000000
+      internalID: -6282839817943083315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92006cfd4a0a06fd0800000000000000
+      internalID: -2350702375498022871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bf00115a03e7dc0800000000000000
+      internalID: -3639417963355767933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe5928da3d1ec590800000000000000
+      internalID: -7652146578283995402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2421e2d5aaaf5a6b0800000000000000
+      internalID: -5285542978034724286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49faec36dab9580e0800000000000000
+      internalID: -2268235668305039468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00668b70566e58100800000000000000
+      internalID: 109747087536055808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a84bce8e02b40e0800000000000000
+      internalID: -2284696201184638371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 295
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3b616b982402750800000000000000
+      internalID: 6278091039787365353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_29d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b54336f5c6c1740800000000000000
+      internalID: 5124089632982850395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ee7c4fe07fefa40800000000000000
+      internalID: 5404028246499520150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad02b0b794c12fa0800000000000000
+      internalID: -5827160287057146458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dd9562d29f19260800000000000000
+      internalID: 7102732059652251029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_18_Crescent Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 0
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e620fff16149e70800000000000000
+      internalID: 9120939472010243675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_18_Crescent Shadow_0: -4417937955110448494
+      Monster_18_Crescent Shadow_1: -8016150234497632706
+      Monster_18_Crescent Shadow_10: 6274852663678392575
+      Monster_18_Crescent Shadow_11: 6208857651306004675
+      Monster_18_Crescent Shadow_12: 7688965403931422818
+      Monster_18_Crescent Shadow_13: -426695239036919508
+      Monster_18_Crescent Shadow_14b: -4897769241544873798
+      Monster_18_Crescent Shadow_15: -9210289262488225811
+      Monster_18_Crescent Shadow_16: 630328888643591436
+      Monster_18_Crescent Shadow_17: 7125483297142515779
+      Monster_18_Crescent Shadow_18: -813489080709573391
+      Monster_18_Crescent Shadow_19c: -9186688786298038132
+      Monster_18_Crescent Shadow_2: -311482907317618890
+      Monster_18_Crescent Shadow_20: -6282839817943083315
+      Monster_18_Crescent Shadow_21: -2350702375498022871
+      Monster_18_Crescent Shadow_22: -3639417963355767933
+      Monster_18_Crescent Shadow_23: -7652146578283995402
+      Monster_18_Crescent Shadow_24: -5285542978034724286
+      Monster_18_Crescent Shadow_25: -2268235668305039468
+      Monster_18_Crescent Shadow_26: 109747087536055808
+      Monster_18_Crescent Shadow_27: -2284696201184638371
+      Monster_18_Crescent Shadow_28: 6278091039787365353
+      Monster_18_Crescent Shadow_29d: 5124089632982850395
+      Monster_18_Crescent Shadow_3: 8401943799187008275
+      Monster_18_Crescent Shadow_30: 5404028246499520150
+      Monster_18_Crescent Shadow_31: -5827160287057146458
+      Monster_18_Crescent Shadow_32: 7102732059652251029
+      Monster_18_Crescent Shadow_33: 9120939472010243675
+      Monster_18_Crescent Shadow_4: -8532598242137416501
+      Monster_18_Crescent Shadow_5: -6248943591456435045
+      Monster_18_Crescent Shadow_6: -5361942665011674407
+      Monster_18_Crescent Shadow_7a: 1942038773486961439
+      Monster_18_Crescent Shadow_8: -4411022860863380672
+      Monster_18_Crescent Shadow_9: -5645524078817716292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

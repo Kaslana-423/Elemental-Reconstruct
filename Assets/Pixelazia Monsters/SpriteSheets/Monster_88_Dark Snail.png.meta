@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 60329465c55442a4c86ba1075ff8897c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5710054287414776848
+    second: Monster_88_Dark Snail_0
+  - first:
+      213: 4770183876298251319
+    second: Monster_88_Dark Snail_1
+  - first:
+      213: 7859991196102467385
+    second: Monster_88_Dark Snail_2
+  - first:
+      213: 1695570990477674520
+    second: Monster_88_Dark Snail_3
+  - first:
+      213: 335947126488395521
+    second: Monster_88_Dark Snail_4
+  - first:
+      213: 2728917597593286806
+    second: Monster_88_Dark Snail_5
+  - first:
+      213: -4411222304001768960
+    second: Monster_88_Dark Snail_6
+  - first:
+      213: 2354704252454536063
+    second: Monster_88_Dark Snail_7a
+  - first:
+      213: -6535123907383797948
+    second: Monster_88_Dark Snail_8
+  - first:
+      213: -6940345889362038123
+    second: Monster_88_Dark Snail_9
+  - first:
+      213: 2760442058517210291
+    second: Monster_88_Dark Snail_10
+  - first:
+      213: -7623318104303542236
+    second: Monster_88_Dark Snail_11b
+  - first:
+      213: -8893668252436771956
+    second: Monster_88_Dark Snail_12
+  - first:
+      213: -2143224607853014707
+    second: Monster_88_Dark Snail_13
+  - first:
+      213: 2788277303636904491
+    second: Monster_88_Dark Snail_14
+  - first:
+      213: -384600436225260951
+    second: Monster_88_Dark Snail_15c
+  - first:
+      213: -7857308871364366284
+    second: Monster_88_Dark Snail_16
+  - first:
+      213: -7472804269794713904
+    second: Monster_88_Dark Snail_17
+  - first:
+      213: -5838963855972703233
+    second: Monster_88_Dark Snail_18
+  - first:
+      213: 3721390091591255240
+    second: Monster_88_Dark Snail_19
+  - first:
+      213: -5507069723417255287
+    second: Monster_88_Dark Snail_20
+  - first:
+      213: 6766553484406960853
+    second: Monster_88_Dark Snail_21
+  - first:
+      213: -1450548945452714498
+    second: Monster_88_Dark Snail_22d
+  - first:
+      213: 3228448880892539259
+    second: Monster_88_Dark Snail_23
+  - first:
+      213: 5482736675913363857
+    second: Monster_88_Dark Snail_24
+  - first:
+      213: 5143817477234809949
+    second: Monster_88_Dark Snail_25
+  - first:
+      213: -3832104104349482049
+    second: Monster_88_Dark Snail_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014dd890f103e3f40800000000000000
+      internalID: 5710054287414776848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c9d0446f8133240800000000000000
+      internalID: 4770183876298251319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f926d495c441d60800000000000000
+      internalID: 7859991196102467385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81801e215d0e78710800000000000000
+      internalID: 1695570990477674520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f67a1b12689a400800000000000000
+      internalID: 335947126488395521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6983cd9b8101fd520800000000000000
+      internalID: 2728917597593286806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_6
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002c1b8afa038c2c0800000000000000
+      internalID: -4411222304001768960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_7a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7387a6ba079da020800000000000000
+      internalID: 2354704252454536063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 381
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d9394e639e45a0800000000000000
+      internalID: -6535123907383797948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 381
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592bb366f20feaf90800000000000000
+      internalID: -6940345889362038123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 381
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b467f04d6f0f4620800000000000000
+      internalID: 2760442058517210291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_11b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420ee2ff298843690800000000000000
+      internalID: -7623318104303542236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 254
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b465758d7539480800000000000000
+      internalID: -8893668252436771956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 254
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d419b0f039cb142e0800000000000000
+      internalID: -2143224607853014707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_14
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 254
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2acf8a4f63f1b620800000000000000
+      internalID: 2788277303636904491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_15c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9624552e0ff99aaf0800000000000000
+      internalID: -384600436225260951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4303dc7163b35f290800000000000000
+      internalID: -7857308871364366284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de1dd6fb144b4890800000000000000
+      internalID: -7472804269794713904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3e6642f45d7fea0800000000000000
+      internalID: -5838963855972703233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c484ff429805a330800000000000000
+      internalID: 3721390091591255240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_20
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982e766a345f293b0800000000000000
+      internalID: -5507069723417255287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_21
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d232c71b80a7ed50800000000000000
+      internalID: 6766553484406960853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_22d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef539f06b6d9edbe0800000000000000
+      internalID: -1450548945452714498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b717b11f621cdcc20800000000000000
+      internalID: 3228448880892539259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19172dc35f7961c40800000000000000
+      internalID: 5482736675913363857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_25
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cd6001eb2826740800000000000000
+      internalID: 5143817477234809949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_88_Dark Snail_26
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3cee5de91a1dac0800000000000000
+      internalID: -3832104104349482049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_88_Dark Snail_0: 5710054287414776848
+      Monster_88_Dark Snail_1: 4770183876298251319
+      Monster_88_Dark Snail_10: 2760442058517210291
+      Monster_88_Dark Snail_11b: -7623318104303542236
+      Monster_88_Dark Snail_12: -8893668252436771956
+      Monster_88_Dark Snail_13: -2143224607853014707
+      Monster_88_Dark Snail_14: 2788277303636904491
+      Monster_88_Dark Snail_15c: -384600436225260951
+      Monster_88_Dark Snail_16: -7857308871364366284
+      Monster_88_Dark Snail_17: -7472804269794713904
+      Monster_88_Dark Snail_18: -5838963855972703233
+      Monster_88_Dark Snail_19: 3721390091591255240
+      Monster_88_Dark Snail_2: 7859991196102467385
+      Monster_88_Dark Snail_20: -5507069723417255287
+      Monster_88_Dark Snail_21: 6766553484406960853
+      Monster_88_Dark Snail_22d: -1450548945452714498
+      Monster_88_Dark Snail_23: 3228448880892539259
+      Monster_88_Dark Snail_24: 5482736675913363857
+      Monster_88_Dark Snail_25: 5143817477234809949
+      Monster_88_Dark Snail_26: -3832104104349482049
+      Monster_88_Dark Snail_3: 1695570990477674520
+      Monster_88_Dark Snail_4: 335947126488395521
+      Monster_88_Dark Snail_5: 2728917597593286806
+      Monster_88_Dark Snail_6: -4411222304001768960
+      Monster_88_Dark Snail_7a: 2354704252454536063
+      Monster_88_Dark Snail_8: -6535123907383797948
+      Monster_88_Dark Snail_9: -6940345889362038123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

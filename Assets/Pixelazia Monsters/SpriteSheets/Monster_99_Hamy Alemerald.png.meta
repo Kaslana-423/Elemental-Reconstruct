@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: d902d142618e9884bb663c3f990593e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 336115894191976394
+    second: Monster_99_Hamy Alemerald_0
+  - first:
+      213: 2974805630967517661
+    second: Monster_99_Hamy Alemerald_1
+  - first:
+      213: 1101306084099043505
+    second: Monster_99_Hamy Alemerald_2
+  - first:
+      213: 523230493228597879
+    second: Monster_99_Hamy Alemerald_3
+  - first:
+      213: 3871968283211052125
+    second: Monster_99_Hamy Alemerald_4
+  - first:
+      213: 2313103688500957935
+    second: Monster_99_Hamy Alemerald_5
+  - first:
+      213: -2268603533877794302
+    second: Monster_99_Hamy Alemerald_6
+  - first:
+      213: 1949254846956659277
+    second: Monster_99_Hamy Alemerald_7
+  - first:
+      213: 9071049500332828618
+    second: Monster_99_Hamy Alemerald_8
+  - first:
+      213: -433670240475014353
+    second: Monster_99_Hamy Alemerald_9
+  - first:
+      213: 9021810969844481357
+    second: Monster_99_Hamy Alemerald_10a
+  - first:
+      213: -969075760740214937
+    second: Monster_99_Hamy Alemerald_11
+  - first:
+      213: 9031505561240973763
+    second: Monster_99_Hamy Alemerald_12
+  - first:
+      213: 6642425996550127555
+    second: Monster_99_Hamy Alemerald_13
+  - first:
+      213: -2914605843255110813
+    second: Monster_99_Hamy Alemerald_14
+  - first:
+      213: -603924142343692506
+    second: Monster_99_Hamy Alemerald_15
+  - first:
+      213: 7496711129846082394
+    second: Monster_99_Hamy Alemerald_16
+  - first:
+      213: -9049114318293792606
+    second: Monster_99_Hamy Alemerald_17
+  - first:
+      213: -7046239125646789036
+    second: Monster_99_Hamy Alemerald_18
+  - first:
+      213: -7449351584955137644
+    second: Monster_99_Hamy Alemerald_19
+  - first:
+      213: 6541202408421292666
+    second: Monster_99_Hamy Alemerald_20b
+  - first:
+      213: -841637593297512380
+    second: Monster_99_Hamy Alemerald_21
+  - first:
+      213: -6784045229020767793
+    second: Monster_99_Hamy Alemerald_22
+  - first:
+      213: -1492387601238832480
+    second: Monster_99_Hamy Alemerald_23
+  - first:
+      213: 8695636460872133704
+    second: Monster_99_Hamy Alemerald_24
+  - first:
+      213: 6067858618030287278
+    second: Monster_99_Hamy Alemerald_25
+  - first:
+      213: -2668130978839806491
+    second: Monster_99_Hamy Alemerald_26c
+  - first:
+      213: -1758411350058485735
+    second: Monster_99_Hamy Alemerald_27
+  - first:
+      213: 8406073733361667496
+    second: Monster_99_Hamy Alemerald_28
+  - first:
+      213: 7359774078770656073
+    second: Monster_99_Hamy Alemerald_29
+  - first:
+      213: 6254940258820539668
+    second: Monster_99_Hamy Alemerald_30
+  - first:
+      213: -6457485422619465499
+    second: Monster_99_Hamy Alemerald_31
+  - first:
+      213: -8535931601582077535
+    second: Monster_99_Hamy Alemerald_32
+  - first:
+      213: 8235147048439345788
+    second: Monster_99_Hamy Alemerald_33
+  - first:
+      213: -1014775874960154453
+    second: Monster_99_Hamy Alemerald_34
+  - first:
+      213: -1654864612994813951
+    second: Monster_99_Hamy Alemerald_35
+  - first:
+      213: -3668713529718416622
+    second: Monster_99_Hamy Alemerald_36
+  - first:
+      213: 3466655200084631485
+    second: Monster_99_Hamy Alemerald_37
+  - first:
+      213: 4383735411144768573
+    second: Monster_99_Hamy Alemerald_38
+  - first:
+      213: 7945076908588543946
+    second: Monster_99_Hamy Alemerald_39
+  - first:
+      213: -2272959882029667250
+    second: Monster_99_Hamy Alemerald_40d
+  - first:
+      213: -2508846208138233325
+    second: Monster_99_Hamy Alemerald_41
+  - first:
+      213: 2657149557330986666
+    second: Monster_99_Hamy Alemerald_42
+  - first:
+      213: 3738120240695233177
+    second: Monster_99_Hamy Alemerald_43
+  - first:
+      213: 1573517540443248582
+    second: Monster_99_Hamy Alemerald_44
+  - first:
+      213: 301660174579446861
+    second: Monster_99_Hamy Alemerald_45
+  - first:
+      213: -9006261693523430902
+    second: Monster_99_Hamy Alemerald_46
+  - first:
+      213: -5562371624613604940
+    second: Monster_99_Hamy Alemerald_47
+  - first:
+      213: 8579345943503176482
+    second: Monster_99_Hamy Alemerald_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfecacff9f1aa400800000000000000
+      internalID: 336115894191976394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd196adc5f1a84920800000000000000
+      internalID: 2974805630967517661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b033bb6c00a84f00800000000000000
+      internalID: 1101306084099043505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7720b848c53e24700800000000000000
+      internalID: 523230493228597879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_4
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54bf5693aefbb530800000000000000
+      internalID: 3871968283211052125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2deb1ac8bc91020800000000000000
+      internalID: 2313103688500957935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_6
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aa4030b1d4480e0800000000000000
+      internalID: -2268603533877794302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_7
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d426f89a4f42d0b10800000000000000
+      internalID: 1949254846956659277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_8
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7a257c577d2ed70800000000000000
+      internalID: 9071049500332828618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_9
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b14d6c63b4bf9f0800000000000000
+      internalID: -433670240475014353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_10a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d7d480749e33d70800000000000000
+      internalID: 9021810969844481357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76753a0eab62d82f0800000000000000
+      internalID: -969075760740214937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1bbbcf47a565d70800000000000000
+      internalID: 9031505561240973763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_13
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfb0333043ae2c50800000000000000
+      internalID: 6642425996550127555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_14
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36350848d6d3d87d0800000000000000
+      internalID: -2914605843255110813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_15
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5258313e6e97f0800000000000000
+      internalID: -603924142343692506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_16
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b6136ad0ba90860800000000000000
+      internalID: 7496711129846082394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_17
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a88236c8761b6280800000000000000
+      internalID: -9049114318293792606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_18
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4563d5909dab63e90800000000000000
+      internalID: -7046239125646789036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_19
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49181cba3369e9890800000000000000
+      internalID: -7449351584955137644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_20b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a71e50fe407ca50800000000000000
+      internalID: 6541202408421292666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 564
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44813ed6117e154f0800000000000000
+      internalID: -841637593297512380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_22
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 564
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc99800ceca3ad1a0800000000000000
+      internalID: -6784045229020767793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_23
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 564
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa46f83269f94be0800000000000000
+      internalID: -1492387601238832480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_24
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 564
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ce73a2a4b1da870800000000000000
+      internalID: 8695636460872133704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_25
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 564
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ecf2a34d553450800000000000000
+      internalID: 6067858618030287278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_26c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb908d205e8fad0800000000000000
+      internalID: -2668130978839806491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918bfbe813ed897e0800000000000000
+      internalID: -1758411350058485735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_28
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad83c0f58f58a470800000000000000
+      internalID: 8406073733361667496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_29
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943b048e78b232660800000000000000
+      internalID: 7359774078770656073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_30
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c94a76030ec650800000000000000
+      internalID: 6254940258820539668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_31
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8e08aa8376266a0800000000000000
+      internalID: -6457485422619465499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_32
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a94ba40f674a8980800000000000000
+      internalID: -8535931601582077535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_33
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72755fdb9e194270800000000000000
+      internalID: 8235147048439345788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_34
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba02d5ed7bacae1f0800000000000000
+      internalID: -1014775874960154453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_35
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100741ff66db809e0800000000000000
+      internalID: -1654864612994813951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_36
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bd67e7b7c161dc0800000000000000
+      internalID: -3668713529718416622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_37
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1ecf89880c1030800000000000000
+      internalID: 3466655200084631485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_38
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cb592612826dc30800000000000000
+      internalID: 4383735411144768573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_39
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf24918a55924e60800000000000000
+      internalID: 7945076908588543946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_40d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c68eaa703d470e0800000000000000
+      internalID: -2272959882029667250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_41
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ab5d78aa9ce2dd0800000000000000
+      internalID: -2508846208138233325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_42
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ccc7b17710e420800000000000000
+      internalID: 2657149557330986666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_43
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4652bd8870e330800000000000000
+      internalID: 3738120240695233177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_44
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c757fdbdd146d510800000000000000
+      internalID: 1573517540443248582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_45
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44b0bc9456bf2400800000000000000
+      internalID: 301660174579446861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_46
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02f35bf4b4530380800000000000000
+      internalID: -9006261693523430902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_47
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b191366a7c7ec2b0800000000000000
+      internalID: -5562371624613604940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_99_Hamy Alemerald_48
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22302b72ea5ff0770800000000000000
+      internalID: 8579345943503176482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_99_Hamy Alemerald_0: 336115894191976394
+      Monster_99_Hamy Alemerald_1: 2974805630967517661
+      Monster_99_Hamy Alemerald_10a: 9021810969844481357
+      Monster_99_Hamy Alemerald_11: -969075760740214937
+      Monster_99_Hamy Alemerald_12: 9031505561240973763
+      Monster_99_Hamy Alemerald_13: 6642425996550127555
+      Monster_99_Hamy Alemerald_14: -2914605843255110813
+      Monster_99_Hamy Alemerald_15: -603924142343692506
+      Monster_99_Hamy Alemerald_16: 7496711129846082394
+      Monster_99_Hamy Alemerald_17: -9049114318293792606
+      Monster_99_Hamy Alemerald_18: -7046239125646789036
+      Monster_99_Hamy Alemerald_19: -7449351584955137644
+      Monster_99_Hamy Alemerald_2: 1101306084099043505
+      Monster_99_Hamy Alemerald_20b: 6541202408421292666
+      Monster_99_Hamy Alemerald_21: -841637593297512380
+      Monster_99_Hamy Alemerald_22: -6784045229020767793
+      Monster_99_Hamy Alemerald_23: -1492387601238832480
+      Monster_99_Hamy Alemerald_24: 8695636460872133704
+      Monster_99_Hamy Alemerald_25: 6067858618030287278
+      Monster_99_Hamy Alemerald_26c: -2668130978839806491
+      Monster_99_Hamy Alemerald_27: -1758411350058485735
+      Monster_99_Hamy Alemerald_28: 8406073733361667496
+      Monster_99_Hamy Alemerald_29: 7359774078770656073
+      Monster_99_Hamy Alemerald_3: 523230493228597879
+      Monster_99_Hamy Alemerald_30: 6254940258820539668
+      Monster_99_Hamy Alemerald_31: -6457485422619465499
+      Monster_99_Hamy Alemerald_32: -8535931601582077535
+      Monster_99_Hamy Alemerald_33: 8235147048439345788
+      Monster_99_Hamy Alemerald_34: -1014775874960154453
+      Monster_99_Hamy Alemerald_35: -1654864612994813951
+      Monster_99_Hamy Alemerald_36: -3668713529718416622
+      Monster_99_Hamy Alemerald_37: 3466655200084631485
+      Monster_99_Hamy Alemerald_38: 4383735411144768573
+      Monster_99_Hamy Alemerald_39: 7945076908588543946
+      Monster_99_Hamy Alemerald_4: 3871968283211052125
+      Monster_99_Hamy Alemerald_40d: -2272959882029667250
+      Monster_99_Hamy Alemerald_41: -2508846208138233325
+      Monster_99_Hamy Alemerald_42: 2657149557330986666
+      Monster_99_Hamy Alemerald_43: 3738120240695233177
+      Monster_99_Hamy Alemerald_44: 1573517540443248582
+      Monster_99_Hamy Alemerald_45: 301660174579446861
+      Monster_99_Hamy Alemerald_46: -9006261693523430902
+      Monster_99_Hamy Alemerald_47: -5562371624613604940
+      Monster_99_Hamy Alemerald_48: 8579345943503176482
+      Monster_99_Hamy Alemerald_5: 2313103688500957935
+      Monster_99_Hamy Alemerald_6: -2268603533877794302
+      Monster_99_Hamy Alemerald_7: 1949254846956659277
+      Monster_99_Hamy Alemerald_8: 9071049500332828618
+      Monster_99_Hamy Alemerald_9: -433670240475014353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

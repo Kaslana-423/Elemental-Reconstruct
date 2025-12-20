@@ -1,0 +1,1278 @@
+fileFormatVersion: 2
+guid: 4633192adef030a4eaec1b2a0b811697
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4601261074158456225
+    second: Monster_83_Warrior Orc_0
+  - first:
+      213: 6769626789968592120
+    second: Monster_83_Warrior Orc_1
+  - first:
+      213: -1009757509045985597
+    second: Monster_83_Warrior Orc_2
+  - first:
+      213: -7538463189283409441
+    second: Monster_83_Warrior Orc_3
+  - first:
+      213: 7248553272799949327
+    second: Monster_83_Warrior Orc_4
+  - first:
+      213: 5673069374349412464
+    second: Monster_83_Warrior Orc_5
+  - first:
+      213: 6948209215880476598
+    second: Monster_83_Warrior Orc_6
+  - first:
+      213: -2142444573038113900
+    second: Monster_83_Warrior Orc_7
+  - first:
+      213: 437468750574372653
+    second: Monster_83_Warrior Orc_8
+  - first:
+      213: 5715094136133258835
+    second: Monster_83_Warrior Orc_9a
+  - first:
+      213: -5905590528775305382
+    second: Monster_83_Warrior Orc_10
+  - first:
+      213: -6858806255710107772
+    second: Monster_83_Warrior Orc_11
+  - first:
+      213: 6808366716706166264
+    second: Monster_83_Warrior Orc_12
+  - first:
+      213: -5480244237558275793
+    second: Monster_83_Warrior Orc_13
+  - first:
+      213: 8325624070014217464
+    second: Monster_83_Warrior Orc_14
+  - first:
+      213: 7350726058289009135
+    second: Monster_83_Warrior Orc_15
+  - first:
+      213: 3223669048116429074
+    second: Monster_83_Warrior Orc_16
+  - first:
+      213: 8019825377671059371
+    second: Monster_83_Warrior Orc_17
+  - first:
+      213: -1715911639393116240
+    second: Monster_83_Warrior Orc_18
+  - first:
+      213: 3176916259683187453
+    second: Monster_83_Warrior Orc_19b
+  - first:
+      213: -8913424329598664503
+    second: Monster_83_Warrior Orc_20
+  - first:
+      213: -4696493760057108635
+    second: Monster_83_Warrior Orc_21
+  - first:
+      213: 8569762120020679962
+    second: Monster_83_Warrior Orc_22
+  - first:
+      213: -7570050118297916630
+    second: Monster_83_Warrior Orc_23
+  - first:
+      213: 8003287795096486173
+    second: Monster_83_Warrior Orc_24c
+  - first:
+      213: -269446888449253505
+    second: Monster_83_Warrior Orc_25
+  - first:
+      213: 5602759455575810120
+    second: Monster_83_Warrior Orc_26
+  - first:
+      213: -4549019873122058697
+    second: Monster_83_Warrior Orc_27
+  - first:
+      213: 3837586025817133907
+    second: Monster_83_Warrior Orc_28
+  - first:
+      213: 825139783295236025
+    second: Monster_83_Warrior Orc_29
+  - first:
+      213: 9096342695879475477
+    second: Monster_83_Warrior Orc_30
+  - first:
+      213: 1305839153300190078
+    second: Monster_83_Warrior Orc_31
+  - first:
+      213: -7341996046957024977
+    second: Monster_83_Warrior Orc_32
+  - first:
+      213: -6057278959544068412
+    second: Monster_83_Warrior Orc_33
+  - first:
+      213: -4453273562230040875
+    second: Monster_83_Warrior Orc_34
+  - first:
+      213: 7403954974677303423
+    second: Monster_83_Warrior Orc_35d
+  - first:
+      213: 2561459422152736375
+    second: Monster_83_Warrior Orc_36
+  - first:
+      213: 5520290551432018447
+    second: Monster_83_Warrior Orc_37
+  - first:
+      213: 8157292429586561656
+    second: Monster_83_Warrior Orc_38
+  - first:
+      213: -5194113586464954542
+    second: Monster_83_Warrior Orc_39
+  - first:
+      213: -976814191157245888
+    second: Monster_83_Warrior Orc_40
+  - first:
+      213: 4064039051407438802
+    second: Monster_83_Warrior Orc_41
+  - first:
+      213: 2596873773142154287
+    second: Monster_83_Warrior Orc_42
+  - first:
+      213: -4941327155585410492
+    second: Monster_83_Warrior Orc_43
+  - first:
+      213: -6686411657807180401
+    second: Monster_83_Warrior Orc_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f3fb7e690520c0800000000000000
+      internalID: -4601261074158456225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcbb0ec2bb82fd50800000000000000
+      internalID: 6769626789968592120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ced70c35ee9cf1f0800000000000000
+      internalID: -1009757509045985597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1776a7baff16790800000000000000
+      internalID: -7538463189283409441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f027cb01cc8089460800000000000000
+      internalID: 7248553272799949327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_5
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0788e3ce98acabe40800000000000000
+      internalID: 5673069374349412464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_6
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7b6a9f77ffc6060800000000000000
+      internalID: 6948209215880476598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_7
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b891113028442e0800000000000000
+      internalID: -2142444573038113900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_8
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 864
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27c156c283321600800000000000000
+      internalID: 437468750574372653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_9a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e042246d7105f40800000000000000
+      internalID: 5715094136133258835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57cf6704b02b0ea0800000000000000
+      internalID: -5905590528775305382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4870c29cc00a0d0a0800000000000000
+      internalID: -6858806255710107772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f51dd1e47d2c7e50800000000000000
+      internalID: 6808366716706166264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2125f9c6e242f3b0800000000000000
+      internalID: -5480244237558275793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_14
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fca3aa0bfe8a8370800000000000000
+      internalID: 8325624070014217464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_15
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe116897766030660800000000000000
+      internalID: 7350726058289009135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_16
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211c6666be5ccbc20800000000000000
+      internalID: 3223669048116429074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_17
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba71fbca0b42c4f60800000000000000
+      internalID: 8019825377671059371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_18
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 648
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfd30c847bdf28e0800000000000000
+      internalID: -1715911639393116240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_19b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa3493918ca61c20800000000000000
+      internalID: 3176916259683187453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 432
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c082fd2cc72d4480800000000000000
+      internalID: -8913424329598664503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 432
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56715fdeec3b2deb0800000000000000
+      internalID: -4696493760057108635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 432
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d5e6d5e39ede670800000000000000
+      internalID: 8569762120020679962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_23
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 432
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2be2f67687c1f690800000000000000
+      internalID: -7570050118297916630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_24c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1102fda8d3611f60800000000000000
+      internalID: 8003287795096486173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fd5288b7bb24cf0800000000000000
+      internalID: -269446888449253505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840ae874a0001cd40800000000000000
+      internalID: 5602759455575810120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73efd52f682aed0c0800000000000000
+      internalID: -4549019873122058697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_28
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35355d77828d14530800000000000000
+      internalID: 3837586025817133907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_29
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7fa59d24c737b00800000000000000
+      internalID: 825139783295236025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_30
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5118d17cc73bc3e70800000000000000
+      internalID: 9096342695879475477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_31
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7331429ac54f1210800000000000000
+      internalID: 1305839153300190078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_32
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29edceae7dfb1a90800000000000000
+      internalID: -7341996046957024977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_33
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c69dee01e830fba0800000000000000
+      internalID: -6057278959544068412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_34
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 216
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6d3a32a4bc232c0800000000000000
+      internalID: -4453273562230040875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_35d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7080a652d120c660800000000000000
+      internalID: 7403954974677303423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ebdf3f5c12c8320800000000000000
+      internalID: 2561459422152736375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_37
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0afc0f32030c9c40800000000000000
+      internalID: 5520290551432018447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_38
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a7d7ade36843170800000000000000
+      internalID: 8157292429586561656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_39
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257e9b3763dcae7b0800000000000000
+      internalID: -5194113586464954542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_40
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04803842ba8a172f0800000000000000
+      internalID: -976814191157245888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_41
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3b47c2cfd566830800000000000000
+      internalID: 4064039051407438802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_42
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c9aa610f2f90420800000000000000
+      internalID: 2596873773142154287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_43
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a175cd121ec6bb0800000000000000
+      internalID: -4941327155585410492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_83_Warrior Orc_44
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 0
+        width: 260
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d4f5af5081533a0800000000000000
+      internalID: -6686411657807180401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_83_Warrior Orc_0: -4601261074158456225
+      Monster_83_Warrior Orc_1: 6769626789968592120
+      Monster_83_Warrior Orc_10: -5905590528775305382
+      Monster_83_Warrior Orc_11: -6858806255710107772
+      Monster_83_Warrior Orc_12: 6808366716706166264
+      Monster_83_Warrior Orc_13: -5480244237558275793
+      Monster_83_Warrior Orc_14: 8325624070014217464
+      Monster_83_Warrior Orc_15: 7350726058289009135
+      Monster_83_Warrior Orc_16: 3223669048116429074
+      Monster_83_Warrior Orc_17: 8019825377671059371
+      Monster_83_Warrior Orc_18: -1715911639393116240
+      Monster_83_Warrior Orc_19b: 3176916259683187453
+      Monster_83_Warrior Orc_2: -1009757509045985597
+      Monster_83_Warrior Orc_20: -8913424329598664503
+      Monster_83_Warrior Orc_21: -4696493760057108635
+      Monster_83_Warrior Orc_22: 8569762120020679962
+      Monster_83_Warrior Orc_23: -7570050118297916630
+      Monster_83_Warrior Orc_24c: 8003287795096486173
+      Monster_83_Warrior Orc_25: -269446888449253505
+      Monster_83_Warrior Orc_26: 5602759455575810120
+      Monster_83_Warrior Orc_27: -4549019873122058697
+      Monster_83_Warrior Orc_28: 3837586025817133907
+      Monster_83_Warrior Orc_29: 825139783295236025
+      Monster_83_Warrior Orc_3: -7538463189283409441
+      Monster_83_Warrior Orc_30: 9096342695879475477
+      Monster_83_Warrior Orc_31: 1305839153300190078
+      Monster_83_Warrior Orc_32: -7341996046957024977
+      Monster_83_Warrior Orc_33: -6057278959544068412
+      Monster_83_Warrior Orc_34: -4453273562230040875
+      Monster_83_Warrior Orc_35d: 7403954974677303423
+      Monster_83_Warrior Orc_36: 2561459422152736375
+      Monster_83_Warrior Orc_37: 5520290551432018447
+      Monster_83_Warrior Orc_38: 8157292429586561656
+      Monster_83_Warrior Orc_39: -5194113586464954542
+      Monster_83_Warrior Orc_4: 7248553272799949327
+      Monster_83_Warrior Orc_40: -976814191157245888
+      Monster_83_Warrior Orc_41: 4064039051407438802
+      Monster_83_Warrior Orc_42: 2596873773142154287
+      Monster_83_Warrior Orc_43: -4941327155585410492
+      Monster_83_Warrior Orc_44: -6686411657807180401
+      Monster_83_Warrior Orc_5: 5673069374349412464
+      Monster_83_Warrior Orc_6: 6948209215880476598
+      Monster_83_Warrior Orc_7: -2142444573038113900
+      Monster_83_Warrior Orc_8: 437468750574372653
+      Monster_83_Warrior Orc_9a: 5715094136133258835
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

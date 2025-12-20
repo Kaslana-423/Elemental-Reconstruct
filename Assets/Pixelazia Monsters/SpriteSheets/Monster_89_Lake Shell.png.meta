@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 6c8b5e2d5e01cac47be86bdae6846f9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1242431992296542993
+    second: Monster_89_Lake Shell_0
+  - first:
+      213: 1139581995541345712
+    second: Monster_89_Lake Shell_1
+  - first:
+      213: 5909681547913675045
+    second: Monster_89_Lake Shell_2
+  - first:
+      213: 1630636077869100472
+    second: Monster_89_Lake Shell_3
+  - first:
+      213: 5107751123304256575
+    second: Monster_89_Lake Shell_4
+  - first:
+      213: 7118380766752683143
+    second: Monster_89_Lake Shell_5
+  - first:
+      213: -1711507454607219741
+    second: Monster_89_Lake Shell_6
+  - first:
+      213: 9105932119044931012
+    second: Monster_89_Lake Shell_7
+  - first:
+      213: -4926414407736245984
+    second: Monster_89_Lake Shell_8a
+  - first:
+      213: 9916707657802314
+    second: Monster_89_Lake Shell_9
+  - first:
+      213: 6613518511173018949
+    second: Monster_89_Lake Shell_10
+  - first:
+      213: -3959186576775395850
+    second: Monster_89_Lake Shell_11
+  - first:
+      213: 6780269650582598924
+    second: Monster_89_Lake Shell_12
+  - first:
+      213: -6870108638771697275
+    second: Monster_89_Lake Shell_13
+  - first:
+      213: -194982818045200581
+    second: Monster_89_Lake Shell_14
+  - first:
+      213: -8269872672670752993
+    second: Monster_89_Lake Shell_15
+  - first:
+      213: -8367422357705737295
+    second: Monster_89_Lake Shell_16b
+  - first:
+      213: 7319752125652032676
+    second: Monster_89_Lake Shell_17
+  - first:
+      213: -859905142843465330
+    second: Monster_89_Lake Shell_18
+  - first:
+      213: -1266843947626145778
+    second: Monster_89_Lake Shell_19
+  - first:
+      213: -5490823259643929193
+    second: Monster_89_Lake Shell_20
+  - first:
+      213: -4484087971790327760
+    second: Monster_89_Lake Shell_21c
+  - first:
+      213: -6461631434584107663
+    second: Monster_89_Lake Shell_22
+  - first:
+      213: 1599259240181745608
+    second: Monster_89_Lake Shell_23
+  - first:
+      213: -7455865396482586316
+    second: Monster_89_Lake Shell_24
+  - first:
+      213: 1101553533942050465
+    second: Monster_89_Lake Shell_25
+  - first:
+      213: -7601580755500886780
+    second: Monster_89_Lake Shell_26
+  - first:
+      213: -6990344890316671367
+    second: Monster_89_Lake Shell_27
+  - first:
+      213: 749473629292514987
+    second: Monster_89_Lake Shell_28
+  - first:
+      213: -6247621005029357065
+    second: Monster_89_Lake Shell_29
+  - first:
+      213: -6744677150272387708
+    second: Monster_89_Lake Shell_30
+  - first:
+      213: -3457997134678363507
+    second: Monster_89_Lake Shell_31d
+  - first:
+      213: 8564011607723984589
+    second: Monster_89_Lake Shell_32
+  - first:
+      213: -8970662568336188003
+    second: Monster_89_Lake Shell_33
+  - first:
+      213: -2583525377734652018
+    second: Monster_89_Lake Shell_34
+  - first:
+      213: -5728943406022646749
+    second: Monster_89_Lake Shell_35
+  - first:
+      213: 8242430304906899434
+    second: Monster_89_Lake Shell_36
+  - first:
+      213: -3001356261931708545
+    second: Monster_89_Lake Shell_37
+  - first:
+      213: -3762451023575460830
+    second: Monster_89_Lake Shell_38
+  - first:
+      213: 575338606788802703
+    second: Monster_89_Lake Shell_39
+  - first:
+      213: 4488345086096280411
+    second: Monster_89_Lake Shell_40
+  - first:
+      213: 6333568061423106389
+    second: Monster_89_Lake Shell_41
+  - first:
+      213: -7069682454075097627
+    second: Monster_89_Lake Shell_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec65998faef1cee0800000000000000
+      internalID: -1242431992296542993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b53ca489cb90df00800000000000000
+      internalID: 1139581995541345712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52143179e08630250800000000000000
+      internalID: 5909681547913675045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bde2539fde21a610800000000000000
+      internalID: 1630636077869100472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_4
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3417a9a59062e640800000000000000
+      internalID: 5107751123304256575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7843442b79199c260800000000000000
+      internalID: 7118380766752683143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_6
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e324b9b9018f38e0800000000000000
+      internalID: -1711507454607219741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_7
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 752
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd3e785405ce5e70800000000000000
+      internalID: 9105932119044931012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021c38a823cd1abb0800000000000000
+      internalID: -4926414407736245984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42e84d613b332000800000000000000
+      internalID: 9916707657802314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54520f5cb00f7cb50800000000000000
+      internalID: 6613518511173018949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5cecbf8c42e09c0800000000000000
+      internalID: -3959186576775395850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_12
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c057654e25b581e50800000000000000
+      internalID: 6780269650582598924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_13
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589aba9a79878a0a0800000000000000
+      internalID: -6870108638771697275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_14
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b377c19f8284b4df0800000000000000
+      internalID: -194982818045200581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_15
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 564
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fdfbfae928b3d80800000000000000
+      internalID: -8269872672670752993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_16b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbb94bb2b1f0eb80800000000000000
+      internalID: -8367422357705737295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac566dc6cbf49560800000000000000
+      internalID: 7319752125652032676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a84c14d00114f0800000000000000
+      internalID: -859905142843465330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_19
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08d3e344244b6ee0800000000000000
+      internalID: -1266843947626145778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_20
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 376
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d9874465dacc3b0800000000000000
+      internalID: -5490823259643929193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_21c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030f5d35fb155c1c0800000000000000
+      internalID: -4484087971790327760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175dd18027ca356a0800000000000000
+      internalID: -6461631434584107663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c74bc24ec5b13610800000000000000
+      internalID: 1599259240181745608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_24
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439478dbce1778890800000000000000
+      internalID: -7455865396482586316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_25
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae21b35a11894f00800000000000000
+      internalID: 1101553533942050465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_26
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4059ce8e392c18690800000000000000
+      internalID: -7601580755500886780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_27
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9763533db5e4dfe90800000000000000
+      internalID: -6990344890316671367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_28
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baec0828b4aa66a00800000000000000
+      internalID: 749473629292514987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_29
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9c4f71ccdfb49a0800000000000000
+      internalID: -6247621005029357065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_30
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 188
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485025dddd71662a0800000000000000
+      internalID: -6744677150272387708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_31d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d827d216de9b200d0800000000000000
+      internalID: -3457997134678363507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6c5b2ee2b79d670800000000000000
+      internalID: 8564011607723984589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_33
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d9d663cedc18380800000000000000
+      internalID: -8970662568336188003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_34
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f4be76b59752cd0800000000000000
+      internalID: -2583525377734652018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_35
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32424b15354be70b0800000000000000
+      internalID: -5728943406022646749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_36
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefe3e921bef26270800000000000000
+      internalID: 8242430304906899434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_37
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f8a23b16a0956d0800000000000000
+      internalID: -3001356261931708545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_38
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224daf67ab619cbc0800000000000000
+      internalID: -3762451023575460830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_39
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88f6332a630cf700800000000000000
+      internalID: 575338606788802703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_40
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b8326531ec94e30800000000000000
+      internalID: 4488345086096280411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_41
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55932ed589a55e750800000000000000
+      internalID: 6333568061423106389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_89_Lake Shell_42
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 0
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edba0ac34173ed90800000000000000
+      internalID: -7069682454075097627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_89_Lake Shell_0: -1242431992296542993
+      Monster_89_Lake Shell_1: 1139581995541345712
+      Monster_89_Lake Shell_10: 6613518511173018949
+      Monster_89_Lake Shell_11: -3959186576775395850
+      Monster_89_Lake Shell_12: 6780269650582598924
+      Monster_89_Lake Shell_13: -6870108638771697275
+      Monster_89_Lake Shell_14: -194982818045200581
+      Monster_89_Lake Shell_15: -8269872672670752993
+      Monster_89_Lake Shell_16b: -8367422357705737295
+      Monster_89_Lake Shell_17: 7319752125652032676
+      Monster_89_Lake Shell_18: -859905142843465330
+      Monster_89_Lake Shell_19: -1266843947626145778
+      Monster_89_Lake Shell_2: 5909681547913675045
+      Monster_89_Lake Shell_20: -5490823259643929193
+      Monster_89_Lake Shell_21c: -4484087971790327760
+      Monster_89_Lake Shell_22: -6461631434584107663
+      Monster_89_Lake Shell_23: 1599259240181745608
+      Monster_89_Lake Shell_24: -7455865396482586316
+      Monster_89_Lake Shell_25: 1101553533942050465
+      Monster_89_Lake Shell_26: -7601580755500886780
+      Monster_89_Lake Shell_27: -6990344890316671367
+      Monster_89_Lake Shell_28: 749473629292514987
+      Monster_89_Lake Shell_29: -6247621005029357065
+      Monster_89_Lake Shell_3: 1630636077869100472
+      Monster_89_Lake Shell_30: -6744677150272387708
+      Monster_89_Lake Shell_31d: -3457997134678363507
+      Monster_89_Lake Shell_32: 8564011607723984589
+      Monster_89_Lake Shell_33: -8970662568336188003
+      Monster_89_Lake Shell_34: -2583525377734652018
+      Monster_89_Lake Shell_35: -5728943406022646749
+      Monster_89_Lake Shell_36: 8242430304906899434
+      Monster_89_Lake Shell_37: -3001356261931708545
+      Monster_89_Lake Shell_38: -3762451023575460830
+      Monster_89_Lake Shell_39: 575338606788802703
+      Monster_89_Lake Shell_4: 5107751123304256575
+      Monster_89_Lake Shell_40: 4488345086096280411
+      Monster_89_Lake Shell_41: 6333568061423106389
+      Monster_89_Lake Shell_42: -7069682454075097627
+      Monster_89_Lake Shell_5: 7118380766752683143
+      Monster_89_Lake Shell_6: -1711507454607219741
+      Monster_89_Lake Shell_7: 9105932119044931012
+      Monster_89_Lake Shell_8a: -4926414407736245984
+      Monster_89_Lake Shell_9: 9916707657802314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

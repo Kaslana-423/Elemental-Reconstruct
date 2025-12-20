@@ -1,76 +1,80 @@
 using UnityEngine;
+using System.Collections;
 
-// 确保物体有刚体和碰撞体，否则报错
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(Collider2D))]
 public class Projectile : MonoBehaviour
 {
     // --- 内部数据 ---
-    private SpellStats currentStats; // 保存接收到的最终属性
-    private MagicItem triggerSpell;  // 保存触发槽里的法术
-
+    private SpellStats currentStats;
+    private MagicItem triggerSpell;
+    private GameObject mySourcePrefab;
     private Rigidbody2D rb;
-    private Transform targetEnemy;   // 追踪目标
-    private Transform playerTransform; // 环绕中心（玩家）
-    private float initialOrbitOffsetAngle;// 新增一个变量，存储这个子弹特有的初始角度偏移
+    private Transform targetEnemy;
+    private Transform playerTransform; // 建议在 GameManager 或 PlayerController 里存单例
+    private float initialOrbitOffsetAngle;
     private bool hasInitialized = false;
-
-    // 【新增】记录子弹出生时的全球时间戳
     private float spawnTime;
 
-    // --- 初始化 (由 WandController 调用) ---
-    public void Initialize(SpellStats finalStats, MagicItem triggerItem, float initialOrbitOffset = 0f)
+    // --- 优化：缓存碰撞检测数组，避免 GC ---
+    private Collider2D[] enemySearchCache = new Collider2D[50];
+
+    void Awake()
     {
+        rb = GetComponent<Rigidbody2D>();
+        // 尝试获取玩家单例，避免重复查找
+        if (PlayerInventory.PlayerInstance != null)
+        {
+            playerTransform = PlayerInventory.PlayerInstance.transform;
+        }
+    }
+
+    // --- 初始化 ---
+    public void Initialize(SpellStats finalStats, MagicItem triggerItem, float initialOrbitOffset, GameObject sourcePrefab)
+    {
+        this.mySourcePrefab = sourcePrefab;
         this.currentStats = finalStats;
         this.triggerSpell = triggerItem;
-        this.rb = GetComponent<Rigidbody2D>();
-        // 【新增】保存初始偏移角
         this.initialOrbitOffsetAngle = initialOrbitOffset;
         this.spawnTime = Time.time;
+
+        // 1. 彻底重置状态 (非常重要)
+        ResetState();
+
+        // 2. 确保玩家引用存在 (双重保险)
+        if (playerTransform == null)
+        {
+            GameObject player = GameObject.FindGameObjectWithTag("Player");
+            if (player) playerTransform = player.transform;
+        }
+
+        // 3. 模式分支
         if (currentStats.isOrbiting)
         {
-            // --- 环绕模式初始化 ---
-
-            // A. 找到玩家 (中心点)
-            GameObject player = GameObject.FindGameObjectWithTag("Player");
-            if (player != null)
-            {
-                playerTransform = player.transform;
-
-                // B. 计算初始角度 (防止子弹瞬移)
-                // 计算当前生成点相对于玩家的角度，作为起始点
-                // Vector3 dir = transform.position - playerTransform.position;
-                // currentOrbitAngle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
-            }
-            rb.bodyType = RigidbodyType2D.Kinematic;
-            rb.velocity = Vector2.zero; // 清空速度
-            // 【新增】环绕物体通常不需要重力
-            rb.gravityScale = 0f;
+            rb.bodyType = RigidbodyType2D.Kinematic; // 环绕不受到力
+            rb.velocity = Vector2.zero;
+            rb.angularVelocity = 0f;
         }
         else
         {
-            // 1. 应用基础物理属性
-            rb.drag = currentStats.drag; // 阻力
+            rb.bodyType = RigidbodyType2D.Dynamic; // 普通子弹需要物理
+            rb.drag = currentStats.drag;
+            rb.gravityScale = 0f; // 这里的游戏应该不需要重力
 
-            // 2. 初始速度 (应用偏移度 Deviation)
-            // 如果有偏移度，随机旋转一下发射角度
+            // 处理初始偏移 (Deviation)
             float randomAngle = 0f;
             if (currentStats.deviation > 0)
             {
                 randomAngle = Random.Range(-currentStats.deviation, currentStats.deviation);
             }
-            // 设置初始速度方向
             Vector2 finalDir = Quaternion.Euler(0, 0, randomAngle) * transform.right;
             rb.velocity = finalDir * currentStats.speed;
         }
-        // 3. 应用大小 (Radius 用来控制大小)
-        // 如果 radius 是 0，默认给个 1，防止看不见
-        float scale = currentStats.radius > 0 ? currentStats.radius : 1f;
 
-        // 4. 应用寿命
-        Destroy(gameObject, currentStats.lifetime > 0 ? currentStats.lifetime : 5f);
+        // 5. 【优化】启动寿命倒计时 (代替 Destroy)
+        StartCoroutine(LifeTimeRoutine(currentStats.lifetime > 0 ? currentStats.lifetime : 5f));
 
-        // 5. 如果是追踪模式，立刻找个目标
+        // 6. 追踪初始化
         if (currentStats.isHoming)
         {
             FindNearestEnemy();
@@ -79,190 +83,201 @@ public class Projectile : MonoBehaviour
         hasInitialized = true;
     }
 
+    private void ResetState()
+    {
+        hasInitialized = false;
+        targetEnemy = null;
+        StopAllCoroutines(); // 停止所有正在运行的逻辑（寿命、特效等）
+
+        // 重置物理状态
+        if (rb)
+        {
+            rb.velocity = Vector2.zero;
+            rb.angularVelocity = 0f;
+        }
+
+        // 重置 TrailRenderer (如果有)
+        TrailRenderer trail = GetComponent<TrailRenderer>();
+        if (trail) trail.Clear();
+    }
+
+    // 【新增】寿命协程：代替 Destroy(gameObject, time)
+    IEnumerator LifeTimeRoutine(float time)
+    {
+        yield return new WaitForSeconds(time);
+        ReturnToPool(); // 时间到，回家
+    }
+
     void Update()
     {
         if (!hasInitialized) return;
-        if (currentStats.isOrbiting && playerTransform != null)
+
+        // 环绕逻辑
+        if (currentStats.isOrbiting)
         {
             OrbitMovement();
         }
+        // 普通逻辑
         else
         {
-            // --- 逻辑 1: 处理加速度 ---
+            // 加速度
             if (currentStats.acceleration != 0)
             {
-                // 沿着当前飞行方向加速
                 rb.velocity += (Vector2)transform.right * currentStats.acceleration * Time.deltaTime;
             }
 
-            // --- 逻辑 2: 处理追踪 (Homing) ---
+            // 追踪
             if (currentStats.isHoming)
             {
                 HandleHomingLogic();
             }
 
-            // --- 逻辑 3: 始终让子弹头朝向飞行方向 ---
-            // 这样看起来比较自然
-            if (rb.velocity != Vector2.zero)
+            // 朝向修正
+            if (rb.velocity.sqrMagnitude > 0.1f) // 速度太小就不转了，防止抖动
             {
                 float angle = Mathf.Atan2(rb.velocity.y, rb.velocity.x) * Mathf.Rad2Deg;
                 transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
             }
         }
-
-
     }
 
-    // --- 修改 OrbitMovement 方法 ---
     void OrbitMovement()
     {
         if (playerTransform == null) return;
-
-        // 1. 计算子弹已经存活了多久
         float timeAlive = Time.time - spawnTime;
-
-        // 2. 使用 "存活时间" 来计算基准角度，而不是全球时间
         float baseAngle = timeAlive * currentStats.angularSpeed;
-
-        // 3. 加上这个子弹特有的队形偏移量，得到最终角度
         float finalAngle = baseAngle + initialOrbitOffsetAngle;
 
-        // 4. 数学公式计算位置 (后面代码保持不变)
         float rad = finalAngle * Mathf.Deg2Rad;
         float r = currentStats.radius > 0 ? currentStats.radius : 2f;
+
+        // 优化：直接计算 offset
         Vector3 offset = new Vector3(Mathf.Cos(rad), Mathf.Sin(rad), 0) * r;
 
         rb.MovePosition(playerTransform.position + offset);
         transform.rotation = Quaternion.Euler(0, 0, finalAngle + 90f);
     }
-    // 追踪逻辑具体实现
+
     void HandleHomingLogic()
     {
-        // 如果目标没了，重找
-        if (targetEnemy == null)
+        if (targetEnemy == null || !targetEnemy.gameObject.activeInHierarchy) // 检查目标是否还活着
         {
             FindNearestEnemy();
-            // 如果还是没找到，就保持直线飞行
             return;
         }
 
-        // 1. 获取当前速度方向的角度
+        // 向量计算优化
         Vector2 currentVelocity = rb.velocity;
-        // 防止速度为0时计算错误
-        if (currentVelocity == Vector2.zero) currentVelocity = transform.right;
-
-        float currentAngle = Mathf.Atan2(currentVelocity.y, currentVelocity.x) * Mathf.Rad2Deg;
-
-        // 2. 计算目标方向的角度
         Vector2 directionToTarget = (Vector2)targetEnemy.position - rb.position;
+
+        // 使用 Vector3.RotateTowards 或者 Lerp 插值角度可能比 Atan2 更快，但 Atan2 精度更高
+        // 这里的逻辑保持不变，因为数学消耗还是小于 FindObject
+        float currentAngle = Mathf.Atan2(currentVelocity.y, currentVelocity.x) * Mathf.Rad2Deg;
         float targetAngle = Mathf.Atan2(directionToTarget.y, directionToTarget.x) * Mathf.Rad2Deg;
 
-        // 3. 使用 MoveTowardsAngle 平滑转向
-        // angularSpeed 是每秒转动的度数，确保你的追踪修饰符里这个数值大于0 (例如 180 或 360)
-        float turnSpeed = currentStats.angularSpeed > 0 ? currentStats.angularSpeed : 180f; // 默认给个值防止不动
+        float turnSpeed = currentStats.angularSpeed > 0 ? currentStats.angularSpeed : 360f;
         float newAngle = Mathf.MoveTowardsAngle(currentAngle, targetAngle, turnSpeed * Time.deltaTime);
 
-        // 4. 将新角度转回速度向量
         Quaternion rotation = Quaternion.AngleAxis(newAngle, Vector3.forward);
         rb.velocity = rotation * Vector3.right * currentStats.speed;
     }
 
-    // 碰撞检测
+    // 【优化】使用 Physics2D 查找，而不是遍历全图 tag
+    void FindNearestEnemy()
+    {
+        // 设定一个合理的搜索半径，比如 20 米
+        float searchRadius = 20f;
+
+        // 使用 NonAlloc 版本避免产生 GC 垃圾内存
+        // enemySearchCache 是我们在类开头定义的数组
+        int count = Physics2D.OverlapCircleNonAlloc(transform.position, searchRadius, enemySearchCache);
+
+        float minDistance = Mathf.Infinity;
+        Transform nearest = null;
+
+        for (int i = 0; i < count; i++)
+        {
+            Collider2D col = enemySearchCache[i];
+            // 手动检查 Tag
+            if (col.CompareTag("Enemy"))
+            {
+                float dist = (col.transform.position - transform.position).sqrMagnitude; // 用平方距离比较更快
+                if (dist < minDistance)
+                {
+                    minDistance = dist;
+                    nearest = col.transform;
+                }
+            }
+        }
+        targetEnemy = nearest;
+    }
+
     void OnTriggerEnter2D(Collider2D other)
     {
         if (!hasInitialized) return;
 
         if (other.CompareTag("Enemy"))
         {
-            // 1. 造成伤害
+            // 造成伤害逻辑.
             Enemy enemy = other.GetComponent<Enemy>();
             if (enemy != null)
             {
-                // 计算暴击
                 bool isCrit = Random.value < currentStats.critRate;
                 float finalDamage = currentStats.damage * (isCrit ? currentStats.critMultiplier : 1f);
-
-                // 应用击退 (Knockback)
                 ApplyKnockback(other.transform);
-
                 enemy.TakeDamage(finalDamage);
             }
 
-            // 2. 触发逻辑 (如果有 Trigger 法术)
+            // 触发逻辑
             if (triggerSpell != null && triggerSpell.itemPrefab != null)
             {
                 SpawnTriggerSpell(transform.position);
             }
 
-            // 3. 穿透逻辑
+            // 穿透逻辑
             currentStats.penetration--;
             if (currentStats.penetration < 0)
             {
-                Destroy(gameObject); // 穿透次数用完，销毁
+                ReturnToPool(); // 回家
             }
         }
-        // else if (other.CompareTag("Wall"))
-        // {
-        //     // 4. 弹射逻辑 (Bounce)
-        //     if (currentStats.bounceCount > 0)
-        //     {
-        //         // 简单的反弹处理：在 OnTrigger 里做物理反弹比较麻烦
-        //         // 这里简单处理为：碰到墙不销毁，而是减少一次弹射次数
-        //         // 真正的反弹建议把 Collider 的 IsTrigger 去掉，或者用 Raycast 计算法线
-        //         currentStats.bounceCount--;
-        //     }
-        //     else
-        //     {
-        //         Destroy(gameObject); // 撞墙销毁
-        //     }
-        // }
     }
 
-    // 击退效果
+    void SpawnTriggerSpell(Vector3 pos)
+    {
+        // 使用对象池生成
+        if (ObjectPoolManager.Instance != null)
+        {
+            GameObject newObj = ObjectPoolManager.Instance.Spawn(triggerSpell.itemPrefab, pos, Quaternion.identity);
+            Projectile newScript = newObj.GetComponent<Projectile>();
+            if (newScript != null)
+            {
+                newScript.Initialize(triggerSpell.stats, null, 0f, triggerSpell.itemPrefab);
+            }
+        }
+    }
+
     void ApplyKnockback(Transform target)
     {
         if (currentStats.knockback <= 0) return;
-
-        Rigidbody2D targetRb = target.GetComponent<Rigidbody2D>();
-        if (targetRb != null)
+        // 尝试获取 Rigidbody2D，如果没有就算了，不要报错
+        if (target.TryGetComponent<Rigidbody2D>(out Rigidbody2D targetRb))
         {
             Vector2 dir = (target.position - transform.position).normalized;
-            // 瞬间施加一个力
             targetRb.AddForce(dir * currentStats.knockback, ForceMode2D.Impulse);
         }
     }
 
-    // 生成触发法术
-    void SpawnTriggerSpell(Vector3 pos)
+    // 封装一个统一的回收方法
+    void ReturnToPool()
     {
-        // 生成
-        GameObject newObj = Instantiate(triggerSpell.itemPrefab, pos, Quaternion.identity);
-        Projectile newScript = newObj.GetComponent<Projectile>();
-
-        if (newScript != null)
+        if (ObjectPoolManager.Instance != null && mySourcePrefab != null)
         {
-            // 触发出来的法术，不再继承 Trigger，防止无限循环
-            // 它的属性直接使用它自己的 stats
-            newScript.Initialize(triggerSpell.stats, null);
+            ObjectPoolManager.Instance.ReturnToPool(this.gameObject, mySourcePrefab);
         }
-    }
-
-    // 寻找最近的敌人
-    void FindNearestEnemy()
-    {
-        GameObject[] enemies = GameObject.FindGameObjectsWithTag("Enemy");
-        float minDistance = Mathf.Infinity;
-        Transform nearest = null;
-
-        foreach (GameObject go in enemies)
+        else
         {
-            float dist = Vector2.Distance(transform.position, go.transform.position);
-            if (dist < minDistance)
-            {
-                minDistance = dist;
-                nearest = go.transform;
-            }
+            Destroy(gameObject); // 保底措施
         }
-        targetEnemy = nearest;
     }
 }

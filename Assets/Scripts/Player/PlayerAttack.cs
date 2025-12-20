@@ -6,17 +6,27 @@ public class PlayerAttack : MonoBehaviour
 {
     [Header("设置")]
     public Transform firePoint; // 发射点 (现在它不需要旋转了，固定在角色前方即可)
-    public float fireInterval = 0.2f;
+    [Header("法杖设置")]
+    public float fireInterval;
 
     private float nextFireTime = 0f;
     private int currentSlotIndex = 0;
     private Coroutine firingCoroutine;
+    private PlayerController playerController;
+    private Character playerCharacter;
 
     // 缓存摄像机引用，提升性能
     private Camera mainCamera;
 
     void Start()
     {
+        playerController = GetComponent<PlayerController>();
+        playerCharacter = GetComponent<Character>();
+
+        if (playerController == null || playerCharacter == null)
+        {
+            Debug.LogError("PlayerAttack: 缺少必要的组件 (PlayerController 或 Character)！");
+        }
         mainCamera = Camera.main;
     }
 
@@ -44,34 +54,65 @@ public class PlayerAttack : MonoBehaviour
     // ... (这个协程也保持不变) ...
     IEnumerator FireManagementRoutine()
     {
+        // 假设 PlayerInventory 是单例或能全局访问
         var allSlots = PlayerInventory.PlayerInstance.wands;
+
+        // 获取法杖基础间隔 (如果没找到组件就用默认值 0.5s)
+        float baseInterval = fireInterval;
+
         while (true)
         {
             if (Time.time >= nextFireTime)
             {
                 var slotData = allSlots[currentSlotIndex];
-                bool firedSuccessfully = false;
+                // ============ 【核心修改区域 开始】 ============
 
-                if (slotData != null &&
+                float manaCost = slotData.GetFinalManaCost();
+                bool castSuccess = false;
+
+                // 【关键修改】直接操作 Character 组件进行扣蓝
+                if (playerCharacter != null && playerCharacter.ConsumeMP(manaCost))
+                {
+                    // --- A. 扣款成功 ---
+
+                    // 【关键新增】通知 PlayerController 刷新战斗状态
+                    if (playerController != null)
+                    {
+                        playerController.NotifyAttackPerformed();
+                    }
+
+                    // 执行发射
+                    if (slotData != null &&
                     slotData.originalMagic != null &&
                     slotData.originalMagic.itemPrefab != null)
-                {
-                    // 调用修改后的发射方法
-                    CalculateAndSpawn(slotData);
-                    firedSuccessfully = true;
+                    {
+                        CalculateAndSpawn(slotData);
+                        castSuccess = true;
+                    }
                 }
+                else
+                {
+                    // --- B. 余额不足 ---
+                    // 缺蓝处理...
+                    castSuccess = false;
+                }
+                // =========== 【核心修改区域】 ===========
 
+                // 1. 调用新方法计算当前槽位的实际延迟
+                // 传入法杖的基础间隔
+                float currentSlotDelay = slotData.GetFinalFireDelay(baseInterval);
+
+                // 2. (可选) 调试日志，验证计算结果
+                // Debug.Log($"槽位[{currentSlotIndex}] 发射。基础:{baseInterval:F2}, 最终延迟:{currentSlotDelay:F2}");
+
+                // 3. 设置下一次允许开火的时间
+                if (castSuccess) nextFireTime = Time.time + currentSlotDelay;
                 currentSlotIndex++;
                 if (currentSlotIndex >= allSlots.Length) currentSlotIndex = 0;
-
-                // 【注意】这里还没集成上一条建议提到的 CalculateDelayForSlot
-                // 暂时先用全局的 fireInterval，等你准备好了再替换
-                if (firedSuccessfully) nextFireTime = Time.time + fireInterval;
             }
             yield return null;
         }
     }
-
     // =========== 【核心修改区域】 ===========
     void CalculateAndSpawn(WandStorage data)
     {
@@ -117,8 +158,6 @@ public class PlayerAttack : MonoBehaviour
         // 5. 生成基准旋转四元数
         Quaternion baseAimRotation = Quaternion.Euler(0, 0, baseAimAngle);
 
-        // ---------------------------
-
         // D. 循环生成实体
         for (int j = 0; j < projectileCount; j++)
         {
@@ -136,7 +175,7 @@ public class PlayerAttack : MonoBehaviour
             Quaternion finalRotation = baseAimRotation * Quaternion.Euler(0, 0, randomSpreadOffset);
 
             // 生成子弹
-            GameObject spellObj = Instantiate(baseItem.itemPrefab, firePoint.position, finalRotation);
+            GameObject spellObj = ObjectPoolManager.Instance.Spawn(baseItem.itemPrefab, firePoint.position, finalRotation);
             Projectile pScript = spellObj.GetComponent<Projectile>();
 
             // 初始化子弹
@@ -155,7 +194,7 @@ public class PlayerAttack : MonoBehaviour
                 }
 
                 // 【关键修改】调用新的 Initialize，传入计算好的偏移角
-                pScript.Initialize(finalStats, trigger, currentOrbitOffset);
+                pScript.Initialize(finalStats, trigger, currentOrbitOffset, baseItem.itemPrefab);
             }
         }
     }

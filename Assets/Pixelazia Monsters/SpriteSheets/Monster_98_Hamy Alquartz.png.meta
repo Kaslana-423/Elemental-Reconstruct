@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: aaa4bc5382014c247888a10afa460dfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9079823776779289583
+    second: Monster_98_Hamy Alquartz_0
+  - first:
+      213: 8817545701253605997
+    second: Monster_98_Hamy Alquartz_1
+  - first:
+      213: 2073407821008758986
+    second: Monster_98_Hamy Alquartz_2
+  - first:
+      213: -1443917613262764574
+    second: Monster_98_Hamy Alquartz_3
+  - first:
+      213: 6781849343053118213
+    second: Monster_98_Hamy Alquartz_4
+  - first:
+      213: -6184912652620329461
+    second: Monster_98_Hamy Alquartz_5
+  - first:
+      213: -6632183848143792387
+    second: Monster_98_Hamy Alquartz_6
+  - first:
+      213: -5900198873632719560
+    second: Monster_98_Hamy Alquartz_7
+  - first:
+      213: 942234604095755781
+    second: Monster_98_Hamy Alquartz_8
+  - first:
+      213: 4221725947286272922
+    second: Monster_98_Hamy Alquartz_9
+  - first:
+      213: -1507792070479880002
+    second: Monster_98_Hamy Alquartz_10a
+  - first:
+      213: 1515271588108972207
+    second: Monster_98_Hamy Alquartz_11
+  - first:
+      213: 5112898002006810458
+    second: Monster_98_Hamy Alquartz_12
+  - first:
+      213: 413672161613559228
+    second: Monster_98_Hamy Alquartz_13
+  - first:
+      213: -8840770207848540460
+    second: Monster_98_Hamy Alquartz_14
+  - first:
+      213: -3286657190103553702
+    second: Monster_98_Hamy Alquartz_15
+  - first:
+      213: 7888198632159149056
+    second: Monster_98_Hamy Alquartz_16
+  - first:
+      213: -5259053504642221034
+    second: Monster_98_Hamy Alquartz_17
+  - first:
+      213: 611303186686668647
+    second: Monster_98_Hamy Alquartz_18
+  - first:
+      213: 2607849397850787114
+    second: Monster_98_Hamy Alquartz_19
+  - first:
+      213: -1934547066073180387
+    second: Monster_98_Hamy Alquartz_20b
+  - first:
+      213: -2047003386204078192
+    second: Monster_98_Hamy Alquartz_21
+  - first:
+      213: 2315107467143183966
+    second: Monster_98_Hamy Alquartz_22
+  - first:
+      213: 6011263795002345511
+    second: Monster_98_Hamy Alquartz_23
+  - first:
+      213: 381939715702765868
+    second: Monster_98_Hamy Alquartz_24
+  - first:
+      213: 7020819701571778653
+    second: Monster_98_Hamy Alquartz_25
+  - first:
+      213: -5497050561331646152
+    second: Monster_98_Hamy Alquartz_26c
+  - first:
+      213: 5066151186969794341
+    second: Monster_98_Hamy Alquartz_27
+  - first:
+      213: -8264572259440496943
+    second: Monster_98_Hamy Alquartz_28
+  - first:
+      213: 4182244585365606387
+    second: Monster_98_Hamy Alquartz_29
+  - first:
+      213: -6285447675323022711
+    second: Monster_98_Hamy Alquartz_30
+  - first:
+      213: -7221021672153118187
+    second: Monster_98_Hamy Alquartz_31
+  - first:
+      213: -5975125281419002372
+    second: Monster_98_Hamy Alquartz_32
+  - first:
+      213: -7593598119023814598
+    second: Monster_98_Hamy Alquartz_33
+  - first:
+      213: 4598912334837146505
+    second: Monster_98_Hamy Alquartz_34
+  - first:
+      213: -250485920324122615
+    second: Monster_98_Hamy Alquartz_35
+  - first:
+      213: -5257043495082705487
+    second: Monster_98_Hamy Alquartz_36
+  - first:
+      213: 8285525438645488541
+    second: Monster_98_Hamy Alquartz_37
+  - first:
+      213: -4799111194517760940
+    second: Monster_98_Hamy Alquartz_38
+  - first:
+      213: 7492623338779328639
+    second: Monster_98_Hamy Alquartz_39
+  - first:
+      213: -2708483479988717365
+    second: Monster_98_Hamy Alquartz_40d
+  - first:
+      213: -382268781941667251
+    second: Monster_98_Hamy Alquartz_41
+  - first:
+      213: 9108311812898457853
+    second: Monster_98_Hamy Alquartz_42
+  - first:
+      213: -4123441353489256593
+    second: Monster_98_Hamy Alquartz_43
+  - first:
+      213: 6270381673093823076
+    second: Monster_98_Hamy Alquartz_44
+  - first:
+      213: 5214096085520323196
+    second: Monster_98_Hamy Alquartz_45
+  - first:
+      213: -7119735169090251579
+    second: Monster_98_Hamy Alquartz_46
+  - first:
+      213: -5237864270252241256
+    second: Monster_98_Hamy Alquartz_47
+  - first:
+      213: 574649905389956027
+    second: Monster_98_Hamy Alquartz_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cbce9c16cfdf180800000000000000
+      internalID: -9079823776779289583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a6ef119173e5a70800000000000000
+      internalID: 8817545701253605997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac86eb58d6936cc10800000000000000
+      internalID: 2073407821008758986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e50b88b49c26fbe0800000000000000
+      internalID: -1443917613262764574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_4
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bb5e4bb08fd1e50800000000000000
+      internalID: 6781849343053118213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e0fb526b6ca2aa0800000000000000
+      internalID: -6184912652620329461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_6
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df65e4ecdefb5f3a0800000000000000
+      internalID: -6632183848143792387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_7
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d36f092684e1ea0800000000000000
+      internalID: -5900198873632719560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_8
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5065538516d731d00800000000000000
+      internalID: 942234604095755781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_9
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1128
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b3c03a165969a30800000000000000
+      internalID: 4221725947286272922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_10a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb065ebb91f331be0800000000000000
+      internalID: -1507792070479880002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa03a7b2b73570510800000000000000
+      internalID: 1515271588108972207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f9b6eb4a9a4f640800000000000000
+      internalID: 5112898002006810458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_13
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5b176a3a8adb500800000000000000
+      internalID: 413672161613559228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_14
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6d45c16564f4580800000000000000
+      internalID: -8840770207848540460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_15
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e465f2b27362d0800000000000000
+      internalID: -3286657190103553702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_16
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c719bccd2887d60800000000000000
+      internalID: 7888198632159149056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_17
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cf60183b61407b0800000000000000
+      internalID: -5259053504642221034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_18
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fe58c6209cb7800800000000000000
+      internalID: 611303186686668647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_19
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 846
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dcc9ad531f03420800000000000000
+      internalID: 2607849397850787114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_20b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d171f6d61bb1725e0800000000000000
+      internalID: -1934547066073180387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 564
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fb84704459793e0800000000000000
+      internalID: -2047003386204078192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_22
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 564
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e7ce3b9f9e02020800000000000000
+      internalID: 2315107467143183966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_23
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 564
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7280840929c4c6350800000000000000
+      internalID: 6011263795002345511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_24
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 564
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29b318d52cec4500800000000000000
+      internalID: 381939715702765868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_25
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 564
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58ff381256fe6160800000000000000
+      internalID: 7020819701571778653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_26c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831377b93ad86b3b0800000000000000
+      internalID: -5497050561331646152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52712c5b9a59e4640800000000000000
+      internalID: 5066151186969794341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_28
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de608f41575e4d80800000000000000
+      internalID: -8264572259440496943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_29
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff848aba415a0a30800000000000000
+      internalID: 4182244585365606387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_30
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982011a14aa95c8a0800000000000000
+      internalID: -6285447675323022711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_31
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a8aeb3c07c9cb90800000000000000
+      internalID: -7221021672153118187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_32
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd7090d637141da0800000000000000
+      internalID: -5975125281419002372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_33
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38d28c4ebe1e9690800000000000000
+      internalID: -7593598119023814598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_34
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9836127076e92df30800000000000000
+      internalID: 4598912334837146505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_35
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90808d1f168168cf0800000000000000
+      internalID: -250485920324122615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_36
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd31d25bca3b07b0800000000000000
+      internalID: -5257043495082705487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_37
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4de3ec791cf270800000000000000
+      internalID: 8285525438645488541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_38
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541b2d9bc1266db0800000000000000
+      internalID: -4799111194517760940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_39
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 282
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f704ebf9a352bf760800000000000000
+      internalID: 7492623338779328639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_40d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8324700a8896ad0800000000000000
+      internalID: -2708483479988717365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_41
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a45a37198e1baf0800000000000000
+      internalID: -382268781941667251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_42
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df88e4ff559376e70800000000000000
+      internalID: 9108311812898457853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_43
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fed199fe796c6c0800000000000000
+      internalID: -4123441353489256593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_44
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a70e6e8eed40750800000000000000
+      internalID: 6270381673093823076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_45
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72913aa3c03c5840800000000000000
+      internalID: 5214096085520323196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_46
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4158fe59e913d90800000000000000
+      internalID: -7119735169090251579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_47
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e87e5923e5f47b0800000000000000
+      internalID: -5237864270252241256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_98_Hamy Alquartz_48
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 0
+        width: 311
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbeaf85b0199f700800000000000000
+      internalID: 574649905389956027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_98_Hamy Alquartz_0: -9079823776779289583
+      Monster_98_Hamy Alquartz_1: 8817545701253605997
+      Monster_98_Hamy Alquartz_10a: -1507792070479880002
+      Monster_98_Hamy Alquartz_11: 1515271588108972207
+      Monster_98_Hamy Alquartz_12: 5112898002006810458
+      Monster_98_Hamy Alquartz_13: 413672161613559228
+      Monster_98_Hamy Alquartz_14: -8840770207848540460
+      Monster_98_Hamy Alquartz_15: -3286657190103553702
+      Monster_98_Hamy Alquartz_16: 7888198632159149056
+      Monster_98_Hamy Alquartz_17: -5259053504642221034
+      Monster_98_Hamy Alquartz_18: 611303186686668647
+      Monster_98_Hamy Alquartz_19: 2607849397850787114
+      Monster_98_Hamy Alquartz_2: 2073407821008758986
+      Monster_98_Hamy Alquartz_20b: -1934547066073180387
+      Monster_98_Hamy Alquartz_21: -2047003386204078192
+      Monster_98_Hamy Alquartz_22: 2315107467143183966
+      Monster_98_Hamy Alquartz_23: 6011263795002345511
+      Monster_98_Hamy Alquartz_24: 381939715702765868
+      Monster_98_Hamy Alquartz_25: 7020819701571778653
+      Monster_98_Hamy Alquartz_26c: -5497050561331646152
+      Monster_98_Hamy Alquartz_27: 5066151186969794341
+      Monster_98_Hamy Alquartz_28: -8264572259440496943
+      Monster_98_Hamy Alquartz_29: 4182244585365606387
+      Monster_98_Hamy Alquartz_3: -1443917613262764574
+      Monster_98_Hamy Alquartz_30: -6285447675323022711
+      Monster_98_Hamy Alquartz_31: -7221021672153118187
+      Monster_98_Hamy Alquartz_32: -5975125281419002372
+      Monster_98_Hamy Alquartz_33: -7593598119023814598
+      Monster_98_Hamy Alquartz_34: 4598912334837146505
+      Monster_98_Hamy Alquartz_35: -250485920324122615
+      Monster_98_Hamy Alquartz_36: -5257043495082705487
+      Monster_98_Hamy Alquartz_37: 8285525438645488541
+      Monster_98_Hamy Alquartz_38: -4799111194517760940
+      Monster_98_Hamy Alquartz_39: 7492623338779328639
+      Monster_98_Hamy Alquartz_4: 6781849343053118213
+      Monster_98_Hamy Alquartz_40d: -2708483479988717365
+      Monster_98_Hamy Alquartz_41: -382268781941667251
+      Monster_98_Hamy Alquartz_42: 9108311812898457853
+      Monster_98_Hamy Alquartz_43: -4123441353489256593
+      Monster_98_Hamy Alquartz_44: 6270381673093823076
+      Monster_98_Hamy Alquartz_45: 5214096085520323196
+      Monster_98_Hamy Alquartz_46: -7119735169090251579
+      Monster_98_Hamy Alquartz_47: -5237864270252241256
+      Monster_98_Hamy Alquartz_48: 574649905389956027
+      Monster_98_Hamy Alquartz_5: -6184912652620329461
+      Monster_98_Hamy Alquartz_6: -6632183848143792387
+      Monster_98_Hamy Alquartz_7: -5900198873632719560
+      Monster_98_Hamy Alquartz_8: 942234604095755781
+      Monster_98_Hamy Alquartz_9: 4221725947286272922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

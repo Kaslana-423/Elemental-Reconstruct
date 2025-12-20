@@ -1,0 +1,1103 @@
+fileFormatVersion: 2
+guid: 160cda5b93947814daf3b9477f7c42be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8786770959460473294
+    second: Monster_81_Black Raptor_0
+  - first:
+      213: 3634462145025867901
+    second: Monster_81_Black Raptor_1
+  - first:
+      213: 6040042501802128054
+    second: Monster_81_Black Raptor_2
+  - first:
+      213: 8024177888295384398
+    second: Monster_81_Black Raptor_3
+  - first:
+      213: 495467639050634335
+    second: Monster_81_Black Raptor_4
+  - first:
+      213: 1365151502930638734
+    second: Monster_81_Black Raptor_5
+  - first:
+      213: 4796442681996146197
+    second: Monster_81_Black Raptor_6
+  - first:
+      213: 8749586068024161199
+    second: Monster_81_Black Raptor_7
+  - first:
+      213: -5288657048378512972
+    second: Monster_81_Black Raptor_8a
+  - first:
+      213: -2839500981355632106
+    second: Monster_81_Black Raptor_9
+  - first:
+      213: 3177346483253923068
+    second: Monster_81_Black Raptor_10
+  - first:
+      213: -4975028677238850662
+    second: Monster_81_Black Raptor_11
+  - first:
+      213: -3612231854023821247
+    second: Monster_81_Black Raptor_12
+  - first:
+      213: -5006192237457157894
+    second: Monster_81_Black Raptor_13
+  - first:
+      213: -5491514377981619404
+    second: Monster_81_Black Raptor_14
+  - first:
+      213: -1176614248882578415
+    second: Monster_81_Black Raptor_15
+  - first:
+      213: 759875976958830421
+    second: Monster_81_Black Raptor_16
+  - first:
+      213: 4922321176647888648
+    second: Monster_81_Black Raptor_17b
+  - first:
+      213: -1230078851442662070
+    second: Monster_81_Black Raptor_18
+  - first:
+      213: 896462358711585243
+    second: Monster_81_Black Raptor_19
+  - first:
+      213: -4001604687979640411
+    second: Monster_81_Black Raptor_20
+  - first:
+      213: 3126343457628224309
+    second: Monster_81_Black Raptor_21
+  - first:
+      213: -116165974165918824
+    second: Monster_81_Black Raptor_22c
+  - first:
+      213: -5440129547489641647
+    second: Monster_81_Black Raptor_23
+  - first:
+      213: 2965088144124757815
+    second: Monster_81_Black Raptor_24
+  - first:
+      213: 4652518815596171413
+    second: Monster_81_Black Raptor_25
+  - first:
+      213: -1952522438495318857
+    second: Monster_81_Black Raptor_26
+  - first:
+      213: -7676846553062125407
+    second: Monster_81_Black Raptor_27
+  - first:
+      213: -8226506994595749870
+    second: Monster_81_Black Raptor_28
+  - first:
+      213: 4977510008110567870
+    second: Monster_81_Black Raptor_29
+  - first:
+      213: -3110325580703302685
+    second: Monster_81_Black Raptor_30d
+  - first:
+      213: -2297498437094168154
+    second: Monster_81_Black Raptor_31
+  - first:
+      213: -4751320419659790493
+    second: Monster_81_Black Raptor_32
+  - first:
+      213: 5550203760110999460
+    second: Monster_81_Black Raptor_33
+  - first:
+      213: 2279201137524774080
+    second: Monster_81_Black Raptor_34
+  - first:
+      213: 7624479521695745789
+    second: Monster_81_Black Raptor_35
+  - first:
+      213: 3711043888685252577
+    second: Monster_81_Black Raptor_36
+  - first:
+      213: 5111100175231859142
+    second: Monster_81_Black Raptor_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec91c5122a1e0f970800000000000000
+      internalID: 8786770959460473294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d700fdf8014307230800000000000000
+      internalID: 3634462145025867901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27d2467aa82d350800000000000000
+      internalID: 6040042501802128054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_3
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45f366864b9b5f60800000000000000
+      internalID: 8024177888295384398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_4
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54805f413140e600800000000000000
+      internalID: 495467639050634335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_5
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8775cc1f0ef1f210800000000000000
+      internalID: 1365151502930638734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_6
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f6e5e433609240800000000000000
+      internalID: 4796442681996146197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_7
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3794ceb26cc6970800000000000000
+      internalID: 8749586068024161199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9688c5f6aea96b0800000000000000
+      internalID: -5288657048378512972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aacead6e01898d0800000000000000
+      internalID: -2839500981355632106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfccfaecac3381c20800000000000000
+      internalID: 3177346483253923068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bfbc1e6c525fab0800000000000000
+      internalID: -4975028677238850662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_12
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1483f866446ceddc0800000000000000
+      internalID: -3612231854023821247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_13
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af05c091fae668ab0800000000000000
+      internalID: -5006192237457157894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_14
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433947db4c83ac3b0800000000000000
+      internalID: -5491514377981619404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_15
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cd0b91393dbafe0800000000000000
+      internalID: -1176614248882578415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_16
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557ebffcc2f9b8a00800000000000000
+      internalID: 759875976958830421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_17b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fea74d7099f4440800000000000000
+      internalID: 4922321176647888648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a452a064dc1edeee0800000000000000
+      internalID: -1230078851442662070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9438df3cfd07c00800000000000000
+      internalID: 896462358711585243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_20
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a98f69dcb17778c0800000000000000
+      internalID: -4001604687979640411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_21
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bfbc58fc0036b20800000000000000
+      internalID: 3126343457628224309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_22c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b6ad679ab436ef0800000000000000
+      internalID: -116165974165918824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bf5c5eff6c084b0800000000000000
+      internalID: -5440129547489641647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_24
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737474615fb162920800000000000000
+      internalID: 2965088144124757815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_25
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5905e627631119040800000000000000
+      internalID: 4652518815596171413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_26
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcc185ef2f37e4e0800000000000000
+      internalID: -1952522438495318857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_27
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0dc81dbbc567590800000000000000
+      internalID: -7676846553062125407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_28
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210aadc697395dd80800000000000000
+      internalID: -8226506994595749870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_29
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1d16bfafaa31540800000000000000
+      internalID: 4977510008110567870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_30d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb7e521d57e5d4d0800000000000000
+      internalID: -3110325580703302685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9acf81855ad10e0800000000000000
+      internalID: -2297498437094168154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_32
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3674e1c704bef0eb0800000000000000
+      internalID: -4751320419659790493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_33
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a71470e9e8460d40800000000000000
+      internalID: 5550203760110999460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_34
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c494dddb5951af10800000000000000
+      internalID: 2279201137524774080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_35
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df64aef8ab79fc960800000000000000
+      internalID: 7624479521695745789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_36
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eff7fa31c6408330800000000000000
+      internalID: 3711043888685252577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_81_Black Raptor_37
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9b12497864ee640800000000000000
+      internalID: 5111100175231859142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_81_Black Raptor_0: 8786770959460473294
+      Monster_81_Black Raptor_1: 3634462145025867901
+      Monster_81_Black Raptor_10: 3177346483253923068
+      Monster_81_Black Raptor_11: -4975028677238850662
+      Monster_81_Black Raptor_12: -3612231854023821247
+      Monster_81_Black Raptor_13: -5006192237457157894
+      Monster_81_Black Raptor_14: -5491514377981619404
+      Monster_81_Black Raptor_15: -1176614248882578415
+      Monster_81_Black Raptor_16: 759875976958830421
+      Monster_81_Black Raptor_17b: 4922321176647888648
+      Monster_81_Black Raptor_18: -1230078851442662070
+      Monster_81_Black Raptor_19: 896462358711585243
+      Monster_81_Black Raptor_2: 6040042501802128054
+      Monster_81_Black Raptor_20: -4001604687979640411
+      Monster_81_Black Raptor_21: 3126343457628224309
+      Monster_81_Black Raptor_22c: -116165974165918824
+      Monster_81_Black Raptor_23: -5440129547489641647
+      Monster_81_Black Raptor_24: 2965088144124757815
+      Monster_81_Black Raptor_25: 4652518815596171413
+      Monster_81_Black Raptor_26: -1952522438495318857
+      Monster_81_Black Raptor_27: -7676846553062125407
+      Monster_81_Black Raptor_28: -8226506994595749870
+      Monster_81_Black Raptor_29: 4977510008110567870
+      Monster_81_Black Raptor_3: 8024177888295384398
+      Monster_81_Black Raptor_30d: -3110325580703302685
+      Monster_81_Black Raptor_31: -2297498437094168154
+      Monster_81_Black Raptor_32: -4751320419659790493
+      Monster_81_Black Raptor_33: 5550203760110999460
+      Monster_81_Black Raptor_34: 2279201137524774080
+      Monster_81_Black Raptor_35: 7624479521695745789
+      Monster_81_Black Raptor_36: 3711043888685252577
+      Monster_81_Black Raptor_37: 5111100175231859142
+      Monster_81_Black Raptor_4: 495467639050634335
+      Monster_81_Black Raptor_5: 1365151502930638734
+      Monster_81_Black Raptor_6: 4796442681996146197
+      Monster_81_Black Raptor_7: 8749586068024161199
+      Monster_81_Black Raptor_8a: -5288657048378512972
+      Monster_81_Black Raptor_9: -2839500981355632106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

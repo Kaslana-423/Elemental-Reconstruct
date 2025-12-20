@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: 8e65ceee2185cd94096d609a21134ee5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6785957316410379043
+    second: Monster_92_Frost Lizard_0
+  - first:
+      213: 5990612464254839485
+    second: Monster_92_Frost Lizard_1
+  - first:
+      213: 4218656782552763016
+    second: Monster_92_Frost Lizard_2
+  - first:
+      213: -7479542109189572580
+    second: Monster_92_Frost Lizard_3
+  - first:
+      213: 1056590156423637306
+    second: Monster_92_Frost Lizard_4
+  - first:
+      213: 1165554452408429191
+    second: Monster_92_Frost Lizard_5
+  - first:
+      213: 1578670882118819340
+    second: Monster_92_Frost Lizard_6
+  - first:
+      213: 7169959138846383397
+    second: Monster_92_Frost Lizard_7
+  - first:
+      213: 5077731807799748074
+    second: Monster_92_Frost Lizard_8
+  - first:
+      213: 1104012538509997057
+    second: Monster_92_Frost Lizard_9
+  - first:
+      213: -7062738387148278461
+    second: Monster_92_Frost Lizard_10
+  - first:
+      213: 8411787203951956583
+    second: Monster_92_Frost Lizard_11
+  - first:
+      213: -7883398347109439701
+    second: Monster_92_Frost Lizard_12a
+  - first:
+      213: -4932976331918775198
+    second: Monster_92_Frost Lizard_13
+  - first:
+      213: 1174590530946969056
+    second: Monster_92_Frost Lizard_14
+  - first:
+      213: 8723725963429946537
+    second: Monster_92_Frost Lizard_15
+  - first:
+      213: -7134066225792722080
+    second: Monster_92_Frost Lizard_16
+  - first:
+      213: -5082843710635795844
+    second: Monster_92_Frost Lizard_17
+  - first:
+      213: -7308444989004481221
+    second: Monster_92_Frost Lizard_18
+  - first:
+      213: -7467349258000697456
+    second: Monster_92_Frost Lizard_19
+  - first:
+      213: 222977110669742658
+    second: Monster_92_Frost Lizard_20
+  - first:
+      213: -9012635574567973595
+    second: Monster_92_Frost Lizard_21b
+  - first:
+      213: -7002860852334610330
+    second: Monster_92_Frost Lizard_22
+  - first:
+      213: 967364262613666982
+    second: Monster_92_Frost Lizard_23
+  - first:
+      213: 7661360563444798275
+    second: Monster_92_Frost Lizard_24
+  - first:
+      213: 4204781884734380901
+    second: Monster_92_Frost Lizard_25
+  - first:
+      213: 8295964762237907684
+    second: Monster_92_Frost Lizard_26
+  - first:
+      213: -3726875322238213915
+    second: Monster_92_Frost Lizard_27c
+  - first:
+      213: 8767496377669251282
+    second: Monster_92_Frost Lizard_28
+  - first:
+      213: -8451269453201453462
+    second: Monster_92_Frost Lizard_29
+  - first:
+      213: -7384582394525362081
+    second: Monster_92_Frost Lizard_30
+  - first:
+      213: -2873696653945369859
+    second: Monster_92_Frost Lizard_31
+  - first:
+      213: -3268122810982049111
+    second: Monster_92_Frost Lizard_32
+  - first:
+      213: -7216447591015968124
+    second: Monster_92_Frost Lizard_33
+  - first:
+      213: -2144609995075357742
+    second: Monster_92_Frost Lizard_34
+  - first:
+      213: 4431183250322497965
+    second: Monster_92_Frost Lizard_35
+  - first:
+      213: 8631522672593911919
+    second: Monster_92_Frost Lizard_36
+  - first:
+      213: 5045459409711425771
+    second: Monster_92_Frost Lizard_37d
+  - first:
+      213: -7191687745388183327
+    second: Monster_92_Frost Lizard_38
+  - first:
+      213: -684150439825127899
+    second: Monster_92_Frost Lizard_39
+  - first:
+      213: -2078147290912172278
+    second: Monster_92_Frost Lizard_40
+  - first:
+      213: 568267014325259871
+    second: Monster_92_Frost Lizard_41
+  - first:
+      213: -4018430844646669034
+    second: Monster_92_Frost Lizard_42
+  - first:
+      213: 4605891575831879652
+    second: Monster_92_Frost Lizard_43
+  - first:
+      213: 6385935113022689588
+    second: Monster_92_Frost Lizard_44
+  - first:
+      213: 6246636733976463432
+    second: Monster_92_Frost Lizard_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b8a99c9309c2e50800000000000000
+      internalID: 6785957316410379043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaefeeeb4ee22350800000000000000
+      internalID: 5990612464254839485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a89590efdab8a30800000000000000
+      internalID: 4218656782552763016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18fd2b7414533890800000000000000
+      internalID: -7479542109189572580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a392ec23623c9ae00800000000000000
+      internalID: 1056590156423637306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_5
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aed2e5991ec2010800000000000000
+      internalID: 1165554452408429191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_6
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ed1f99dc098e510800000000000000
+      internalID: 1578670882118819340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_7
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d110549dfc08360800000000000000
+      internalID: 7169959138846383397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_8
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae52b9c1d2ab77640800000000000000
+      internalID: 5077731807799748074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_9
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1043771fd8d325f00800000000000000
+      internalID: 1104012538509997057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_10
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f28c5bdc1cfd90800000000000000
+      internalID: -7062738387148278461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_11
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7629bb9f4ebacb470800000000000000
+      internalID: 8411787203951956583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_12a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27e3a9a8fa889290800000000000000
+      internalID: -7883398347109439701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c6292892c8a8bb0800000000000000
+      internalID: -4932976331918775198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda1a95ddbfc4010800000000000000
+      internalID: 1174590530946969056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a428102b86e01970800000000000000
+      internalID: 8723725963429946537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b5387c094befc90800000000000000
+      internalID: -7134066225792722080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_17
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a99b2439c1679b0800000000000000
+      internalID: -5082843710635795844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_18
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d77e91100339a90800000000000000
+      internalID: -7308444989004481221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_19
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097771fd965ae5890800000000000000
+      internalID: -7467349258000697456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_20
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2425382308c281300800000000000000
+      internalID: 222977110669742658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_21b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dc3d722bface280800000000000000
+      internalID: -9012635574567973595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6683b155827d0de90800000000000000
+      internalID: -7002860852334610330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acce79eba4cc6d00800000000000000
+      internalID: 967364262613666982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343505047de925a60800000000000000
+      internalID: 7661360563444798275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_25
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b1795a8d26a5a30800000000000000
+      internalID: 4204781884734380901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_26
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e239525fff212370800000000000000
+      internalID: 8295964762237907684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_27c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e062d7e3aa774cc0800000000000000
+      internalID: -3726875322238213915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0ff78d0876ca970800000000000000
+      internalID: 8767496377669251282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e41d4853f07ba80800000000000000
+      internalID: -8451269453201453462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_30
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5856b7ff61b48990800000000000000
+      internalID: -7384582394525362081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_31
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa8b556e149e18d0800000000000000
+      internalID: -2873696653945369859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_32
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa50116e9b45a2d0800000000000000
+      internalID: -3268122810982049111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_33
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482154d76270adb90800000000000000
+      internalID: -7216447591015968124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_34
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3f7c57290dc32e0800000000000000
+      internalID: -2144609995075357742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_35
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1222250b9be7d30800000000000000
+      internalID: 4431183250322497965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_36
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c0b2932459c770800000000000000
+      internalID: 8631522672593911919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_37d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be86084e992150640800000000000000
+      internalID: 5045459409711425771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e08b98491ef13c90800000000000000
+      internalID: -7191687745388183327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526cb4dbcc86186f0800000000000000
+      internalID: -684150439825127899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_40
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a075d36ac00f823e0800000000000000
+      internalID: -2078147290912172278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_41
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ecd66b6d3e2e700800000000000000
+      internalID: 568267014325259871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_42
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615cc56ff6aab38c0800000000000000
+      internalID: -4018430844646669034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_43
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef5c633cf96bef30800000000000000
+      internalID: 4605891575831879652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_44
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4315962b6266f9850800000000000000
+      internalID: 6385935113022689588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_92_Frost Lizard_45
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848c291730380b650800000000000000
+      internalID: 6246636733976463432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_92_Frost Lizard_0: 6785957316410379043
+      Monster_92_Frost Lizard_1: 5990612464254839485
+      Monster_92_Frost Lizard_10: -7062738387148278461
+      Monster_92_Frost Lizard_11: 8411787203951956583
+      Monster_92_Frost Lizard_12a: -7883398347109439701
+      Monster_92_Frost Lizard_13: -4932976331918775198
+      Monster_92_Frost Lizard_14: 1174590530946969056
+      Monster_92_Frost Lizard_15: 8723725963429946537
+      Monster_92_Frost Lizard_16: -7134066225792722080
+      Monster_92_Frost Lizard_17: -5082843710635795844
+      Monster_92_Frost Lizard_18: -7308444989004481221
+      Monster_92_Frost Lizard_19: -7467349258000697456
+      Monster_92_Frost Lizard_2: 4218656782552763016
+      Monster_92_Frost Lizard_20: 222977110669742658
+      Monster_92_Frost Lizard_21b: -9012635574567973595
+      Monster_92_Frost Lizard_22: -7002860852334610330
+      Monster_92_Frost Lizard_23: 967364262613666982
+      Monster_92_Frost Lizard_24: 7661360563444798275
+      Monster_92_Frost Lizard_25: 4204781884734380901
+      Monster_92_Frost Lizard_26: 8295964762237907684
+      Monster_92_Frost Lizard_27c: -3726875322238213915
+      Monster_92_Frost Lizard_28: 8767496377669251282
+      Monster_92_Frost Lizard_29: -8451269453201453462
+      Monster_92_Frost Lizard_3: -7479542109189572580
+      Monster_92_Frost Lizard_30: -7384582394525362081
+      Monster_92_Frost Lizard_31: -2873696653945369859
+      Monster_92_Frost Lizard_32: -3268122810982049111
+      Monster_92_Frost Lizard_33: -7216447591015968124
+      Monster_92_Frost Lizard_34: -2144609995075357742
+      Monster_92_Frost Lizard_35: 4431183250322497965
+      Monster_92_Frost Lizard_36: 8631522672593911919
+      Monster_92_Frost Lizard_37d: 5045459409711425771
+      Monster_92_Frost Lizard_38: -7191687745388183327
+      Monster_92_Frost Lizard_39: -684150439825127899
+      Monster_92_Frost Lizard_4: 1056590156423637306
+      Monster_92_Frost Lizard_40: -2078147290912172278
+      Monster_92_Frost Lizard_41: 568267014325259871
+      Monster_92_Frost Lizard_42: -4018430844646669034
+      Monster_92_Frost Lizard_43: 4605891575831879652
+      Monster_92_Frost Lizard_44: 6385935113022689588
+      Monster_92_Frost Lizard_45: 6246636733976463432
+      Monster_92_Frost Lizard_5: 1165554452408429191
+      Monster_92_Frost Lizard_6: 1578670882118819340
+      Monster_92_Frost Lizard_7: 7169959138846383397
+      Monster_92_Frost Lizard_8: 5077731807799748074
+      Monster_92_Frost Lizard_9: 1104012538509997057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

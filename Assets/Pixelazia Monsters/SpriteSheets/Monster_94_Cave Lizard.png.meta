@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: fc5f3b8363bb6e541b026ce7fd2ad8ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 43826855666448045
+    second: Monster_94_Cave Lizard_0
+  - first:
+      213: 1067593482078697215
+    second: Monster_94_Cave Lizard_1
+  - first:
+      213: 7782679469373139191
+    second: Monster_94_Cave Lizard_2
+  - first:
+      213: 6456129995738233136
+    second: Monster_94_Cave Lizard_3
+  - first:
+      213: -9016523681201502642
+    second: Monster_94_Cave Lizard_4
+  - first:
+      213: 6833014907989093123
+    second: Monster_94_Cave Lizard_5
+  - first:
+      213: -2032020951538068344
+    second: Monster_94_Cave Lizard_6
+  - first:
+      213: -1376661159788236714
+    second: Monster_94_Cave Lizard_7
+  - first:
+      213: 2605943230688763355
+    second: Monster_94_Cave Lizard_8
+  - first:
+      213: 6025553070443034915
+    second: Monster_94_Cave Lizard_9
+  - first:
+      213: 8388584685965169465
+    second: Monster_94_Cave Lizard_10
+  - first:
+      213: -5416302091211236010
+    second: Monster_94_Cave Lizard_11
+  - first:
+      213: 8661791555927569171
+    second: Monster_94_Cave Lizard_12a
+  - first:
+      213: -3558053458832306039
+    second: Monster_94_Cave Lizard_13
+  - first:
+      213: -3363518907985408218
+    second: Monster_94_Cave Lizard_14
+  - first:
+      213: 7160823914564094893
+    second: Monster_94_Cave Lizard_15
+  - first:
+      213: -4141079303385673576
+    second: Monster_94_Cave Lizard_16
+  - first:
+      213: 5351957438049886980
+    second: Monster_94_Cave Lizard_17
+  - first:
+      213: -7849860321884580514
+    second: Monster_94_Cave Lizard_18
+  - first:
+      213: 5724688096341483609
+    second: Monster_94_Cave Lizard_19
+  - first:
+      213: -3430569763150212628
+    second: Monster_94_Cave Lizard_20
+  - first:
+      213: 5687139136024411647
+    second: Monster_94_Cave Lizard_21b
+  - first:
+      213: -1981747156089943601
+    second: Monster_94_Cave Lizard_22
+  - first:
+      213: -5267262274381244487
+    second: Monster_94_Cave Lizard_23
+  - first:
+      213: -8056335604111682638
+    second: Monster_94_Cave Lizard_24
+  - first:
+      213: 167757421174477033
+    second: Monster_94_Cave Lizard_25
+  - first:
+      213: -1197964172188179782
+    second: Monster_94_Cave Lizard_26
+  - first:
+      213: -8327483109787334732
+    second: Monster_94_Cave Lizard_27c
+  - first:
+      213: 4829011640745273398
+    second: Monster_94_Cave Lizard_28
+  - first:
+      213: -2174372745084986532
+    second: Monster_94_Cave Lizard_29
+  - first:
+      213: -7834888409069681130
+    second: Monster_94_Cave Lizard_30
+  - first:
+      213: -2409909098795209794
+    second: Monster_94_Cave Lizard_31
+  - first:
+      213: 879747416874889948
+    second: Monster_94_Cave Lizard_32
+  - first:
+      213: 8163073163070433634
+    second: Monster_94_Cave Lizard_33
+  - first:
+      213: -3547816675506462821
+    second: Monster_94_Cave Lizard_34
+  - first:
+      213: -4623013517528794110
+    second: Monster_94_Cave Lizard_35
+  - first:
+      213: -9046425886422425547
+    second: Monster_94_Cave Lizard_36
+  - first:
+      213: 3571860707436309303
+    second: Monster_94_Cave Lizard_37d
+  - first:
+      213: -6898301636632772627
+    second: Monster_94_Cave Lizard_38
+  - first:
+      213: -3930373831299407459
+    second: Monster_94_Cave Lizard_39
+  - first:
+      213: 2362343645914619581
+    second: Monster_94_Cave Lizard_40
+  - first:
+      213: 1607684657200723868
+    second: Monster_94_Cave Lizard_41
+  - first:
+      213: -5087962601723141363
+    second: Monster_94_Cave Lizard_42
+  - first:
+      213: -2642742375970450196
+    second: Monster_94_Cave Lizard_43
+  - first:
+      213: 7848406931304870853
+    second: Monster_94_Cave Lizard_44
+  - first:
+      213: -8847170075264359160
+    second: Monster_94_Cave Lizard_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6fe930b44bb9000800000000000000
+      internalID: 43826855666448045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b2d79d9ad0de00800000000000000
+      internalID: 1067593482078697215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f826b43eb1a10c60800000000000000
+      internalID: 7782679469373139191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039b8bb6608c89950800000000000000
+      internalID: 6456129995738233136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e464619cb7fded280800000000000000
+      internalID: -9016523681201502642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_5
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b63af1bdeb3de50800000000000000
+      internalID: 6833014907989093123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_6
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8841c6fe5bfccc3e0800000000000000
+      internalID: -2032020951538068344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_7
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650beb218fd15ece0800000000000000
+      internalID: -1376661159788236714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_8
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd990abf8b2a2420800000000000000
+      internalID: 2605943230688763355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_9
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3297503c7901f9350800000000000000
+      internalID: 6025553070443034915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_10
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9335c37c35d3a6470800000000000000
+      internalID: 8388584685965169465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_11
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 440
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d1621e1fd65d4b0800000000000000
+      internalID: -5416302091211236010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_12a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3137a89278dd43870800000000000000
+      internalID: 8661791555927569171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98053760b314f9ec0800000000000000
+      internalID: -3558053458832306039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f4836bf516251d0800000000000000
+      internalID: -3363518907985408218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab07be196b506360800000000000000
+      internalID: 7160823914564094893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89099fe505ee786c0800000000000000
+      internalID: -4141079303385673576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_17
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40329fb1fe8f54a40800000000000000
+      internalID: 5351957438049886980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_18
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55d2a9a0a1bf0390800000000000000
+      internalID: -7849860321884580514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_19
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95067503e7d227f40800000000000000
+      internalID: 5724688096341483609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_20
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 330
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce15c32f9fa2460d0800000000000000
+      internalID: -3430569763150212628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_21b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdf4f699e6ccee40800000000000000
+      internalID: 5687139136024411647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc94e96167b6f74e0800000000000000
+      internalID: -1981747156089943601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b790bc5edce6e6b0800000000000000
+      internalID: -5267262274381244487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3579dc375223090800000000000000
+      internalID: -8056335604111682638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_25
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e05a895c7ef35200800000000000000
+      internalID: 167757421174477033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_26
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 220
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab22417bee9ff5fe0800000000000000
+      internalID: -1197964172188179782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_27c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b78f088b36de6c80800000000000000
+      internalID: -8327483109787334732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63829d68088140340800000000000000
+      internalID: 4829011640745273398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b1be7328313d1e0800000000000000
+      internalID: -2174372745084986532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_30
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6168392c082e44390800000000000000
+      internalID: -7834888409069681130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_31
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb645161784e8ed0800000000000000
+      internalID: -2409909098795209794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_32
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd235e25d9d753c00800000000000000
+      internalID: 879747416874889948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_33
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2696650cacf094170800000000000000
+      internalID: 8163073163070433634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_34
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fda30e78f93cec0800000000000000
+      internalID: -3547816675506462821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_35
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cfdd713b1c7dfb0800000000000000
+      internalID: -4623013517528794110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_36
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 110
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530a4e81693a47280800000000000000
+      internalID: -9046425886422425547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_37d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73baaed836cc19130800000000000000
+      internalID: 3571860707436309303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deff103d53f4440a0800000000000000
+      internalID: -6898301636632772627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9168ee03d18479c0800000000000000
+      internalID: -3930373831299407459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_40
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe542c970bb8c020800000000000000
+      internalID: 2362343645914619581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_41
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c977b478da4af4610800000000000000
+      internalID: 1607684657200723868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_42
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e1dd88fce369b0800000000000000
+      internalID: -5087962601723141363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_43
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4d8679fc7135bd0800000000000000
+      internalID: -2642742375970450196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_44
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3f32975842bec60800000000000000
+      internalID: 7848406931304870853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_94_Cave Lizard_45
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 272
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805e66cd0b9883580800000000000000
+      internalID: -8847170075264359160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_94_Cave Lizard_0: 43826855666448045
+      Monster_94_Cave Lizard_1: 1067593482078697215
+      Monster_94_Cave Lizard_10: 8388584685965169465
+      Monster_94_Cave Lizard_11: -5416302091211236010
+      Monster_94_Cave Lizard_12a: 8661791555927569171
+      Monster_94_Cave Lizard_13: -3558053458832306039
+      Monster_94_Cave Lizard_14: -3363518907985408218
+      Monster_94_Cave Lizard_15: 7160823914564094893
+      Monster_94_Cave Lizard_16: -4141079303385673576
+      Monster_94_Cave Lizard_17: 5351957438049886980
+      Monster_94_Cave Lizard_18: -7849860321884580514
+      Monster_94_Cave Lizard_19: 5724688096341483609
+      Monster_94_Cave Lizard_2: 7782679469373139191
+      Monster_94_Cave Lizard_20: -3430569763150212628
+      Monster_94_Cave Lizard_21b: 5687139136024411647
+      Monster_94_Cave Lizard_22: -1981747156089943601
+      Monster_94_Cave Lizard_23: -5267262274381244487
+      Monster_94_Cave Lizard_24: -8056335604111682638
+      Monster_94_Cave Lizard_25: 167757421174477033
+      Monster_94_Cave Lizard_26: -1197964172188179782
+      Monster_94_Cave Lizard_27c: -8327483109787334732
+      Monster_94_Cave Lizard_28: 4829011640745273398
+      Monster_94_Cave Lizard_29: -2174372745084986532
+      Monster_94_Cave Lizard_3: 6456129995738233136
+      Monster_94_Cave Lizard_30: -7834888409069681130
+      Monster_94_Cave Lizard_31: -2409909098795209794
+      Monster_94_Cave Lizard_32: 879747416874889948
+      Monster_94_Cave Lizard_33: 8163073163070433634
+      Monster_94_Cave Lizard_34: -3547816675506462821
+      Monster_94_Cave Lizard_35: -4623013517528794110
+      Monster_94_Cave Lizard_36: -9046425886422425547
+      Monster_94_Cave Lizard_37d: 3571860707436309303
+      Monster_94_Cave Lizard_38: -6898301636632772627
+      Monster_94_Cave Lizard_39: -3930373831299407459
+      Monster_94_Cave Lizard_4: -9016523681201502642
+      Monster_94_Cave Lizard_40: 2362343645914619581
+      Monster_94_Cave Lizard_41: 1607684657200723868
+      Monster_94_Cave Lizard_42: -5087962601723141363
+      Monster_94_Cave Lizard_43: -2642742375970450196
+      Monster_94_Cave Lizard_44: 7848406931304870853
+      Monster_94_Cave Lizard_45: -8847170075264359160
+      Monster_94_Cave Lizard_5: 6833014907989093123
+      Monster_94_Cave Lizard_6: -2032020951538068344
+      Monster_94_Cave Lizard_7: -1376661159788236714
+      Monster_94_Cave Lizard_8: 2605943230688763355
+      Monster_94_Cave Lizard_9: 6025553070443034915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1103 @@
+fileFormatVersion: 2
+guid: 00b818c85d8ed0544b7cf9e419403bc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -797432060086481455
+    second: Monster_82_Desert Raptor_0
+  - first:
+      213: -5954948583496529806
+    second: Monster_82_Desert Raptor_1
+  - first:
+      213: -556023417784118139
+    second: Monster_82_Desert Raptor_2
+  - first:
+      213: 4414823135054890268
+    second: Monster_82_Desert Raptor_3
+  - first:
+      213: 6075273439377946020
+    second: Monster_82_Desert Raptor_4
+  - first:
+      213: -2931786655645369747
+    second: Monster_82_Desert Raptor_5
+  - first:
+      213: 8432299101740384546
+    second: Monster_82_Desert Raptor_6
+  - first:
+      213: -6893959176342309093
+    second: Monster_82_Desert Raptor_7
+  - first:
+      213: 962624630801766071
+    second: Monster_82_Desert Raptor_8a
+  - first:
+      213: -6714817022238434599
+    second: Monster_82_Desert Raptor_9
+  - first:
+      213: -333048526500223912
+    second: Monster_82_Desert Raptor_10
+  - first:
+      213: 6307124478702211302
+    second: Monster_82_Desert Raptor_11
+  - first:
+      213: 1404021680020062048
+    second: Monster_82_Desert Raptor_12
+  - first:
+      213: 8085049846479988029
+    second: Monster_82_Desert Raptor_13
+  - first:
+      213: 6482010277203701438
+    second: Monster_82_Desert Raptor_14
+  - first:
+      213: -200735904169022284
+    second: Monster_82_Desert Raptor_15
+  - first:
+      213: 2419853876370212679
+    second: Monster_82_Desert Raptor_16
+  - first:
+      213: -5439160285723770770
+    second: Monster_82_Desert Raptor_17b
+  - first:
+      213: -6258902717249615278
+    second: Monster_82_Desert Raptor_18
+  - first:
+      213: 1840897550031288172
+    second: Monster_82_Desert Raptor_19
+  - first:
+      213: 9003173102792690892
+    second: Monster_82_Desert Raptor_20
+  - first:
+      213: 6294858487004196486
+    second: Monster_82_Desert Raptor_21
+  - first:
+      213: -215729661206777119
+    second: Monster_82_Desert Raptor_22c
+  - first:
+      213: -1204691901128579629
+    second: Monster_82_Desert Raptor_23
+  - first:
+      213: -7975508134212501049
+    second: Monster_82_Desert Raptor_24
+  - first:
+      213: -8940397547671647382
+    second: Monster_82_Desert Raptor_25
+  - first:
+      213: -1113389834372887013
+    second: Monster_82_Desert Raptor_26
+  - first:
+      213: -5724942484236304956
+    second: Monster_82_Desert Raptor_27
+  - first:
+      213: -2563104887654191459
+    second: Monster_82_Desert Raptor_28
+  - first:
+      213: 4321588963549938594
+    second: Monster_82_Desert Raptor_29
+  - first:
+      213: 5810011304056680083
+    second: Monster_82_Desert Raptor_30d
+  - first:
+      213: -7937077977543240760
+    second: Monster_82_Desert Raptor_31
+  - first:
+      213: -3382949187623006836
+    second: Monster_82_Desert Raptor_32
+  - first:
+      213: 367405704802249839
+    second: Monster_82_Desert Raptor_33
+  - first:
+      213: 1794698044951052820
+    second: Monster_82_Desert Raptor_34
+  - first:
+      213: -5037536334103868033
+    second: Monster_82_Desert Raptor_35
+  - first:
+      213: 1940206683681071671
+    second: Monster_82_Desert Raptor_36
+  - first:
+      213: -6705976158377664889
+    second: Monster_82_Desert Raptor_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd890e24c3fee4f0800000000000000
+      internalID: -797432060086481455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27849f060d5cb5da0800000000000000
+      internalID: -5954948583496529806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584dd20c5ab9848f0800000000000000
+      internalID: -556023417784118139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_3
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c158f17204a944d30800000000000000
+      internalID: 4414823135054890268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_4
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5fc734105bf4450800000000000000
+      internalID: 6075273439377946020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_5
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6af609e1933057d0800000000000000
+      internalID: -2931786655645369747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_6
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221c4175b5b850570800000000000000
+      internalID: 8432299101740384546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_7
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 728
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b177216a7acb350a0800000000000000
+      internalID: -6893959176342309093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b61bf2600eeb5d00800000000000000
+      internalID: 962624630801766071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da5bb1be7d20d2a0800000000000000
+      internalID: -6714817022238434599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854acf43126c06bf0800000000000000
+      internalID: -333048526500223912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0573bfb48678750800000000000000
+      internalID: 6307124478702211302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_12
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ffa8677461c7310800000000000000
+      internalID: 1404021680020062048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_13
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3524cabffdd33070800000000000000
+      internalID: 8085049846479988029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_14
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe6823010ab4f950800000000000000
+      internalID: 6482010277203701438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_15
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bca65a32c7d63df0800000000000000
+      internalID: -200735904169022284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_16
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 546
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7470665974c059120800000000000000
+      internalID: 2419853876370212679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_17b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c50db9883484b0800000000000000
+      internalID: -5439160285723770770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a0c96c329e329a0800000000000000
+      internalID: -6258902717249615278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c677089719e2c8910800000000000000
+      internalID: 1840897550031288172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_20
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc4f437c32b1fc70800000000000000
+      internalID: 9003173102792690892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_21
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 364
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eec3d3174db5750800000000000000
+      internalID: 6294858487004196486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_22c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e231402403910df0800000000000000
+      internalID: -215729661206777119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5e0714913184fe0800000000000000
+      internalID: -1204691901128579629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_24
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c18605ab9d415190800000000000000
+      internalID: -7975508134212501049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_25
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b02447cc35de380800000000000000
+      internalID: -8940397547671647382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_26
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e4ca938d17c80f0800000000000000
+      internalID: -1113389834372887013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_27
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd7d83842bec80b0800000000000000
+      internalID: -5724942484236304956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_28
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eed414fa50e6cd0800000000000000
+      internalID: -2563104887654191459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_29
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 182
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a384adf34e59fb30800000000000000
+      internalID: 4321588963549938594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_30d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e6d4f8f7e41a050800000000000000
+      internalID: 5810011304056680083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c395f1c1a5d9d190800000000000000
+      internalID: -7937077977543240760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_32
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dc88233a95d01d0800000000000000
+      internalID: -3382949187623006836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_33
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ca03bba89491500800000000000000
+      internalID: 367405704802249839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_34
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4124568fc5c08e810800000000000000
+      internalID: 1794698044951052820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_35
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d8d96e463171ab0800000000000000
+      internalID: -5037536334103868033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_36
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73226abf2bffcea10800000000000000
+      internalID: 1940206683681071671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_82_Desert Raptor_37
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 0
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e19a7b6369fe2a0800000000000000
+      internalID: -6705976158377664889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_82_Desert Raptor_0: -797432060086481455
+      Monster_82_Desert Raptor_1: -5954948583496529806
+      Monster_82_Desert Raptor_10: -333048526500223912
+      Monster_82_Desert Raptor_11: 6307124478702211302
+      Monster_82_Desert Raptor_12: 1404021680020062048
+      Monster_82_Desert Raptor_13: 8085049846479988029
+      Monster_82_Desert Raptor_14: 6482010277203701438
+      Monster_82_Desert Raptor_15: -200735904169022284
+      Monster_82_Desert Raptor_16: 2419853876370212679
+      Monster_82_Desert Raptor_17b: -5439160285723770770
+      Monster_82_Desert Raptor_18: -6258902717249615278
+      Monster_82_Desert Raptor_19: 1840897550031288172
+      Monster_82_Desert Raptor_2: -556023417784118139
+      Monster_82_Desert Raptor_20: 9003173102792690892
+      Monster_82_Desert Raptor_21: 6294858487004196486
+      Monster_82_Desert Raptor_22c: -215729661206777119
+      Monster_82_Desert Raptor_23: -1204691901128579629
+      Monster_82_Desert Raptor_24: -7975508134212501049
+      Monster_82_Desert Raptor_25: -8940397547671647382
+      Monster_82_Desert Raptor_26: -1113389834372887013
+      Monster_82_Desert Raptor_27: -5724942484236304956
+      Monster_82_Desert Raptor_28: -2563104887654191459
+      Monster_82_Desert Raptor_29: 4321588963549938594
+      Monster_82_Desert Raptor_3: 4414823135054890268
+      Monster_82_Desert Raptor_30d: 5810011304056680083
+      Monster_82_Desert Raptor_31: -7937077977543240760
+      Monster_82_Desert Raptor_32: -3382949187623006836
+      Monster_82_Desert Raptor_33: 367405704802249839
+      Monster_82_Desert Raptor_34: 1794698044951052820
+      Monster_82_Desert Raptor_35: -5037536334103868033
+      Monster_82_Desert Raptor_36: 1940206683681071671
+      Monster_82_Desert Raptor_37: -6705976158377664889
+      Monster_82_Desert Raptor_4: 6075273439377946020
+      Monster_82_Desert Raptor_5: -2931786655645369747
+      Monster_82_Desert Raptor_6: 8432299101740384546
+      Monster_82_Desert Raptor_7: -6893959176342309093
+      Monster_82_Desert Raptor_8a: 962624630801766071
+      Monster_82_Desert Raptor_9: -6714817022238434599
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 2d20494e0fed06b438989e3a0fb33736
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9053368357632391486
+    second: Monster_86_Red Snail_0
+  - first:
+      213: -2197479161685383849
+    second: Monster_86_Red Snail_1
+  - first:
+      213: 4964621663516156567
+    second: Monster_86_Red Snail_2
+  - first:
+      213: -7598462141535734850
+    second: Monster_86_Red Snail_3
+  - first:
+      213: 7323874410570425923
+    second: Monster_86_Red Snail_4
+  - first:
+      213: -2947408748741098545
+    second: Monster_86_Red Snail_5
+  - first:
+      213: 5931723481195289121
+    second: Monster_86_Red Snail_6
+  - first:
+      213: -1487931638924321213
+    second: Monster_86_Red Snail_7a
+  - first:
+      213: -8341199894392935375
+    second: Monster_86_Red Snail_8
+  - first:
+      213: 6016736030843646227
+    second: Monster_86_Red Snail_9
+  - first:
+      213: 6621887762571769611
+    second: Monster_86_Red Snail_10
+  - first:
+      213: -1516653616514832140
+    second: Monster_86_Red Snail_11b
+  - first:
+      213: 7631519509386348245
+    second: Monster_86_Red Snail_12
+  - first:
+      213: -9066045306755970328
+    second: Monster_86_Red Snail_13
+  - first:
+      213: 3324811400863626061
+    second: Monster_86_Red Snail_14
+  - first:
+      213: -544385140935837209
+    second: Monster_86_Red Snail_15c
+  - first:
+      213: 8374697221779723741
+    second: Monster_86_Red Snail_16
+  - first:
+      213: 5179164222415032052
+    second: Monster_86_Red Snail_17
+  - first:
+      213: -1319512976943375411
+    second: Monster_86_Red Snail_18
+  - first:
+      213: -1573661593000572619
+    second: Monster_86_Red Snail_19
+  - first:
+      213: 8048273963749733034
+    second: Monster_86_Red Snail_20
+  - first:
+      213: -7609336816858319282
+    second: Monster_86_Red Snail_21
+  - first:
+      213: 5440044792170637369
+    second: Monster_86_Red Snail_22d
+  - first:
+      213: 988981067574792754
+    second: Monster_86_Red Snail_23
+  - first:
+      213: -6147028426558976586
+    second: Monster_86_Red Snail_24
+  - first:
+      213: 6415098633981540379
+    second: Monster_86_Red Snail_25
+  - first:
+      213: -907738052109851266
+    second: Monster_86_Red Snail_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39b071fd8604ad70800000000000000
+      internalID: 9053368357632391486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7556b6e585cf081e0800000000000000
+      internalID: -2197479161685383849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792e61a6911e5e440800000000000000
+      internalID: 4964621663516156567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3328ec0f6dc8690800000000000000
+      internalID: -7598462141535734850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346af9d09f0a3a560800000000000000
+      internalID: 7323874410570425923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3886beb53b817d0800000000000000
+      internalID: -2947408748741098545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_6
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 508
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a1d7a1417b15250800000000000000
+      internalID: 5931723481195289121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_7a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ed9dbce0ec95be0800000000000000
+      internalID: -1487931638924321213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 381
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cee2eb3ea1e3c80800000000000000
+      internalID: -8341199894392935375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 381
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311bab1ca8dbf7350800000000000000
+      internalID: 6016736030843646227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 381
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07b896f5dba5eb50800000000000000
+      internalID: 6621887762571769611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_11b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f862544293c3fae0800000000000000
+      internalID: -1516653616514832140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 254
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6cf6d6f8a98e960800000000000000
+      internalID: 7631519509386348245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 254
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea8635d3dfee2280800000000000000
+      internalID: -9066045306755970328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_14
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 254
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4335ad7a5a142e20800000000000000
+      internalID: 3324811400863626061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_15c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9b48d3994f178f0800000000000000
+      internalID: -544385140935837209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd591ad80c6e83470800000000000000
+      internalID: 8374697221779723741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fec57e7b6610e740800000000000000
+      internalID: 5179164222415032052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb95c440f520bde0800000000000000
+      internalID: -1319512976943375411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53986886e1b392ae0800000000000000
+      internalID: -1573661593000572619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_20
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2f358478631bf60800000000000000
+      internalID: 8048273963749733034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_21
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 127
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46bbd62b74366690800000000000000
+      internalID: -7609336816858319282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_22d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9386b877aebee7b40800000000000000
+      internalID: 5440044792170637369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232d1668a0199bd00800000000000000
+      internalID: 988981067574792754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd49b2e63e51baa0800000000000000
+      internalID: -6147028426558976586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_25
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18309d0832070950800000000000000
+      internalID: 6415098633981540379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_86_Red Snail_26
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7523ee0d011763f0800000000000000
+      internalID: -907738052109851266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_86_Red Snail_0: 9053368357632391486
+      Monster_86_Red Snail_1: -2197479161685383849
+      Monster_86_Red Snail_10: 6621887762571769611
+      Monster_86_Red Snail_11b: -1516653616514832140
+      Monster_86_Red Snail_12: 7631519509386348245
+      Monster_86_Red Snail_13: -9066045306755970328
+      Monster_86_Red Snail_14: 3324811400863626061
+      Monster_86_Red Snail_15c: -544385140935837209
+      Monster_86_Red Snail_16: 8374697221779723741
+      Monster_86_Red Snail_17: 5179164222415032052
+      Monster_86_Red Snail_18: -1319512976943375411
+      Monster_86_Red Snail_19: -1573661593000572619
+      Monster_86_Red Snail_2: 4964621663516156567
+      Monster_86_Red Snail_20: 8048273963749733034
+      Monster_86_Red Snail_21: -7609336816858319282
+      Monster_86_Red Snail_22d: 5440044792170637369
+      Monster_86_Red Snail_23: 988981067574792754
+      Monster_86_Red Snail_24: -6147028426558976586
+      Monster_86_Red Snail_25: 6415098633981540379
+      Monster_86_Red Snail_26: -907738052109851266
+      Monster_86_Red Snail_3: -7598462141535734850
+      Monster_86_Red Snail_4: 7323874410570425923
+      Monster_86_Red Snail_5: -2947408748741098545
+      Monster_86_Red Snail_6: 5931723481195289121
+      Monster_86_Red Snail_7a: -1487931638924321213
+      Monster_86_Red Snail_8: -8341199894392935375
+      Monster_86_Red Snail_9: 6016736030843646227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

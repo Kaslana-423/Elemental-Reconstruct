@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 972c013347ecf3045a02f47783c853b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7394129224419530996
+    second: Monster_79_Ghoul_0
+  - first:
+      213: 2241182519867983891
+    second: Monster_79_Ghoul_1
+  - first:
+      213: -8597601803075850243
+    second: Monster_79_Ghoul_2
+  - first:
+      213: 7800457235645394618
+    second: Monster_79_Ghoul_3
+  - first:
+      213: 8542726487626734758
+    second: Monster_79_Ghoul_4
+  - first:
+      213: -1222269891640872105
+    second: Monster_79_Ghoul_5
+  - first:
+      213: -6099510642844631303
+    second: Monster_79_Ghoul_6
+  - first:
+      213: -68812916738681096
+    second: Monster_79_Ghoul_7
+  - first:
+      213: 6195699922582634278
+    second: Monster_79_Ghoul_8a
+  - first:
+      213: 4572100418083315916
+    second: Monster_79_Ghoul_9
+  - first:
+      213: 5979177110367074849
+    second: Monster_79_Ghoul_10
+  - first:
+      213: -891947212647686871
+    second: Monster_79_Ghoul_11
+  - first:
+      213: -4917943366542680761
+    second: Monster_79_Ghoul_12
+  - first:
+      213: -8657250922464803109
+    second: Monster_79_Ghoul_13
+  - first:
+      213: -6680907747379561443
+    second: Monster_79_Ghoul_14
+  - first:
+      213: -7998989493706925726
+    second: Monster_79_Ghoul_15
+  - first:
+      213: 2355434471062412993
+    second: Monster_79_Ghoul_16
+  - first:
+      213: -4623743506888626096
+    second: Monster_79_Ghoul_17b
+  - first:
+      213: 1262461364886590708
+    second: Monster_79_Ghoul_18
+  - first:
+      213: -5256713940096870345
+    second: Monster_79_Ghoul_19
+  - first:
+      213: -607919631198583913
+    second: Monster_79_Ghoul_20
+  - first:
+      213: -5713523715173762609
+    second: Monster_79_Ghoul_21
+  - first:
+      213: -9061456269097050444
+    second: Monster_79_Ghoul_22
+  - first:
+      213: -7470634789054366405
+    second: Monster_79_Ghoul_23c
+  - first:
+      213: 1403625891357615273
+    second: Monster_79_Ghoul_24
+  - first:
+      213: -2253831110853177785
+    second: Monster_79_Ghoul_25
+  - first:
+      213: -8414870263814945483
+    second: Monster_79_Ghoul_26
+  - first:
+      213: 7233249203045074015
+    second: Monster_79_Ghoul_27
+  - first:
+      213: 5146734337135255754
+    second: Monster_79_Ghoul_28
+  - first:
+      213: 8733633798666910551
+    second: Monster_79_Ghoul_29
+  - first:
+      213: -3120549303073752600
+    second: Monster_79_Ghoul_30
+  - first:
+      213: 7353647883220268334
+    second: Monster_79_Ghoul_31
+  - first:
+      213: -4419743579211339673
+    second: Monster_79_Ghoul_32
+  - first:
+      213: 417595892798292900
+    second: Monster_79_Ghoul_33d
+  - first:
+      213: 432016167965035179
+    second: Monster_79_Ghoul_34
+  - first:
+      213: -2685068246139510277
+    second: Monster_79_Ghoul_35
+  - first:
+      213: -5895287227549470664
+    second: Monster_79_Ghoul_36
+  - first:
+      213: -7777029129360632600
+    second: Monster_79_Ghoul_37
+  - first:
+      213: -7136482352528538666
+    second: Monster_79_Ghoul_38
+  - first:
+      213: -6651855692031968803
+    second: Monster_79_Ghoul_39
+  - first:
+      213: 828082305487567222
+    second: Monster_79_Ghoul_40
+  - first:
+      213: 4260140067250142737
+    second: Monster_79_Ghoul_41
+  - first:
+      213: -8354422881458612056
+    second: Monster_79_Ghoul_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f85cd49a593d9660800000000000000
+      internalID: 7394129224419530996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318cb85a0a74a1f10800000000000000
+      internalID: 2241182519867983891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffe76f46be2fa880800000000000000
+      internalID: -8597601803075850243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abee448f68ac04c60800000000000000
+      internalID: 7800457235645394618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acdf4caa7cdd8670800000000000000
+      internalID: 8542726487626734758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_5
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75337196200a90fe0800000000000000
+      internalID: -1222269891640872105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_6
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fef78d036f2a5ba0800000000000000
+      internalID: -6099510642844631303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_7
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 616
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f615dd44078b0ff0800000000000000
+      internalID: -68812916738681096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_8a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ff37cd04c8bf550800000000000000
+      internalID: 6195699922582634278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc065413b1d537f30800000000000000
+      internalID: 4572100418083315916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a739027ed4af250800000000000000
+      internalID: 5979177110367074849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_11
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d1cbf5cba2f93f0800000000000000
+      internalID: -891947212647686871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1cb38094ffbbb0800000000000000
+      internalID: -4917943366542680761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_13
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6001377244bd780800000000000000
+      internalID: -8657250922464803109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_14
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c394cfcc5a843a0800000000000000
+      internalID: -6680907747379561443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_15
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26954899f61edf090800000000000000
+      internalID: -7998989493706925726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_16
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 462
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce926bfb2f20b020800000000000000
+      internalID: 2355434471062412993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_17b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050726337c925dfb0800000000000000
+      internalID: -4623743506888626096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 308
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f458bc2ce9258110800000000000000
+      internalID: 1262461364886590708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 308
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7389ea2d5866c07b0800000000000000
+      internalID: -5256713940096870345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_20
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 308
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7930c6af05c3097f0800000000000000
+      internalID: -607919631198583913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 308
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc93c4dd37c75b0b0800000000000000
+      internalID: -5713523715173762609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_22
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 308
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bedbbc688d3f3280800000000000000
+      internalID: -9061456269097050444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_23c
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d3dbf8d39f25890800000000000000
+      internalID: -7470634789054366405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a469ebbf4eaa7310800000000000000
+      internalID: 1403625891357615273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_25
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e4fd5cb88c8b0e0800000000000000
+      internalID: -2253831110853177785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_26
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53500563410683b80800000000000000
+      internalID: -8414870263814945483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f540167a3d9a16460800000000000000
+      internalID: 7233249203045074015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_28
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0a04e6c9fdc6740800000000000000
+      internalID: 5146734337135255754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_29
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bf2e7caa9143970800000000000000
+      internalID: 8733633798666910551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_30
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9323631f491b4d0800000000000000
+      internalID: -3120549303073752600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_31
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b5aad9c76d0660800000000000000
+      internalID: 7353647883220268334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_32
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 154
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7686bcaa1aae9a2c0800000000000000
+      internalID: -4419743579211339673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_33d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a387e180499bc500800000000000000
+      internalID: 417595892798292900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa08c47a64def500800000000000000
+      internalID: 432016167965035179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_35
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf16c2ff7a8bcbad0800000000000000
+      internalID: -2685068246139510277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_36
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8303409408bbf2ea0800000000000000
+      internalID: -5895287227549470664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_37
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e418981631721490800000000000000
+      internalID: -7777029129360632600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_38
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d341bf6c1f16fc90800000000000000
+      internalID: -7136482352528538666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_39
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9364bbd7cdfa3a0800000000000000
+      internalID: -6651855692031968803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_40
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6797f5f2870fd7b00800000000000000
+      internalID: 828082305487567222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_41
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e7ad9e1de0f1b30800000000000000
+      internalID: 4260140067250142737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_79_Ghoul_42
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 0
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8934727a02f0c80800000000000000
+      internalID: -8354422881458612056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster_79_Ghoul_0: 7394129224419530996
+      Monster_79_Ghoul_1: 2241182519867983891
+      Monster_79_Ghoul_10: 5979177110367074849
+      Monster_79_Ghoul_11: -891947212647686871
+      Monster_79_Ghoul_12: -4917943366542680761
+      Monster_79_Ghoul_13: -8657250922464803109
+      Monster_79_Ghoul_14: -6680907747379561443
+      Monster_79_Ghoul_15: -7998989493706925726
+      Monster_79_Ghoul_16: 2355434471062412993
+      Monster_79_Ghoul_17b: -4623743506888626096
+      Monster_79_Ghoul_18: 1262461364886590708
+      Monster_79_Ghoul_19: -5256713940096870345
+      Monster_79_Ghoul_2: -8597601803075850243
+      Monster_79_Ghoul_20: -607919631198583913
+      Monster_79_Ghoul_21: -5713523715173762609
+      Monster_79_Ghoul_22: -9061456269097050444
+      Monster_79_Ghoul_23c: -7470634789054366405
+      Monster_79_Ghoul_24: 1403625891357615273
+      Monster_79_Ghoul_25: -2253831110853177785
+      Monster_79_Ghoul_26: -8414870263814945483
+      Monster_79_Ghoul_27: 7233249203045074015
+      Monster_79_Ghoul_28: 5146734337135255754
+      Monster_79_Ghoul_29: 8733633798666910551
+      Monster_79_Ghoul_3: 7800457235645394618
+      Monster_79_Ghoul_30: -3120549303073752600
+      Monster_79_Ghoul_31: 7353647883220268334
+      Monster_79_Ghoul_32: -4419743579211339673
+      Monster_79_Ghoul_33d: 417595892798292900
+      Monster_79_Ghoul_34: 432016167965035179
+      Monster_79_Ghoul_35: -2685068246139510277
+      Monster_79_Ghoul_36: -5895287227549470664
+      Monster_79_Ghoul_37: -7777029129360632600
+      Monster_79_Ghoul_38: -7136482352528538666
+      Monster_79_Ghoul_39: -6651855692031968803
+      Monster_79_Ghoul_4: 8542726487626734758
+      Monster_79_Ghoul_40: 828082305487567222
+      Monster_79_Ghoul_41: 4260140067250142737
+      Monster_79_Ghoul_42: -8354422881458612056
+      Monster_79_Ghoul_5: -1222269891640872105
+      Monster_79_Ghoul_6: -6099510642844631303
+      Monster_79_Ghoul_7: -68812916738681096
+      Monster_79_Ghoul_8a: 6195699922582634278
+      Monster_79_Ghoul_9: 4572100418083315916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
