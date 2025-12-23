@@ -66,12 +66,10 @@ public class PlayerAttack : MonoBehaviour
             {
                 var slotData = allSlots[currentSlotIndex];
                 // ============ 【核心修改区域 开始】 ============
-
-                float manaCost = slotData.GetFinalManaCost();
                 bool castSuccess = false;
 
                 // 【关键修改】直接操作 Character 组件进行扣蓝
-                if (playerCharacter != null && playerCharacter.ConsumeMP(manaCost))
+                if (playerCharacter != null)
                 {
                     // --- A. 扣款成功 ---
 

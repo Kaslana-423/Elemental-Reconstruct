@@ -5,53 +5,112 @@ using System;
 
 public class Character : MonoBehaviour
 {
-    [Header("MP 基础属性")]
-    public float maxMP = 100f;
-    // 使用 protected 保护数据，SerializeField 方便在编辑器看
-    [SerializeField] protected float _currentMP;
+    [Header("HP 基础属性")]
+    public float maxHealth = 100f;
 
-    // 公开的只读属性
-    public float CurrentMP => _currentMP;
+    [Header("受伤设置")]
+    [Tooltip("受伤后的无敌时间/保护时间。玩家建议设为 0.5，敌人建议设为 0 或 0.1")]
+    public float invulnerabilityDuration = 0f;
+    protected float lastDamageTime = -999f; // 上次受伤时间
 
-    // MP 变化事件，UI可以监听这个
-    public event Action<float, float> OnMPChanged;
+    // 使用 protected 保护数据，SerializeField 方便在编辑器调试看数值
+    [SerializeField] protected float _currentHealth;
+
+    // 公开的只读属性，外部只能看，不能直接改
+    public float CurrentHealth => _currentHealth;
+
+    // 状态标记
+    public bool IsDead { get; protected set; }
+
+    // --- 事件系统 ---
+    // 1. 血量变化事件：UI 监听这个来更新血条
+    // 参数: currentHealth, maxHealth
+    public event Action<float, float> OnHealthChanged;
+
+    // 2. 受伤事件：用于播放受击音效、闪白特效、屏幕抖动等
+    public event Action OnTakeDamage;
+
+    // 3. 死亡事件：用于播放死亡动画、掉落物品、游戏结束等
+    public event Action OnDeath;
 
     protected virtual void Start()
     {
-        // 初始化 MP
-        _currentMP = maxMP;
-        // 初始触发一次事件，让UI更新到满状态
-        OnMPChanged?.Invoke(_currentMP, maxMP);
+        // 初始化 HP
+        _currentHealth = maxHealth;
+        IsDead = false;
 
-        // ... (其他初始化) ...
+        // 初始触发一次事件，确保 UI 显示满血
+        OnHealthChanged?.Invoke(_currentHealth, maxHealth);
     }
 
     // --- 核心接口方法 ---
 
-    // 1. 尝试消耗 MP (通用接口)
-    // 返回 true 表示钱够了，扣款成功
-    public virtual bool ConsumeMP(float amount)
+    /// <summary>
+    /// 受伤逻辑 (通用接口)
+    /// </summary>
+    /// <param name="damage">受到的伤害数值</param>
+    public virtual void TakeDamage(float damage)
     {
-        if (_currentMP >= amount)
+        // 如果已经死了，就不要鞭尸了
+        if (IsDead) return;
+
+        // --- 全局无敌时间检查 ---
+        // 如果距离上次受伤的时间小于无敌时间，则忽略这次伤害
+        if (Time.time < lastDamageTime + invulnerabilityDuration) return;
+
+        // 更新受伤时间
+        lastDamageTime = Time.time;
+
+        // 扣血
+        _currentHealth -= damage;
+
+        // 触发受击事件 (给音效或特效用)
+        OnTakeDamage?.Invoke();
+
+        // 确保血量不低于 0
+        if (_currentHealth <= 0)
         {
-            _currentMP -= amount;
-            OnMPChanged?.Invoke(_currentMP, maxMP); // 通知 UI 更新
-            return true;
+            _currentHealth = 0;
+            Die(); // 触发死亡逻辑
         }
-        else
-        {
-            // Debug.Log($"{gameObject.name} MP 不足！");
-            // 这里可以触发一个“缺蓝”事件，比如让角色头顶冒一个图标，或播放音效
-            return false;
-        }
+
+        // 通知 UI 更新血条
+        OnHealthChanged?.Invoke(_currentHealth, maxHealth);
     }
 
-    // 2. 回复/吸收 MP (通用接口)
-    public virtual void RestoreMP(float amount)
+    /// <summary>
+    /// 治疗逻辑 (通用接口)
+    /// </summary>
+    /// <param name="amount">回复量</param>
+    public virtual void Heal(float amount)
     {
-        _currentMP += amount;
-        // 确保不超过上限，也不低于 0
-        _currentMP = Mathf.Clamp(_currentMP, 0f, maxMP);
-        OnMPChanged?.Invoke(_currentMP, maxMP); // 通知 UI 更新
+        if (IsDead) return; // 尸体通常不能回血
+
+        _currentHealth += amount;
+
+        // 确保不超过上限
+        if (_currentHealth > maxHealth)
+        {
+            _currentHealth = maxHealth;
+        }
+
+        // 通知 UI 更新血条
+        OnHealthChanged?.Invoke(_currentHealth, maxHealth);
+    }
+
+    /// <summary>
+    /// 死亡逻辑 (子类可以重写)
+    /// </summary>
+    protected virtual void Die()
+    {
+        IsDead = true;
+
+        // 触发死亡事件，让外部（比如 GameMode 或 掉落系统）知道这个角色挂了
+        OnDeath?.Invoke();
+
+        // Debug.Log($"{gameObject.name} 已死亡");
+
+        // 注意：这里不要直接 Destroy，因为子类可能需要播放几秒钟的死亡动画
+        // 建议在子类重写的 Die 里处理 Destroy
     }
 }

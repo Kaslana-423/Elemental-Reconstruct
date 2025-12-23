@@ -219,7 +219,7 @@ public class Projectile : MonoBehaviour
         if (other.CompareTag("Enemy"))
         {
             // 造成伤害逻辑.
-            Enemy enemy = other.GetComponent<Enemy>();
+            EnemyBase enemy = other.GetComponent<EnemyBase>();
             if (enemy != null)
             {
                 bool isCrit = Random.value < currentStats.critRate;
@@ -260,10 +260,21 @@ public class Projectile : MonoBehaviour
     void ApplyKnockback(Transform target)
     {
         if (currentStats.knockback <= 0) return;
-        // 尝试获取 Rigidbody2D，如果没有就算了，不要报错
+
         if (target.TryGetComponent<Rigidbody2D>(out Rigidbody2D targetRb))
         {
-            Vector2 dir = (target.position - transform.position).normalized;
+            Vector2 dir;
+            // 如果能找到玩家，就计算 玩家->敌人 的向量
+            if (playerTransform != null)
+            {
+                dir = (target.position - playerTransform.position).normalized;
+            }
+            else
+            {
+                // 保底：还是按原来的写法
+                dir = (target.position - transform.position).normalized;
+            }
+
             targetRb.AddForce(dir * currentStats.knockback, ForceMode2D.Impulse);
         }
     }

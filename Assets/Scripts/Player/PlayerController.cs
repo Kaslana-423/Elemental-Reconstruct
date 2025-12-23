@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 public class PlayerController : MonoBehaviour
 {
     [Header("组件引用")]
-    // 持有自己身上的 Character 组件引用
+    // 持有自己身上的 Character 组件引用 (这里是基类，实际是 PlayerStats 或类似的子类)
     [SerializeField] private Character myCharacterStats;
 
     [Header("数值设置")]
@@ -15,38 +15,33 @@ public class PlayerController : MonoBehaviour
     public Animator animator;
     public SpriteRenderer spriteRenderer;
     public GameObject ShopUI; // 确保在 Inspector 里拖入了商店面板
+    public GameObject StateBar;
 
-    // 【新增】引用攻击脚本，方便在打开商店时禁用它
+    // 引用攻击脚本，方便在打开商店时禁用它
     public PlayerAttack playerAttack;
 
     private Rigidbody2D rb;
     private Vector2 moveInput;
 
-
-    [Header("玩家专属：双状态回复机制")]
-    [Tooltip("战斗状态下的低速回蓝 (GDD: 战斗低回蓝)")]
-    public float combatRegenRate = 4f;
-    [Tooltip("脱战状态下的高速回蓝 (GDD: 脱战高回蓝)")]
-    public float peaceRegenRate = 25f;
-    [Tooltip("停止攻击/受击多少秒后，进入脱战状态")]
-    public float peaceStateDelay = 2.0f; // GDD建议3秒，这里设2秒供测试，可调整
+    [Header("战斗状态监测")]
+    [Tooltip("停止攻击/受击多少秒后，视为脱战")]
+    public float peaceStateDelay = 2.0f;
 
     // 记录上一次进行“战斗动作”的时间戳
     private float lastCombatActionTime;
 
-    // 用于 UI 显示或其他逻辑判断
+    // 用于 UI 显示或其他逻辑判断 (比如脱战回血)
     public bool IsInCombatState => Time.time - lastCombatActionTime < peaceStateDelay;
-
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         rb.freezeRotation = true;
 
-        // 自动获取攻击脚本 (假设挂在同一个物体上)
+        // 自动获取攻击脚本
         if (playerAttack == null) playerAttack = GetComponent<PlayerAttack>();
 
-        // 如果没有在编辑器里拖拽，就自动获取
+        // 自动获取 Character 组件
         if (myCharacterStats == null)
         {
             myCharacterStats = GetComponent<Character>();
@@ -54,9 +49,7 @@ public class PlayerController : MonoBehaviour
 
         if (myCharacterStats == null)
         {
-            Debug.LogError("PlayerController: 找不到 Character 组件！回蓝逻辑将失效。");
-            enabled = false; // 禁用自己以防报错
-            return;
+            Debug.LogError("PlayerController: 找不到 Character 组件！受伤逻辑将失效。");
         }
 
         // 初始化时间戳，保证刚开始是脱战状态
@@ -66,14 +59,13 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         // --- 1. 核心修改：如果商店开着，截断逻辑 ---
-        if (ShopUI.activeSelf)
+        if (ShopUI != null && ShopUI.activeSelf)
         {
             HandleShopInput(); // 只处理商店开关
 
             // 强制停止移动 (防止滑行)
             moveInput = Vector2.zero;
             rb.velocity = Vector2.zero;
-
 
             return; // 【关键】直接结束 Update，不再执行下面的移动和翻转逻辑
         }
@@ -102,14 +94,14 @@ public class PlayerController : MonoBehaviour
 
         UpdateVisuals();
 
-        HandleManaRegenerationLogic();
+        // 如果你需要做脱战回血，可以在这里写
+        // HandleHealthRegeneration(); 
     }
 
     void FixedUpdate()
     {
         // 商店开着的时候，Update 里已经 return 了，但为了双重保险
-        // 或者因为 Update 里把 moveInput 设为了 zero，这里自然也就停了
-        if (!ShopUI.activeSelf)
+        if (ShopUI == null || !ShopUI.activeSelf)
         {
             rb.velocity = moveInput * moveSpeed;
         }
@@ -118,20 +110,20 @@ public class PlayerController : MonoBehaviour
     // 单独提取开关商店逻辑
     void HandleShopInput()
     {
+        if (ShopUI == null) return;
+
+        // 确保商店开着的时候攻击脚本是被禁用的 (双重保险)
         if (ShopUI.activeSelf == true)
         {
-            if (playerAttack != null)
-            {
-                playerAttack.enabled = false;
-            }
+            if (playerAttack != null) playerAttack.enabled = false;
         }
+
         if (Keyboard.current != null && Keyboard.current.bKey.wasPressedThisFrame)
         {
             bool isActive = !ShopUI.activeSelf;
             ShopUI.SetActive(isActive);
-
-            // 【进阶技巧】打开商店时，直接禁用攻击脚本，关商店时启用
-            // 这样你都不用去改 PlayerAttack 的代码！
+            StateBar.SetActive(!isActive);
+            // 打开商店时禁用攻击，关商店时启用
             if (playerAttack != null)
             {
                 playerAttack.enabled = !isActive;
@@ -145,43 +137,27 @@ public class PlayerController : MonoBehaviour
         else if (moveInput.x > 0) spriteRenderer.flipX = false;
     }
 
-    private void HandleManaRegenerationLogic()
-    {
-        // 安全检查
-        if (myCharacterStats == null) return;
-
-        // 如果蓝满了，就别算了
-        if (myCharacterStats.CurrentMP >= myCharacterStats.maxMP) return;
-
-        // 判断回复速率
-        float currentRegenRate = IsInCombatState ? combatRegenRate : peaceRegenRate;
-
-        // 【关键修改】调用引用的组件的方法
-        myCharacterStats.RestoreMP(currentRegenRate * Time.deltaTime);
-    }
-
     // --- 公开方法：供外部调用以触发战斗状态 ---
 
-    // 供 PlayerAttack 调用：当尝试攻击扣蓝成功时调用此方法
+    // 供 PlayerAttack 调用：当发起攻击时
     public void NotifyAttackPerformed()
     {
         // 刷新战斗计时器
         lastCombatActionTime = Time.time;
-        // Debug.Log("玩家发起攻击，刷新战斗状态");
     }
 
     // 供外部（如碰撞检测）调用：当玩家挨打时
     public void NotifyDamageTaken(float damage)
     {
-        // 先让 Character 扣血
+        // 1. 让 Character 扣血
         if (myCharacterStats != null)
         {
-            //TODO
-            // myCharacterStats.TakeDamage(damage);
+            myCharacterStats.TakeDamage(damage);
         }
 
-        // 然后刷新战斗计时器
+        // 2. 刷新战斗计时器 (挨打也算进战斗状态)
         lastCombatActionTime = Time.time;
-        // Debug.Log("受到伤害，进入战斗状态！");
+
+        // Debug.Log($"玩家受到 {damage} 点伤害，进入战斗状态！剩余血量: {myCharacterStats.CurrentHealth}");
     }
 }

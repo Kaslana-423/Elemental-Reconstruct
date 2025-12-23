@@ -45,6 +45,15 @@ public class ObjectPoolManager : MonoBehaviour
             obj.SetActive(true);
             obj.transform.position = position;
             obj.transform.rotation = rotation;
+
+            // 【关键修改】即使是复用的对象，也要确保它的 sourcePrefab 是正确的
+            // 虽然理论上不会变，但为了保险起见还是赋值一下
+            var attackScript = obj.GetComponent<Attack>();
+            if (attackScript != null)
+            {
+                attackScript.sourcePrefab = prefab;
+            }
+
             return obj;
         }
         else
@@ -53,8 +62,14 @@ public class ObjectPoolManager : MonoBehaviour
             GameObject newObj = Instantiate(prefab, position, rotation);
             newObj.transform.SetParent(poolParent);
 
-            // 这里可以给物体挂一个标记，记下它是属于哪个 prefab 的（可选，用于高级回收逻辑）
-            // 目前简单实现，直接返回
+            // 【关键修改】尝试获取 Attack 脚本，并记录它的“生父”预制体
+            // 这样子弹自己就知道该回到哪个池子里了
+            var attackScript = newObj.GetComponent<Attack>();
+            if (attackScript != null)
+            {
+                attackScript.sourcePrefab = prefab;
+            }
+
             return newObj;
         }
     }
