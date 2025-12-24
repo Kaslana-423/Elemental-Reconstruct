@@ -1,6 +1,7 @@
 using UnityEngine;
 using DG.Tweening;
 using System.Collections;
+using JetBrains.Annotations;
 // 1. 这是一个抽象类 (abstract)，不能直接挂在物体上，必须被继承
 public abstract class EnemyBase : MonoBehaviour
 {
@@ -16,6 +17,8 @@ public abstract class EnemyBase : MonoBehaviour
     protected Animator anim;
     private Material originalMaterial; // 存原本的材质
     public Material whiteMaterial;
+    public GameObject CoinPrefab;
+    public int CoinNum = 1;
 
     // 2. 这里的 Awake 是 virtual 的，子类可以重写 (override)
     protected virtual void Awake()
@@ -74,8 +77,34 @@ public abstract class EnemyBase : MonoBehaviour
 
     protected virtual void Die()
     {
+        if (CoinPrefab != null)
+        {
+            for (int i = 0; i < CoinNum; i++)
+            {
+                // 1. 随机位置：在半径 0.5 范围内随机生成，避免完全重叠
+                Vector3 spawnPos = transform.position + (Vector3)(Random.insideUnitCircle * 0.5f);
+
+                // 2. 生成金币
+                GameObject coin = ObjectPoolManager.Instance.Spawn(CoinPrefab, spawnPos, Quaternion.identity);
+
+                // 3. 物理炸开效果：如果有刚体，给一个向外的推力，让它们散开
+                Rigidbody2D coinRb = coin.GetComponent<Rigidbody2D>();
+                if (coinRb != null)
+                {
+                    // 计算从中心向外的方向
+                    Vector2 dir = (spawnPos - transform.position).normalized;
+                    // 防止重合导致方向为0
+                    if (dir == Vector2.zero) dir = Random.insideUnitCircle.normalized;
+
+                    // 施加随机力 (Impulse 模式适合瞬间爆发力)
+                    float force = Random.Range(2f, 5f);
+                    coinRb.AddForce(dir * force, ForceMode2D.Impulse);
+                }
+            }
+        }
+
         // 掉落物品、播放死亡特效、销毁对象
-        Destroy(gameObject);
+        ObjectPoolManager.Instance.ReturnToPool(this.gameObject, this.gameObject);
     }
 
     // 4. 定义一个移动的方法，但不写死逻辑，因为 Boss 和 杂兵 移动方式不同

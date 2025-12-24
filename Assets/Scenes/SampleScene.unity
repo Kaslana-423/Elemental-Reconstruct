@@ -579,6 +579,8 @@ MonoBehaviour:
   maxHP: 147.2
   moveSpeed: 1
   whiteMaterial: {fileID: 2100000, guid: b3aae95b95457bb4aa1446d5efc6798c, type: 2}
+  CoinPrefab: {fileID: 2002523962603875063, guid: 440e97350f08d1d4f9880d4c6fb50ffe, type: 3}
+  CoinNum: 10
   attackRange: 1.62
   attackCooldown: 1.03
   contactDamage: 10
@@ -973,6 +975,10 @@ PrefabInstance:
       value: Monster_12_Glop Slime
       objectReference: {fileID: 0}
     - target: {fileID: 4139814172165472253, guid: a53721056f0c53a4491fe253c7c03a53, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4139814172165472253, guid: a53721056f0c53a4491fe253c7c03a53, type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -1194,6 +1200,8 @@ MonoBehaviour:
   maxHP: 100
   moveSpeed: 2
   whiteMaterial: {fileID: 2100000, guid: b3aae95b95457bb4aa1446d5efc6798c, type: 2}
+  CoinPrefab: {fileID: 2002523962603875063, guid: 440e97350f08d1d4f9880d4c6fb50ffe, type: 3}
+  CoinNum: 1
   contactDamage: 1
   damageInterval: 0.5
 --- !u!58 &222625416
@@ -2588,6 +2596,10 @@ PrefabInstance:
       value: Monster_9_Evil Slime
       objectReference: {fileID: 0}
     - target: {fileID: 6813743009545799402, guid: a1d0d66b329f07744892a6b926d16997, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6813743009545799402, guid: a1d0d66b329f07744892a6b926d16997, type: 3}
       propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}
@@ -2738,6 +2750,8 @@ MonoBehaviour:
   maxHP: 100
   moveSpeed: 3
   whiteMaterial: {fileID: 2100000, guid: b3aae95b95457bb4aa1446d5efc6798c, type: 2}
+  CoinPrefab: {fileID: 2002523962603875063, guid: 440e97350f08d1d4f9880d4c6fb50ffe, type: 3}
+  CoinNum: 1
   contactDamage: 1
   damageInterval: 0.5
 --- !u!58 &590359467
@@ -2983,6 +2997,10 @@ PrefabInstance:
     - target: {fileID: 7516573020476399399, guid: ea1c034b462432242b64bbc5f9e278c8, type: 3}
       propertyPath: m_Name
       value: Monster_15_Crystal Golem
+      objectReference: {fileID: 0}
+    - target: {fileID: 7516573020476399399, guid: ea1c034b462432242b64bbc5f9e278c8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7516573020476399399, guid: ea1c034b462432242b64bbc5f9e278c8, type: 3}
       propertyPath: m_TagString
@@ -6169,6 +6187,10 @@ PrefabInstance:
       value: Monster_15_Crystal Golem (2)
       objectReference: {fileID: 0}
     - target: {fileID: 7516573020476399399, guid: ea1c034b462432242b64bbc5f9e278c8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7516573020476399399, guid: ea1c034b462432242b64bbc5f9e278c8, type: 3}
       propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}
@@ -6544,6 +6566,7 @@ Transform:
   - {fileID: 840014301}
   - {fileID: 1227169957}
   - {fileID: 631043861}
+  - {fileID: 962742752}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &898462678
@@ -6930,6 +6953,86 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 941704801}
   m_CullTransparentMesh: 1
+--- !u!1 &962742751
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 962742752}
+  - component: {fileID: 962742754}
+  - component: {fileID: 962742753}
+  m_Layer: 6
+  m_Name: PickUpArea
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &962742752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 962742751}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 898462677}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &962742753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 962742751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e02c34ca3c38b0e4994b0772fb29b951, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!58 &962742754
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 962742751}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.017002424, y: 0.3770965}
+  serializedVersion: 2
+  m_Radius: 1.1
 --- !u!1 &1050129312
 GameObject:
   m_ObjectHideFlags: 0
@@ -7151,7 +7254,7 @@ GameObject:
   - component: {fileID: 1168242213}
   - component: {fileID: 1168242214}
   - component: {fileID: 1168242215}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: AttackArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7523,6 +7626,8 @@ MonoBehaviour:
   maxHP: 100
   moveSpeed: 3
   whiteMaterial: {fileID: 2100000, guid: b3aae95b95457bb4aa1446d5efc6798c, type: 2}
+  CoinPrefab: {fileID: 2002523962603875063, guid: 440e97350f08d1d4f9880d4c6fb50ffe, type: 3}
+  CoinNum: 1
   contactDamage: 1
   damageInterval: 0.5
 --- !u!58 &1264015746
@@ -7921,6 +8026,10 @@ PrefabInstance:
     - target: {fileID: 4541003236851279678, guid: ec24089b476ac4e46a5978aed2bc2798, type: 3}
       propertyPath: m_Name
       value: Monster_11_Pure Slime
+      objectReference: {fileID: 0}
+    - target: {fileID: 4541003236851279678, guid: ec24089b476ac4e46a5978aed2bc2798, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4541003236851279678, guid: ec24089b476ac4e46a5978aed2bc2798, type: 3}
       propertyPath: m_IsActive
@@ -10090,6 +10199,10 @@ PrefabInstance:
       value: Monster_66_Scythe Ghost
       objectReference: {fileID: 0}
     - target: {fileID: 3715344645035696669, guid: 13e00721c1ce0cb40a097396e78ca3f7, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3715344645035696669, guid: 13e00721c1ce0cb40a097396e78ca3f7, type: 3}
       propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}
@@ -10170,6 +10283,10 @@ PrefabInstance:
     - target: {fileID: 7516573020476399399, guid: ea1c034b462432242b64bbc5f9e278c8, type: 3}
       propertyPath: m_Name
       value: Monster_15_Crystal Golem (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7516573020476399399, guid: ea1c034b462432242b64bbc5f9e278c8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7516573020476399399, guid: ea1c034b462432242b64bbc5f9e278c8, type: 3}
       propertyPath: m_TagString
@@ -10755,6 +10872,8 @@ MonoBehaviour:
   maxHP: 100
   moveSpeed: 2
   whiteMaterial: {fileID: 2100000, guid: b3aae95b95457bb4aa1446d5efc6798c, type: 2}
+  CoinPrefab: {fileID: 2002523962603875063, guid: 440e97350f08d1d4f9880d4c6fb50ffe, type: 3}
+  CoinNum: 1
   attackRange: 5.57
   attackCooldown: 0.95
   contactDamage: 10
