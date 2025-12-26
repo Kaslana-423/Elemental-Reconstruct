@@ -45,7 +45,10 @@ public class SaveManager : MonoBehaviour
         {
             data.gold = PlayerInventory.PlayerInstance.currentGold;
         }
-
+        if (GameManager.Instance != null)
+        {
+            data.gameProcess = GameManager.Instance.gameProcess;
+        }
         // --- B. 保存背包 (按位置记录) ---
         foreach (var item in myBackpack.itemList)
         {
@@ -98,6 +101,10 @@ public class SaveManager : MonoBehaviour
         if (PlayerInventory.PlayerInstance != null)
         {
             PlayerInventory.PlayerInstance.InitializeGoldFromSave(data.gold);
+        }
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.gameProcess = data.gameProcess;
         }
 
         var bagList = myBackpack.itemList;
@@ -162,6 +169,7 @@ public class SaveManager : MonoBehaviour
     public class GameSaveData
     {
         public int gold;
+        public int gameProcess;
         public List<string> backpackIDs = new List<string>();
         public List<WandSaveData> wands = new List<WandSaveData>();
     }

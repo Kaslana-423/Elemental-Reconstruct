@@ -69,6 +69,8 @@ public abstract class EnemyBase : MonoBehaviour
     // 3. 受伤逻辑是通用的
     public virtual void TakeDamage(float amount)
     {
+        if (!gameObject.activeInHierarchy) return;
+
         currentHP -= amount;
         StartCoroutine(FlashEffect());
         // 播放受击动画、跳伤害数字...

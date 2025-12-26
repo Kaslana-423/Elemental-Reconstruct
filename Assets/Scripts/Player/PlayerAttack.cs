@@ -5,195 +5,211 @@ using UnityEngine.InputSystem;
 public class PlayerAttack : MonoBehaviour
 {
     [Header("设置")]
-    public Transform firePoint; // 发射点 (现在它不需要旋转了，固定在角色前方即可)
-    [Header("法杖设置")]
-    public float fireInterval;
+    // 务必在 Inspector 拖入 3 个发射点 (Left, Center, Right)
+    public Transform[] firePoints;
+    public float fireInterval;     // 默认基础CD
 
-    private float nextFireTime = 0f;
-    private int currentSlotIndex = 0;
-    private Coroutine firingCoroutine;
+    [Header("索敌设置")]
+    public float autoAimRange = 15f;
+    public LayerMask enemyLayer;
+
+    // 并行射击计时器数组
+    private float[] nextFireTimes;
+
     private PlayerController playerController;
-    private Character playerCharacter;
-
-    // 缓存摄像机引用，提升性能
     private Camera mainCamera;
+
+    // 缓存搜索用的数组 (优化GC)
+    private Collider2D[] enemyCache = new Collider2D[20];
 
     void Start()
     {
         playerController = GetComponent<PlayerController>();
-        playerCharacter = GetComponent<Character>();
-
-        if (playerController == null || playerCharacter == null)
-        {
-            Debug.LogError("PlayerAttack: 缺少必要的组件 (PlayerController 或 Character)！");
-        }
         mainCamera = Camera.main;
+
+        // 【核心修改 1】游戏开始直接启动射击循环，不再等待按键
+        StartCoroutine(FireManagementRoutine());
     }
 
-    void Update()
-    {
-        // ... (这部分按键检测逻辑保持不变) ...
-        if (Mouse.current.leftButton.wasPressedThisFrame)
-        {
-            if (firingCoroutine == null)
-            {
-                firingCoroutine = StartCoroutine(FireManagementRoutine());
-            }
-        }
+    // Update里已经不需要写按键检测了，全交给协程处理
+    void Update() { }
 
-        if (Mouse.current.leftButton.wasReleasedThisFrame)
-        {
-            if (firingCoroutine != null)
-            {
-                StopCoroutine(firingCoroutine);
-                firingCoroutine = null;
-            }
-        }
-    }
-
-    // ... (这个协程也保持不变) ...
     IEnumerator FireManagementRoutine()
     {
-        // 假设 PlayerInventory 是单例或能全局访问
         var allSlots = PlayerInventory.PlayerInstance.wands;
 
-        // 获取法杖基础间隔 (如果没找到组件就用默认值 0.5s)
-        float baseInterval = fireInterval;
+        // 初始化计时器
+        if (nextFireTimes == null || nextFireTimes.Length != allSlots.Length)
+        {
+            nextFireTimes = new float[allSlots.Length];
+        }
 
         while (true)
         {
-            if (Time.time >= nextFireTime)
+            // 【核心修改 2】每一帧实时检测鼠标状态
+            // isPressed 会在按住期间一直返回 true
+            bool isManualAim = Mouse.current.leftButton.isPressed;
+
+            // 遍历 3 个法术槽位 (并行逻辑)
+            for (int i = 0; i < allSlots.Length; i++)
             {
-                var slotData = allSlots[currentSlotIndex];
-                // ============ 【核心修改区域 开始】 ============
-                bool castSuccess = false;
+                // 安全检查：发射点取模防止越界
+                Transform currentOrigin = firePoints[i % firePoints.Length];
+                WandStorage slotData = allSlots[i];
 
-                // 【关键修改】直接操作 Character 组件进行扣蓝
-                if (playerCharacter != null)
+                // 检查 CD 是否转好
+                if (Time.time >= nextFireTimes[i])
                 {
-                    // --- A. 扣款成功 ---
-
-                    // 【关键新增】通知 PlayerController 刷新战斗状态
-                    if (playerController != null)
-                    {
-                        playerController.NotifyAttackPerformed();
-                    }
-
-                    // 执行发射
+                    // 只有槽位里有法术才处理
                     if (slotData != null &&
-                    slotData.originalMagic != null &&
-                    slotData.originalMagic.itemPrefab != null)
+                        slotData.originalMagic != null &&
+                        slotData.originalMagic.itemPrefab != null)
                     {
-                        CalculateAndSpawn(slotData);
-                        castSuccess = true;
+                        bool shouldFire = false;
+                        Transform target = null;
+
+                        // --- 分支逻辑 ---
+                        if (isManualAim)
+                        {
+                            // A. 手动模式：按住鼠标 -> 强制开火，不管有没有怪
+                            shouldFire = true;
+                            // target 保持为 null，CalculateAndSpawn 会去读鼠标位置
+                        }
+                        else
+                        {
+                            // B. 自动模式：松开鼠标 -> 找最近的怪
+                            target = FindNearestEnemy();
+
+                            // 只有找到怪了才开火！(省子弹，也防止对着空气射)
+                            if (target != null)
+                            {
+                                shouldFire = true;
+                            }
+                        }
+
+                        // --- 执行发射 ---
+                        if (shouldFire)
+                        {
+                            // 1. 通知动画/状态
+                            if (playerController != null) playerController.NotifyAttackPerformed();
+
+                            // 2. 发射 (传入 target，如果是 null 内部会自动处理成鼠标或前方)
+                            CalculateAndSpawn(slotData, currentOrigin, isManualAim, target);
+
+                            // 3. 进入冷却
+                            float delay = slotData.GetFinalFireDelay(fireInterval);
+                            nextFireTimes[i] = Time.time + delay;
+                        }
+                        else
+                        {
+                            // 如果自动模式没找到怪，就保持 "Ready" 状态，下一帧继续检测
+                            // 不更新 nextFireTimes，这样怪一进范围就能秒射
+                        }
                     }
                 }
-                else
-                {
-                    // --- B. 余额不足 ---
-                    // 缺蓝处理...
-                    castSuccess = false;
-                }
-                // =========== 【核心修改区域】 ===========
-
-                // 1. 调用新方法计算当前槽位的实际延迟
-                // 传入法杖的基础间隔
-                float currentSlotDelay = slotData.GetFinalFireDelay(baseInterval);
-
-                // 2. (可选) 调试日志，验证计算结果
-                // Debug.Log($"槽位[{currentSlotIndex}] 发射。基础:{baseInterval:F2}, 最终延迟:{currentSlotDelay:F2}");
-
-                // 3. 设置下一次允许开火的时间
-                if (castSuccess) nextFireTime = Time.time + currentSlotDelay;
-                currentSlotIndex++;
-                if (currentSlotIndex >= allSlots.Length) currentSlotIndex = 0;
             }
-            yield return null;
+
+            yield return null; // 等待下一帧
         }
     }
-    // =========== 【核心修改区域】 ===========
-    void CalculateAndSpawn(WandStorage data)
+
+    // --- 修改后的发射计算方法 ---
+    void CalculateAndSpawn(WandStorage data, Transform origin, bool isManual, Transform targetEnemy)
     {
-        // A. 提取数据 (不变)
         MagicItem baseItem = data.originalMagic;
         MagicItem mod1 = data.modifiedMagic1;
         MagicItem mod2 = data.modifiedMagic2;
         MagicItem trigger = data.triggerMagic;
 
-        // B. 计算最终属性 (不变)
+        // 计算属性 (Damage, Count, etc.)
         SpellStats finalStats = baseItem.stats;
         if (mod1 != null) finalStats = finalStats + mod1.stats;
         if (mod2 != null) finalStats = finalStats + mod2.stats;
 
-        // C. 处理多重施法和散射角度 (不变)
         int projectileCount = Mathf.Max(1, finalStats.count);
         float spreadAngle = finalStats.spread;
         float halfSpread = spreadAngle / 2f;
-        float orbitStepAngle = 0f;
-        // 如果是环绕模式，计算每个子弹之间的角度间隔
-        if (finalStats.isOrbiting && projectileCount > 1)
+
+        // 只有环绕且多发时才计算步进角
+        float orbitStepAngle = (finalStats.isOrbiting && projectileCount > 1) ? 360f / projectileCount : 0f;
+
+        // ============ 【瞄准方向计算】 ============
+        Quaternion baseAimRotation;
+
+        if (isManual)
         {
-            orbitStepAngle = 360f / projectileCount;
+            // 情况 1: 手动 -> 朝鼠标
+            baseAimRotation = GetMouseRotation(origin);
         }
+        else if (targetEnemy != null)
+        {
+            // 情况 2: 自动 -> 朝敌人
+            Vector2 dir = targetEnemy.position - origin.position;
+            float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+            baseAimRotation = Quaternion.Euler(0, 0, angle);
+        }
+        else
+        {
+            // 情况 3: 保底 (理论上 shouldFire控制了不会进这里，但为了安全)
+            // 默认朝枪口前方
+            baseAimRotation = origin.rotation;
+        }
+        // ========================================
 
-        // Let's Aim! 
-        // --- 新增：计算基准瞄准方向 ---
-
-        // 1. 获取鼠标屏幕坐标
-        Vector2 mouseScreenPos = Mouse.current.position.ReadValue();
-
-        // 2. 转世界坐标。确保 Z 轴距离足够让摄像机看到
-        Vector3 mouseWorldPos = mainCamera.ScreenToWorldPoint(new Vector3(mouseScreenPos.x, mouseScreenPos.y, Mathf.Abs(mainCamera.transform.position.z)));
-        // 重要：把鼠标的 Z 轴拉平和发射点一致，确保是 2D 平面计算
-        mouseWorldPos.z = firePoint.position.z;
-
-        // 3. 计算向量方向 (目标点 - 起始点)
-        Vector3 aimDirection = (mouseWorldPos - firePoint.position).normalized;
-
-        // 4. 计算基准角度 (Atan2 返回弧度，转为角度)
-        float baseAimAngle = Mathf.Atan2(aimDirection.y, aimDirection.x) * Mathf.Rad2Deg;
-
-        // 5. 生成基准旋转四元数
-        Quaternion baseAimRotation = Quaternion.Euler(0, 0, baseAimAngle);
-
-        // D. 循环生成实体
         for (int j = 0; j < projectileCount; j++)
         {
-            // 【修改点 3：计算随机偏移量】
-
-            // 以前是：固定的步长
-            // float currentSpreadOffset = startAngle + (angleStep * j);
-
-            // 现在是：在 [-half, +half] 之间随机取一个值
-            // 使用 UnityEngine.Random.Range(min, max)
             float randomSpreadOffset = UnityEngine.Random.Range(-halfSpread, halfSpread);
-
-            // 基于计算出来的鼠标方向进行随机偏移
-            // 注意这里用的是 randomSpreadOffset
             Quaternion finalRotation = baseAimRotation * Quaternion.Euler(0, 0, randomSpreadOffset);
 
-            // 生成子弹
-            GameObject spellObj = ObjectPoolManager.Instance.Spawn(baseItem.itemPrefab, firePoint.position, finalRotation);
+            GameObject spellObj = ObjectPoolManager.Instance.Spawn(baseItem.itemPrefab, origin.position, finalRotation);
             Projectile pScript = spellObj.GetComponent<Projectile>();
 
-            // 初始化子弹
             if (pScript != null)
             {
-                // --- 计算当前子弹的环绕偏移角 ---
                 float currentOrbitOffset = 0f;
-                if (finalStats.isOrbiting)
-                {
-                    // 第0个偏移0度，第1个偏移 step 度，第2个偏移 2*step 度...
-                    currentOrbitOffset = j * orbitStepAngle;
-
-                    // (可选高级功能) 如果你希望每次发射的环绕物初始位置随机一点，
-                    // 可以加上一个随机的起始角：
-                    // currentOrbitOffset += Random.Range(0f, 360f);
-                }
-
-                // 【关键修改】调用新的 Initialize，传入计算好的偏移角
+                if (finalStats.isOrbiting) currentOrbitOffset = j * orbitStepAngle;
                 pScript.Initialize(finalStats, trigger, currentOrbitOffset, baseItem.itemPrefab);
             }
         }
+    }
+
+    // 获取鼠标方向
+    Quaternion GetMouseRotation(Transform origin)
+    {
+        Vector2 mouseScreenPos = Mouse.current.position.ReadValue();
+        Vector3 mouseWorldPos = mainCamera.ScreenToWorldPoint(new Vector3(mouseScreenPos.x, mouseScreenPos.y, Mathf.Abs(mainCamera.transform.position.z)));
+        mouseWorldPos.z = origin.position.z;
+        Vector3 aimDirection = (mouseWorldPos - origin.position).normalized;
+        float baseAimAngle = Mathf.Atan2(aimDirection.y, aimDirection.x) * Mathf.Rad2Deg;
+        return Quaternion.Euler(0, 0, baseAimAngle);
+    }
+
+    // 寻找最近敌人
+    Transform FindNearestEnemy()
+    {
+        int count = Physics2D.OverlapCircleNonAlloc(transform.position, autoAimRange, enemyCache, enemyLayer);
+        Transform nearest = null;
+        float minDistSq = Mathf.Infinity;
+
+        for (int i = 0; i < count; i++)
+        {
+            if (enemyCache[i] == null) continue;
+            if (enemyCache[i].CompareTag("Enemy"))
+            {
+                float distSq = (enemyCache[i].transform.position - transform.position).sqrMagnitude;
+                if (distSq < minDistSq)
+                {
+                    minDistSq = distSq;
+                    nearest = enemyCache[i].transform;
+                }
+            }
+        }
+        return nearest;
+    }
+
+    void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.cyan;
+        Gizmos.DrawWireSphere(transform.position, autoAimRange);
     }
 }
