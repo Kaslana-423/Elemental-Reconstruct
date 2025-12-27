@@ -46,10 +46,10 @@ public class EnemyWaveManager : MonoBehaviour
 
     [Header("生成设置")]
     public Transform playerTransform; // 玩家位置
-    public float spawnRadius = 15f;   // 在玩家多少米外生成
+    public float spawnRadius;   // 在玩家多少米外生成
     public float groupSpacing = 1f;   // 成群生成时，怪之间的间距
-    public Vector2 mapMin = new Vector2(-9, -11); // 地图左下角坐标
-    public Vector2 mapMax = new Vector2(9, 7);   // 地图右上角坐标
+    public Vector2 mapMin; // 地图左下角坐标
+    public Vector2 mapMax;   // 地图右上角坐标
     [Header("调试选项")]
 
     // 运行时状态
@@ -178,5 +178,18 @@ public class EnemyWaveManager : MonoBehaviour
             if (ObjectPoolManager.Instance != null)
                 ObjectPoolManager.Instance.Spawn(rule.enemyPrefab, spawnPos, Quaternion.identity);
         }
+    }
+
+    void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.yellow;
+        if (playerTransform != null)
+            Gizmos.DrawWireSphere(playerTransform.position, spawnRadius);
+
+        Gizmos.color = Color.red;
+        // 画出地图边界
+        Vector3 center = new Vector3((mapMin.x + mapMax.x) / 2, (mapMin.y + mapMax.y) / 2, 0);
+        Vector3 size = new Vector3(mapMax.x - mapMin.x, mapMax.y - mapMin.y, 0);
+        Gizmos.DrawWireCube(center, size);
     }
 }

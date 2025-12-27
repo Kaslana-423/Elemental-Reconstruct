@@ -10,6 +10,7 @@ TagManager:
   - Thunder
   - Tunder
   - PlayerCenter
+  - Wall
   layers:
   - Default
   - TransparentFX
