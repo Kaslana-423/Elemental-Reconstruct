@@ -41,6 +41,13 @@ public class WaveData
 
 public class EnemyWaveManager : MonoBehaviour
 {
+    public static EnemyWaveManager Instance;
+
+    void Awake()
+    {
+        if (Instance == null) Instance = this;
+    }
+
     [Header("波次配置列表 (按顺序填入第1波到第20波)")]
     public List<WaveData> allWaves;
 
@@ -53,9 +60,9 @@ public class EnemyWaveManager : MonoBehaviour
     [Header("调试选项")]
 
     // 运行时状态
-    private int currentWaveIndex = 0;
-    private float currentWaveTime = 0f;
-    private bool isWaveActive = true;
+    public int currentWaveIndex = 0;
+    public float currentWaveTime = 0f;
+    private bool isWaveActive = false;
 
     void Start()
     {
@@ -65,7 +72,18 @@ public class EnemyWaveManager : MonoBehaviour
             playerTransform = GameObject.FindWithTag("Player").transform;
         }
 
-        StartWave(0);
+        // 以前是自动开始，现在改为手动调用 StartCombat() 触发
+        // StartWave(0); 
+    }
+
+    // --- 外部调用接口 ---
+    // 在UI按钮事件里调用这个方法即可开始游戏
+    public void StartCombat()
+    {
+        if (!isWaveActive)
+        {
+            StartWave(currentWaveIndex);
+        }
     }
 
     void Update()
@@ -77,9 +95,11 @@ public class EnemyWaveManager : MonoBehaviour
         WaveData currentWave = allWaves[currentWaveIndex];
 
         // 2. 检查本波次是否结束
-        if (currentWaveTime >= currentWave.waveDuration)
+        if (currentWaveTime > currentWave.waveDuration)
         {
-            NextWave();
+            // 防止重复调用
+            StartCoroutine(NextWaveRoutine());
+            isWaveActive = false;
             return;
         }
 
@@ -118,18 +138,71 @@ public class EnemyWaveManager : MonoBehaviour
         }
     }
 
-    void NextWave()
+    IEnumerator NextWaveRoutine()
     {
-        currentWaveIndex++;
-        if (currentWaveIndex < allWaves.Count)
+        // 1. 切换波次时，清理战场并吸附金币 (金币开始飞向玩家)
+        CleanUpBattlefield();
+        var pc = playerTransform.GetComponent<PlayerController>();
+        Debug.Log("Waiting for coins...");
+        // 2. 等待 2 秒，让金币有时间飞过来
+        isWaveActive = false;
+        if (currentWaveIndex + 1 < allWaves.Count)
         {
-            StartWave(currentWaveIndex);
-            // 这里可以加一个波次之间的商店界面暂停逻辑
+            // --- 暂停游戏逻辑 
+            // 停止移动并打开商店
+
+            if (pc != null)
+            {
+                pc.StopMoveAndAttack();
+                yield return new WaitForSeconds(2.0f);
+                currentWaveIndex++;
+                pc.OpenShop();
+            }
+            // 尝试回血
+            var charScript = playerTransform.GetComponent<Character>();
+            if (charScript != null) charScript.HealFull();
         }
         else
         {
             Debug.Log("所有波次结束，胜利！");
             isWaveActive = false;
+        }
+    }
+
+    /// <summary>
+    /// 清理战场：回收所有敌人，吸附所有金币
+    /// </summary>
+    void CleanUpBattlefield()
+    {
+        // 1. 回收所有活着的敌人
+        // 注意：这里使用 FindObjectsOfType 可能会比较耗时，但在波次切换时卡顿一帧通常可以接受
+        // 如果想要高性能，可以让 ObjectPoolManager 维护一个 activeEnemies 列表
+        EnemyBase[] activeEnemies = FindObjectsOfType<EnemyBase>();
+        foreach (var enemy in activeEnemies)
+        {
+            if (enemy.gameObject.activeInHierarchy)
+            {
+                // 直接回收，不触发 EnemyBase.Die() 里的掉落逻辑
+                if (ObjectPoolManager.Instance != null)
+                {
+                    ObjectPoolManager.Instance.ReturnToPool(enemy.gameObject, enemy.gameObject);
+                }
+                else
+                {
+                    enemy.gameObject.SetActive(false);
+                }
+            }
+        }
+
+        // 2. 让所有掉落的金币飞向玩家
+        Coin[] activeCoins = FindObjectsOfType<Coin>();
+        foreach (var coin in activeCoins)
+        {
+            if (coin.gameObject.activeInHierarchy)
+            {
+                // 调用 Coin 脚本里的吸附方法
+                coin.StartMagnet(playerTransform);
+            }
         }
     }
 

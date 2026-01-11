@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour
     // 引用攻击脚本，方便在打开商店时禁用它
     public PlayerAttack playerAttack;
 
-    private Rigidbody2D rb;
+    public Rigidbody2D rb;
     private Vector2 moveInput;
 
     [Header("战斗状态监测")]
@@ -29,6 +29,9 @@ public class PlayerController : MonoBehaviour
 
     // 记录上一次进行“战斗动作”的时间戳
     private float lastCombatActionTime;
+
+    // 控制是否允许输入移动
+    private bool isInputEnabled = true;
 
     // 用于 UI 显示或其他逻辑判断 (比如脱战回血)
     public bool IsInCombatState => Time.time - lastCombatActionTime < peaceStateDelay;
@@ -58,8 +61,8 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        // --- 1. 核心修改：如果商店开着，截断逻辑 ---
-        if (ShopUI != null && ShopUI.activeSelf)
+        // --- 1. 核心修改：如果商店开着，或者输入被禁用，截断逻辑 ---
+        if ((ShopUI != null && ShopUI.activeSelf) || !isInputEnabled)
         {
             HandleShopInput(); // 只处理商店开关
 
@@ -106,7 +109,31 @@ public class PlayerController : MonoBehaviour
             rb.velocity = moveInput * moveSpeed;
         }
     }
+    public void StopMoveAndAttack()
+    {
+        isInputEnabled = false; // 禁用输入        moveInput = Vector2.zero;
+        rb.velocity = Vector2.zero;
 
+        // 如果有攻击脚本，也让它停止攻击
+        if (playerAttack != null)
+        {
+            playerAttack.enabled = false;
+        }
+    }
+    public void OpenShop()
+    {
+        if (ShopUI != null)
+        {
+            ShopUI.SetActive(true);
+            if (StateBar != null) StateBar.SetActive(false);
+
+            // 打开商店时禁用攻击
+            if (playerAttack != null)
+            {
+                playerAttack.enabled = false;
+            }
+        }
+    }
     // 单独提取开关商店逻辑
     void HandleShopInput()
     {
@@ -128,6 +155,33 @@ public class PlayerController : MonoBehaviour
             {
                 playerAttack.enabled = !isActive;
             }
+        }
+    }
+
+    // --- 新增：供UI按钮调用 ---
+    public void FinishShoppingAndStart()
+    {
+        if (ShopUI != null)
+        {
+            // 1. 关闭商店
+            ShopUI.SetActive(false);
+
+            // 2. 显示UI条
+            if (StateBar != null) StateBar.SetActive(true);
+
+            // 3. 启用攻击
+            if (playerAttack != null)
+            {
+                playerAttack.enabled = true;
+            }
+        }
+
+        isInputEnabled = true;
+
+        // 4. 通知刷怪管理器开始
+        if (EnemyWaveManager.Instance != null)
+        {
+            EnemyWaveManager.Instance.StartCombat();
         }
     }
 

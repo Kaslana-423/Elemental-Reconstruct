@@ -101,6 +101,15 @@ public class Character : MonoBehaviour
     /// <summary>
     /// 死亡逻辑 (子类可以重写)
     /// </summary>
+    public void HealFull()
+    {
+        if (IsDead) return; // 尸体通常不能回血
+
+        _currentHealth = maxHealth;
+
+        // 通知 UI 更新血条
+        OnHealthChanged?.Invoke(_currentHealth, maxHealth);
+    }
     protected virtual void Die()
     {
         IsDead = true;

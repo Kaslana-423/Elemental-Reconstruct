@@ -322,7 +322,7 @@ MonoBehaviour:
   moveSpeed: 1
   whiteMaterial: {fileID: 2100000, guid: b3aae95b95457bb4aa1446d5efc6798c, type: 2}
   CoinPrefab: {fileID: 2002523962603875063, guid: 440e97350f08d1d4f9880d4c6fb50ffe, type: 3}
-  CoinNum: 10
+  CoinNum: 3
   attackRange: 1.62
   attackCooldown: 1.03
   contactDamage: 10
