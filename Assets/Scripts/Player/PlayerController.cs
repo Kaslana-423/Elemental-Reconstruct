@@ -177,7 +177,7 @@ public class PlayerController : MonoBehaviour
         }
 
         isInputEnabled = true;
-
+        myCharacterStats.HealFull(); // 全回血
         // 4. 通知刷怪管理器开始
         if (EnemyWaveManager.Instance != null)
         {

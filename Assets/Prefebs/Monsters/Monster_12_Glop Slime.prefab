@@ -189,6 +189,7 @@ MonoBehaviour:
   whiteMaterial: {fileID: 2100000, guid: b3aae95b95457bb4aa1446d5efc6798c, type: 2}
   CoinPrefab: {fileID: 2002523962603875063, guid: 440e97350f08d1d4f9880d4c6fb50ffe, type: 3}
   CoinNum: 1
+  DamagePopupPrefab: {fileID: 4737331846598361310, guid: cf6c7d068e693674286fc108791b51ac, type: 3}
   contactDamage: 1
   damageInterval: 0.5
 --- !u!58 &4556195766799697564

@@ -20,6 +20,9 @@ public abstract class EnemyBase : MonoBehaviour
     public GameObject CoinPrefab;
     public int CoinNum = 1;
 
+    [Header("UI Effects")]
+    public GameObject DamagePopupPrefab;
+
     // 2. 这里的 Awake 是 virtual 的，子类可以重写 (override)
     protected virtual void Awake()
     {
@@ -72,8 +75,21 @@ public abstract class EnemyBase : MonoBehaviour
         if (!gameObject.activeInHierarchy) return;
 
         currentHP -= amount;
+
+        // --- 弹出伤害数字 ---
+        if (DamagePopupPrefab != null && ObjectPoolManager.Instance != null)
+        {
+            // 在头顶稍微偏移一点的位置生成
+            GameObject popupObj = ObjectPoolManager.Instance.Spawn(DamagePopupPrefab, transform.position + Vector3.up * 0.5f, Quaternion.identity);
+            DamagePopup popup = popupObj.GetComponent<DamagePopup>();
+
+            if (popup != null)
+            {
+                popup.sourcePrefab = DamagePopupPrefab;
+                popup.Setup(amount);
+            }
+        }
         StartCoroutine(FlashEffect());
-        // 播放受击动画、跳伤害数字...
         if (currentHP <= 0) Die();
     }
 

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class InventoryManager : MonoBehaviour
 {
@@ -9,11 +10,14 @@ public class InventoryManager : MonoBehaviour
     public MagicEditInventory MagicEditInventory1;
     public MagicEditInventory MagicEditInventory2;
     public MagicEditInventory MagicEditInventory3;
+    public RelicInventory relicInventory;
     public GameObject MagicSlotGrid;
     public GameObject RelicSlotGrid;
     public GameObject emptySlot;
+    public GameObject relicEmptySlot;
     public GameObject EditEmptySlot;
     public GameObject EditSlotGrid;
+    public List<GameObject> RelicSlots = new List<GameObject>();
     public List<GameObject> MagicSlots = new List<GameObject>();
     public List<GameObject> EditSlots = new List<GameObject>();
     public int EditLevel;
@@ -43,6 +47,19 @@ public class InventoryManager : MonoBehaviour
     public static void RefreshItem()
     {
         instance.MagicSlots.Clear();
+        // --- 修复：记得清空遗物列表 ---
+        instance.RelicSlots.Clear();
+
+        for (int i = 0; i < instance.RelicSlotGrid.transform.childCount; i++)
+        {
+            Destroy(instance.RelicSlotGrid.transform.GetChild(i).gameObject);
+        }
+        for (int i = 0; i < instance.relicInventory.ownedRelics.Count; i++)
+        {
+            GameObject newSlot = Instantiate(instance.relicEmptySlot, instance.RelicSlotGrid.transform);
+            instance.RelicSlots.Add(newSlot);
+            instance.RelicSlots[i].GetComponent<Image>().sprite = instance.relicInventory.ownedRelics[i].icon;
+        }
         for (int i = 0; i < instance.MagicSlotGrid.transform.childCount; i++)
         {
             if (instance.MagicSlotGrid.transform.childCount == 0) break;

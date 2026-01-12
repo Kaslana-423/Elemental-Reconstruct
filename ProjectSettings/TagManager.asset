@@ -21,7 +21,7 @@ TagManager:
   - Player
   - Loot
   - Grid
-  - 
+  - Damage
   - 
   - 
   - 
@@ -63,6 +63,6 @@ TagManager:
   - name: Bullet
     uniqueID: 76726107
     locked: 0
-  - name: New Layer 6
+  - name: Damage
     uniqueID: 4239054185
     locked: 0

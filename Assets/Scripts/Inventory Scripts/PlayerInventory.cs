@@ -15,6 +15,8 @@ public class PlayerInventory : MonoBehaviour
 
     [Header("法杖槽位数据")]
     public WandStorage[] wands = new WandStorage[3];
+    [Header("遗物数据")]
+    public RelicInventory relicInventory;
 
     void Awake()
     {
@@ -65,7 +67,7 @@ public class PlayerInventory : MonoBehaviour
 
         Debug.Log($"获得金币: {amount}, 当前总数: {currentGold}");
         OnGoldChanged?.Invoke(currentGold);
-        SaveManager.Instance.SaveGame();
+
     }
 
     // --- 消耗金币 ---

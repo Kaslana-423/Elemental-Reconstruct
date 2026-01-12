@@ -146,6 +146,7 @@ public class EnemyWaveManager : MonoBehaviour
         Debug.Log("Waiting for coins...");
         // 2. 等待 2 秒，让金币有时间飞过来
         isWaveActive = false;
+        SaveManager.Instance.SaveGame();
         if (currentWaveIndex + 1 < allWaves.Count)
         {
             // --- 暂停游戏逻辑 

@@ -10,6 +10,10 @@ public class ShopManager : MonoBehaviour
     public Inventory myBag;
     public List<ShopThing> shopItems = new List<ShopThing>();
     public List<MagicItem> availableItems = new List<MagicItem>();
+
+    // 假设你也像 availableItems 一样，通过编辑器把所有可能的遗物拖进了这个列表
+    public List<RelicData> availableRelics = new List<RelicData>();
+
     public GameObject emptyShopItem;
 
     void Awake()
@@ -57,10 +61,29 @@ public class ShopManager : MonoBehaviour
         for (int i = 0; i < 4; i++)
         {
             // 安全检查：防止没有商品数据时报错
-            if (shopInstance.availableItems.Count == 0) break;
+            if (shopInstance.availableItems.Count == 0 && shopInstance.availableRelics.Count == 0) break;
 
             Debug.Log("Generating Shop Item " + i);
-            int randomIndex = Random.Range(0, shopInstance.availableItems.Count);
+
+            // 决定这次生成道具还是遗物 (如果有遗物列表的话)
+            // 简单逻辑：如果两个都有，50%概率。如果只有一种，就只生那种。
+            bool spawnRelic = false;
+
+            if (shopInstance.availableRelics.Count > 0 && shopInstance.availableItems.Count > 0)
+            {
+                // 50% 概率
+                spawnRelic = Random.value > 0.5f;
+            }
+            else if (shopInstance.availableRelics.Count > 0)
+            {
+                // 只有遗物
+                spawnRelic = true;
+            }
+            else
+            {
+                // 只有道具
+                spawnRelic = false;
+            }
 
             GameObject newShopItem = Instantiate(shopInstance.emptyShopItem, shopInstance.slotGrid.transform);
             ShopThing newThingScript = newShopItem.GetComponent<ShopThing>();
@@ -68,8 +91,16 @@ public class ShopManager : MonoBehaviour
             // 添加到列表
             shopInstance.shopItems.Add(newThingScript);
 
-            // 直接使用新生成的脚本进行设置，而不是通过索引访问列表（更安全）
-            newThingScript.SetUpShop(shopInstance.availableItems[randomIndex]);
+            if (spawnRelic)
+            {
+                int relicIndex = Random.Range(0, shopInstance.availableRelics.Count);
+                newThingScript.SetUpShop(shopInstance.availableRelics[relicIndex]);
+            }
+            else
+            {
+                int itemIndex = Random.Range(0, shopInstance.availableItems.Count);
+                newThingScript.SetUpShop(shopInstance.availableItems[itemIndex]);
+            }
         }
     }
 }
