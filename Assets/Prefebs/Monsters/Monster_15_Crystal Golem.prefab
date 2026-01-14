@@ -318,15 +318,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79bf6ce828162cb4783025873a3a3531, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHP: 147.2
+  maxHP: 10000
   moveSpeed: 1
   whiteMaterial: {fileID: 2100000, guid: b3aae95b95457bb4aa1446d5efc6798c, type: 2}
   CoinPrefab: {fileID: 2002523962603875063, guid: 440e97350f08d1d4f9880d4c6fb50ffe, type: 3}
+  easyDamage: 1
   CoinNum: 10
   DamagePopupPrefab: {fileID: 4737331846598361310, guid: cf6c7d068e693674286fc108791b51ac, type: 3}
   attackRange: 1.62
   attackCooldown: 1.03
-  contactDamage: 10
+  contactDamage: 60
   isHaveBullet: 0
   bulletPrefab: {fileID: 0}
   firePoint: {fileID: 0}

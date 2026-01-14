@@ -11,6 +11,7 @@ public class RelicInventory : MonoBehaviour
     void Awake()
     {
         player = GetComponent<Character>();
+        player.OnDeath += ClearRelics;
     }
     void Start()
     {
@@ -49,4 +50,9 @@ public class RelicInventory : MonoBehaviour
             ownedRelics.Remove(relic);
         }
     }
+    public void ClearRelics()
+    {
+        ownedRelics.Clear();
+    }
+
 }

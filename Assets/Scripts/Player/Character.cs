@@ -8,9 +8,9 @@ public class Character : MonoBehaviour
     [Header("HP 基础属性")]
     public float maxHealth = 100f;
 
-    [Header("受伤设置")]
-    [Tooltip("受伤后的无敌时间/保护时间。玩家建议设为 0.5，敌人建议设为 0 或 0.1")]
-    public float invulnerabilityDuration = 0f;
+    [Header("战斗属性")]
+    public float atk = 10;
+    public float allDamageMultiplier = 1f; // 全局伤害倍率（模拟易伤效果）
     protected float lastDamageTime = -999f; // 上次受伤时间
 
     // 使用 protected 保护数据，SerializeField 方便在编辑器调试看数值
@@ -32,6 +32,10 @@ public class Character : MonoBehaviour
 
     // 3. 死亡事件：用于播放死亡动画、掉落物品、游戏结束等
     public event Action OnDeath;
+    // 定义一个委托
+    public delegate void DamageModifier(ref float damage, string spellTag);
+    // 定义事件
+    public event DamageModifier OnCalculateDamage;
 
     protected virtual void Start()
     {
@@ -56,7 +60,7 @@ public class Character : MonoBehaviour
 
         // --- 全局无敌时间检查 ---
         // 如果距离上次受伤的时间小于无敌时间，则忽略这次伤害
-        if (Time.time < lastDamageTime + invulnerabilityDuration) return;
+        if (Time.time < lastDamageTime) return;
 
         // 更新受伤时间
         lastDamageTime = Time.time;
@@ -117,7 +121,7 @@ public class Character : MonoBehaviour
         // 触发死亡事件，让外部（比如 GameMode 或 掉落系统）知道这个角色挂了
         OnDeath?.Invoke();
 
-        // Debug.Log($"{gameObject.name} 已死亡");
+        Debug.Log($"{gameObject.name} 已死亡");
 
         // 注意：这里不要直接 Destroy，因为子类可能需要播放几秒钟的死亡动画
         // 建议在子类重写的 Die 里处理 Destroy

@@ -5,4 +5,5 @@ public abstract class RelicEffect : ScriptableObject
 {
     // 当遗物被获得时调用
     public abstract void OnEquip(Character player);
+    public abstract void OnEquip(EnemyBase enemy);
 }

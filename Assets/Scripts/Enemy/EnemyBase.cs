@@ -18,6 +18,7 @@ public abstract class EnemyBase : MonoBehaviour
     private Material originalMaterial; // 存原本的材质
     public Material whiteMaterial;
     public GameObject CoinPrefab;
+    public float easyDamage = 1;
     public int CoinNum = 1;
 
     [Header("UI Effects")]
@@ -74,7 +75,7 @@ public abstract class EnemyBase : MonoBehaviour
     {
         if (!gameObject.activeInHierarchy) return;
 
-        currentHP -= amount;
+        currentHP -= amount * easyDamage;
 
         // --- 弹出伤害数字 ---
         if (DamagePopupPrefab != null && ObjectPoolManager.Instance != null)

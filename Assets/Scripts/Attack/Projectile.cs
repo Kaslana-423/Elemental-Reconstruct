@@ -11,6 +11,7 @@ public class Projectile : MonoBehaviour
 
     [Header("触发调整")]
     [Tooltip("回退距离：建议设为 1.0 左右，确保退回到上一帧的空地区域")]
+    public Character character;
     public float triggerSpawnOffset = 1.0f;
 
     // --- 内部数据 ---
@@ -37,6 +38,11 @@ public class Projectile : MonoBehaviour
         if (PlayerInventory.PlayerInstance != null)
         {
             playerTransform = PlayerInventory.PlayerInstance.transform;
+            // 自动寻找 Character 组件
+            if (character == null)
+            {
+                character = playerTransform.GetComponent<Character>();
+            }
         }
     }
 
@@ -54,6 +60,12 @@ public class Projectile : MonoBehaviour
         {
             GameObject player = GameObject.FindGameObjectWithTag("Player");
             if (player) playerTransform = player.transform;
+        }
+
+        // 确保获取到玩家 Character 组件用于计算伤害
+        if (character == null && playerTransform != null)
+        {
+            character = playerTransform.GetComponent<Character>();
         }
 
         if (currentStats.isOrbiting)
@@ -170,7 +182,9 @@ public class Projectile : MonoBehaviour
             if (enemy != null)
             {
                 bool isCrit = Random.value < currentStats.critRate;
-                float finalDamage = currentStats.damage * (isCrit ? currentStats.critMultiplier : 1f);
+
+                // 引入 character.allDamageMultiplier 来支持全局易伤/伤害遗物
+                float finalDamage = (currentStats.damage + character.atk) * (isCrit ? currentStats.critMultiplier : 1f) * character.allDamageMultiplier;
                 ApplyKnockback(other.transform);
                 enemy.TakeDamage(finalDamage);
             }
