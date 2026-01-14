@@ -1,7 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System.IO; // 必须引用：用于文件读写
+using System.IO;
+using System.Drawing; // 必须引用：用于文件读写
 
 public class SaveManager : MonoBehaviour
 {
@@ -10,7 +11,8 @@ public class SaveManager : MonoBehaviour
 
     [Header("必须引用的组件")]
     public AllItemDB itemDB;    // 你的物品数据库
-    public Inventory myBackpack;   // 你的背包 SO
+    public Inventory myBackpack;   // 背包
+    public RelicInventory myRelics; // 遗物背包 
     [Header("法术编辑槽 SO引用 (直接覆盖它们)")]
     public MagicEditInventory editBag1; // 对应第1根法杖
     public MagicEditInventory editBag2; // 对应第2根法杖
@@ -57,7 +59,13 @@ public class SaveManager : MonoBehaviour
             else
                 data.backpackIDs.Add("");          // 存空位占位符
         }
-
+        foreach (var relic in myRelics.ownedRelics)
+        {
+            if (relic != null)
+                data.relicIDs.Add(relic.itemID); // 存遗物 ID
+            else
+                data.relicIDs.Add("");// 存空位占位符
+        }
         // --- C. 保存法杖 ---
         if (PlayerInventory.PlayerInstance != null)
         {
@@ -120,6 +128,17 @@ public class SaveManager : MonoBehaviour
                     bagList[i] = null;
             }
         }
+        // 清空列表并重新添加遗物 (防止索引越界)
+        myRelics.ownedRelics.Clear();
+        for (int i = 0; i < data.relicIDs.Count; i++)
+        {
+            string id = data.relicIDs[i];
+            if (!string.IsNullOrEmpty(id))
+            {
+                RelicData r = itemDB.GetRelicByID(id);
+                if (r != null) myRelics.AddRelic(r);
+            }
+        }
         MagicEditInventory[] editBags = { editBag1, editBag2, editBag3 };
         // --- C. 恢复法杖 ---
         for (int i = 0; i < editBags.Length; i++)
@@ -171,6 +190,7 @@ public class SaveManager : MonoBehaviour
         public int gold;
         public int gameProcess;
         public List<string> backpackIDs = new List<string>();
+        public List<string> relicIDs = new List<string>();
         public List<WandSaveData> wands = new List<WandSaveData>();
     }
 

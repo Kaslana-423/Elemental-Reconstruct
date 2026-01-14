@@ -11,46 +11,73 @@ public class AllItemDB : ScriptableObject
 {
     [Header("所有物品列表 (不用手动拖，用下面的右键菜单自动填)")]
     public List<MagicItem> allMagicItems = new List<MagicItem>();
+    public List<RelicData> allRelics = new List<RelicData>();
 
     // --- 核心优化：字典 ---
     // 这个字典只在游戏运行时存在，用来加速查找
     private Dictionary<string, MagicItem> lookupTable;
+    private Dictionary<string, RelicData> relicLookupTable;
 
     /// <summary>
     /// 初始化方法：把 List 转成 Dictionary
     /// </summary>
     public void Init()
     {
-        // 如果字典已经有了，就不重复初始化了
-        if (lookupTable != null && lookupTable.Count > 0) return;
-
-        lookupTable = new Dictionary<string, MagicItem>();
-
-        foreach (var item in allMagicItems)
+        // 1. 初始化魔法物品字典
+        if (lookupTable == null)
         {
-            // 1. 安全检查：防止列表里有空的
-            if (item == null) continue;
+            lookupTable = new Dictionary<string, MagicItem>();
 
-            // 2. 安全检查：防止 ID 为空
-            if (string.IsNullOrEmpty(item.itemID))
+            foreach (var item in allMagicItems)
             {
-                Debug.LogError($"[AllItemDB] 发现物品 {item.name} 没有设置 itemID！请检查！");
-                continue;
-            }
+                // 1. 安全检查：防止列表里有空的
+                if (item == null) continue;
 
-            // 3. 安全检查：防止 ID 重复 (这很重要！)
-            if (lookupTable.ContainsKey(item.itemID))
-            {
-                Debug.LogError($"[AllItemDB] 重复的 ID: {item.itemID}。请检查 {item.name} 和 {lookupTable[item.itemID].name}");
-            }
-            else
-            {
-                // 加入字典
-                lookupTable.Add(item.itemID, item);
+                // 2. 安全检查：防止 ID 为空
+                if (string.IsNullOrEmpty(item.itemID))
+                {
+                    Debug.LogError($"[AllItemDB] 发现物品 {item.name} 没有设置 itemID！请检查！");
+                    continue;
+                }
+
+                // 3. 安全检查：防止 ID 重复 (这很重要！)
+                if (lookupTable.ContainsKey(item.itemID))
+                {
+                    Debug.LogError($"[AllItemDB] 重复的 ID: {item.itemID}。请检查 {item.name} 和 {lookupTable[item.itemID].name}");
+                }
+                else
+                {
+                    // 加入字典
+                    lookupTable.Add(item.itemID, item);
+                }
             }
         }
 
-        Debug.Log($"[AllItemDB] 数据库初始化完成，共索引 {lookupTable.Count} 个物品。");
+        // 2. 初始化遗物字典
+        if (relicLookupTable == null)
+        {
+            relicLookupTable = new Dictionary<string, RelicData>();
+
+            foreach (var item in allRelics)
+            {
+                if (item == null) continue;
+                if (string.IsNullOrEmpty(item.itemID))
+                {
+                    Debug.LogError($"[AllItemDB] 发现遗物 {item.name} 没有设置 itemID！请检查！");
+                    continue;
+                }
+                if (relicLookupTable.ContainsKey(item.itemID))
+                {
+                    Debug.LogError($"[AllItemDB] 重复的 ID: {item.itemID}。请检查 {item.name}");
+                }
+                else
+                {
+                    relicLookupTable.Add(item.itemID, item);
+                }
+            }
+        }
+
+        Debug.Log($"[AllItemDB] 数据库初始化完成。MagicItems: {lookupTable.Count}, Relics: {relicLookupTable.Count}");
     }
 
     /// <summary>
@@ -77,6 +104,24 @@ public class AllItemDB : ScriptableObject
         return null;
     }
 
+    /// <summary>
+    /// 通过 ID 获取遗物
+    /// </summary>
+    public RelicData GetRelicByID(string id)
+    {
+        if (relicLookupTable == null) Init();
+
+        if (string.IsNullOrEmpty(id)) return null;
+
+        if (relicLookupTable.TryGetValue(id, out RelicData item))
+        {
+            return item;
+        }
+
+        Debug.LogWarning($"[AllItemDB] 找不到 ID 为 '{id}' 的遗物！");
+        return null;
+    }
+
     // =========================================================
     //               【提升效率】编辑器自动加载功能
     // =========================================================
@@ -86,21 +131,27 @@ public class AllItemDB : ScriptableObject
     public void LoadAllItems()
     {
         allMagicItems.Clear();
+        allRelics.Clear();
 
-        // 查找项目中所有类型为 MagicItem 的资源
-        string[] guids = AssetDatabase.FindAssets("t:MagicItem");
-
-        foreach (string guid in guids)
+        // 1. 加载 MagicItem
+        string[] magicGuids = AssetDatabase.FindAssets("t:MagicItem");
+        foreach (string guid in magicGuids)
         {
             string path = AssetDatabase.GUIDToAssetPath(guid);
             MagicItem item = AssetDatabase.LoadAssetAtPath<MagicItem>(path);
-            if (item != null)
-            {
-                allMagicItems.Add(item);
-            }
+            if (item != null) allMagicItems.Add(item);
         }
 
-        Debug.Log($"[编辑器] 自动加载了 {allMagicItems.Count} 个物品。记得保存！");
+        // 2. 加载 RelicData
+        string[] relicGuids = AssetDatabase.FindAssets("t:RelicData");
+        foreach (string guid in relicGuids)
+        {
+            string path = AssetDatabase.GUIDToAssetPath(guid);
+            RelicData item = AssetDatabase.LoadAssetAtPath<RelicData>(path);
+            if (item != null) allRelics.Add(item);
+        }
+
+        Debug.Log($"[编辑器] 自动加载了 {allMagicItems.Count} 个法术物品，{allRelics.Count} 个遗物。记得保存！");
         EditorUtility.SetDirty(this); // 标记脏数据，提示 Unity 保存
     }
 #endif

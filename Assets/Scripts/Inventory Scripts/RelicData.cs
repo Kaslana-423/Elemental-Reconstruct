@@ -4,6 +4,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "New Relic", menuName = "Relic System/Relic Data")]
 public class RelicData : ScriptableObject
 {
+    public string itemID; // 唯一标识符
     [Header("基础信息")]
     public string relicName;
     [TextArea] public string description;

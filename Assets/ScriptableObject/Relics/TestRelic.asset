@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02069242025deae4ca8d94f1f0587c3a, type: 3}
   m_Name: TestRelic
   m_EditorClassIdentifier: 
+  itemID: TestRelic
   relicName: Test111
   description: "\u589E\u52A010\u8840\u91CF\u4E0A\u9650"
   icon: {fileID: 21300000, guid: c6a5fd7301d0c9c4691cacdc1f58b74b, type: 3}
+  rarity: 0
   effects:
   - {fileID: 11400000, guid: 37d6125cc518aaf4693b30432c9f7764, type: 2}

@@ -8856,10 +8856,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7e95309d2a90a549ba744ef5b895cdd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ownedRelics:
-  - {fileID: 11400000, guid: c1c3fe516e1ae354eb62fe7eeeb1f8e9, type: 2}
-  - {fileID: 11400000, guid: c1c3fe516e1ae354eb62fe7eeeb1f8e9, type: 2}
-  - {fileID: 11400000, guid: c1c3fe516e1ae354eb62fe7eeeb1f8e9, type: 2}
+  ownedRelics: []
 --- !u!1 &941704801
 GameObject:
   m_ObjectHideFlags: 0
@@ -9552,6 +9549,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemDB: {fileID: 11400000, guid: 0a8662184bee8a04d9627ab4011dceda, type: 2}
   myBackpack: {fileID: 11400000, guid: 05d408795c11c764aabfd50c68d4d576, type: 2}
+  myRelics: {fileID: 898462687}
   editBag1: {fileID: 11400000, guid: d5db05fe78b305f4996fa6bdc067ea3e, type: 2}
   editBag2: {fileID: 11400000, guid: 006edc114af195f4183c98544039bff8, type: 2}
   editBag3: {fileID: 11400000, guid: 907d0ba8fa4f1b44180cd19713a9a590, type: 2}
