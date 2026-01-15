@@ -15,7 +15,7 @@ public class DamagePopup : MonoBehaviour
         textMesh = GetComponent<TextMeshPro>();
     }
 
-    public void Setup(float damageAmount)
+    public void Setup(float damageAmount, bool isCrit)
     {
         if (textMesh == null) textMesh = GetComponent<TextMeshPro>();
 
@@ -36,6 +36,16 @@ public class DamagePopup : MonoBehaviour
 
         // 重置文字透明度（因为对象池复用时可能是透明的）
         textColor.a = 1f;
+        if (isCrit)
+        {
+            textMesh.fontSize = 8f; // 暴击字体更大
+            textColor = Color.yellow; // 暴击颜色为黄色
+        }
+        else
+        {
+            textMesh.fontSize = 6f; // 普通伤害字体大小
+            textColor = Color.white; // 普通伤害颜色为白色
+        }
         textMesh.color = textColor;
 
         // 确保如果是从非激活变成激活，重置缩放

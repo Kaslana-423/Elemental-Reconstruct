@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using JetBrains.Annotations;
 
 public class Character : MonoBehaviour
 {
@@ -12,6 +13,8 @@ public class Character : MonoBehaviour
     public float atk = 10;
     public float allDamageMultiplier = 1f; // 全局伤害倍率（模拟易伤效果）
     protected float lastDamageTime = -999f; // 上次受伤时间
+    public int critRate = 5; // 暴击率
+    public int critDamage = 100; // 暴击伤害
 
     // 使用 protected 保护数据，SerializeField 方便在编辑器调试看数值
     [SerializeField] protected float _currentHealth;

@@ -181,12 +181,14 @@ public class Projectile : MonoBehaviour
             EnemyBase enemy = other.GetComponent<EnemyBase>();
             if (enemy != null)
             {
-                bool isCrit = Random.value < currentStats.critRate;
+                bool isCrit = Random.value * 100 < currentStats.critRate + character.critRate;
 
                 // 引入 character.allDamageMultiplier 来支持全局易伤/伤害遗物
-                float finalDamage = (currentStats.damage + character.atk) * (isCrit ? currentStats.critMultiplier : 1f) * character.allDamageMultiplier;
+                float finalDamage = (currentStats.damage + character.atk)
+                    * (isCrit ? (currentStats.critMultiplier + character.critDamage) / 100 : 1f)
+                    * character.allDamageMultiplier;
                 ApplyKnockback(other.transform);
-                enemy.TakeDamage(finalDamage);
+                enemy.TakeDamage(finalDamage, isCrit);
             }
             currentStats.penetration--;
 

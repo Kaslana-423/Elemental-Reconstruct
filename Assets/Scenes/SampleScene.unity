@@ -8689,8 +8689,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 30
-  invulnerabilityDuration: 0.2
   atk: 5
+  allDamageMultiplier: 1
+  critRate: 55
+  critDamage: 120
   _currentHealth: 0
 --- !u!70 &898462681
 CapsuleCollider2D:

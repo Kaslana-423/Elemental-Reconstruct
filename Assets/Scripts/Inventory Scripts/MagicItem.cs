@@ -37,7 +37,7 @@ public struct SpellStats
     [Header("高级属性")]
     public int rarity;        // 稀有度
     public float critRate;        // 暴击率
-    public float critMultiplier;  // 暴击倍率
+    public float critMultiplier;  // 暴击伤害
     public float knockback;       // 击退
 
     [Header("修正属性")]

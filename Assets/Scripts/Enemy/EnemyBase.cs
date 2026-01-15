@@ -71,7 +71,7 @@ public abstract class EnemyBase : MonoBehaviour
     }
 
     // 3. 受伤逻辑是通用的
-    public virtual void TakeDamage(float amount)
+    public virtual void TakeDamage(float amount, bool isCrit)
     {
         if (!gameObject.activeInHierarchy) return;
 
@@ -87,7 +87,7 @@ public abstract class EnemyBase : MonoBehaviour
             if (popup != null)
             {
                 popup.sourcePrefab = DamagePopupPrefab;
-                popup.Setup(amount);
+                popup.Setup(amount, isCrit);
             }
         }
         StartCoroutine(FlashEffect());
