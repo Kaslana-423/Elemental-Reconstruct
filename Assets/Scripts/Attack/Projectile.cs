@@ -189,6 +189,11 @@ public class Projectile : MonoBehaviour
                     * character.allDamageMultiplier;
                 ApplyKnockback(other.transform);
                 enemy.TakeDamage(finalDamage, isCrit);
+
+                if (character != null && character.lifeStealPercent > 0f)
+                {
+                    character.Heal(finalDamage * character.lifeStealPercent);
+                }
             }
             currentStats.penetration--;
 

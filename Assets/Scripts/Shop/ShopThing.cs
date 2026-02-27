@@ -19,6 +19,48 @@ public class ShopThing : MonoBehaviour
     // 记录原本的颜色 (比如白色)
     private Color originalColor;
 
+    private int ApplyShopDiscount(int basePrice)
+    {
+        float multiplier = 1f;
+        if (PlayerInventory.PlayerInstance != null)
+        {
+            multiplier = Mathf.Max(0.1f, PlayerInventory.PlayerInstance.shopPriceMultiplier);
+        }
+
+        int finalPrice = Mathf.RoundToInt(basePrice * multiplier);
+        return Mathf.Max(1, finalPrice);
+    }
+
+    public void RecalculatePriceOnly()
+    {
+        int basePrice = 0;
+
+        if (item != null)
+        {
+            basePrice = item.stats.rarity * 5;
+        }
+        else if (relic != null)
+        {
+            basePrice = 15;
+        }
+        else
+        {
+            return;
+        }
+
+        currentPrice = ApplyShopDiscount(basePrice);
+
+        if (coinTextLabel != null)
+        {
+            coinTextLabel.text = currentPrice.ToString();
+        }
+
+        if (PlayerInventory.PlayerInstance != null)
+        {
+            CheckAffordability(PlayerInventory.PlayerInstance.currentGold);
+        }
+    }
+
     // --- 1. 生命周期：开始监听 ---
     void OnEnable()
     {
@@ -105,7 +147,8 @@ public class ShopThing : MonoBehaviour
     public void SetUpShop(MagicItem magicItem)
     {
         item = magicItem;
-        currentPrice = magicItem.stats.rarity * 5;
+        int basePrice = magicItem.stats.rarity * 5;
+        currentPrice = ApplyShopDiscount(basePrice);
         if (iconImage != null) iconImage.sprite = magicItem.itemImage;
         if (itemDescription != null) itemDescription.text = magicItem.itemDescription;
 
@@ -133,7 +176,8 @@ public class ShopThing : MonoBehaviour
         relic = relicData;
 
         // 假设遗物的价格计算方式 (或者 RelicData 里有 price 字段)
-        currentPrice = 15; // 比如固定15块钱，或者 relicData.price
+        int basePrice = 15; // 比如固定15块钱，或者 relicData.price
+        currentPrice = ApplyShopDiscount(basePrice);
 
         // 2. 更新显示
         if (iconImage != null) iconImage.sprite = relicData.icon;

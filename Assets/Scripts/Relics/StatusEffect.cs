@@ -29,6 +29,20 @@ public class StatBoostEffect : RelicEffect
             else player.allDamageMultiplier += amount;
         }
 
+        if (targetStat == StatType.MoveSpeed)
+        {
+            var controller = player.GetComponent<PlayerController>();
+            if (controller != null)
+            {
+                if (isMultiplier) controller.moveSpeed *= amount;
+                else controller.moveSpeed += amount;
+            }
+            else
+            {
+                Debug.LogWarning("StatBoostEffect: PlayerController not found, MoveSpeed not applied.");
+            }
+        }
+
         // 简单示例逻辑：
         if (targetStat == StatType.MaxHealth)
             player.maxHealth += amount;

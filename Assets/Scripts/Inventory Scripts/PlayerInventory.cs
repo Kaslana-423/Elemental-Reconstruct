@@ -8,7 +8,11 @@ public class PlayerInventory : MonoBehaviour
     [Header("经济系统")]
     [SerializeField] private int initialGold = 100; // 每局开始的初始金币
     public int currentGold { get; private set; }    // 只读属性
+    public float goldGainMultiplier = 1f;           // 遗物金币收益倍率
+    public float pickupRangeMultiplier = 1f;        // 遗物拾取范围倍率
+    public float shopPriceMultiplier = 1f;          // 遗物商店价格倍率
     public event Action<int> OnGoldChanged;
+    private float goldFractionCarry = 0f;
 
     [Header("背包引用")]
     public Inventory myBag; // 引用你的背包 SO
@@ -68,6 +72,20 @@ public class PlayerInventory : MonoBehaviour
         Debug.Log($"获得金币: {amount}, 当前总数: {currentGold}");
         OnGoldChanged?.Invoke(currentGold);
 
+    }
+
+    public void AddGoldWithRelicMultiplier(int baseAmount)
+    {
+        if (baseAmount <= 0) return;
+
+        float scaledAmount = baseAmount * Mathf.Max(0f, goldGainMultiplier) + goldFractionCarry;
+        int finalAmount = Mathf.FloorToInt(scaledAmount);
+        goldFractionCarry = scaledAmount - finalAmount;
+
+        if (finalAmount > 0)
+        {
+            AddGold(finalAmount);
+        }
     }
 
     // --- 消耗金币 ---

@@ -53,7 +53,10 @@ public class Coin : MonoBehaviour
     public void Collect()
     {
         // 这里写吃到金币的逻辑，比如增加玩家金币数
-        PlayerInventory.PlayerInstance.AddGold(1);
+        if (PlayerInventory.PlayerInstance != null)
+        {
+            PlayerInventory.PlayerInstance.AddGoldWithRelicMultiplier(1);
+        }
         // 然后销毁或回收金币对象
         ObjectPoolManager.Instance.ReturnToPool(this.gameObject, this.gameObject);
     }

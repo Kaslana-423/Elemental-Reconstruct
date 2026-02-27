@@ -6,6 +6,7 @@ using UnityEngine;
 public class ShopManager : MonoBehaviour
 {
     static ShopManager shopInstance;
+    public static bool HasInstance => shopInstance != null;
     public GameObject slotGrid;
     public Inventory myBag;
     public List<ShopThing> shopItems = new List<ShopThing>();
@@ -47,6 +48,11 @@ public class ShopManager : MonoBehaviour
     }
     public static void RefreshShop()
     {
+        if (shopInstance == null || shopInstance.slotGrid == null || shopInstance.emptyShopItem == null)
+        {
+            return;
+        }
+
         // 1. 【关键修复】清理列表，防止访问到上次已被销毁的物体
         shopInstance.shopItems.Clear();
 
@@ -100,6 +106,19 @@ public class ShopManager : MonoBehaviour
             {
                 int itemIndex = Random.Range(0, shopInstance.availableItems.Count);
                 newThingScript.SetUpShop(shopInstance.availableItems[itemIndex]);
+            }
+        }
+    }
+
+    public static void RecalculateCurrentShopPrices()
+    {
+        if (shopInstance == null) return;
+
+        for (int i = 0; i < shopInstance.shopItems.Count; i++)
+        {
+            if (shopInstance.shopItems[i] != null)
+            {
+                shopInstance.shopItems[i].RecalculatePriceOnly();
             }
         }
     }

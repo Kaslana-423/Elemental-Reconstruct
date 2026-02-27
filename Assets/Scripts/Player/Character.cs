@@ -12,6 +12,7 @@ public class Character : MonoBehaviour
     [Header("战斗属性")]
     public float atk = 10;
     public float allDamageMultiplier = 1f; // 全局伤害倍率（模拟易伤效果）
+    public float lifeStealPercent = 0f; // 0.05 = 5% 伤害吸血
     protected float lastDamageTime = -999f; // 上次受伤时间
     public int critRate = 5; // 暴击率
     public int critDamage = 100; // 暴击伤害

@@ -13,5 +13,5 @@ public class RelicData : ScriptableObject
 
     [Header("遗物效果列表")]
     // 一个遗物可能有多个效果（比如：既加血又加攻）
-    public List<RelicEffect> effects;
+    public List<RelicEffect>  effects;
 }
