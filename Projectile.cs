@@ -1,8 +1,10 @@
 using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(Collider2D))]
+[RequireComponent(typeof(LineRenderer))]
 public class Projectile : MonoBehaviour
 {
     [Header("Layer Settings")]
@@ -10,7 +12,7 @@ public class Projectile : MonoBehaviour
     public LayerMask wallLayer;
 
     [Header("触发调整")]
-    [Tooltip("回退距离：建议设为 1.0 左右，确保退回到上一帧的空地区域")]
+    public Character character;
     public float triggerSpawnOffset = 1.0f;
 
     // --- 内部数据 ---
@@ -18,6 +20,8 @@ public class Projectile : MonoBehaviour
     private MagicItem triggerSpell;
     private GameObject mySourcePrefab;
     private Rigidbody2D rb;
+    private Collider2D col;
+    private LineRenderer lineRenderer;
     private Transform targetEnemy;
     private Transform playerTransform;
 
@@ -25,18 +29,30 @@ public class Projectile : MonoBehaviour
     private bool hasInitialized = false;
     private float spawnTime;
 
+    // 激光专用
+    private float lastDamageTime;
+    private HashSet<int> hitEnemiesCache = new HashSet<int>();
+
     private Vector2 currentVelocityDir;
     private Collider2D[] enemySearchCache = new Collider2D[50];
-
-    // 缓存射线
     private RaycastHit2D[] wallHitCache = new RaycastHit2D[5];
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        col = GetComponent<Collider2D>();
+        lineRenderer = GetComponent<LineRenderer>();
+
+        if (lineRenderer)
+        {
+            lineRenderer.enabled = false;
+            lineRenderer.useWorldSpace = true;
+        }
+
         if (PlayerInventory.PlayerInstance != null)
         {
             playerTransform = PlayerInventory.PlayerInstance.transform;
+            if (character == null) character = playerTransform.GetComponent<Character>();
         }
     }
 
@@ -47,44 +63,66 @@ public class Projectile : MonoBehaviour
         this.triggerSpell = triggerItem;
         this.initialOrbitOffsetAngle = initialOrbitOffset;
         this.spawnTime = Time.time;
+        this.lastDamageTime = -999f;
 
         ResetState();
 
-        if (playerTransform == null)
-        {
-            GameObject player = GameObject.FindGameObjectWithTag("Player");
-            if (player) playerTransform = player.transform;
-        }
+        if (character == null && PlayerInventory.PlayerInstance != null)
+            character = PlayerInventory.PlayerInstance.GetComponent<Character>();
 
-        if (currentStats.isOrbiting)
+        // ==========================
+        //         激光 逻辑
+        // ==========================
+        if (currentStats.isLaser)
         {
             rb.bodyType = RigidbodyType2D.Kinematic;
             rb.velocity = Vector2.zero;
+            col.enabled = false;
 
-            // 【修复 1】：初始化时，虽然没有物理速度，但必须给它一个逻辑方向
-            // 假设它初始朝向是右边，防止 (0,0)
-            currentVelocityDir = transform.right;
-        }
-        else
-        {
-            rb.bodyType = RigidbodyType2D.Dynamic;
-            rb.drag = 0f;
-            rb.gravityScale = 0f;
+            if (lineRenderer)
+            {
+                lineRenderer.enabled = true;
+                lineRenderer.startWidth = currentStats.radius > 0 ? currentStats.radius : 0.2f;
+                lineRenderer.endWidth = lineRenderer.startWidth;
+            }
 
             float randomAngle = 0f;
-            if (currentStats.deviation > 0)
-            {
-                randomAngle = Random.Range(-currentStats.deviation, currentStats.deviation);
-            }
-            Vector2 finalDir = Quaternion.Euler(0, 0, randomAngle) * transform.right;
+            if (currentStats.deviation > 0) randomAngle = Random.Range(-currentStats.deviation, currentStats.deviation);
+            currentVelocityDir = Quaternion.Euler(0, 0, randomAngle) * transform.right;
 
-            currentVelocityDir = finalDir.normalized;
-            rb.velocity = currentVelocityDir * currentStats.speed;
+            StartCoroutine(LaserRoutine());
         }
+        // ==========================
+        //       普通子弹 逻辑
+        // ==========================
+        else
+        {
+            col.enabled = true;
+            if (lineRenderer) lineRenderer.enabled = false;
 
-        StartCoroutine(LifeTimeRoutine(currentStats.lifetime > 0 ? currentStats.lifetime : 5f));
+            if (currentStats.isOrbiting)
+            {
+                rb.bodyType = RigidbodyType2D.Kinematic;
+                rb.velocity = Vector2.zero;
+                currentVelocityDir = transform.right;
+            }
+            else
+            {
+                rb.bodyType = RigidbodyType2D.Dynamic;
+                rb.drag = 0f;
+                rb.gravityScale = 0f;
 
-        if (currentStats.isHoming) FindNearestEnemy();
+                float randomAngle = 0f;
+                if (currentStats.deviation > 0) randomAngle = Random.Range(-currentStats.deviation, currentStats.deviation);
+                Vector2 finalDir = Quaternion.Euler(0, 0, randomAngle) * transform.right;
+
+                currentVelocityDir = finalDir.normalized;
+                rb.velocity = currentVelocityDir * currentStats.speed;
+            }
+
+            if (currentStats.isHoming) FindNearestEnemy();
+            StartCoroutine(LifeTimeRoutine(currentStats.lifetime > 0 ? currentStats.lifetime : 5f));
+        }
 
         hasInitialized = true;
     }
@@ -99,8 +137,11 @@ public class Projectile : MonoBehaviour
             rb.velocity = Vector2.zero;
             rb.angularVelocity = 0f;
         }
-        TrailRenderer trail = GetComponent<TrailRenderer>();
-        if (trail) trail.Clear();
+        if (lineRenderer)
+        {
+            lineRenderer.positionCount = 0;
+            lineRenderer.enabled = false;
+        }
     }
 
     IEnumerator LifeTimeRoutine(float time)
@@ -110,9 +151,170 @@ public class Projectile : MonoBehaviour
         ReturnToPool();
     }
 
+    // --- 【修改】激光逻辑协程 ---
+    IEnumerator LaserRoutine()
+    {
+        float timer = 0f;
+        float duration = currentStats.lifetime > 0 ? currentStats.lifetime : 0.1f;
+        bool isContinuous = currentStats.damageRate > 0;
+        bool hasDealtInstantDamage = false;
+
+        if (!isContinuous)
+        {
+            // 1. 瞬发激光：只在发射瞬间计算一次伤害和路径
+            UpdateLaserRaycast(false, ref hasDealtInstantDamage);
+
+            // 然后纯粹等待时间结束（视觉残影保留，不再去重新扫描敌人，防止怪物死后射线穿透）
+            while (timer < duration)
+            {
+                timer += Time.deltaTime;
+                yield return null;
+            }
+        }
+        else
+        {
+            // 2. 持续激光：每一帧实时跟随并扫描
+            while (timer < duration)
+            {
+                UpdateLaserRaycast(true, ref hasDealtInstantDamage);
+                timer += Time.deltaTime;
+                yield return null;
+            }
+        }
+
+        ReturnToPool();
+    }
+
+    void UpdateLaserRaycast(bool isContinuous, ref bool instantDamageFlag)
+    {
+        if (!lineRenderer) return;
+
+        Vector2 currentPos = transform.position;
+        Vector2 currentDir = isContinuous ? (Vector2)transform.right : currentVelocityDir;
+
+        float remainingLen = currentStats.maxDistance > 0 ? currentStats.maxDistance : (currentStats.speed > 0 ? currentStats.speed : 20f);
+        int bounces = currentStats.bounceCount;
+        int currentPenetration = currentStats.penetration;
+
+        List<Vector3> points = new List<Vector3>();
+        points.Add(currentPos);
+
+        hitEnemiesCache.Clear();
+
+        bool shouldDealDamage = false;
+        if (isContinuous)
+        {
+            if (Time.time >= lastDamageTime + currentStats.damageRate)
+            {
+                shouldDealDamage = true;
+                lastDamageTime = Time.time;
+            }
+        }
+        else
+        {
+            if (!instantDamageFlag)
+            {
+                shouldDealDamage = true;
+                instantDamageFlag = true;
+            }
+        }
+
+        float thickness = currentStats.radius > 0 ? currentStats.radius : 0.5f;
+
+        for (int i = 0; i <= bounces; i++)
+        {
+            if (remainingLen <= 0) break;
+
+            Vector2 segmentEndPos = currentPos + currentDir * remainingLen;
+            Vector2 hitNormal = Vector2.zero;
+            bool hitWall = false;
+
+            RaycastHit2D[] allHits = Physics2D.CircleCastAll(currentPos, thickness, currentDir, remainingLen);
+            System.Array.Sort(allHits, (a, b) => a.distance.CompareTo(b.distance));
+
+            foreach (var hit in allHits)
+            {
+                if (hit.collider.gameObject == this.gameObject ||
+                   (playerTransform != null && hit.collider.gameObject == playerTransform.gameObject))
+                    continue;
+
+                GameObject targetObj = hit.collider.gameObject;
+
+                bool isWall = targetObj.CompareTag("Wall") || IsInLayer(targetObj.layer, wallLayer);
+                bool isEnemy = targetObj.CompareTag("Enemy") || IsInLayer(targetObj.layer, enemyLayer);
+
+                if (isWall)
+                {
+                    segmentEndPos = hit.point;
+                    hitNormal = hit.normal;
+                    hitWall = true;
+
+                    if (shouldDealDamage) HandleTriggerSpawn(currentDir, hit.point);
+
+                    remainingLen -= hit.distance;
+                    break;
+                }
+                else if (isEnemy)
+                {
+                    EnemyBase enemy = targetObj.GetComponentInParent<EnemyBase>();
+                    int targetID = enemy != null ? enemy.gameObject.GetInstanceID() : targetObj.GetInstanceID();
+
+                    if (!hitEnemiesCache.Contains(targetID))
+                    {
+                        hitEnemiesCache.Add(targetID);
+
+                        if (currentPenetration >= 0)
+                        {
+                            // 【核心修改】：1. 先扣除穿透次数，评估是否截断
+                            currentPenetration--;
+                            bool isTruncatedHere = (currentPenetration < 0);
+
+                            // 【核心修改】：2. 如果需要截断，立刻锁定截断终点
+                            if (isTruncatedHere)
+                            {
+                                segmentEndPos = hit.point;
+                                remainingLen = 0;
+                            }
+
+                            // 【核心修改】：3. 最后再去结算伤害（哪怕怪物在这一行代码被销毁，截断逻辑也已经完美生效了）
+                            if (shouldDealDamage)
+                            {
+                                if (enemy != null) ApplyDamage(enemy, hit.collider.transform);
+                                HandleTriggerSpawn(currentDir, hit.point);
+                            }
+
+                            // 4. 彻底退出射线扫描循环
+                            if (isTruncatedHere)
+                            {
+                                break;
+                            }
+                        }
+                    }
+                }
+            }
+
+            points.Add(segmentEndPos);
+
+            if (hitWall && i < bounces && remainingLen > 0)
+            {
+                currentDir = Vector2.Reflect(currentDir, hitNormal).normalized;
+                currentPos = segmentEndPos + currentDir * 0.05f;
+            }
+            else
+            {
+                break;
+            }
+        }
+
+        lineRenderer.positionCount = points.Count;
+        lineRenderer.SetPositions(points.ToArray());
+    }
+
     void Update()
     {
         if (!hasInitialized) return;
+
+        if (currentStats.isLaser) return;
 
         if (currentStats.isOrbiting)
         {
@@ -134,9 +336,20 @@ public class Projectile : MonoBehaviour
         }
     }
 
+    void ApplyDamage(EnemyBase enemy, Transform hitTransform)
+    {
+        bool isCrit = Random.value * 100 < currentStats.critRate + character.critRate;
+        float finalDamage = (currentStats.damage + character.atk)
+            * (isCrit ? (currentStats.critMultiplier + character.critDamage) / 100 : 1f)
+            * character.allDamageMultiplier;
+
+        ApplyKnockback(hitTransform);
+        enemy.TakeDamage(finalDamage, isCrit);
+    }
+
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (!hasInitialized) return;
+        if (!hasInitialized || currentStats.isLaser) return;
 
         bool isEnemy = other.CompareTag("Enemy") || IsInLayer(other.gameObject.layer, enemyLayer);
         bool isWall = other.CompareTag("Wall") || IsInLayer(other.gameObject.layer, wallLayer);
@@ -144,44 +357,25 @@ public class Projectile : MonoBehaviour
         if (!isEnemy && !isWall) return;
 
         Vector2 incomingDir = currentVelocityDir;
-        Vector2 reflectDir = incomingDir; // 默认方向
-
-        // --- 1. 计算生成位置：简单粗暴的“轨迹倒退” ---
-        // 不管墙在哪，直接往回退 offset 距离。因为子弹是从那里飞过来的，那里肯定是安全的。
+        Vector2 reflectDir = incomingDir;
         Vector2 safeSpawnPos = (Vector2)transform.position - (incomingDir * triggerSpawnOffset);
 
-        // --- 2. 计算方向：为了镜面反射，我们只求法线 ---
         if (isWall)
         {
             Vector2 normal = GetImpactNormal(other, incomingDir);
             reflectDir = Vector2.Reflect(incomingDir, normal).normalized;
-
-            // Debug: 绿色是回退后的安全生成点，洋红色是反射方向
-            Debug.DrawLine(transform.position, safeSpawnPos, Color.green, 1.0f);
-            Debug.DrawRay(safeSpawnPos, reflectDir, Color.magenta, 1.0f);
-
-            // 撞墙触发生成
-            HandleTriggerSpawn(reflectDir, safeSpawnPos); // 这里使用 safeSpawnPos
+            HandleTriggerSpawn(reflectDir, safeSpawnPos);
         }
         else if (isEnemy)
         {
-            // 撞人伤害
             EnemyBase enemy = other.GetComponent<EnemyBase>();
-            if (enemy != null)
-            {
-                bool isCrit = Random.value < currentStats.critRate;
-                float finalDamage = currentStats.damage * (isCrit ? currentStats.critMultiplier : 1f);
-                ApplyKnockback(other.transform);
-                enemy.TakeDamage(finalDamage);
-            }
-            currentStats.penetration--;
+            if (enemy != null) ApplyDamage(enemy, other.transform);
 
-            // 撞人触发生成（沿原方向穿透）
+            currentStats.penetration--;
             HandleTriggerSpawn(incomingDir, transform.position);
         }
 
-        // --- 3. 母体物理处理 ---
-        if (currentStats.bounceCount > 0)
+        if (currentStats.bounceCount > 0 && isWall)
         {
             rb.velocity = reflectDir * currentStats.speed;
             currentVelocityDir = reflectDir;
@@ -193,32 +387,16 @@ public class Projectile : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// 只获取法线，不再纠结位置
-    /// </summary>
     Vector2 GetImpactNormal(Collider2D wall, Vector2 incomingDir)
     {
-        // 简单回溯射线，只为了拿 Normal
         float checkDist = 2.0f;
         Vector2 origin = (Vector2)transform.position - (incomingDir * checkDist);
-
-        // 尝试 Raycast
         int count = Physics2D.RaycastNonAlloc(origin, incomingDir, wallHitCache, checkDist + 2.0f, wallLayer);
         for (int i = 0; i < count; i++)
         {
-            if (wallHitCache[i].collider == wall)
-            {
-                return wallHitCache[i].normal;
-            }
+            if (wallHitCache[i].collider == wall) return wallHitCache[i].normal;
         }
-
-        // 如果射线没扫到（比如穿模），用 BoxCollider 数学法线保底
-        if (wall is BoxCollider2D box)
-        {
-            return GetNormalForBoxCollider(box, wall.ClosestPoint(transform.position));
-        }
-
-        // 最坏情况：直接反弹
+        if (wall is BoxCollider2D box) return GetNormalForBoxCollider(box, wall.ClosestPoint(transform.position));
         return -incomingDir;
     }
 
@@ -226,50 +404,36 @@ public class Projectile : MonoBehaviour
     {
         Vector2 localPoint = box.transform.InverseTransformPoint(worldPoint);
         localPoint -= box.offset;
-
         float halfWidth = box.size.x * 0.5f;
         float halfHeight = box.size.y * 0.5f;
-
-        // 简单的四方向判定
         float distLeft = Mathf.Abs(localPoint.x + halfWidth);
         float distRight = Mathf.Abs(localPoint.x - halfWidth);
         float distBottom = Mathf.Abs(localPoint.y + halfHeight);
         float distTop = Mathf.Abs(localPoint.y - halfHeight);
-
         float min = distLeft;
         Vector2 localNormal = Vector2.left;
-
         if (distRight < min) { min = distRight; localNormal = Vector2.right; }
         if (distBottom < min) { min = distBottom; localNormal = Vector2.down; }
         if (distTop < min) { min = distTop; localNormal = Vector2.up; }
-
         return box.transform.TransformDirection(localNormal).normalized;
     }
 
     void HandleTriggerSpawn(Vector2 fireDirection, Vector2 originPos)
     {
         if (triggerSpell == null || triggerSpell.itemPrefab == null) return;
-
         if (ObjectPoolManager.Instance != null)
         {
             int spawnCount = Mathf.Max(1, triggerSpell.stats.count);
             float spreadAngle = triggerSpell.stats.spread;
             float halfSpread = spreadAngle / 2f;
-
             for (int i = 0; i < spawnCount; i++)
             {
                 float randomSpread = Random.Range(-halfSpread, halfSpread);
                 float baseAngle = Mathf.Atan2(fireDirection.y, fireDirection.x) * Mathf.Rad2Deg;
                 Quaternion finalRotation = Quaternion.Euler(0, 0, baseAngle + randomSpread);
-
-                // 直接在 originPos 生成，不再做额外的前向偏移
-                // 因为 originPos 已经被我们计算为“回退后的安全点”了
                 GameObject newObj = ObjectPoolManager.Instance.Spawn(triggerSpell.itemPrefab, originPos, finalRotation);
                 Projectile newScript = newObj.GetComponent<Projectile>();
-                if (newScript != null)
-                {
-                    newScript.Initialize(triggerSpell.stats, null, 0f, triggerSpell.itemPrefab);
-                }
+                if (newScript != null) newScript.Initialize(triggerSpell.stats, null, 0f, triggerSpell.itemPrefab);
             }
         }
     }
@@ -287,23 +451,14 @@ public class Projectile : MonoBehaviour
     void OrbitMovement()
     {
         if (playerTransform == null) return;
-
         float timeAlive = Time.time - spawnTime;
         float baseAngle = timeAlive * currentStats.angularSpeed;
         float finalAngle = baseAngle + initialOrbitOffsetAngle;
-
         float rad = finalAngle * Mathf.Deg2Rad;
         float r = currentStats.radius > 0 ? currentStats.radius : 2f;
-
         Vector3 offset = new Vector3(Mathf.Cos(rad), Mathf.Sin(rad), 0) * r;
-
         rb.MovePosition(playerTransform.position + offset);
-
-        // 设置旋转：让子弹头朝向切线方向 (圆周运动的方向)
         transform.rotation = Quaternion.Euler(0, 0, finalAngle + 90f);
-
-        // 【修复 2】：手动更新 currentVelocityDir
-        // 因为我们已经把物体旋转到了切线方向，所以 transform.right 就是当前的“飞行方向”
         currentVelocityDir = transform.right;
     }
 
