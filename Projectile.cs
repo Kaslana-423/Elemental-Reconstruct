@@ -75,6 +75,10 @@ public class Projectile : MonoBehaviour
         // ==========================
         if (currentStats.isLaser)
         {
+            // 【新增保险1】：直接没收追踪和环绕属性，不管面板上有没有挂，激光一律按 False 处理！
+            currentStats.isHoming = false;
+            currentStats.isOrbiting = false;
+
             rb.bodyType = RigidbodyType2D.Kinematic;
             rb.velocity = Vector2.zero;
             col.enabled = false;
@@ -190,7 +194,7 @@ public class Projectile : MonoBehaviour
         if (!lineRenderer) return;
 
         Vector2 currentPos = transform.position;
-        Vector2 currentDir = isContinuous ? (Vector2)transform.right : currentVelocityDir;
+        Vector2 currentDir = currentVelocityDir;
 
         float remainingLen = currentStats.maxDistance > 0 ? currentStats.maxDistance : (currentStats.speed > 0 ? currentStats.speed : 20f);
         int bounces = currentStats.bounceCount;
@@ -245,10 +249,12 @@ public class Projectile : MonoBehaviour
 
                 if (isWall)
                 {
-                    segmentEndPos = hit.point;
+                    // 【修复1】：强制焊死在中心直线上，绝对不向接触点偏移！
+                    segmentEndPos = currentPos + currentDir * hit.distance;
                     hitNormal = hit.normal;
                     hitWall = true;
 
+                    // 触发衍生子弹依然可以用 hit.point (生成在真实碰撞位置)
                     if (shouldDealDamage) HandleTriggerSpawn(currentDir, hit.point);
 
                     remainingLen -= hit.distance;
@@ -272,7 +278,8 @@ public class Projectile : MonoBehaviour
                             // 【核心修改】：2. 如果需要截断，立刻锁定截断终点
                             if (isTruncatedHere)
                             {
-                                segmentEndPos = hit.point;
+                                // 【修复2】：即使穿透耗尽停在敌人身上，光束末端也必须严格保持笔直！
+                                segmentEndPos = currentPos + currentDir * hit.distance;
                                 remainingLen = 0;
                             }
 
