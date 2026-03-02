@@ -14,10 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   allMagicItems:
   - {fileID: 11400000, guid: f621ac728ce4f6d42aff42ff0fef8fd9, type: 2}
+  - {fileID: 11400000, guid: c8cd7da0645413c45bd95e84374bc60a, type: 2}
   - {fileID: 11400000, guid: e7396e632303c5e4785cbac5df96bae3, type: 2}
   - {fileID: 11400000, guid: a5835cc22b2a450489b098bde7700f47, type: 2}
   - {fileID: 11400000, guid: 2ffb964828e1dc54981773bc961233d6, type: 2}
   allRelics:
   - {fileID: 11400000, guid: 117762b4db5ba5a47918336216c418db, type: 2}
   - {fileID: 11400000, guid: c1c3fe516e1ae354eb62fe7eeeb1f8e9, type: 2}
+  - {fileID: 11400000, guid: e46979c68a7ccc04987b4e37a45873c7, type: 2}
+  - {fileID: 11400000, guid: be734274c892ca84389ffbf166ca3583, type: 2}
+  - {fileID: 11400000, guid: 4f15c7b4adb32eb478c3786f0bc80d5b, type: 2}
+  - {fileID: 11400000, guid: 737e5ba1e1a871a4ea73a93236226b29, type: 2}
+  - {fileID: 11400000, guid: 5807a162ed0064b46a4e69b7315f5f48, type: 2}
   - {fileID: 11400000, guid: fcb4ce5a5e9623548bfc02b6a37b9e81, type: 2}

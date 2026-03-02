@@ -9933,8 +9933,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 822267957}
   m_HandleRect: {fileID: 822267956}
   m_Direction: 2
-  m_Value: -0.0000005197281
-  m_Size: 0
+  m_Value: -0.00000051972756
+  m_Size: 0.80970365
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -10311,6 +10311,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f621ac728ce4f6d42aff42ff0fef8fd9, type: 2}
   - {fileID: 11400000, guid: a5835cc22b2a450489b098bde7700f47, type: 2}
   - {fileID: 11400000, guid: 2ffb964828e1dc54981773bc961233d6, type: 2}
+  - {fileID: 11400000, guid: c8cd7da0645413c45bd95e84374bc60a, type: 2}
   availableRelics:
   - {fileID: 11400000, guid: c1c3fe516e1ae354eb62fe7eeeb1f8e9, type: 2}
   - {fileID: 11400000, guid: 117762b4db5ba5a47918336216c418db, type: 2}
