@@ -508,7 +508,7 @@ MonoBehaviour:
   allWaves:
   - waveDuration: 20
     spawnRules:
-    - enemyPrefab: {fileID: 3612685462269619793, guid: 4c68bb592704e4540a1a23afd79ca312, type: 3}
+    - enemyPrefab: {fileID: 3229575837365917118, guid: 1665be8127f512242a8fa978466fecd6, type: 3}
       startTimestamp: 2
       endTimestamp: 20
       spawnInterval: 3
@@ -9934,7 +9934,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 822267956}
   m_Direction: 2
   m_Value: -0.00000051972756
-  m_Size: 0.80970365
+  m_Size: 0
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
