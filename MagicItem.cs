@@ -28,6 +28,7 @@ public struct SpellStats
     public bool isOrbiting;
     public bool isLaser;          // 【新增】是否启用激光逻辑
     public float maxDistance;     // 【新增】激光最大射程 (代替 speed 控制长度)
+    public float laserWidth;      // 【新增】控制激光的视觉宽度
 
     [Header("物理运动属性")]
     public float speed;
@@ -75,6 +76,7 @@ public struct SpellStats
         // 【新增】激光属性叠加
         a.isLaser = a.isLaser || b.isLaser;
         a.maxDistance += b.maxDistance;
+        a.laserWidth += b.laserWidth; // 【新增】视觉宽度也能被修饰符叠加
 
         return a;
     }

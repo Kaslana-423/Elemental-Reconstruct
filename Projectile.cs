@@ -86,8 +86,11 @@ public class Projectile : MonoBehaviour
             if (lineRenderer)
             {
                 lineRenderer.enabled = true;
-                lineRenderer.startWidth = currentStats.radius > 0 ? currentStats.radius : 0.2f;
-                lineRenderer.endWidth = lineRenderer.startWidth;
+
+                // 【核心修改】：使用专属的 laserWidth 来控制视觉宽度。如果没填(0)，则给个默认值 0.2f
+                float visualWidth = currentStats.laserWidth > 0 ? currentStats.laserWidth : 0.2f;
+                lineRenderer.startWidth = visualWidth;
+                lineRenderer.endWidth = visualWidth;
             }
 
             float randomAngle = 0f;
@@ -223,78 +226,129 @@ public class Projectile : MonoBehaviour
             }
         }
 
-        float thickness = currentStats.radius > 0 ? currentStats.radius : 0.5f;
+        // 计算矩形的厚度（视觉宽度）
+        float boxHeight = currentStats.laserWidth > 0 ? currentStats.laserWidth : (currentStats.radius > 0 ? currentStats.radius * 2f : 0.5f);
 
         for (int i = 0; i <= bounces; i++)
         {
             if (remainingLen <= 0) break;
 
-            Vector2 segmentEndPos = currentPos + currentDir * remainingLen;
+            // =========================================================
+            // 第一步：用无厚度射线找墙壁（支持纯 Tag 判定！）
+            // =========================================================
+            float segmentLen = remainingLen;
             Vector2 hitNormal = Vector2.zero;
             bool hitWall = false;
+            Vector2 wallHitPoint = Vector2.zero;
 
-            RaycastHit2D[] allHits = Physics2D.CircleCastAll(currentPos, thickness, currentDir, remainingLen);
-            System.Array.Sort(allHits, (a, b) => a.distance.CompareTo(b.distance));
+            // 【关键赔罪修复】：取消 wallLayer 限制，扫描所有物体，在代码里纯手工查 Tag！
+            RaycastHit2D[] thinHits = Physics2D.RaycastAll(currentPos, currentDir, remainingLen);
+            System.Array.Sort(thinHits, (a, b) => a.distance.CompareTo(b.distance));
 
-            foreach (var hit in allHits)
+            foreach (var hit in thinHits)
             {
-                if (hit.collider.gameObject == this.gameObject ||
-                   (playerTransform != null && hit.collider.gameObject == playerTransform.gameObject))
-                    continue;
-
                 GameObject targetObj = hit.collider.gameObject;
 
-                bool isWall = targetObj.CompareTag("Wall") || IsInLayer(targetObj.layer, wallLayer);
-                bool isEnemy = targetObj.CompareTag("Enemy") || IsInLayer(targetObj.layer, enemyLayer);
-
-                if (isWall)
+                // 忽略自身和子弹
+                if (targetObj.transform.root == this.transform.root ||
+                    (playerTransform != null && targetObj.transform.root == playerTransform.root) ||
+                    targetObj.GetComponentInParent<Projectile>() != null)
                 {
-                    // 【修复1】：强制焊死在中心直线上，绝对不向接触点偏移！
-                    segmentEndPos = currentPos + currentDir * hit.distance;
+                    continue;
+                }
+
+                // 只要 Tag 是 Wall，或者 Layer 是 Wall，统统算作墙壁！
+                if (targetObj.CompareTag("Wall") || IsInLayer(targetObj.layer, wallLayer))
+                {
+                    segmentLen = hit.distance;
                     hitNormal = hit.normal;
                     hitWall = true;
-
-                    // 触发衍生子弹依然可以用 hit.point (生成在真实碰撞位置)
-                    if (shouldDealDamage) HandleTriggerSpawn(currentDir, hit.point);
-
-                    remainingLen -= hit.distance;
-                    break;
+                    wallHitPoint = hit.point;
+                    break; // 找到了最近的正前方墙壁，立刻锁定长度
                 }
-                else if (isEnemy)
+            }
+
+            Vector2 segmentEndPos = currentPos + currentDir * segmentLen;
+
+            // =========================================================
+            // 第二步：在确定的长度内，用“严丝合缝的矩形(Box)”抓取该段路径上的所有敌人！
+            // =========================================================
+            Vector2 boxCenter = currentPos + currentDir * (segmentLen / 2f);
+            float angle = Mathf.Atan2(currentDir.y, currentDir.x) * Mathf.Rad2Deg;
+            Vector2 boxSize = new Vector2(segmentLen, boxHeight);
+
+            Collider2D[] hitColliders = Physics2D.OverlapBoxAll(boxCenter, boxSize, angle);
+            List<System.Tuple<float, Collider2D, EnemyBase>> validEnemies = new List<System.Tuple<float, Collider2D, EnemyBase>>();
+
+            foreach (var col in hitColliders)
+            {
+                GameObject targetObj = col.gameObject;
+
+                if (targetObj == this.gameObject ||
+                    (playerTransform != null && (targetObj == playerTransform.gameObject || targetObj.transform.IsChildOf(playerTransform))) ||
+                    col.GetComponentInParent<Projectile>() != null)
                 {
-                    EnemyBase enemy = targetObj.GetComponentInParent<EnemyBase>();
-                    int targetID = enemy != null ? enemy.gameObject.GetInstanceID() : targetObj.GetInstanceID();
+                    continue;
+                }
 
-                    if (!hitEnemiesCache.Contains(targetID))
+                if (targetObj.CompareTag("Enemy") || IsInLayer(targetObj.layer, enemyLayer))
+                {
+                    EnemyBase enemy = col.GetComponent<EnemyBase>();
+                    if (enemy == null) enemy = col.GetComponentInParent<EnemyBase>();
+
+                    Vector2 closestPoint = col.ClosestPoint(currentPos);
+                    float dist = Vector2.Distance(currentPos, closestPoint);
+
+                    // 防反向判定：绝不打背后的怪
+                    Vector2 dirToPoint = (closestPoint - currentPos).normalized;
+                    if (dist > 0.1f && Vector2.Dot(currentDir, dirToPoint) < -0.05f)
                     {
-                        hitEnemiesCache.Add(targetID);
+                        continue;
+                    }
 
-                        if (currentPenetration >= 0)
+                    // 【新增保险】：防止 OverlapBox 的边缘蹭到墙壁背后的怪物
+                    if (dist > segmentLen)
+                    {
+                        continue;
+                    }
+
+                    validEnemies.Add(new System.Tuple<float, Collider2D, EnemyBase>(dist, col, enemy));
+                }
+            }
+
+            // 严格按距离排序
+            validEnemies.Sort((a, b) => a.Item1.CompareTo(b.Item1));
+            bool penetrationExhausted = false;
+
+            foreach (var enemyData in validEnemies)
+            {
+                float dist = enemyData.Item1;
+                Collider2D enemyCol = enemyData.Item2;
+                EnemyBase enemy = enemyData.Item3;
+
+                int targetID = enemy != null ? enemy.gameObject.GetInstanceID() : enemyCol.gameObject.GetInstanceID();
+
+                if (!hitEnemiesCache.Contains(targetID))
+                {
+                    hitEnemiesCache.Add(targetID);
+
+                    if (currentPenetration >= 0)
+                    {
+                        currentPenetration--;
+
+                        if (shouldDealDamage)
                         {
-                            // 【核心修改】：1. 先扣除穿透次数，评估是否截断
-                            currentPenetration--;
-                            bool isTruncatedHere = (currentPenetration < 0);
+                            if (enemy != null) ApplyDamage(enemy, enemyCol.transform);
+                            HandleTriggerSpawn(currentDir, enemyCol.ClosestPoint(currentPos));
+                        }
 
-                            // 【核心修改】：2. 如果需要截断，立刻锁定截断终点
-                            if (isTruncatedHere)
-                            {
-                                // 【修复2】：即使穿透耗尽停在敌人身上，光束末端也必须严格保持笔直！
-                                segmentEndPos = currentPos + currentDir * hit.distance;
-                                remainingLen = 0;
-                            }
-
-                            // 【核心修改】：3. 最后再去结算伤害（哪怕怪物在这一行代码被销毁，截断逻辑也已经完美生效了）
-                            if (shouldDealDamage)
-                            {
-                                if (enemy != null) ApplyDamage(enemy, hit.collider.transform);
-                                HandleTriggerSpawn(currentDir, hit.point);
-                            }
-
-                            // 4. 彻底退出射线扫描循环
-                            if (isTruncatedHere)
-                            {
-                                break;
-                            }
+                        if (currentPenetration < 0)
+                        {
+                            segmentEndPos = currentPos + currentDir * dist;
+                            segmentLen = dist;
+                            penetrationExhausted = true;
+                            hitWall = false;
+                            break;
                         }
                     }
                 }
@@ -302,10 +356,15 @@ public class Projectile : MonoBehaviour
 
             points.Add(segmentEndPos);
 
-            if (hitWall && i < bounces && remainingLen > 0)
+            // =========================================================
+            // 第三步：计算反弹逻辑
+            // =========================================================
+            if (hitWall && !penetrationExhausted && i < bounces && segmentLen > 0)
             {
+                if (shouldDealDamage) HandleTriggerSpawn(currentDir, wallHitPoint);
                 currentDir = Vector2.Reflect(currentDir, hitNormal).normalized;
                 currentPos = segmentEndPos + currentDir * 0.05f;
+                remainingLen -= segmentLen;
             }
             else
             {
@@ -349,7 +408,7 @@ public class Projectile : MonoBehaviour
         float finalDamage = (currentStats.damage + character.atk)
             * (isCrit ? (currentStats.critMultiplier + character.critDamage) / 100 : 1f)
             * character.allDamageMultiplier;
-
+        character.Heal(finalDamage * character.lifeStealPercent);
         ApplyKnockback(hitTransform);
         enemy.TakeDamage(finalDamage, isCrit);
     }
@@ -509,10 +568,13 @@ public class Projectile : MonoBehaviour
     void ApplyKnockback(Transform target)
     {
         if (currentStats.knockback <= 0) return;
-        if (target.TryGetComponent<Rigidbody2D>(out Rigidbody2D targetRb))
+
+        // 直接获取 EnemyBase 并传递方向和力度
+        EnemyBase enemy = target.GetComponentInParent<EnemyBase>();
+        if (enemy != null)
         {
-            Vector2 dir = (target.position - transform.position).normalized;
-            targetRb.AddForce(dir * currentStats.knockback, ForceMode2D.Impulse);
+            Vector2 dir = currentVelocityDir.normalized;
+            enemy.ApplyKnockback(dir, currentStats.knockback);
         }
     }
 }
