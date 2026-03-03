@@ -18,7 +18,7 @@ public class Character : MonoBehaviour
     public int critDamage = 100; // 暴击伤害
 
     // 使用 protected 保护数据，SerializeField 方便在编辑器调试看数值
-    [SerializeField] protected float _currentHealth;
+    protected float _currentHealth;
 
     // 公开的只读属性，外部只能看，不能直接改
     public float CurrentHealth => _currentHealth;

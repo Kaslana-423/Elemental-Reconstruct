@@ -349,7 +349,7 @@ public class Projectile : MonoBehaviour
         float finalDamage = (currentStats.damage + character.atk)
             * (isCrit ? (currentStats.critMultiplier + character.critDamage) / 100 : 1f)
             * character.allDamageMultiplier;
-
+        character.Heal(finalDamage * character.lifeStealPercent);
         ApplyKnockback(hitTransform);
         enemy.TakeDamage(finalDamage, isCrit);
     }

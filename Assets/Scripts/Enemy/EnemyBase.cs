@@ -74,7 +74,7 @@ public abstract class EnemyBase : MonoBehaviour
     public virtual void TakeDamage(float amount, bool isCrit)
     {
         if (!gameObject.activeInHierarchy) return;
-
+        
         currentHP -= amount * easyDamage;
 
         // --- 弹出伤害数字 ---
