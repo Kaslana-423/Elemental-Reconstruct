@@ -31,11 +31,14 @@ public class Projectile : MonoBehaviour
 
     // 激光专用
     private float lastDamageTime;
-    private HashSet<int> hitEnemiesCache = new HashSet<int>();
 
     private Vector2 currentVelocityDir;
     private Collider2D[] enemySearchCache = new Collider2D[50];
     private RaycastHit2D[] wallHitCache = new RaycastHit2D[5];
+    // 激光专用：独立计算每个敌人的受击冷却，绝不丢失扫射伤害
+    private Dictionary<int, float> enemyDamageCooldowns = new Dictionary<int, float>();
+    private float wallTriggerCooldown;
+    private HashSet<int> hitEnemiesCache = new HashSet<int>();
 
     void Awake()
     {
@@ -69,20 +72,47 @@ public class Projectile : MonoBehaviour
 
         if (character == null && PlayerInventory.PlayerInstance != null)
             character = PlayerInventory.PlayerInstance.GetComponent<Character>();
-
         // ==========================
-        //         激光 逻辑
+        //         爆炸/领域 逻辑
         // ==========================
-        if (currentStats.isLaser)
+        if (currentStats.isExplosion)
         {
-            // 【新增保险1】：直接没收追踪和环绕属性，不管面板上有没有挂，激光一律按 False 处理！
             currentStats.isHoming = false;
             currentStats.isOrbiting = false;
 
             rb.bodyType = RigidbodyType2D.Kinematic;
             rb.velocity = Vector2.zero;
             col.enabled = false;
+            if (lineRenderer) lineRenderer.enabled = false;
 
+            // 【新增】：根据 radius 自动缩放判定领域
+            float expRadius = currentStats.radius > 0 ? currentStats.radius : 2f;
+            SpriteRenderer sr = GetComponentInChildren<SpriteRenderer>();
+            if (sr != null)
+            {
+                // Unity 原生 Sprite 默认为 1x1，将其 scale 设为直径即可完美贴合判定范围
+                transform.localScale = new Vector3(expRadius * 2f, expRadius * 2f, 1f);
+            }
+
+            StartCoroutine(ExplosionRoutine());
+        }
+        // ==========================
+        //         激光 逻辑
+        // ==========================
+        else if (currentStats.isLaser)
+        {
+            // 仅没收追踪，放行环绕
+            currentStats.isHoming = false;
+
+            // 【核心兼容】：如果拥有环绕属性且为瞬发，强制赋予 0.2 秒的扫射伤害间隔
+            if (currentStats.isOrbiting && currentStats.damageRate <= 0)
+            {
+                currentStats.damageRate = 0.2f;
+            }
+
+            rb.bodyType = RigidbodyType2D.Kinematic;
+            rb.velocity = Vector2.zero;
+            col.enabled = false;
             if (lineRenderer)
             {
                 lineRenderer.enabled = true;
@@ -138,6 +168,10 @@ public class Projectile : MonoBehaviour
     {
         hasInitialized = false;
         targetEnemy = null;
+
+        enemyDamageCooldowns.Clear(); // 必须清空字典防止干扰下一发子弹
+        wallTriggerCooldown = -999f;
+
         StopAllCoroutines();
         if (rb)
         {
@@ -208,40 +242,44 @@ public class Projectile : MonoBehaviour
 
         hitEnemiesCache.Clear();
 
-        bool shouldDealDamage = false;
-        if (isContinuous)
-        {
-            if (Time.time >= lastDamageTime + currentStats.damageRate)
-            {
-                shouldDealDamage = true;
-                lastDamageTime = Time.time;
-            }
-        }
-        else
+        // 墙壁触发与瞬发标记
+        bool dealInstantDamageThisFrame = false;
+        if (!isContinuous)
         {
             if (!instantDamageFlag)
             {
-                shouldDealDamage = true;
+                dealInstantDamageThisFrame = true;
                 instantDamageFlag = true;
             }
         }
 
-        // 计算矩形的厚度（视觉宽度）
-        float boxHeight = currentStats.laserWidth > 0 ? currentStats.laserWidth : (currentStats.radius > 0 ? currentStats.radius * 2f : 0.5f);
+        bool canTriggerWall = false;
+        if (isContinuous)
+        {
+            if (Time.time >= wallTriggerCooldown + currentStats.damageRate)
+            {
+                canTriggerWall = true;
+                wallTriggerCooldown = Time.time;
+            }
+        }
+        else
+        {
+            canTriggerWall = dealInstantDamageThisFrame;
+        }
+
+        // 彻底解绑 radius，防止环绕法术的轨道半径把激光判定框撑得过大
+        float boxHeight = currentStats.laserWidth > 0 ? currentStats.laserWidth : 0.5f;
 
         for (int i = 0; i <= bounces; i++)
         {
             if (remainingLen <= 0) break;
 
-            // =========================================================
-            // 第一步：用无厚度射线找墙壁（支持纯 Tag 判定！）
-            // =========================================================
+            // --- 第一步：无厚度射线找墙壁 ---
             float segmentLen = remainingLen;
             Vector2 hitNormal = Vector2.zero;
             bool hitWall = false;
             Vector2 wallHitPoint = Vector2.zero;
 
-            // 【关键赔罪修复】：取消 wallLayer 限制，扫描所有物体，在代码里纯手工查 Tag！
             RaycastHit2D[] thinHits = Physics2D.RaycastAll(currentPos, currentDir, remainingLen);
             System.Array.Sort(thinHits, (a, b) => a.distance.CompareTo(b.distance));
 
@@ -249,7 +287,6 @@ public class Projectile : MonoBehaviour
             {
                 GameObject targetObj = hit.collider.gameObject;
 
-                // 忽略自身和子弹
                 if (targetObj.transform.root == this.transform.root ||
                     (playerTransform != null && targetObj.transform.root == playerTransform.root) ||
                     targetObj.GetComponentInParent<Projectile>() != null)
@@ -257,22 +294,19 @@ public class Projectile : MonoBehaviour
                     continue;
                 }
 
-                // 只要 Tag 是 Wall，或者 Layer 是 Wall，统统算作墙壁！
                 if (targetObj.CompareTag("Wall") || IsInLayer(targetObj.layer, wallLayer))
                 {
                     segmentLen = hit.distance;
                     hitNormal = hit.normal;
                     hitWall = true;
                     wallHitPoint = hit.point;
-                    break; // 找到了最近的正前方墙壁，立刻锁定长度
+                    break;
                 }
             }
 
             Vector2 segmentEndPos = currentPos + currentDir * segmentLen;
 
-            // =========================================================
-            // 第二步：在确定的长度内，用“严丝合缝的矩形(Box)”抓取该段路径上的所有敌人！
-            // =========================================================
+            // --- 第二步：严丝合缝的矩形扫敌人 ---
             Vector2 boxCenter = currentPos + currentDir * (segmentLen / 2f);
             float angle = Mathf.Atan2(currentDir.y, currentDir.x) * Mathf.Rad2Deg;
             Vector2 boxSize = new Vector2(segmentLen, boxHeight);
@@ -299,24 +333,14 @@ public class Projectile : MonoBehaviour
                     Vector2 closestPoint = col.ClosestPoint(currentPos);
                     float dist = Vector2.Distance(currentPos, closestPoint);
 
-                    // 防反向判定：绝不打背后的怪
                     Vector2 dirToPoint = (closestPoint - currentPos).normalized;
-                    if (dist > 0.1f && Vector2.Dot(currentDir, dirToPoint) < -0.05f)
-                    {
-                        continue;
-                    }
-
-                    // 【新增保险】：防止 OverlapBox 的边缘蹭到墙壁背后的怪物
-                    if (dist > segmentLen)
-                    {
-                        continue;
-                    }
+                    if (dist > 0.1f && Vector2.Dot(currentDir, dirToPoint) < -0.05f) continue;
+                    if (dist > segmentLen) continue;
 
                     validEnemies.Add(new System.Tuple<float, Collider2D, EnemyBase>(dist, col, enemy));
                 }
             }
 
-            // 严格按距离排序
             validEnemies.Sort((a, b) => a.Item1.CompareTo(b.Item1));
             bool penetrationExhausted = false;
 
@@ -336,9 +360,26 @@ public class Projectile : MonoBehaviour
                     {
                         currentPenetration--;
 
-                        if (shouldDealDamage)
+                        // --- 独立计算每个敌人的伤害冷却 ---
+                        bool canDealDamageToThisEnemy = false;
+                        if (isContinuous)
                         {
-                            if (enemy != null) ApplyDamage(enemy, enemyCol.transform);
+                            float lastHitTime = -999f;
+                            enemyDamageCooldowns.TryGetValue(targetID, out lastHitTime);
+                            if (Time.time >= lastHitTime + currentStats.damageRate)
+                            {
+                                canDealDamageToThisEnemy = true;
+                                enemyDamageCooldowns[targetID] = Time.time;
+                            }
+                        }
+                        else
+                        {
+                            canDealDamageToThisEnemy = dealInstantDamageThisFrame;
+                        }
+
+                        if (canDealDamageToThisEnemy)
+                        {
+                            if (enemy != null) ApplyDamage(enemy, enemyCol.transform, currentDir);
                             HandleTriggerSpawn(currentDir, enemyCol.ClosestPoint(currentPos));
                         }
 
@@ -356,12 +397,10 @@ public class Projectile : MonoBehaviour
 
             points.Add(segmentEndPos);
 
-            // =========================================================
-            // 第三步：计算反弹逻辑
-            // =========================================================
+            // --- 第三步：计算反弹逻辑 ---
             if (hitWall && !penetrationExhausted && i < bounces && segmentLen > 0)
             {
-                if (shouldDealDamage) HandleTriggerSpawn(currentDir, wallHitPoint);
+                if (canTriggerWall) HandleTriggerSpawn(currentDir, wallHitPoint);
                 currentDir = Vector2.Reflect(currentDir, hitNormal).normalized;
                 currentPos = segmentEndPos + currentDir * 0.05f;
                 remainingLen -= segmentLen;
@@ -380,14 +419,15 @@ public class Projectile : MonoBehaviour
     {
         if (!hasInitialized) return;
 
-        if (currentStats.isLaser) return;
-
         if (currentStats.isOrbiting)
         {
             OrbitMovement();
+            if (currentStats.isLaser || currentStats.isExplosion) return; // 【修改】拦截爆炸
         }
         else
         {
+            if (currentStats.isLaser || currentStats.isExplosion) return; // 【修改】拦截爆炸
+            // --- 普通子弹直线与追踪逻辑 ---
             if (rb.velocity.sqrMagnitude > 0.01f)
             {
                 currentVelocityDir = rb.velocity.normalized;
@@ -402,14 +442,16 @@ public class Projectile : MonoBehaviour
         }
     }
 
-    void ApplyDamage(EnemyBase enemy, Transform hitTransform)
+    void ApplyDamage(EnemyBase enemy, Transform hitTransform, Vector2 hitDirection)
     {
         bool isCrit = Random.value * 100 < currentStats.critRate + character.critRate;
         float finalDamage = (currentStats.damage + character.atk)
             * (isCrit ? (currentStats.critMultiplier + character.critDamage) / 100 : 1f)
             * character.allDamageMultiplier;
         character.Heal(finalDamage * character.lifeStealPercent);
-        ApplyKnockback(hitTransform);
+
+        // 传递方向
+        ApplyKnockback(hitTransform, hitDirection);
         enemy.TakeDamage(finalDamage, isCrit);
     }
 
@@ -435,7 +477,8 @@ public class Projectile : MonoBehaviour
         else if (isEnemy)
         {
             EnemyBase enemy = other.GetComponent<EnemyBase>();
-            if (enemy != null) ApplyDamage(enemy, other.transform);
+            // 传入物理碰撞的入射方向 incomingDir
+            if (enemy != null) ApplyDamage(enemy, other.transform, incomingDir);
 
             currentStats.penetration--;
             HandleTriggerSpawn(incomingDir, transform.position);
@@ -523,8 +566,15 @@ public class Projectile : MonoBehaviour
         float rad = finalAngle * Mathf.Deg2Rad;
         float r = currentStats.radius > 0 ? currentStats.radius : 2f;
         Vector3 offset = new Vector3(Mathf.Cos(rad), Mathf.Sin(rad), 0) * r;
+
         rb.MovePosition(playerTransform.position + offset);
+
+        // 【新增】：强制同步视觉坐标，消除激光扫描时的拖影脱节
+        transform.position = playerTransform.position + offset;
+
         transform.rotation = Quaternion.Euler(0, 0, finalAngle + 90f);
+
+        // 实时刷新绝对方向供激光射线读取
         currentVelocityDir = transform.right;
     }
 
@@ -547,34 +597,144 @@ public class Projectile : MonoBehaviour
     void FindNearestEnemy()
     {
         float searchRadius = 20f;
-        int count = Physics2D.OverlapCircleNonAlloc(transform.position, searchRadius, enemySearchCache, enemyLayer);
+
+        // 【核心修复】：取消 physics 层的 enemyLayer 限制，全盘扫描后纯手工判定
+        int count = Physics2D.OverlapCircleNonAlloc(transform.position, searchRadius, enemySearchCache);
         float minDistance = Mathf.Infinity;
         Transform nearest = null;
+
         for (int i = 0; i < count; i++)
         {
-            if (IsInLayer(enemySearchCache[i].gameObject.layer, enemyLayer) || enemySearchCache[i].CompareTag("Enemy"))
+            GameObject targetObj = enemySearchCache[i].gameObject;
+
+            // 1. 过滤掉未激活的物体（防止锁定到上一秒刚被爆炸炸死回收的尸体）
+            if (!targetObj.activeInHierarchy) continue;
+
+            // 2. 绝对无视自身、玩家、其他子弹
+            if (targetObj == this.gameObject ||
+                (playerTransform != null && (targetObj == playerTransform.gameObject || targetObj.transform.IsChildOf(playerTransform))) ||
+                targetObj.GetComponentInParent<Projectile>() != null)
             {
-                float dist = (enemySearchCache[i].transform.position - transform.position).sqrMagnitude;
+                continue;
+            }
+
+            // 3. 纯手工判定 Tag 或 Layer
+            if (IsInLayer(targetObj.layer, enemyLayer) || targetObj.CompareTag("Enemy"))
+            {
+                float dist = (targetObj.transform.position - transform.position).sqrMagnitude;
                 if (dist < minDistance)
                 {
                     minDistance = dist;
-                    nearest = enemySearchCache[i].transform;
+                    nearest = targetObj.transform;
                 }
             }
         }
         targetEnemy = nearest;
     }
 
-    void ApplyKnockback(Transform target)
+    void ApplyKnockback(Transform target, Vector2 hitDirection)
     {
         if (currentStats.knockback <= 0) return;
 
-        // 直接获取 EnemyBase 并传递方向和力度
         EnemyBase enemy = target.GetComponentInParent<EnemyBase>();
         if (enemy != null)
         {
-            Vector2 dir = currentVelocityDir.normalized;
-            enemy.ApplyKnockback(dir, currentStats.knockback);
+            // 【新增】爆炸强制从中心向外击退
+            if (currentStats.isExplosion)
+            {
+                hitDirection = ((Vector2)target.position - (Vector2)transform.position).normalized;
+                if (hitDirection == Vector2.zero) hitDirection = Random.insideUnitCircle.normalized;
+            }
+
+            enemy.ApplyKnockback(hitDirection.normalized, currentStats.knockback);
+        }
+    }
+    // --- 爆炸逻辑协程 ---
+    IEnumerator ExplosionRoutine()
+    {
+        float timer = 0f;
+        float duration = currentStats.lifetime > 0 ? currentStats.lifetime : 0.5f;
+        bool isContinuous = currentStats.damageRate > 0;
+
+        if (!isContinuous)
+        {
+            TriggerExplosionDamage();
+            while (timer < duration)
+            {
+                timer += Time.deltaTime;
+                yield return null;
+            }
+        }
+        else
+        {
+            while (timer < duration)
+            {
+                if (Time.time >= lastDamageTime + currentStats.damageRate)
+                {
+                    TriggerExplosionDamage();
+                    lastDamageTime = Time.time;
+                }
+                timer += Time.deltaTime;
+                yield return null;
+            }
+        }
+
+        ReturnToPool();
+    }
+
+    // --- 触发爆炸伤害 ---
+    void TriggerExplosionDamage()
+    {
+        float expRadius = currentStats.radius > 0 ? currentStats.radius : 2f;
+        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, expRadius);
+        hitEnemiesCache.Clear();
+
+        // 【修改1】：在结算伤害前，先全局锁定一次最近的敌人，作为所有衍生法术的集火目标
+        FindNearestEnemy();
+
+        foreach (var hit in hits)
+        {
+            GameObject targetObj = hit.gameObject;
+
+            if (targetObj == this.gameObject ||
+                (playerTransform != null && (targetObj == playerTransform.gameObject || targetObj.transform.IsChildOf(playerTransform))) ||
+                targetObj.GetComponentInParent<Projectile>() != null)
+            {
+                continue;
+            }
+
+            if (targetObj.CompareTag("Enemy") || IsInLayer(targetObj.layer, enemyLayer))
+            {
+                EnemyBase enemy = targetObj.GetComponentInParent<EnemyBase>();
+                int targetID = enemy != null ? enemy.gameObject.GetInstanceID() : targetObj.GetInstanceID();
+
+                if (!hitEnemiesCache.Contains(targetID))
+                {
+                    hitEnemiesCache.Add(targetID);
+                    if (enemy != null)
+                    {
+                        Vector2 dirToEnemy = ((Vector2)hit.transform.position - (Vector2)transform.position).normalized;
+                        if (dirToEnemy == Vector2.zero) dirToEnemy = Random.insideUnitCircle.normalized;
+
+                        ApplyDamage(enemy, hit.transform, dirToEnemy);
+
+                        // 【修改2】：把触发逻辑移入循环内部！每炸到一个怪就生成一次
+                        Vector2 spawnDir = Vector2.up;
+
+                        if (targetEnemy != null)
+                        {
+                            // 计算从当前受击怪物，射向“全场最近敌人”的方向
+                            spawnDir = ((Vector2)targetEnemy.position - (Vector2)hit.transform.position).normalized;
+
+                            // 如果受击的怪恰好就是被锁定的“最近敌人”，为了防止方向归零报错，顺着爆炸冲击波向外射
+                            if (spawnDir == Vector2.zero) spawnDir = dirToEnemy;
+                        }
+
+                        // 【修改3】：衍生法术的起点改为 hit.transform.position（受击怪物身上）
+                        HandleTriggerSpawn(spawnDir, hit.transform.position);
+                    }
+                }
+            }
         }
     }
 }

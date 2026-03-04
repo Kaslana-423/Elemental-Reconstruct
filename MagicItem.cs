@@ -27,6 +27,7 @@ public struct SpellStats
     [Header("特殊行为")]
     public bool isOrbiting;
     public bool isLaser;          // 【新增】是否启用激光逻辑
+    public bool isExplosion;      // 【新增】是否为爆炸/AOE法术
     public float maxDistance;     // 【新增】激光最大射程 (代替 speed 控制长度)
     public float laserWidth;      // 【新增】控制激光的视觉宽度
 
@@ -77,6 +78,7 @@ public struct SpellStats
         a.isLaser = a.isLaser || b.isLaser;
         a.maxDistance += b.maxDistance;
         a.laserWidth += b.laserWidth; // 【新增】视觉宽度也能被修饰符叠加
+        a.isExplosion = a.isExplosion || b.isExplosion; // 【新增】爆炸属性叠加
 
         return a;
     }
