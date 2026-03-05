@@ -1,269 +1,337 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 
-// --- 数据定义部分 ---
-
+// 定义单个刷怪规则
 [System.Serializable]
 public class SpawnRule
 {
-    [Header("怪物预制体")]
-    public GameObject enemyPrefab;
+    public GameObject enemyPrefab; // 对应的怪物预制体
+    public float startTimestamp;   // 开始时间
+    public float endTimestamp;     // 结束时间
+    public float spawnInterval;    // 刷新间隔
+    public int minCount;           // 最小数量
+    public int maxCount;           // 最大数量
+    public bool isGrouped;         // 是否成群生成 ('T'/'F')
 
-    [Header("刷怪时间段 (相对于当前波次开始)")]
-    public float startTimestamp = 0f; // 从波次开始第几秒开始刷
-    public float endTimestamp = 60f;   // 到第几秒停止
-
-    [Header("刷怪频率")]
-    public float spawnInterval = 2f; // 每隔几秒刷一次
-
-    [Header("数量与成群设置")]
-    public int minCountPerSpawn = 1; // 每次刷几个（下限）
-    public int maxCountPerSpawn = 1; // 每次刷几个（上限）
-    public bool isGrouped = false;   // 是否成群生成（true=聚在一起，false=散开）
-    [Header("地图边界设置")]
-
-    // 内部计时器，不需要在面板配置
-    [HideInInspector] public float nextSpawnTime = 0f;
+    // 运行时用的计时器，不需要在面板显示
+    [HideInInspector] public float nextSpawnTime;
 }
 
+// 定义整个波次的数据
 [System.Serializable]
 public class WaveData
 {
-    [Header("本波次持续时间 (秒)")]
-    public float waveDuration = 60f;
-
-    [Header("本波次包含的所有刷怪规则")]
-    public List<SpawnRule> spawnRules;
+    public int waveIndex;          // 波次序号
+    public float waveDuration;     // 波次总时长
+    public List<SpawnRule> rules = new List<SpawnRule>();
 }
-
-// --- 逻辑管理器部分 ---
 
 public class EnemyWaveManager : MonoBehaviour
 {
     public static EnemyWaveManager Instance;
 
-    void Awake()
-    {
-        if (Instance == null) Instance = this;
-    }
-
-    [Header("波次配置列表 (按顺序填入第1波到第20波)")]
-    public List<WaveData> allWaves;
+    [Header("配置")]
+    [Tooltip("将导出的 CSV 文件拖到这里")]
+    public TextAsset waveCsvFile;
+    
+    [Tooltip("怪物库：请将所有用到的怪物预制体拖进来，名字必须和Excel里的 'Prefab' 列一致")]
+    public List<GameObject> enemyLibrary;
 
     [Header("生成设置")]
-    public Transform playerTransform; // 玩家位置
-    public float spawnRadius;   // 在玩家多少米外生成
-    public float groupSpacing = 1f;   // 成群生成时，怪之间的间距
-    public Vector2 mapMin; // 地图左下角坐标
-    public Vector2 mapMax;   // 地图右上角坐标
-    [Header("调试选项")]
+    public Transform playerTransform; 
+    public float spawnRadius = 10f; // 刷怪距离玩家的半径
+    public Vector2 mapMin = new Vector2(-50, -50);
+    public Vector2 mapMax = new Vector2(50, 50);
 
-    // 运行时状态
+    [Header("运行时状态 (只读)")]
+    public List<WaveData> allWaves = new List<WaveData>();
     public int currentWaveIndex = 0;
-    public float currentWaveTime = 0f;
-    private bool isWaveActive = false;
+    public float currentWaveTime = 0f; // Renamed from waveTimer
+    public bool isWaveActive = false;
 
-    void Start()
+    private void Awake()
     {
-        // 自动找玩家
-        if (playerTransform == null && GameObject.FindWithTag("Player"))
-        {
-            playerTransform = GameObject.FindWithTag("Player").transform;
-        }
-
-        // 以前是自动开始，现在改为手动调用 StartCombat() 触发
-        // StartWave(0); 
+        if (Instance == null) Instance = this;
+        LoadWavesFromCSV();
     }
 
-    // --- 外部调用接口 ---
-    // 在UI按钮事件里调用这个方法即可开始游戏
+    private void Start()
+    {
+        // 自动寻找玩家
+        if (playerTransform == null)
+            playerTransform = GameObject.FindWithTag("Player")?.transform;
+
+        // 测试：游戏开始直接启动第1波
+        // StartWave(0); // 注释掉这行，改为由玩家在商店界面点击“开始战斗”触发
+    }
+
+    // Restore StartCombat for external calls
     public void StartCombat()
     {
-        if (!isWaveActive)
+        if (!isWaveActive && currentWaveIndex < allWaves.Count)
         {
             StartWave(currentWaveIndex);
         }
     }
 
-    void Update()
+    private void Update()
     {
         if (!isWaveActive || currentWaveIndex >= allWaves.Count) return;
 
-        // 1. 更新波次时间
-        currentWaveTime += Time.deltaTime;
         WaveData currentWave = allWaves[currentWaveIndex];
+        currentWaveTime += Time.deltaTime;
 
-        // 2. 检查本波次是否结束
-        if (currentWaveTime > currentWave.waveDuration)
+        // 1. 检查当前波次是否结束
+        if (currentWaveTime >= currentWave.waveDuration)
         {
-            // 防止重复调用
-            StartCoroutine(NextWaveRoutine());
-            isWaveActive = false;
+            EndWave();
             return;
         }
 
-        // 3. 遍历当前波次的所有规则，看谁该刷怪了
-        foreach (var rule in currentWave.spawnRules)
+        // 2. 遍历当前波次的所有规则，进行刷怪
+        foreach (var rule in currentWave.rules)
         {
-            // 检查时间段：当前时间是否在 [开始, 结束] 范围内
+            // 检查时间段：当前时间是否在 [Start, End] 之间
             if (currentWaveTime >= rule.startTimestamp && currentWaveTime <= rule.endTimestamp)
             {
-                // 检查冷却时间
+                // 检查间隔：是否到了下一次生成时间
                 if (currentWaveTime >= rule.nextSpawnTime)
                 {
                     SpawnEnemies(rule);
-                    // 更新下一次刷怪时间 = 当前时间 + 间隔
                     rule.nextSpawnTime = currentWaveTime + rule.spawnInterval;
                 }
             }
         }
     }
 
+    // --- CSV 解析逻辑 (核心部分) ---
+    void LoadWavesFromCSV()
+    {
+        if (waveCsvFile == null)
+        {
+            Debug.LogError("未设置 CSV 文件！");
+            return;
+        }
+
+        allWaves.Clear();
+        // 建立名字到预制体的映射字典，方便快速查找
+        Dictionary<string, GameObject> prefabMap = new Dictionary<string, GameObject>();
+        foreach (var p in enemyLibrary)
+        {
+            if (p != null && !prefabMap.ContainsKey(p.name)) prefabMap.Add(p.name, p);
+        }
+
+        // 按行分割
+        string[] lines = waveCsvFile.text.Split(new char[] { '\n', '\r' }, System.StringSplitOptions.RemoveEmptyEntries);
+
+        // 临时字典用于合并同一波的数据
+        Dictionary<int, WaveData> waveDict = new Dictionary<int, WaveData>();
+
+        // 从第1行开始（跳过第0行标题）
+        for (int i = 1; i < lines.Length; i++)
+        {
+            string line = lines[i];
+            string[] row = line.Split(',');
+
+            // 防止空行或数据不全
+            if (row.Length < 9) continue; 
+
+            try 
+            {
+                // 解析各列数据 (对应Excel列 A-I)
+                int waveId = int.Parse(row[0]);          // A: Wave
+                float duration = float.Parse(row[1]);    // B: Duration
+                string prefabName = row[2].Trim();       // C: Prefab
+                float start = float.Parse(row[3]);       // D: Start
+                float end = float.Parse(row[4]);         // E: End
+                float interval = float.Parse(row[5]);    // F: Interval
+                int min = int.Parse(row[6]);             // G: Min
+                int max = int.Parse(row[7]);             // H: Max
+                string groupedStr = row[8].Trim();       // I: Grouped (T/F)
+                bool isGrouped = groupedStr.Equals("T", System.StringComparison.OrdinalIgnoreCase);
+
+                // 1. 如果是新波次，先创建 WaveData
+                if (!waveDict.ContainsKey(waveId))
+                {
+                    waveDict.Add(waveId, new WaveData { waveIndex = waveId, waveDuration = duration });
+                }
+
+                // 2. 查找预制体
+                if (prefabMap.TryGetValue(prefabName, out GameObject prefab))
+                {
+                    SpawnRule rule = new SpawnRule
+                    {
+                        enemyPrefab = prefab,
+                        startTimestamp = start,
+                        endTimestamp = end,
+                        spawnInterval = interval,
+                        minCount = min,
+                        maxCount = max,
+                        isGrouped = isGrouped,
+                        nextSpawnTime = start // 初始下次生成时间 = 开始时间
+                    };
+                    waveDict[waveId].rules.Add(rule);
+                }
+                else
+                {
+                    Debug.LogWarning($"CSV 第 {i+1} 行警告: 找不到名为 '{prefabName}' 的预制体，请检查 Enemy Library。");
+                }
+            }
+            catch (System.Exception ex)
+            {
+                Debug.LogError($"CSV 第 {i+1} 行解析错误: {ex.Message}");
+            }
+        }
+
+        // 将字典转为 List 并排序 (防止Excel乱序)
+        allWaves = waveDict.Values.OrderBy(w => w.waveIndex).ToList();
+        Debug.Log($"解析完成，共加载 {allWaves.Count} 波数据。");
+    }
+
+    // --- 游戏逻辑 ---
+
     void StartWave(int index)
     {
+        if (index >= allWaves.Count) return;
+
         currentWaveIndex = index;
         currentWaveTime = 0f;
         isWaveActive = true;
 
-        // 重置该波次所有规则的计时器
-        if (index < allWaves.Count)
+        // 重置所有规则的计时器
+        foreach(var rule in allWaves[index].rules)
         {
-            foreach (var rule in allWaves[index].spawnRules)
-            {
-                // 第一只怪生成的时刻 = 规则定义的开始时间
-                rule.nextSpawnTime = rule.startTimestamp;
-            }
-            Debug.Log($"第 {index + 1} 波开始！");
+            rule.nextSpawnTime = rule.startTimestamp;
         }
+
+        Debug.Log($"第 {allWaves[index].waveIndex} 波开始！(持续 {allWaves[index].waveDuration}秒)");
     }
 
-    IEnumerator NextWaveRoutine()
+    void EndWave()
     {
-        // 1. 切换波次时，清理战场并吸附金币 (金币开始飞向玩家)
-        CleanUpBattlefield();
-        var pc = playerTransform.GetComponent<PlayerController>();
-        Debug.Log("Waiting for coins...");
-        // 2. 等待 2 秒，让金币有时间飞过来
         isWaveActive = false;
-        SaveManager.Instance.SaveGame();
-        if (currentWaveIndex + 1 < allWaves.Count)
-        {
-            // --- 暂停游戏逻辑 
-            // 停止移动并打开商店
+        Debug.Log($"第 {allWaves[currentWaveIndex].waveIndex} 波结束。");
 
-            if (pc != null)
-            {
-                pc.StopMoveAndAttack();
-                yield return new WaitForSeconds(2.0f);
-                currentWaveIndex++;
-                pc.OpenShop();
-            }
-            // 尝试回血
+        // 这里可以处理波次间隔逻辑，比如弹出商店
+        StartCoroutine(WaveCompletedRoutine());
+    }
+
+    IEnumerator WaveCompletedRoutine()
+    {
+        // 1. 清理战场 (回收剩余敌人，吸附金币)
+        CleanUpBattlefield();
+        
+        // 2. 玩家回血
+        if (playerTransform != null)
+        {
             var charScript = playerTransform.GetComponent<Character>();
             if (charScript != null) charScript.HealFull();
         }
+
+        // 3. 存档 (如果有)
+        if (SaveManager.Instance != null) SaveManager.Instance.SaveGame();
+
+        yield return new WaitForSeconds(2.0f);
+
+        // 4. 判断是否还有下一波
+        if (currentWaveIndex + 1 < allWaves.Count)
+        {
+            currentWaveIndex++; // 准备下一波的索引
+
+            // 5. 打开商店
+            if (playerTransform != null)
+            {
+                var pc = playerTransform.GetComponent<PlayerController>();
+                if (pc != null)
+                {
+                    pc.StopMoveAndAttack();
+                    pc.OpenShop();
+                }
+            }
+        }
         else
         {
-            Debug.Log("所有波次结束，胜利！");
-            isWaveActive = false;
+            Debug.Log("所有波次已完成！胜利！");
+            // 这里可以调用 GameManager 里的 Victory() 方法
         }
     }
 
-    /// <summary>
-    /// 清理战场：回收所有敌人，吸附所有金币
-    /// </summary>
     void CleanUpBattlefield()
     {
-        // 1. 回收所有活着的敌人
-        // 注意：这里使用 FindObjectsOfType 可能会比较耗时，但在波次切换时卡顿一帧通常可以接受
-        // 如果想要高性能，可以让 ObjectPoolManager 维护一个 activeEnemies 列表
+        // 回收所有敌人
         EnemyBase[] activeEnemies = FindObjectsOfType<EnemyBase>();
         foreach (var enemy in activeEnemies)
         {
             if (enemy.gameObject.activeInHierarchy)
             {
-                // 直接回收，不触发 EnemyBase.Die() 里的掉落逻辑
                 if (ObjectPoolManager.Instance != null)
-                {
                     ObjectPoolManager.Instance.ReturnToPool(enemy.gameObject, enemy.gameObject);
-                }
                 else
-                {
                     enemy.gameObject.SetActive(false);
-                }
             }
         }
 
-        // 2. 让所有掉落的金币飞向玩家
+        // 吸附所有金币
         Coin[] activeCoins = FindObjectsOfType<Coin>();
         foreach (var coin in activeCoins)
         {
             if (coin.gameObject.activeInHierarchy)
-            {
-                // 调用 Coin 脚本里的吸附方法
                 coin.StartMagnet(playerTransform);
-            }
         }
     }
-
-    // --- 核心生成逻辑 ---
+/*
+    IEnumerator WaitAndStartNextWave(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        if (currentWaveIndex + 1 < allWaves.Count)
+        {
+            StartWave(currentWaveIndex + 1);
+        }
+        else
+        {
+            Debug.Log("所有波次已完成！胜利！");
+        }
+    }
+*/
     void SpawnEnemies(SpawnRule rule)
     {
-        if (rule.enemyPrefab == null)
-        {
-            Debug.LogWarning($"[EnemyWaveManager] Wave {currentWaveIndex}: SpawnRule has missing Enemy Prefab!");
-            return;
-        }
+        if (rule.enemyPrefab == null || playerTransform == null) return;
 
-        // 1. 确定生成数量
-        int count = Random.Range(rule.minCountPerSpawn, rule.maxCountPerSpawn + 1);
-
-        // 2. 确定生成中心点 (在玩家周围随机一个角度)
-        Vector2 randomDir = Random.insideUnitCircle.normalized;
-        Vector3 centerPos = playerTransform.position + (Vector3)randomDir * spawnRadius;
+        int count = Random.Range(rule.minCount, rule.maxCount + 1);
+        
+        // 生成中心点 (玩家周围随机方向)
+        Vector2 spawnCenterDir = Random.insideUnitCircle.normalized;
+        Vector3 spawnCenterPos = playerTransform.position + (Vector3)spawnCenterDir * spawnRadius;
 
         for (int i = 0; i < count; i++)
         {
-            Vector3 spawnPos;
+            Vector3 finalPos;
 
             if (rule.isGrouped)
             {
-                // 成群：在中心点附近随机小范围偏移
-                Vector2 offset = Random.insideUnitCircle * groupSpacing;
-                spawnPos = centerPos + (Vector3)offset;
+                // 成群：都在中心点附近小范围随机
+                Vector2 offset = Random.insideUnitCircle * 1.5f; 
+                finalPos = spawnCenterPos + (Vector3)offset;
             }
             else
             {
-                if (i > 0)
+                // 散开：如果是复数个，每一个都重新随机大方向（这里偷懒直接沿用中心点，或者你可以重新算）
+                // 你的表格里 T 的通常是多数量，F 的通常是单数量，所以直接用 finalPos = spawnCenterPos 也没问题
+                if (i == 0) finalPos = spawnCenterPos; 
+                else 
                 {
-                    randomDir = Random.insideUnitCircle.normalized;
-                    spawnPos = playerTransform.position + (Vector3)randomDir * spawnRadius;
-                }
-                else
-                {
-                    spawnPos = centerPos;
+                    // 只有 F 且数量>1 时才会走到这，稍微散开一点
+                     finalPos = spawnCenterPos + (Vector3)(Random.insideUnitCircle * 2f);
                 }
             }
-            spawnPos.x = Mathf.Clamp(spawnPos.x, mapMin.x, mapMax.x);
-            spawnPos.y = Mathf.Clamp(spawnPos.y, mapMin.y, mapMax.y);
 
-            // 3. 生成
-            if (ObjectPoolManager.Instance != null)
-                ObjectPoolManager.Instance.Spawn(rule.enemyPrefab, spawnPos, Quaternion.identity);
+            // 限制在地图范围内
+            finalPos.x = Mathf.Clamp(finalPos.x, mapMin.x, mapMax.x);
+            finalPos.y = Mathf.Clamp(finalPos.y, mapMin.y, mapMax.y);
+
+            Instantiate(rule.enemyPrefab, finalPos, Quaternion.identity);
         }
-    }
-
-    void OnDrawGizmosSelected()
-    {
-        Gizmos.color = Color.yellow;
-        if (playerTransform != null)
-            Gizmos.DrawWireSphere(playerTransform.position, spawnRadius);
-
-        Gizmos.color = Color.red;
-        // 画出地图边界
-        Vector3 center = new Vector3((mapMin.x + mapMax.x) / 2, (mapMin.y + mapMax.y) / 2, 0);
-        Vector3 size = new Vector3(mapMax.x - mapMin.x, mapMax.y - mapMin.y, 0);
-        Gizmos.DrawWireCube(center, size);
     }
 }

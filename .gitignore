@@ -39,3 +39,5 @@
 # Builds
 *.apk
 *.unitypackage
+
+/personal_work/

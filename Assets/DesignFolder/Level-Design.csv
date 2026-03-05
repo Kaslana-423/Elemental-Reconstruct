@@ -1,0 +1,29 @@
+﻿Wave,Duration,Prefab,Start,End,Interval,Min,Max,Grouped
+1,20,Monster_12_Glop Slime,2,20,3,1,1,F
+2,20,Monster_12_Glop Slime,2,20,2.5,1,1,F
+3,30,Monster_12_Glop Slime,2,30,2,3,5,T
+4,30,Monster_12_Glop Slime,2,30,1.5,5,7,T
+5,40,Monster_12_Glop Slime,2,40,1,7,9,T
+6,40,Monster_12_Glop Slime,2,40,1,9,11,T
+6,40,Monster_11_Pure Slime,5,40,3,1,1,F
+7,50,Monster_12_Glop Slime,2,50,1,9,11,T
+7,50,Monster_11_Pure Slime,5,50,2.5,1,1,F
+8,50,Monster_12_Glop Slime,2,50,1,9,11,T
+8,50,Monster_11_Pure Slime,5,50,2,5,7,T
+9,60,Monster_12_Glop Slime,2,60,1,9,11,T
+9,60,Monster_11_Pure Slime,10,60,1.5,1,1,F
+10,60,Monster_12_Glop Slime,2,60,1,9,11,T
+10,60,Monster_11_Pure Slime,3,60,1,7,9,T
+10,60,Monster_9_Evil Slime,5,60,3,1,1,F
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
