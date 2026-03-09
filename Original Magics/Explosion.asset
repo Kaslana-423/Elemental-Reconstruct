@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5135c994abd7e944991799673692a18, type: 3}
+  m_Name: Explosion
+  m_EditorClassIdentifier: 
+  itemID: Explosion
+  itemName: "\u7206\u88C2\u706B\u7403"
+  itemImage: {fileID: -1365397575, guid: 8043b00abd7d93341b3c60f95cbd26e8, type: 3}
+  itemDescription: "\u51FB\u4E2D\u540E\u4EA7\u751F\u5927\u8303\u56F4\u7206\u70B8\uFF0C\u80FD\u6709\u6548\u9707\u5F00\u5468\u56F4\u7684\u654C\u4EBA\u3002"
+  type: 0
+  itemPrefab: {fileID: 3431353585027964804, guid: b469474533ca9ba47ae01882a9987633, type: 3}
+  stats:
+    damage: 50
+    count: 1
+    penetration: 0
+    bounceCount: 0
+    lifetime: 0.3
+    damageRate: 0
+    radius: 3.5
+    spread: 0
+    isOrbiting: 0
+    isLaser: 0
+    isExplosion: 1
+    maxDistance: 0
+    laserWidth: 0
+    speed: 10
+    drag: 0
+    acceleration: 0
+    angularSpeed: 0
+    deviation: 0
+    isHoming: 0
+    rarity: 3
+    critRate: 5
+    critMultiplier: 100
+    knockback: 20
+    delayMod: 1

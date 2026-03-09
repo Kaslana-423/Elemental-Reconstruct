@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5135c994abd7e944991799673692a18, type: 3}
+  m_Name: PulseLaser
+  m_EditorClassIdentifier: 
+  itemID: PulseLaser
+  itemName: "\u7A7F\u900F\u6FC0\u5149"
+  itemImage: {fileID: -1525426565, guid: 8043b00abd7d93341b3c60f95cbd26e8, type: 3}
+  itemDescription: "\u5C04\u51FA\u4E00\u9053\u77AC\u95F4\u8D2F\u7A7F\u76F4\u7EBF\u7684\u6FC0\u5149\uFF0C\u6E05\u7406\u6392\u6210\u4E00\u7EBF\u7684\u602A\u7269\u3002"
+  type: 0
+  itemPrefab: {fileID: 3431353585027964804, guid: 12bf17e31c7cc6442ae3c9a540baf7d4, type: 3}
+  stats:
+    damage: 30
+    count: 1
+    penetration: 999
+    bounceCount: 0
+    lifetime: 0.5
+    damageRate: 0
+    radius: 0.3
+    spread: 0
+    isOrbiting: 0
+    isLaser: 1
+    isExplosion: 0
+    maxDistance: 25
+    laserWidth: 0.8
+    speed: 10
+    drag: 0
+    acceleration: 0
+    angularSpeed: 0
+    deviation: 0
+    isHoming: 0
+    rarity: 2
+    critRate: 5
+    critMultiplier: 50
+    knockback: 2
+    delayMod: 0.1
+    spinSpeed: 0

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5135c994abd7e944991799673692a18, type: 3}
+  m_Name: PhantomScythe
+  m_EditorClassIdentifier: 
+  itemID: PhantomScythe
+  itemName: "\u5E7B\u5F71\u5DE8\u9570"
+  itemImage: {fileID: 426521414, guid: 8043b00abd7d93341b3c60f95cbd26e8, type: 3}
+  itemDescription: "\u6C89\u91CD\u4F46\u5A01\u529B\u5DE8\u5927\u7684\u9570\u5200\uFF0C\u4EE5\u6781\u5FEB\u7684\u901F\u5EA6\u98DE\u51FA\u5E76\u6298\u8FD4\u3002"
+  type: 0
+  itemPrefab: {fileID: 3431353585027964804, guid: 0a952f72a67987443b98f4dc30dfdbeb, type: 3}
+  stats:
+    damage: 35
+    count: 1
+    penetration: 999
+    bounceCount: 0
+    lifetime: 4
+    damageRate: 0.3
+    radius: 2.5
+    spread: 0
+    isOrbiting: 1
+    isLaser: 0
+    isExplosion: 0
+    maxDistance: 0
+    laserWidth: 0
+    speed: 25
+    drag: 0
+    acceleration: -40
+    angularSpeed: 360
+    deviation: 0
+    isHoming: 0
+    rarity: 3
+    critRate: 20
+    critMultiplier: 70
+    knockback: 15
+    delayMod: 0.5
+    spinSpeed: 1200

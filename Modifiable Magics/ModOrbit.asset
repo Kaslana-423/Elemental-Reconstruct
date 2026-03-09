@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5135c994abd7e944991799673692a18, type: 3}
+  m_Name: ModOrbit
+  m_EditorClassIdentifier: 
+  itemID: ModOrbit
+  itemName: "\u73AF\u7ED5\u4FEE\u9970"
+  itemImage: {fileID: 0}
+  itemDescription: "\u8BA9\u6CD5\u672F\u4E0D\u518D\u5411\u8FDC\u5904\u98DE\u884C\uFF0C\u800C\u662F\u50CF\u536B\u661F\u4E00\u6837\u56F4\u7ED5\u5728\u4F60\u8EAB\u8FB9\u3002"
+  type: 1
+  itemPrefab: {fileID: 0}
+  stats:
+    damage: -3
+    count: 0
+    penetration: 0
+    bounceCount: 0
+    lifetime: 3
+    damageRate: 0
+    radius: 0
+    spread: 0
+    isOrbiting: 1
+    isLaser: 0
+    isExplosion: 0
+    maxDistance: 0
+    laserWidth: 0
+    speed: 0
+    drag: 0
+    acceleration: 0
+    angularSpeed: 0
+    deviation: 0
+    isHoming: 0
+    rarity: 1
+    critRate: 0
+    critMultiplier: 0
+    knockback: 0
+    delayMod: 0
+    spinSpeed: 0

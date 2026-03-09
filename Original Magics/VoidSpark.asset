@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5135c994abd7e944991799673692a18, type: 3}
+  m_Name: VoidSpark
+  m_EditorClassIdentifier: 
+  itemID: VoidSpark
+  itemName: "\u52A0\u901F\u98DE\u661F"
+  itemImage: {fileID: -1419162771, guid: 8043b00abd7d93341b3c60f95cbd26e8, type: 3}
+  itemDescription: "\u521A\u51FA\u624B\u65F6\u5F88\u6162\uFF0C\u4F46\u4F1A\u5728\u7A7A\u4E2D\u8FC5\u901F\u52A0\u901F\u5E76\u6B7B\u6B7B\u54AC\u4F4F\u76EE\u6807\u3002"
+  type: 0
+  itemPrefab: {fileID: 3431353585027964804, guid: e27ea70de34cbe54cad154e265261ed3, type: 3}
+  stats:
+    damage: 12
+    count: 1
+    penetration: 0
+    bounceCount: 0
+    lifetime: 5
+    damageRate: 0
+    radius: 1
+    spread: 20
+    isOrbiting: 0
+    isLaser: 0
+    isExplosion: 0
+    maxDistance: 0
+    laserWidth: 0
+    speed: 5
+    drag: 0
+    acceleration: 20
+    angularSpeed: 450
+    deviation: 30
+    isHoming: 1
+    rarity: 2
+    critRate: 5
+    critMultiplier: 50
+    knockback: 2
+    delayMod: 0
+    spinSpeed: 0
